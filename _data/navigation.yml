@@ -7,14 +7,18 @@ links:
         url: /About-Us/Principals-Message/
       - title: Vision, Mission & Values
         url: /About-Us/mission-vision-values/
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+      - title: School Staff
+        url: /About-Us/school-staff/
+      - title: History
+        url: /About-Us/history/
+      - title: Announcements
+        url: /About-Us/announcements/
+      - title: School Calender
+        url: /About-Us/school-calender/
+      - title: Our Golden Jubilee
+        url: /About-Us/our-golden-jubilee/
+      - title: Contact Us
+        url: /About-Us/contact-us/
   - title: Our Achievements
     url: /Our-Achievements/
     sublinks:
