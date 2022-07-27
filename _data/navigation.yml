@@ -1,6 +1,22 @@
 logo: /images/sch logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /About-Us/Principal-Message/
+    sublinks:
+      - title: Principal's Message
+        url: /About-Us/Principal-Message/
+      - title: Vision, Mission & Values
+        url: /About-Us/mission-vision-values/
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+  - title: Our Achievements
+    url: /Our-Achievements/
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
