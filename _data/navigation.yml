@@ -20,7 +20,38 @@ links:
       - title: Contact Us
         url: /About-Us/contact-us/
   - title: Our Achievements
-    url: /Our-Achievements/
+    url: /Our-Achievements/changkat-moments/
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Changkat Moments
+        url: /Our-Achievements/changkat-moments/
+      - title: CCA Achievements
+        url: /Our-Achievements/cca-achievements/
+      - title: Academic Achievements
+        url: /Our-Achievements/academic-achievements/
+      - title: Staff Achievements
+        url: /Our-Achievements/staff-achievements/
+      - title: Speech & Prize Giving...
+        url: /Our-Achievements/speech-and-prize-giving-presentations/
+  - title: Experience @ Changkat
+    url: /Experience-at-Changkat/NDLP/
+    sublinks:
+      - title: National Digital Literacy Prog
+        url: /Experience-at-Changkat/NDLP/
+      - title: S.O.A.R
+        url: /Experience-at-Changkat/SOAR
+      - title: Learning for Life (LLP)
+        url: /Experience-at-Changkat/LLP/
+      - title: Academic Departments
+        url: /Experience-at-Changkat/academic-departments/
+      - title: Co-Curricular Activities (CCA)
+        url: /Experience-at-Changkat/CCA/
+      - title: Character and Citizenship Edu
+        url: /Experience-at-Changkat/CCE/
+      - title: Project Work
+        url: /Experience-at-Changkat/project-work/
+      - title: Scholarship Opportunities
+        url: /Experience-at-Changkat/scholarship-opportunities/
+      - title: Direct School Admission (DSA)
+        url: /Experience-at-Changkat/DSA/
+      - title: E-Open House 2021
+        url: /Experience-at-Changkat/e-openhouse/
