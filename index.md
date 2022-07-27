@@ -4,7 +4,7 @@ title: Changkat Changi Secondary School
 description: Brief site description here
 image: /images/sch logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Changkat Changi Secondary School
