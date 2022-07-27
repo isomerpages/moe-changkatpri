@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Management Committee/School Management Committee.md
-      - School Management Committee/.keep
+      - School Staff/School Management Committee.md
+      - School Staff/.keep
       - Principal's Message.md
