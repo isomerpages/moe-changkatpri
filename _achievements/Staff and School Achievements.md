@@ -19,7 +19,7 @@ description: ""
 
 | NAME OF STAFF/DESIGNATION<br> | AWARD<br> | REMARKS<br> |
 |:---:|:---:|:---:|
-| <br>Miss Carina Chua Li Jun<br>Miss Faradillah Bte Jumahat<br>Miss Farah Izzah Imran<br>Mr Ng Boon Teng David<br>Mrs Sharifah Aminah Bte Syed Omar Alsree<br><br> | MOE Service Excellence Award (MSEA) Gold Awardees<br> | The MSEA recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness), and inspire their colleagues to do likewise.<br> |
+| Miss Carina Chua Li Jun<br>Miss Faradillah Bte Jumahat<br>Miss Farah Izzah Imran<br>Mr Ng Boon Teng David<br>Mrs Sharifah Aminah Bte Syed Omar Alsree<br><br> | MOE Service Excellence Award (MSEA) Gold Awardees<br> | The MSEA recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness), and inspire their colleagues to do likewise.<br> |
 | Mdm Stephanie Chong<br>Mrs Corinna Foo<br>Mdm Farhanah Bte Jumahat<br>Mdm Nadjah Omar Alkhatib<br>Mrs Peh Jing Er<br>Mdm Siti Aisyah Bte Mustapha<br><br><br><br> | MOE Service Excellence Award (MSEA) Silver Awardees<br> | <br> <br><br><br> <br><br><br><br><br><br>  |
 | Mrs Peh Jing Er<br>Miss Yong Yun Yun<br>Miss Dhashayani Vallatharasu<br><br><br> | Associate of AST Award<br> | <br>  |
 | 
