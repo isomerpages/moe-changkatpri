@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - BBC Touchtyping.md
       - My Skills Future.md
