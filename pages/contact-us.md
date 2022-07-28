@@ -29,13 +29,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "67844740"
-    title: Fax
+      - other: 5, 9, 20, 38
+    title: "Bus Service:"
   - content:
       - phone: ""
       - email: ""
-      - other: 5, 9, 20, 38
-    title: "Bus Service:"
+      - other: "67844740"
+    title: Fax
   - content:
       - phone: ""
       - email: ""
