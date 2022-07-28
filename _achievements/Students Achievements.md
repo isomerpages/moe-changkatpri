@@ -11,7 +11,11 @@ description: ""
 |---|---|
 | National Schools Chess Championships 2019 | Boys Under 8 category: 2nd position (147 participants), 1st among East Zone schools<br>Sai Siddharth 2R<br><br><br>Boys Under 10 category: 7th position<br>Sathvik Sathish 3R<br> <br>Won 5 out of the 9 rounds<br>Rishab Vijayakumar 6E<br> <br>Boys Under 12 category: 6th position (322 participants)<br>Rahul 6E |
 | (SIX Trust Cup) National Youth Weiqi Championships | Gold Medal in the Primary 1 and 2 category<br>Li Mingze 1 Gratitude |
-| 
+| 13th National Robotics Programming Competition (NRPC): Micro: bit Design Thinking Challenge<br><br><br><br> |  <br>Participants -Team CKPS #P4 (Solution: CKPS Recess Warning System)<br>·       LIM RUI XUAN JOVIAH (4E)<br>·       MUHD DAFFA ADIYATMA (4P)<br>·       AARUSH HARIKRISHISHNA BABU (4E)<br> <br>2nd position for the Most Innovative Solution - Team Hackers (Solution: Automated Toilet Flusher)<br>·       PRANAVA KUMAR BALAJI (5P)<br>·       DEV KALRA (5P)<br>·       VAIBHAV KUCHIPUDI (5P)<br><br> |
+| 2nd Play Inclusive Games 2019 |  <br>Unified Football (5-a-side) – 4th place<br>·       Izz Hamdhy Bin Iskandarmirza (5R)<br>·       Rayyan Aqil Bin Mohamed Redza (5I)<br>·       Muhammad Arif Ruzainee Bin Mohamed Taufeek (5P)<br> <br>Unified Badminton (Doubles) – 3rd place<br>·       Yan Jia Le, Leonard (4D)<br>·       Shetty Aadit Kamalaksha (4R)<br>·       Lau Yu Xuan Clement (5P) |
+| Singapore Primary Science Olympiad (SPSO) | Silver Award in the Science Olympiad<br>Advik Sridhar (5E) |
+|  <br>4th Eastern Asia Youth Chess Championships<br> <br> <br> <br>14th Dato’ Tan Chin Nam Foundation Malaysia Chess Challenge<br> | 3rd Runner Up in Blitz category and 8th Runner Up in Rapid category<br>Sai Siddharth (2R)<br> <br><br><br>3rd Position under 8 Rapid Chess category<br>Sai Siddharth (2R) |
+| Super 24 2019 Primary Championships | 7th Position among 16 primary schools<br>24 members from the Dance Club |
 
 #### National School Games - Basketball Junior Division
 
@@ -61,14 +65,4 @@ description: ""
 | Bhavesh Bommaiahgari | 5E |
 | Javin Singh Pandher | 5E |
 | Khosla Krish Manish | 5E |
-|
-
-<br> <br>
-
-| 13th National Robotics Programming Competition (NRPC): Micro: bit Design Thinking Challenge<br><br><br><br> |  <br>Participants -Team CKPS #P4 (Solution: CKPS Recess Warning System)<br>·       LIM RUI XUAN JOVIAH (4E)<br>·       MUHD DAFFA ADIYATMA (4P)<br>·       AARUSH HARIKRISHISHNA BABU (4E)<br> <br>2nd position for the Most Innovative Solution - Team Hackers (Solution: Automated Toilet Flusher)<br>·       PRANAVA KUMAR BALAJI (5P)<br>·       DEV KALRA (5P)<br>·       VAIBHAV KUCHIPUDI (5P)<br><br> |
-|---|:---:|
-| 2nd Play Inclusive Games 2019 |  <br>Unified Football (5-a-side) – 4th place<br>·       Izz Hamdhy Bin Iskandarmirza (5R)<br>·       Rayyan Aqil Bin Mohamed Redza (5I)<br>·       Muhammad Arif Ruzainee Bin Mohamed Taufeek (5P)<br> <br>Unified Badminton (Doubles) – 3rd place<br>·       Yan Jia Le, Leonard (4D)<br>·       Shetty Aadit Kamalaksha (4R)<br>·       Lau Yu Xuan Clement (5P) |
-| Singapore Primary Science Olympiad (SPSO) | Silver Award in the Science Olympiad<br>Advik Sridhar (5E) |
-|  <br>4th Eastern Asia Youth Chess Championships<br> <br> <br> <br>14th Dato’ Tan Chin Nam Foundation Malaysia Chess Challenge<br> | 3rd Runner Up in Blitz category and 8th Runner Up in Rapid category<br>Sai Siddharth (2R)<br> <br><br><br>3rd Position under 8 Rapid Chess category<br>Sai Siddharth (2R) |
-| Super 24 2019 Primary Championships | 7th Position among 16 primary schools<br>24 members from the Dance Club |
 |
