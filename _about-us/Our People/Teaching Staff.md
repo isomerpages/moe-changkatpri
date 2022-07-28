@@ -10,30 +10,30 @@ third_nav_title: Our People
 
 | Subject | Teacher | Email |
 |---|---|---|
-| PE | Mr Mohamed Taufeek | mohamed_taufeek_ramlan@schools.gov.sg |
-| EL | Mrs Rajeswary Thillaikumar | rajeswary_thillaikumar@schools.gov.sg |
-| MATH | Mrs Juliana Rozale | juliana_jumaat@schools.gov.sg |
-| SEN | Mdm Nooradelin Md Salleh | nooradelin_mohamad_salle@schools.gov.sg |
-| SC | Mdm Maybelline Tan | tan_huaying_maybelline@schools.gov.sg |
-| LP | Mrs Lim - Ang Yuan Ho Celestine | ang_yuan_ho_celestine@schools.gov.sg |
+| PE | Mr Mohamed Taufeek | [mohamed_taufeek_ramlan@schools.gov.sg](mohamed_taufeek_ramlan@schools.gov.sg) |
+| EL | Mrs Rajeswary Thillaikumar | [rajeswary_thillaikumar@schools.gov.sg](rajeswary_thillaikumar@schools.gov.sg) |
+| MATH | Mrs Juliana Rozale | [juliana_jumaat@schools.gov.sg](juliana_jumaat@schools.gov.sg) |
+| SEN | Mdm Nooradelin Md Salleh | [nooradelin_mohamad_salle@schools.gov.sg](nooradelin_mohamad_salle@schools.gov.sg) |
+| SC | Mdm Maybelline Tan | [tan_huaying_maybelline@schools.gov.sg](tan_huaying_maybelline@schools.gov.sg) |
+| LP | Mrs Lim - Ang Yuan Ho Celestine | [ang_yuan_ho_celestine@schools.gov.sg](ang_yuan_ho_celestine@schools.gov.sg) |
 |
 
 #### Primary One
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 1 PATRIOTISM | Miss Nur Arina Binte Santoso<br>(ML Coor) | nur_arina_santoso@schools.gov.sg |
-|  | Miss Kris Chan Hui Ying<br>(SH/Student L'ship int.) | chan_hui_ying_b@schools.gov.sg |
-| 1 RESILIENCE | Miss Ha Siok Ting | ha_siok_ting@schools.gov.sg |
-|  | Mr Ban Choon Kwee<br>(HOD/PE CCA & AES) | ban_choon_kwee@schools.gov.sg |
-| 1 INTEGRITY | Mdm Tay Aifang Faith | tay_aifang@schools.gov.sg |
-|  | Mrs Lim - Ang Yuan Ho Celestine<br>(ST/LP) | ang_yuan_ho_celestine@schools.gov.sg |
-| 1 DISCIPLINE | Mrs Heng - Ong Li Mei Elaine<br>(SDR) | elaine_ong_li_mei@schools.gov.sg |
-|  | Miss Rauhdah Binte Abdul Latif | rauhdah_abdul_latif@schools.gov.sg |
-| 1 EMPATHY | Mrs Christina Chan | cheong_hwee_peng@schools.gov.sg |
-|  | Miss Loy Hin Jong<br>(LSP, SDR, LSM) | loy_hin_jong@schools.gov.sg |
-| 1 GRATITUDE | Mdm Nooradelin Md Salleh<br>(ST/SEN, CMT Mgr) | nooradelin_mohamad_salle@schools.gov.sg |
-|  | Miss Ivy Lai Yan Lin<br>(FAJT) | lai_yan_lin_ivy@moe.edu.sg 
+| 1 PATRIOTISM | Miss Nur Arina Binte Santoso<br>(ML Coor) | [nur_arina_santoso@schools.gov.sg](nur_arina_santoso@schools.gov.sg) |
+|  | Miss Kris Chan Hui Ying<br>(SH/Student L'ship int.) | [chan_hui_ying_b@schools.gov.sg](chan_hui_ying_b@schools.gov.sg) |
+| 1 RESILIENCE | Miss Ha Siok Ting | [ha_siok_ting@schools.gov.sg](ha_siok_ting@schools.gov.sg) |
+|  | Mr Ban Choon Kwee<br>(HOD/PE CCA & AES) | [ban_choon_kwee@schools.gov.sg](ban_choon_kwee@schools.gov.sg) |
+| 1 INTEGRITY | Mdm Tay Aifang Faith | [tay_aifang@schools.gov.sg](tay_aifang@schools.gov.sg) |
+|  | Mrs Lim - Ang Yuan Ho Celestine<br>(ST/LP) | [ang_yuan_ho_celestine@schools.gov.sg](ang_yuan_ho_celestine@schools.gov.sg) |
+| 1 DISCIPLINE | Mrs Heng - Ong Li Mei Elaine<br>(SDR) | [elaine_ong_li_mei@schools.gov.sg](elaine_ong_li_mei@schools.gov.sg) |
+|  | Miss Rauhdah Binte Abdul Latif | [rauhdah_abdul_latif@schools.gov.sg](rauhdah_abdul_latif@schools.gov.sg) |
+| 1 EMPATHY | Mrs Christina Chan | [cheong_hwee_peng@schools.gov.sg](cheong_hwee_peng@schools.gov.sg) |
+|  | Miss Loy Hin Jong<br>(LSP, SDR, LSM) | [loy_hin_jong@schools.gov.sg](loy_hin_jong@schools.gov.sg) |
+| 1 GRATITUDE | Mdm Nooradelin Md Salleh<br>(ST/SEN, CMT Mgr) | [nooradelin_mohamad_salle@schools.gov.sg](nooradelin_mohamad_salle@schools.gov.sg) |
+|  | Miss Ivy Lai Yan Lin<br>(FAJT) | [lai_yan_lin_ivy@moe.edu.sg](lai_yan_lin_ivy@moe.edu.sg) 
 |
 
 #### Primary Two
