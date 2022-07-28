@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - P1 2022 Orientation Blog.md
       - Student's Guide to Zoom.md
