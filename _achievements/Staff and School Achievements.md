@@ -72,7 +72,7 @@ description: ""
 | Mdm Syarifah Fatimah<br><br><br><br><br> | Associate of Academy of Singapore Teachers Award<br><br><br><br> | Our School Staff Developer, Mdm Syarifah Fatimah, has been conferred the Associate of Academy of Singapore Teachers Award for her contribution to the professional development of teachers. |
 | Staff Professional and Development Committee and ICT department<br><br> | Bronze Award for the The Innergy (Schools) Award<br><br><br> | Our Staff Professional and Development Committee and ICT department were conferred the Bronze Award for their idea of a Staff Learning Webinar which was held for the first time in our school June last year.  |
 |
-<br><br>
+
 | Award Type <br> | WHAT IT IS ABOUT |  |
 |:---:|:---:|---|
 | Lotus Award for 2015 School Green Awards and Bronze Award for the 3R Awards | Conferred by the Singapore Environment Council in recognition of schools’ environmental efforts which include waste minimisation, resource conservation and greening of the school grounds |  |
@@ -102,7 +102,7 @@ description: ""
 | Mr Mohd Taufeek B Ramlan (ST-PE) | SPEA (Singapore Physical Education Association) OUTSTANDING PE TEACHER AWARD 2013 | The OPETA recognizes the outstanding contributions that Physical Education (PE) teachers have made to the teaching, development and promotion of PE in Singapore. Additionally, it also aims to enhance the professionalism among members of the PE fraternity and to encourage  and motivate PE teachers to raise their level of practice |
 | Mr Satiish HOD / PE, CCA  | Top 5 finalists for Outstanding Youth Educator Award (OYEA) 2013  |   |
 |
-<br> <br>
+
 | AWARD TYPE<br> | WHAT IT IS ABOUT |  |
 |:---:|:---:|---|
 | Bronze Award for 3R Awards | Conferred by the Singapore Environment Council in recognition of schools’ environmental efforts which include waste minimisation, resource conservation and greening of the school grounds |  |
