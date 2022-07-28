@@ -94,3 +94,148 @@ third_nav_title: Our People
   </tr>
 </tbody>
 </table>
+
+#### Primary Two
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">Class</th>
+    <th class="tg-rj1p">Form Teachers</th>
+    <th class="tg-rj1p">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa" rowspan="2"><br><br>2 PATRIOTISM</td>
+    <td class="tg-y7qa">Mrs Sim-Ng Li Leng Clara<br>(ECG Coor, SED Coor)</td>
+    <td class="tg-y7qa">ng_li_leng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Mr Mohamed Taufeek B Ramlan<br>(ST/PE)</td>
+    <td class="tg-y7qa">mohamed_taufeek_ramlan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa" rowspan="2"><br><br>2 RESILIENCE</td>
+    <td class="tg-y7qa">Miss Dhashayani Vallatharasu<br>(LH/Eng int.)</td>
+    <td class="tg-y7qa">dhashayani_vallatharasu@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Miss Yan Zhuyun<br>(MRL Coor)</td>
+    <td class="tg-y7qa">yan_zhuyun@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa" rowspan="2"><br><br>2 INTEGRITY</td>
+    <td class="tg-y7qa">Mr K Parathi<br>(SH/ML&amp;TL)</td>
+    <td class="tg-y7qa">k_parathi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Miss Hazelina Gopinathan</td>
+    <td class="tg-y7qa">hazelina_gopinathan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa" rowspan="2"><br><br>2 DISCIPLINE</td>
+    <td class="tg-y7qa">Mr Lim Choon Hong</td>
+    <td class="tg-y7qa">lim_choon_hong_a@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Mdm Haryati Bte Ariffin<br>(SH/CCA &amp; AES)</td>
+    <td class="tg-y7qa">haryati_ariffin@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa" rowspan="2"><br>2 EMPATHY<br></td>
+    <td class="tg-y7qa">Miss Jesslyn Ng Shi Hui</td>
+    <td class="tg-y7qa">ng_shi_hui_jesslyn@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Miss Soh Kang Hwee Gladys</td>
+    <td class="tg-y7qa">soh_kang_hwee_gladys@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa" rowspan="3"><br><br><br>2 GRATITUDE</td>
+    <td class="tg-y7qa">Miss Ang Wei Li Ivy</td>
+    <td class="tg-y7qa">ang_wei_li_ivy@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Mdm Winnie Wong<br>(FAJT)</td>
+    <td class="tg-y7qa">asmah_wong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Miss Jiang Caiwei<br>(HOD/MA)</td>
+    <td class="tg-y7qa">jiang_caiwei@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
+#### Primary Three
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">Class</th>
+    <th class="tg-rj1p">Form Teachers</th>
+    <th class="tg-rj1p">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa" rowspan="3"><br><br><br>3 PATRIOTISM</td>
+    <td class="tg-y7qa">Ms Faradillah bte Jumahat<br>(SH Innovation int.)</td>
+    <td class="tg-y7qa">faradillah_jumahat@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Mr Nurisham Bin Ismail<br>(CCe MTL Coor)</td>
+    <td class="tg-y7qa">nurisham_ismail@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Miss Goh Shu Yi</td>
+    <td class="tg-y7qa">goh_shu_yi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa" rowspan="2"><br><br>3 RESILIENCE</td>
+    <td class="tg-y7qa">Miss Tia Amelia Bte Abdullah</td>
+    <td class="tg-y7qa">tia_amelia_abdullah@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Mr Li Kun Peng<br>(CL Coor)</td>
+    <td class="tg-y7qa">li_kun_peng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa" rowspan="2"><br>3 INTEGRITY</td>
+    <td class="tg-y7qa">Miss Anithasri d/o Manokaran</td>
+    <td class="tg-y7qa">anithasri_manokaran@schools.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Mrs Hu-Wong Mei Ee Geraldine</td>
+    <td class="tg-y7qa">geraldine_wong_mei_ee@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa" rowspan="2"><br><br>3 DISCIPLINE</td>
+    <td class="tg-y7qa">Mr Mohamed Faiz Bin Mohamed Siddiq</td>
+    <td class="tg-y7qa">mohamed_faiz_mohamed_siddiq@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Mrs Kamala D/O Swamy<br>(iExamms Coor)</td>
+    <td class="tg-y7qa">kamala_swamy@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
