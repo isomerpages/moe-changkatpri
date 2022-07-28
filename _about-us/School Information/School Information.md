@@ -6,7 +6,7 @@ third_nav_title: School Information
 ---
 ### School Information
 
-##### General Office
+#### General Office
 
 **Monday - Friday**: 7.00am to 5.30pm (School Term) <br>
 **Monday - Friday**: 8.00am to 5.00pm (School Holiday) <br>
