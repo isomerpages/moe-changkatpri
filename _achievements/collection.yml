@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - Students Achievements.md
       - Staff and School Achievements.md
