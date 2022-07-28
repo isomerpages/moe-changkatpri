@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Meet The Parents.md
       - Parents Support Group (PIE).md
       - P1 2022 Orientation Blog.md
       - Student's Guide to Zoom.md
