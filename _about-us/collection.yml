@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/School Admin Team.md
       - Our People/.keep
       - Useful Information.md
       - Contact Us.md
