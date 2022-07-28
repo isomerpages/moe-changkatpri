@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Student Leadership.md
       - Learning for Life Programme (LLP).md
       - Mother Tongue/.keep
