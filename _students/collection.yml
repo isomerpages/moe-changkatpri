@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Microsoft Office 365 (ProPlus).md
       - BBC Touchtyping.md
       - My Skills Future.md
