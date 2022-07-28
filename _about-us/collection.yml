@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/Dress Code.md
       - School Information/School Discipline Policy.md
       - School Information/.keep
       - Our People/Our People.md
