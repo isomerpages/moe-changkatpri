@@ -21,7 +21,7 @@ description: ""
 | Junior Basketball Girls | 5th | 2nd (Tier 3) |
 | 
 
-#### Junior Basketball Girls
+**Junior Basketball Girls**
 
 | Name | Class |
 |---|---|
@@ -42,7 +42,7 @@ description: ""
 | Yanamandra Rithika | 5E |
 |
 
-#### Junior Basketball Boys
+**Junior Basketball Boys**
 
 | Name | Class |
 |---|---|
