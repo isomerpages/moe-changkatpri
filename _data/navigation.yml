@@ -1,2 +1,24 @@
 logo: /images/sch logo.jpg
-links: []
+links:
+  - title: About Us
+    url: /About-Us/
+    sublinks:
+      - title: Changkat Primary School
+        url: /About-Us/
+      - title: Principal's Message
+        url: /About-Us/principal-message/
+      - title: School Information
+        url: /About-Us/school-information/
+      - title: Our People
+        url: /About-Us/our-people/
+      - title: Useful Information
+        url: /About-Us/useful-information/
+      - title: Contact Us
+        url: /About-Us/contact-us/
+  - title: Achievements
+    url: /Achievements/staff-and-school-achievements/
+    sublinks:
+      - title: Staff and School Achievements
+        url: /Achievements/staff-and-school-achievements/
+      - title: Student Achievements
+        url: /Achievements/student-achievements/
