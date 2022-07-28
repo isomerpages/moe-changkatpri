@@ -7,7 +7,7 @@ third_nav_title: Changkat Primary School
 ### Vision, Mission & Values
 
 <img src="/images/School%20Crest.jpg" 
-     style="width:75%">
+     style="width:35%">
 		 
 We believe that knowledge shines. By this, we mean that those who have acquired knowledge develop a brightness of character. They will stand out in the community and be guiding beacons to others.
 
