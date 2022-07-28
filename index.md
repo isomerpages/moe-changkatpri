@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Changkat Changi Secondary School
+      title: Changkat Primary School
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -15,18 +15,13 @@ sections:
         - title: Announcements
           description: ""
           url: ""
-        - title: The Changkat Experience
+        - title: Highlights
           description: ""
           url: ""
-        - title: Social Links
+        - title: Parent's Notification
           description: ""
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Parents' Resources
+          description: ""
+          url: ""
 ---
-
-
