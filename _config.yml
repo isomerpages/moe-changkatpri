@@ -2,8 +2,8 @@ title: Changkat Primary School
 url: ""
 favicon: /images/changkat pri logo.jpg
 colors:
-  primary-color: "#307fff"
-  secondary-color: "#7ed321"
+  primary-color: "#7ed321"
+  secondary-color: "#307fff"
   media-colors:
     - title: media-color-one
       color: "#49759a"
