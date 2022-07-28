@@ -107,21 +107,21 @@ third_nav_title: Our People
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 6 PATRIOTISM | Miss Nur Azura Binte Rahim<br>(Music Coor) | nur_azura_rahim@schools.gov.sg |
-|  | Mdm Salmi Bte Rahmat<br>(HOD/SC) | salmi_rahmat@schools.gov.sg |
-| 6 RESILIENCE | Mdm Siti Hajar Bte Mohamed Khan | siti_hajar_mohamed_khan@schools.gov.sg |
-|  | Miss Celeste Loh Shi Min<br>(HOD/CCE)<br>  | celeste_loh_shi_min@schools.gov.sg |
-| 6 INTEGRITY | Mr Seow Tian Hou<br>(HOD ICT Int.) | seow_tian_hou@schools.gov.sg |
-|  | Ms Goh Huang Yiing Gina | goh_huang_yiing@schools.gov.sg |
-| 6 DISCIPLINE | Mrs Yeo Ofelia | ofelia_lim_shi_yun@schools.gov.sg |
-|  | Mrs Rajeswary Thillaikumar<br>(ST/EL) | rajeswary_thillaikumar@schools.gov.sg |
+| 6 PATRIOTISM | Miss Nur Azura Binte Rahim<br>(Music Coor) | [nur_azura_rahim@schools.gov.sg](nur_azura_rahim@schools.gov.sg) |
+|  | Mdm Salmi Bte Rahmat<br>(HOD/SC) | [salmi_rahmat@schools.gov.sg](salmi_rahmat@schools.gov.sg) |
+| 6 RESILIENCE | Mdm Siti Hajar Bte Mohamed Khan | [siti_hajar_mohamed_khan@schools.gov.sg](siti_hajar_mohamed_khan@schools.gov.sg) |
+|  | Miss Celeste Loh Shi Min<br>(HOD/CCE)<br>  | [celeste_loh_shi_min@schools.gov.sg](celeste_loh_shi_min@schools.gov.sg) |
+| 6 INTEGRITY | Mr Seow Tian Hou<br>(HOD ICT Int.) | [seow_tian_hou@schools.gov.sg](seow_tian_hou@schools.gov.sg) |
+|  | Ms Goh Huang Yiing Gina | [goh_huang_yiing@schools.gov.sg](goh_huang_yiing@schools.gov.sg) |
+| 6 DISCIPLINE | Mrs Yeo Ofelia | [ofelia_lim_shi_yun@schools.gov.sg](ofelia_lim_shi_yun@schools.gov.sg) |
+|  | Mrs Rajeswary Thillaikumar<br>(ST/EL) | [rajeswary_thillaikumar@schools.gov.sg](rajeswary_thillaikumar@schools.gov.sg) |
 |
 
 #### Allied Educator
 
 | Designation | Name | Email |
 |---|---|---|
-| SCHOOL COUNSELLOR<br>(AED) | Miss Farah Izzah Bte Imran | farah_izzah_imran@schools.gov.sg |
-| ALLIED EDUCATOR<br>(LBS) | Miss Nur Atasha Binte Razali<br> | nur_atasha_razali@schools.gov.sg |
-| ALLIED EDUCATOR <br>(LBS) | Miss Surya Binte Effendi | surya_effendi@schools.gov.sg |
+| SCHOOL COUNSELLOR<br>(AED) | Miss Farah Izzah Bte Imran | [farah_izzah_imran@schools.gov.sg](farah_izzah_imran@schools.gov.sg) |
+| ALLIED EDUCATOR<br>(LBS) | Miss Nur Atasha Binte Razali<br> | [nur_atasha_razali@schools.gov.sg](nur_atasha_razali@schools.gov.sg) |
+| ALLIED EDUCATOR <br>(LBS) | Miss Surya Binte Effendi | [surya_effendi@schools.gov.sg](surya_effendi@schools.gov.sg) |
 |
