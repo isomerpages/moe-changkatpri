@@ -10,6 +10,8 @@ As the only primary school in the Changi-Simei constituency, Changkat Primary is
 
 Pupils who study in Changkat Primary will enjoy a unique school experience through the provision of the following:
 
+**Differentiated Instruction as a design philosophy with Cooperative Learning as the school-wide pedagogy**
+
 | Details | Remarks |
 |---|---|
 | **Differentiated Instruction (DI)** is adopted as a philosophy in the school’s curricular and co-curricular designs. <br> <br> **Cooperative Learning** is the school-wide pedagogy that has been identified to support **DI**  <br> <br> **ICT** is leveraged on as a tool to enable **Self-Directed** and **Collaborative Learning** . ICT also serves as a tool to enrich pupils’ learning experience.<br> <br>Embedded within the learning process is the use of in-Class **Formative Assessment** strategies that allow teachers to gather information about student learning in real-time so as to make timely adjustments to teaching and be more responsive to learner needs. | Core Curriculum covers the academic subjects such as the languages whereas Co-curriculum covers the non-academic subjects such as Physical Education , Character and Student Leadership development. <br> <br> **Cooperative Learning** emphasizes on interdependent learning. <br> <br> An example where ICT is used to enrich the learning experience involves the use of Apps such as Padlet, which, when used with the **Cooperative Learning** Strategy, “Think-Pair-Share”, builds up pupil confidence and ability to give better quality responses to questions posed by Teachers. <br> <br> Examples of in-Class **Formative Assessment** strategies include “Thumbs Up/Down” and use of “Exit Cards”. |
