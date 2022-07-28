@@ -59,32 +59,32 @@ third_nav_title: Our People
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 3 PATRIOTISM | Ms Faradillah bte Jumahat<br>(SH Innovation int.) | faradillah_jumahat@schools.gov.sg |
-|  | Mr Nurisham Bin Ismail<br>(CCe MTL Coor) | nurisham_ismail@schools.gov.sg |
-|  | Miss Goh Shu Yi | goh_shu_yi@schools.gov.sg |
-| 3 RESILIENCE | Miss Tia Amelia Bte Abdullah | tia_amelia_abdullah@schools.gov.sg |
-|  | Mr Li Kun Peng<br>(CL Coor) | li_kun_peng@schools.gov.sg |
-| 3 INTEGRITY | Miss Anithasri d/o Manokaran | anithasri_manokaran@schools.sg |
-|  | Mrs Hu-Wong Mei Ee Geraldine | geraldine_wong_mei_ee@schools.gov.sg |
-| 3 DISCIPLINE | Mr Mohamed Faiz Bin Mohamed Siddiq | mohamed_faiz_mohamed_siddiq@schools.gov.sg |
-|  | Mrs Kamala D/O Swamy<br>(iExamms Coor) | kamala_swamy@schools.gov.sg |
+| 3 PATRIOTISM | Ms Faradillah bte Jumahat<br>(SH Innovation int.) | [faradillah_jumahat@schools.gov.sg](faradillah_jumahat@schools.gov.sg) |
+|  | Mr Nurisham Bin Ismail<br>(CCe MTL Coor) | [nurisham_ismail@schools.gov.sg](nurisham_ismail@schools.gov.sg) |
+|  | Miss Goh Shu Yi | [goh_shu_yi@schools.gov.sg](goh_shu_yi@schools.gov.sg) |
+| 3 RESILIENCE | Miss Tia Amelia Bte Abdullah | [tia_amelia_abdullah@schools.gov.sg](tia_amelia_abdullah@schools.gov.sg) |
+|  | Mr Li Kun Peng<br>(CL Coor) | [li_kun_peng@schools.gov.sg](li_kun_peng@schools.gov.sg) |
+| 3 INTEGRITY | Miss Anithasri d/o Manokaran | [anithasri_manokaran@schools.sg](anithasri_manokaran@schools.sg) |
+|  | Mrs Hu-Wong Mei Ee Geraldine | [geraldine_wong_mei_ee@schools.gov.sg](geraldine_wong_mei_ee@schools.gov.sg) |
+| 3 DISCIPLINE | Mr Mohamed Faiz Bin Mohamed Siddiq | [mohamed_faiz_mohamed_siddiq@schools.gov.sg](mohamed_faiz_mohamed_siddiq@schools.gov.sg) |
+|  | Mrs Kamala D/O Swamy<br>(iExamms Coor) | [kamala_swamy@schools.gov.sg](kamala_swamy@schools.gov.sg) |
 | 
 
 #### Primary Four
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 4 PATRIOTISM | Mr Ng Boon Teng, David<br>(Teacher Counsellor) | ng_boon_teng_david@schools.gov.sg |
-|  | Mdm Nadjah Omar Alkhatib | nadjah_omar_alkhatib@schools.gov.sg |
-| 4 RESILIENCE | Mrs Saraswathy Samuel | saraswathy_subramaniam_a@schools.gov.sg |
-|  | Mrs Low Tan Huaying Maybeline<br>(ST/SC) | tan_huaying_maybeline@schools.gov.sg |
-| 4 INTEGRITY | Mr Chong Yong Tian | chong_yong_tian@schools.gov.sg |
-|  | Mdm Kalai Selvi d/o C Kaliannan | kalai_selvi_c_kaliannan@schools.gov.sg |
-| 4 DISCIPLINE | Mrs Geeta Jayakumar | geeta_jayakumar@schools.gov.sg |
-|  | Mdm Aznani Bte Aladin<br>(Art Coor) | aznani_aladin@schools.gov.sg |
-| 4 EMPATHY | Mdm Chew Poh Kim | chew_poh_kim_a@schools.gov.sg<br>  |
-|  | Dr Steven Tan Boon Seng<br>(LT/Ed Suppt) | tan_boon_seng_steven@schools.gov.sg<br>  |
-|  | Mdm Siti Omairah Bte Omar | siti_omairah_omar@moe.edu.sg |
+| 4 PATRIOTISM | Mr Ng Boon Teng, David<br>(Teacher Counsellor) | [ng_boon_teng_david@schools.gov.sg](ng_boon_teng_david@schools.gov.sg) |
+|  | Mdm Nadjah Omar Alkhatib | [nadjah_omar_alkhatib@schools.gov.sg](nadjah_omar_alkhatib@schools.gov.sg) |
+| 4 RESILIENCE | Mrs Saraswathy Samuel | [saraswathy_subramaniam_a@schools.gov.sg](saraswathy_subramaniam_a@schools.gov.sg) |
+|  | Mrs Low Tan Huaying Maybeline<br>(ST/SC) | [tan_huaying_maybeline@schools.gov.sg](tan_huaying_maybeline@schools.gov.sg) |
+| 4 INTEGRITY | Mr Chong Yong Tian | [chong_yong_tian@schools.gov.sg](chong_yong_tian@schools.gov.sg) |
+|  | Mdm Kalai Selvi d/o C Kaliannan | [kalai_selvi_c_kaliannan@schools.gov.sg](kalai_selvi_c_kaliannan@schools.gov.sg) |
+| 4 DISCIPLINE | Mrs Geeta Jayakumar | [geeta_jayakumar@schools.gov.sg](geeta_jayakumar@schools.gov.sg) |
+|  | Mdm Aznani Bte Aladin<br>(Art Coor) | [aznani_aladin@schools.gov.sg](aznani_aladin@schools.gov.sg) |
+| 4 EMPATHY | Mdm Chew Poh Kim | [chew_poh_kim_a@schools.gov.sg](chew_poh_kim_a@schools.gov.sg)<br>  |
+|  | Dr Steven Tan Boon Seng<br>(LT/Ed Suppt) | [tan_boon_seng_steven@schools.gov.sg](tan_boon_seng_steven@schools.gov.sg)<br>  |
+|  | Mdm Siti Omairah Bte Omar | [siti_omairah_omar@moe.edu.sg](siti_omairah_omar@moe.edu.sg) |
 |
 
 #### Primary Five
