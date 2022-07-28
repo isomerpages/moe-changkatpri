@@ -45,7 +45,8 @@ Students are to take care of the school property and keep the school compound cl
 | <img src="/images/pledge.jpg" style="width:25%" align = left> | Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart. |
 |---|---|
 | <img src="/images/attire.jpg" style="width:25%" align = left> | Students are to wear the prescribed school uniform and the school PE attire. Modifications to them are not allowed. PE shirt must be tucked in at all times.<br><br> <br>Boys must be clean shaven and are not allowed to sport a moustache, beard or sideburns. |
-| <img src="/images/sedia.jpg" style="width:25%" align = left> | Students are to respect all staff, student leaders and schoolmates at all times.  <br><br> Students are to be punctual for all school activities. <br><br>Students are to take care of the school property and keep the school compound clean. |
+| <img src="/images/sedia.jpg" style="width:25%" align = left> | Students are to respect all staff, student leaders and schoolmates at all times.  <br><br> Students are to be punctual for all school activities. <br><br>Students are to take care of the school property and keep the school compound clean.
+|
 
 ##### Student Cyclist
 
