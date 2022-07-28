@@ -40,19 +40,19 @@ third_nav_title: Our People
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 2 PATRIOTISM | Mrs Sim-Ng Li Leng Clara<br>(ECG Coor, SED Coor) | ng_li_leng@schools.gov.sg |
-|  | Mr Mohamed Taufeek B Ramlan<br>(ST/PE) | mohamed_taufeek_ramlan@schools.gov.sg |
-| 2 RESILIENCE | Miss Dhashayani Vallatharasu<br>(LH/Eng int.) | dhashayani_vallatharasu@schools.gov.sg |
-|  | Miss Yan Zhuyun<br>(MRL Coor) | yan_zhuyun@schools.gov.sg |
-| 2 INTEGRITY | Mr K Parathi<br>(SH/ML&TL) | k_parathi@schools.gov.sg |
-|  | Miss Hazelina Gopinathan | hazelina_gopinathan@schools.gov.sg |
-| 2 DISCIPLINE | Mr Lim Choon Hong | lim_choon_hong_a@schools.gov.sg |
-|  | Mdm Haryati Bte Ariffin<br>(SH/CCA & AES) | haryati_ariffin@schools.gov.sg |
-| 2 EMPATHY | Miss Jesslyn Ng Shi Hui | ng_shi_hui_jesslyn@schools.gov.sg |
-|  | Miss Soh Kang Hwee Gladys | soh_kang_hwee_gladys@schools.gov.sg |
-| 2 GRATITUDE | Miss Ang Wei Li Ivy | ang_wei_li_ivy@schools.gov.sg |
-|  | Mdm Winnie Wong<br>(FAJT) | asmah_wong@moe.edu.sg |
-|  | Miss Jiang Caiwei<br>(HOD/MA) | jiang_caiwei@schools.gov.sg
+| 2 PATRIOTISM | Mrs Sim-Ng Li Leng Clara<br>(ECG Coor, SED Coor) | [ng_li_leng@schools.gov.sg](ng_li_leng@schools.gov.sg) |
+|  | Mr Mohamed Taufeek B Ramlan<br>(ST/PE) | [mohamed_taufeek_ramlan@schools.gov.sg](mohamed_taufeek_ramlan@schools.gov.sg) |
+| 2 RESILIENCE | Miss Dhashayani Vallatharasu<br>(LH/Eng int.) | [dhashayani_vallatharasu@schools.gov.sg](dhashayani_vallatharasu@schools.gov.sg) |
+|  | Miss Yan Zhuyun<br>(MRL Coor) | [yan_zhuyun@schools.gov.sg](yan_zhuyun@schools.gov.sg) |
+| 2 INTEGRITY | Mr K Parathi<br>(SH/ML&TL) | [k_parathi@schools.gov.sg](k_parathi@schools.gov.sg) |
+|  | Miss Hazelina Gopinathan | [hazelina_gopinathan@schools.gov.sg](hazelina_gopinathan@schools.gov.sg) |
+| 2 DISCIPLINE | Mr Lim Choon Hong | [lim_choon_hong_a@schools.gov.sg](lim_choon_hong_a@schools.gov.sg) |
+|  | Mdm Haryati Bte Ariffin<br>(SH/CCA & AES) | [haryati_ariffin@schools.gov.sg](haryati_ariffin@schools.gov.sg) |
+| 2 EMPATHY | Miss Jesslyn Ng Shi Hui | [ng_shi_hui_jesslyn@schools.gov.sg](ng_shi_hui_jesslyn@schools.gov.sg) |
+|  | Miss Soh Kang Hwee Gladys | [soh_kang_hwee_gladys@schools.gov.sg](soh_kang_hwee_gladys@schools.gov.sg) |
+| 2 GRATITUDE | Miss Ang Wei Li Ivy | [ang_wei_li_ivy@schools.gov.sg](ang_wei_li_ivy@schools.gov.sg) |
+|  | Mdm Winnie Wong<br>(FAJT) | [asmah_wong@moe.edu.sg](asmah_wong@moe.edu.sg) |
+|  | Miss Jiang Caiwei<br>(HOD/MA) | [jiang_caiwei@schools.gov.sg](jiang_caiwei@schools.gov.sg)
 |
 
 #### Primary Three
