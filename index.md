@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Changkat Changi Secondary School
+title: Changkat Primary School
 description: Brief site description here
 image: /images/sch logo.jpg
 permalink: /
@@ -28,3 +28,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
