@@ -22,3 +22,51 @@ links:
         url: /Achievements/staff-and-school-achievements/
       - title: Student Achievements
         url: /Achievements/student-achievements/
+  - title: Photo Gallery
+    url: /Photo-Gallery/
+  - title: Our Curriculum
+    url: /Our-Curriculum/
+    sublinks:
+      - title: English Language
+        url: /Our-Curriculum/
+      - title: Mathematics
+        url: /Our-Curriculum/mathematics/
+      - title: Science
+        url: /Our-Curriculum/science/
+      - title: Mother Tongue
+        url: /Our-Curriculum/mother-tongue/
+      - title: Physical Education
+        url: /Our-Curriculum/pe/
+      - title: Aesthetics
+        url: /Our-Curriculum/aesthetics/
+      - title: PAL
+        url: /Our-Curriculum/pal/
+      - title: MCA
+        url: /Our-Curriculum/mca/
+      - title: Infocomm & Technology
+        url: /Our-Curriculum/infocomm-and-technology/
+      - title: Applied Learning Programme
+        url: /Our-Curriculum/ALP/
+      - title: Character & Citizenship Edu
+        url: /Our-Curriculum/CCE/
+      - title: Student Leadership
+        url: /Our-Curriculum/student-leadership/
+      - title: CCA
+        url: /Our-Curriculum/cca/
+      - title: Learning for Life Programme
+        url: /Our-Curriculum/LLP/
+  - title: Parents
+    url: /Parents/
+    sublinks:
+      - title: FamilyMatters@School
+        url: /Parents/
+      - title: Forms
+        url: /Parents/forms/
+      - title: Meet The Parents 2022
+        url: /Parents/meet-the-parents-2022/
+      - title: Parents Support Group
+        url: /Parents/PSG/
+      - title: P1 2022 Orientation Blog
+        url: /Parents/orientation-blog/
+      - title: Student's Guide to Zoom
+        url: /Parents/student-guide-to-zoom/
