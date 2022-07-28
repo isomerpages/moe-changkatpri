@@ -70,3 +70,18 @@ links:
         url: /Parents/orientation-blog/
       - title: Student's Guide to Zoom
         url: /Parents/student-guide-to-zoom/
+  - title: Students
+    url: /Students/
+    sublinks:
+      - title: Student ICON
+        url: /Students/
+      - title: Student Learning Space (SLS)
+        url: /Students/SLS/
+      - title: Library OPAC
+        url: /Students/opac/
+      - title: Microsoft Office 365 (ProPlus)
+        url: /Students/microsoft-office-365-pro-plus/
+      - title: BBC Touchtyping
+        url: /Students/bbc-touchtyping/
+      - title: My Skills Future
+        url: /Students/my-skills-future/
