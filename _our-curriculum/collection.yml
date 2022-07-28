@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mother Tongue/.keep
       - CCE/.keep
       - CCA/.keep
