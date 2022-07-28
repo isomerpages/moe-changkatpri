@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - MCA.md
       - Infocomm & Technology.md
       - Applied Learning Programme (ALP).md
       - Student Leadership.md
