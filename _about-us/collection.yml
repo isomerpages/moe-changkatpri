@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/Example Title.md
       - School Information/Principal's Message.md
       - School Information/School Information.md
       - School Information/Dress Code.md
