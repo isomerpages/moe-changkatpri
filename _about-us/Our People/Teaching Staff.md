@@ -91,16 +91,16 @@ third_nav_title: Our People
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 5 PATRIOTISM | Mr Hoo Chee Mun<br>(SH/KM) | hoo_chee_mun@schools.gov.sg<br>  |
-|  | Mrs Juliana Jumaat<br>(ST/MA)<br> | juliana_jumaat@schools.gov.sg |
-| 5 RESILIENCE | Mdm Sharifah Aminah Bte Syed Omar | sharifah_aminah_syed_omar@schools.gov.sg |
-|  | Ms Yong Yun Yun<br>(LH/Maths) | yong_yun_yun@schools.gov.sg |
-| 5 INTEGRITY | Mr Muhammad Khairil Bin Kamal<br>(AYH) | muhammad_khairil_kamal@schools.gov.sg<br>  |
-|  | Mdm Chong Stephanie Jemima Tan<br>(SSD)<br>  | chong_stephanie_jemima_tan@schools.gov.sg |
-|  | Mrs Zhang Fangfang<br>(HOD/MTL) | zhang_fangfang@schools.gov.sg |
-| 5 DISCIPLINE | Mr Khairul Nizam Bin Abdul Aziz | Khairul_Nizam_Abdul_Aziz@schools.gov.sg |
-|  | Mdm Radziyah Bte Mohd Zain | radziyah_mohamed_zain@schools.gov.sg<br>  |
-|  | Mdm Farah Khairiah Bte Rifaei<br>(SH/NE & Partnership) | farah_khairiah_rifaei@schools.gov.sg |
+| 5 PATRIOTISM | Mr Hoo Chee Mun<br>(SH/KM) | [hoo_chee_mun@schools.gov.sg](hoo_chee_mun@schools.gov.sg)<br>  |
+|  | Mrs Juliana Jumaat<br>(ST/MA)<br> | [juliana_jumaat@schools.gov.sg](juliana_jumaat@schools.gov.sg) |
+| 5 RESILIENCE | Mdm Sharifah Aminah Bte Syed Omar | [sharifah_aminah_syed_omar@schools.gov.sg](sharifah_aminah_syed_omar@schools.gov.sg) |
+|  | Ms Yong Yun Yun<br>(LH/Maths) | [yong_yun_yun@schools.gov.sg](yong_yun_yun@schools.gov.sg) |
+| 5 INTEGRITY | Mr Muhammad Khairil Bin Kamal<br>(AYH) | [muhammad_khairil_kamal@schools.gov.sg](muhammad_khairil_kamal@schools.gov.sg)<br>  |
+|  | Mdm Chong Stephanie Jemima Tan<br>(SSD)<br>  | [chong_stephanie_jemima_tan@schools.gov.sg](chong_stephanie_jemima_tan@schools.gov.sg) |
+|  | Mrs Zhang Fangfang<br>(HOD/MTL) | [zhang_fangfang@schools.gov.sg](zhang_fangfang@schools.gov.sg) |
+| 5 DISCIPLINE | Mr Khairul Nizam Bin Abdul Aziz | [Khairul_Nizam_Abdul_Aziz@schools.gov.sg](Khairul_Nizam_Abdul_Aziz@schools.gov.sg) |
+|  | Mdm Radziyah Bte Mohd Zain | [radziyah_mohamed_zain@schools.gov.sg](radziyah_mohamed_zain@schools.gov.sg)<br>  |
+|  | Mdm Farah Khairiah Bte Rifaei<br>(SH/NE & Partnership) | [farah_khairiah_rifaei@schools.gov.sg](farah_khairiah_rifaei@schools.gov.sg) |
 | 
 
 #### Primary Six
