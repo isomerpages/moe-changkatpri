@@ -7,15 +7,15 @@ description: ""
 <img src="/images/Maths%20Framework.jpg" 
      style="width:75%">
 
-#### Vision:
+#### Vision
 
 Every pupil, a logical thinker and an analytical problem solver, with a lifelong interest and love for Mathematics.
 
-#### Mission:
+#### Mission
 
 To develop the lifelong interest and love for Mathematics which allows pupils to discover the meaning in learning Mathematics by engaging pupils in activities which develop their ability to reason logically and to communicate mathematically.
 
-#### Programmes:
+#### Programmes
 
 ##### Weekend Revision Programme (WRP)
 
