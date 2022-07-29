@@ -54,3 +54,8 @@ This programme equips the pupils with the basic numeracy and literacy skills, th
 Changkat’s Learning Fiesta is an inter-department event carried out on Term 3 Week 1. It aims to be an engaging platform for pupils to develop the joy of learning Mathematics and also, to see the relevance of Mathematics in their daily lives. Station games involving Whole Numbers, Money, Percentage, Fraction and Time were carried out during recess.
 
 ![](/images/Learning%20Fiesta%203.jpg)
+
+##### Parents Workshop
+
+Engaging Parents is part of the school’s effort to enhance home support for pupil learning. The department organises Math workshops for parents every year as parental involvement plays a vital role at all stages in the pupils’ learning. The objectives are to better equip parents with approaches and strategies to guide their children through their learning and preparations for examinations.
+
