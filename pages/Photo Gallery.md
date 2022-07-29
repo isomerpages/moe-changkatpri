@@ -6,7 +6,6 @@ description: ""
 ### Photo Gallery
 
 
-
 ##### Chinese New Year Celebration 2022
 <img src="/images/CNY.gif" 
      style="width:65%">
