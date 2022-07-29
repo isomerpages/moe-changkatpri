@@ -64,4 +64,20 @@ Engaging Parents is part of the school’s effort to enhance home support for pu
  <img src="/images/pw2.jpg" 
      style="width:46.3%" align = left>
  <img src="/images/pw3.jpg" 
-     style="width:46.3%" align = left>		 
+     style="width:46.3%" align = left>
+		 
+		 
+##### Useful Links
+
+* [https://www.seab.gov.sg/content/calculator/GuidelinesCalculators.pdf](https://www.seab.gov.sg/content/calculator/GuidelinesCalculators.pdf)
+* [http://www.moe.edu.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf](http://www.moe.edu.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf)
+* [http://sg.ixl.com/math/](http://sg.ixl.com/math/)
+* [http://www.math-play.com/index.html](http://www.math-play.com/index.html)
+* [http://coolmath-games.com/](http://coolmath-games.com/)
+* [http://www.mathplayground.com/games.html](http://www.mathplayground.com/games.html)
+* [http://www.sheppardsoftware.com/math.htm](http://www.sheppardsoftware.com/math.htm)
+* [http://www.games.com/math-games](http://www.games.com/math-games)
+* [http://www.youtube.com/watch?v=fmaVqkR0ZXg](http://www.youtube.com/watch?v=fmaVqkR0ZXg)
+* [http://www.youtube.com/watch?v=Rpkjb4Tx844](http://www.youtube.com/watch?v=Rpkjb4Tx844)
+* [http://www.youtube.com/watch?v=e0dJWfQHF8Y](http://www.youtube.com/watch?v=e0dJWfQHF8Y)
+* [http://www.youtube.com/watch?v=DnFrOetuUKg](http://www.youtube.com/watch?v=DnFrOetuUKg)
