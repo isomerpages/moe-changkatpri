@@ -59,3 +59,9 @@ Changkat’s Learning Fiesta is an inter-department event carried out on Term 3 
 
 Engaging Parents is part of the school’s effort to enhance home support for pupil learning. The department organises Math workshops for parents every year as parental involvement plays a vital role at all stages in the pupils’ learning. The objectives are to better equip parents with approaches and strategies to guide their children through their learning and preparations for examinations.
 
+<img src="/images/PW1.jpg" 
+     style="width:52%" align = left>
+ <img src="/images/pw2.jpg" 
+     style="width:46.3%" align = left>
+ <img src="/images/pw3.jpg" 
+     style="width:46.3%" align = left>		 
