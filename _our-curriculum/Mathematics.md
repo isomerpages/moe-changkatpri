@@ -69,8 +69,8 @@ Engaging Parents is part of the school’s effort to enhance home support for pu
 		 
 ##### Useful Links
 
-* [https://www.seab.gov.sg/content/calculator/GuidelinesCalculators.pdf](https://www.seab.gov.sg/content/calculator/GuidelinesCalculators.pdf)
-* [http://www.moe.edu.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf](http://www.moe.edu.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf)
+* [https://www.seab.gov.sg/content/calculator/GuidelinesCalculators.pdf](https://www.seab.gov.sg/content/calculator/GuidelinesCalculators.pdf)  (Broken link)
+* [http://www.moe.edu.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf](http://www.moe.edu.sg/education/syllabuses/sciences/files/maths-primary-2013.pdf)  (Broken link)
 * [http://sg.ixl.com/math/](http://sg.ixl.com/math/)
 * [http://www.math-play.com/index.html](http://www.math-play.com/index.html)
 * [http://coolmath-games.com/](http://coolmath-games.com/)
