@@ -32,11 +32,11 @@ There are many reading strategies when it comes to interacting with a text. In C
 
 ![](/images/el5.jpg)
 
-**Differentiated Instruction, Formative Assessment & Cooperative Learning**<br>
+##### Differentiated Instruction, Formative Assessment & Cooperative Learning
+
 Our teachers engage the pupils through the use DI, FA and CL to customise the pupils’ learning experience. Pupils are often grouped flexibly to suit the learning intentions of the lesson. CL structures such as Jigsaw, Numbered Heads Together, Rally Robin and Round Robin are commonplace in our classrooms as are FA tools such as white boarding, use of exit cards or use of thumbs up-down during lessons.     
 
   
 
-**CKPS Whole School Reading Plan**
-<br>
+##### CKPS Whole School Reading Plan
 We work hand in hand with the National Library Board (NLB) and our Parent Support Group (PIE Club – Partners in Education Club) in ensuring that various groups of pupils are supported in our efforts to promote a Reading Culture in Changkat.
