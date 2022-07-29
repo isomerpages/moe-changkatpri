@@ -14,6 +14,7 @@ description: ""
 
 
 ##### 2022 P1 First Day of School
+![](/images/First%20day.gif)
 ##### Modular Curricular Activity P4 Batik
 ##### Modular Curricular Activity P5 Metal Tooling
 ##### Modular Curricular Activity P3 Skipping
