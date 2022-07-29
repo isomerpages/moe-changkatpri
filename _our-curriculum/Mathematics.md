@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /Our-Curriculum/mathematics/
 description: ""
 ---
-### Mathematics
+![](/images/Learning%20Fiesta%203.jpg)### Mathematics
 <img src="/images/Maths%20Framework.jpg" 
      style="width:75%">
 
@@ -52,3 +52,5 @@ This programme equips the pupils with the basic numeracy and literacy skills, th
 
 ##### Learning Fiesta
 Changkat’s Learning Fiesta is an inter-department event carried out on Term 3 Week 1. It aims to be an engaging platform for pupils to develop the joy of learning Mathematics and also, to see the relevance of Mathematics in their daily lives. Station games involving Whole Numbers, Money, Percentage, Fraction and Time were carried out during recess.
+
+![](/images/Learning%20Fiesta%203.jpg)
