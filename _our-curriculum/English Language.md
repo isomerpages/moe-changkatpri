@@ -24,3 +24,4 @@ For more information on STELLAR visit: [http://www.stellarliteracy.sg/](http://
 ##### Writing, Reading & Oral Communication
 We believe in equipping our language learners with a host of strategies to tackle various components of the English Language.
 
+![](/images/Capture.jpg)
