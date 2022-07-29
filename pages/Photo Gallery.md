@@ -51,4 +51,3 @@ description: ""
 ##### Total Defence Day
 <img src="/images/Total%20defence%20day.gif" 
      style="width:65%">
-		 
