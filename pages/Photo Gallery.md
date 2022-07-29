@@ -31,27 +31,24 @@ description: ""
 ##### P4 Buddy Programme
 <img src="/images/p4%20buddy%20prog.gif" 
      style="width:65%">
+		 
 ##### P4 Museum-Based Learning
-
 <img src="/images/p4%20museum%20based%20learning.gif" 
      style="width:65%">
+		 
 ##### P4 values Inculcation Programme
-![](/images/p4%20values%20inculation%20programme.gif)
-adjust pic size
-<img src="/images/principal.jpg" 
-     style="width:85%">
+<img src="/images/p4%20values%20inculation%20programme.gif" 
+     style="width:65%">
+		 
 ##### Pi Day
-![](/images/Pi%20day.gif)
-adjust pic size
-<img src="/images/principal.jpg" 
-     style="width:85%">
+<img src="/images/Pi%20day.gif" 
+     style="width:65%">
+		 
 ##### Prefect Investiture
-![](/images/Prefect%20investiture.gif)
-adjust pic size
-<img src="/images/principal.jpg" 
-     style="width:85%">
+<img src="/images/Prefect%20investiture.gif" 
+     style="width:65%">
+		 
 ##### Total Defence Day
-![](/images/Total%20defence%20day.gif)
-adjust pic size
-<img src="/images/principal.jpg" 
-     style="width:85%">
+<img src="/images/Total%20defence%20day.gif" 
+     style="width:65%">
+		 
