@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /Our-Curriculum/mathematics/
 description: ""
 ---
-![](/images/Learning%20Fiesta%203.jpg)### Mathematics
+### Mathematics
 <img src="/images/Maths%20Framework.jpg" 
      style="width:75%">
 
