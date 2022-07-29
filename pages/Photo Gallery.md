@@ -21,23 +21,23 @@ description: ""
 		 
 ##### Modular Curricular Activity P5 Metal Tooling
 <img src="/images/p5%20metal%20tooling.gif" 
-     style="width:65%">
+     style="width:45%">
 		 
 ##### Modular Curricular Activity P3 Skipping
 <img src="/images/p3%20skipping%20rope.gif" 
-     style="width:65%">
+     style="width:45%">
 		 
 ##### P4 Buddy Programme
 <img src="/images/p4%20buddy%20prog.gif" 
-     style="width:65%">
+     style="width:45%">
 		 
 ##### P4 Museum-Based Learning
 <img src="/images/p4%20museum%20based%20learning.gif" 
-     style="width:65%">
+     style="width:45%">
 		 
 ##### P4 values Inculcation Programme
 <img src="/images/p4%20values%20inculation%20programme.gif" 
-     style="width:65%">
+     style="width:45%">
 		 
 ##### Pi Day
 <img src="/images/Pi%20day.gif" 
@@ -49,4 +49,4 @@ description: ""
 		 
 ##### Total Defence Day
 <img src="/images/Total%20defence%20day.gif" 
-     style="width:65%">
+     style="width:55%">
