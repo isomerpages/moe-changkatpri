@@ -8,6 +8,11 @@ description: ""
 
 
 ##### Chinese New Year Celebration 2022
+<img src="/images/CNY.gif" 
+     style="width:75%">
+
+
+
 ##### 2022 P1 First Day of School
 ##### Modular Curricular Activity P4 Batik
 ##### Modular Curricular Activity P5 Metal Tooling
