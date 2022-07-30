@@ -18,5 +18,16 @@ For the ICON email address, please take note the following:
 *   Take note of the correct domain is student**S**.edu.sg not ~student.edu.sg~
 
 Here's an example of the slip:
-
 ![](/images/slip.png)
+
+#### Student ICON Onboard Guide
+For more instructions on Student ICON Onboarding, please click [here](https://tinyurl.com/ICONckps2021) <br>
+For more instructions on Google Classroom, please click [here](/files/Student%20iCON%20-%20Student%20EDM%20-%20Introducing%20Google%20Classroom_3%20ways%20to%20join%20Google%20classroom.pdf)
+
+#### Password
+**Student ICON is primarily used to log on to the computers in school. Please approach your form teacher if you need your account to be unlocked. **
+
+#### Password Requirements
+Do take note of the password policy below:
+![](/images/Student%20iCON%20-%20Password%20Requirements.jpg)
+
