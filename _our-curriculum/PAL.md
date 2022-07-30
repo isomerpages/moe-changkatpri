@@ -12,7 +12,8 @@ PAL is an initiative introduced at the lower primary (P1 & P2) to ensure that ou
      style="width:45%" align = left>
 		 <img src="/images/pal2.jpg" 
      style="width:45%" align = right>
-
+		 <br>
+		 
 
 | 2022 PAL Modules |  |  |  |
 |---|---|---|---|
