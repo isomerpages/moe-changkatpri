@@ -29,3 +29,5 @@ We believe in a spiral approach where students will revisit the same topics eve
 |  |  | Primary 4 (8 sessions of 1 hour each) | ·       Micro:bits (Intermediate) | Create a micro:bit prototype related to saving electricity, saving water and promote 3Rs. |
 |  | Level 3: Advanced Coding | Primary 5 (10 sessions of 1 hour each) | ·       Micro:bits (Advanced) | Build a micro:bit prototype to solve an open-ended environment problem |
 |
+
+**(images)**
