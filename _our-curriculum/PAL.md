@@ -20,4 +20,3 @@ PAL is an initiative introduced at the lower primary (P1 & P2) to ensure that ou
 | Primary 2 | Visual Arts | Sports & Games | Outdoor Education |
 |
 
-**(pal3,4,5 - unable to upload)**
