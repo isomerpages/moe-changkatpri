@@ -13,7 +13,7 @@ In 2019, we introduced our **Applied Learning Programme (ALP)**. ALP has a E3 a
 
 Its emphasis is on hands-on learning and experiments, solving real-life problems related to our Earth and Environment in our everyday lives.
 
-Do watch the following video on our school’s ALP: [https://www.youtube.com/watch?v=AoP6IrzAvic](https://www.youtube.com/watch?v=AoP6IrzAvic)
+Do watch the following video on our school’s ALP: <br> [https://www.youtube.com/watch?v=AoP6IrzAvic](https://www.youtube.com/watch?v=AoP6IrzAvic)
 
 Students will then apply these skills they learnt in the implementation of their **Project Work (PW)**, which is the end product of the ALP.
 
