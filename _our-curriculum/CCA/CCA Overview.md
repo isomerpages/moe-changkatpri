@@ -5,10 +5,9 @@ description: ""
 third_nav_title: CCA
 ---
 ### CCA
-
-**_  
-"Beyond Academic Excellence,_** <br>
-**_Skills and Values Shape Character"_**
+  
+**"Beyond Academic Excellence,**<br>
+**Skills and Values Shape Character"**
 
 #### Vision
 Pupils who are holistically developed through CCA
