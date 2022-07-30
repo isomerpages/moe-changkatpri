@@ -11,6 +11,6 @@ description: ""
  <br>
 * Click   [here](https://go.gov.sg/fhblparentkit)   to see   **Parent Kit - Supporting your child during Full Home-Based Learning**  [](/files/fhblparentkit.pdf)
 <br>
-* Click   [here](https://changkatpri-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Parents/2016/Resilience-Resources_for%20parents_final.pdf)   to download the article on   **Resilience Booster** 
+* Click   [here](https://changkatpri-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Parents/2016/Resilience-Resources_for%20parents_final.pdf)   to download the article on   **Resilience Booster** [](/files/Resilience-Resources_for%20parents_final.pdf)
 <br>
-* Click   [here](https://changkatpri-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Parents/2016/Transition_final.pdf)   to download the article on   **Supporting Your Child's transition through Primary 1**
+* Click   [here](https://changkatpri-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Parents/2016/Transition_final.pdf)   to download the article on   **Supporting Your Child's transition through Primary 1**[](/files/Transition_final.pdf)
