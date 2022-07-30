@@ -37,5 +37,5 @@ The school CCAs are designed to:
 
 | CCA | Teachers | Day and Time |
 |:---:|:---:|:---:|
-| Tech Club | Mr Chong Yong Tian (OIC)<br> [chong_yong_tian@schools.gov.sg](chong_yong_tian@schools.gov.sg) <br>Mr Seow Tian Hou<br> Mr Mohamed Faiz <br>Mdm Tan Huaying Maybelline <br>Mdm Siti Hajar<br> Miss Dhashayani   <br>Miss Tia Amelia <br>Ms Dian Hazwani (ICT Trainer)   | Mondays  <br><br> Semester 1<br><br> 2.00 – 3.30 p.m.<br><br>   Semester 2 2.00 – 4.00 p.m. |
+| Tech Club | Mr Chong Yong Tian (OIC)<br> [chong_yong_tian@schools.gov.sg](chong_yong_tian@schools.gov.sg) <br>Mr Seow Tian Hou<br> Mr Mohamed Faiz <br>Mdm Tan Huaying Maybelline <br>Mdm Siti Hajar<br> Miss Dhashayani   <br>Miss Tia Amelia <br>Ms Dian Hazwani (ICT Trainer)   | Mondays  <br><br> Semester 1<br> 2.00 – 3.30 p.m.<br><br>   Semester 2 <br>2.00 – 4.00 p.m. |
 |
