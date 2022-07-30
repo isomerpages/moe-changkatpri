@@ -20,5 +20,5 @@ third_nav_title: Mother Tongue
 		 
 #### Approved Dictionary List for PSLE
 
-https://www.seab.gov.sg/home/examinations/approved-dictionaries <br>
+[https://www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries) <br>
 Refer to this website to get the latest approved dictionary list.
