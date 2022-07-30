@@ -24,6 +24,7 @@ School eResource Repository (SERR): <br>
 * <img src="/images/APPLE.png" style="width:30%" align = "left">
 For Apple users, please scan this <br> QR code to access the App Store 
 <br> <br> <br> <br> <br>
+<br>
 * <img src="/images/ANDROID.png" style="width:30%" align = "left">
 * For Android users, please scan this <bR> above QR code to access the Play Store
 <br> <br> <br> <br> 
