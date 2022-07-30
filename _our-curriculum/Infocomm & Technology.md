@@ -32,15 +32,15 @@ The focus of CW is about helping students to become responsible digital learners
 Teaching and encouraging digital responsibility also ties in with our school vision of nurturing Citizens of Honour. This is achieved through our Cyber Wellness programme in CKPS which aims to equip our students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.
 
 * Cyber wellness lessons during FTGP <br>
-* Assembly talks<br>
-* Termly cyber wellness messages<br>
-* Cyber Wellness Week<br>
-* Cyber Wellness Learning Fiesta<br>
-* Partnering Parents on Cyber Wellness<br>
-*  * Termly Parent Notifications<br>
-*  * Semester Newsletter<br>
-*   Empowering Students<br>
-*   *  ICT Leaders undergo training to lead and advocate cyber wellness messages to their peers.
+* Assembly talks<br>
+* Termly cyber wellness messages<br>
+* Cyber Wellness Week<br>
+* Cyber Wellness Learning Fiesta<br>
+* Partnering Parents on Cyber Wellness<br>
+  * Termly Parent Notifications<br>
+  * Semester Newsletter<br>
+* Empowering Students<br>
+  * ICT Leaders undergo training to lead and advocate cyber wellness messages to their peers.
 
 <img src="/images/cy.png" 
      style="width:75%">
