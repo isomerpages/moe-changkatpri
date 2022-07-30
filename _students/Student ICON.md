@@ -18,7 +18,8 @@ For the ICON email address, please take note the following:
 *   Take note of the correct domain is student**S**.edu.sg not ~student.edu.sg~
 
 Here's an example of the slip:
-![](/images/slip.png)
+<img src="/images/slip.png" 
+     style="width:85%">
 
 #### Student ICON Onboard Guide
 For more instructions on Student ICON Onboarding, please click [here](https://tinyurl.com/ICONckps2021) <br>
@@ -29,5 +30,6 @@ For more instructions on Google Classroom, please click [here](/files/Student%2
 
 #### Password Requirements
 Do take note of the password policy below:
-![](/images/Student%20iCON%20-%20Password%20Requirements.jpg)
 
+<img src="/images/Student%20iCON%20-%20Password%20Requirements.jpg" 
+     style="width:85%">
