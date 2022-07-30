@@ -17,3 +17,8 @@ third_nav_title: Mother Tongue
      style="width:75%">
 <img src="/images/malay%204.jpg"
      style="width:75%">
+		 
+#### Approved Dictionary List for PSLE
+
+https://www.seab.gov.sg/home/examinations/approved-dictionaries <br>
+Refer to this website to get the latest approved dictionary list.
