@@ -41,3 +41,5 @@ Teaching and encouraging digital responsibility also ties in with our school vis
 *  * Semester Newsletter<br>
 *   Empowering Students<br>
 *   *  ICT Leaders undergo training to lead and advocate cyber wellness messages to their peers.
+
+**(cyberwellness image)**
