@@ -6,4 +6,4 @@ description: ""
 ### Student Learning Space (SLS)
 
 Please click on the link below:
-*   [Student Learning Space(SLS)](https://vle.learning.moe.edu.sg/login) - broken link
+*   [Student Learning Space(SLS)](https://vle.learning.moe.edu.sg/login)
