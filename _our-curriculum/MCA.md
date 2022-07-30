@@ -8,7 +8,10 @@ description: ""
 #### Modular Curricular Activities (MCA) @ Changkat
 MCA aim to promote mass participation, provides students with the opportunity to experience a wide range of activities as well as facilitate the development of social and emotional competencies.
 
-**(MCA image)**
+<img src="/images/mca4.jpg" 
+     style="width:46.3%" align = left>
+		 <img src="/images/mca1.jpg" 
+     style="width:45%" align = right>
 
 | 2022 MCA |  |  |  |  |
 |---|---|---|---|---|
@@ -18,4 +21,4 @@ MCA aim to promote mass participation, provides students with the opportunity to
 | Primary 6 | Dance/ iPad GarageBand/ Cajon/ STOMP/ Ukulele | Inline Skating & Dragon Boating | Social Enterprise Day (SED) |   |
 |
 
-**(MCA image)**
+![](/images/PHOTO-2019-10-21-14-34-01.jpg)
