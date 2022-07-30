@@ -28,5 +28,6 @@ For Apple users, please scan this <br> QR code to access the App Store
 * <img src="/images/ANDROID.png" style="width:30%" align = "left">
 * For Android users, please scan this <bR> above QR code to access the Play Store
 <br> <br> <br> <br> 
+<br>
 * Upon installing the mobile application, select your school library and log in with your OPAC borrower ID and password.
 3. Please contact Civica at 6511 7887 or e-mail us at [helpdesk@civica.com.sg](helpdesk@civica.com.sg) should you have any queries.
