@@ -16,9 +16,9 @@ In Changkat, our LLP – ‘**SOAR@CKP’ (S**ports**, O**utdoor**, A**thletics 
 * Establish the school as a Champion and Advocate for sports and outdoor activities through the organization of inter-class games, learn-to-play programmes for students and community outreach programmes.
 
 <img src="images/LLP1.jpg" 
-     style="width:34%" align = left>
+     style="width:33%" align = left>
 <img src="images/LLP2.jpg" 
-     style="width:45%" align = left>
+     style="width:44%" align = left>
 
 | Tier 1 Programmes <br>(For All Students) | Tier 2 Programmes <br>(for students with greater interest and/ or aptitude) |
 |---|---|
