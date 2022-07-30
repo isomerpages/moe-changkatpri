@@ -30,5 +30,12 @@ The school CCAs are designed to:
 | Choir | Miss Ha Siok Ting (OIC)<br> [ha_siok_ting@schools.gov.sg](ha_siok_ting@schools.gov.sg) <br>Ms Anithasri   | Mondays eCCA:<br> 2.45 p.m. onwards   |
 | Dance (Modern) | Miss Rauhdah (OIC)<br> [Rauhdah_ABDUL_LATIF@schools.gov.sg](Rauhdah_ABDUL_LATIF@schools.gov.sg)<br> Mdm Kalai Selvi<br> Ms Gladys Soh Kang Hwee<br> Mrs Manoj Kamala   | Mondays<br> 2.00 – 4.00 p.m.   |
 | Guitar Ensemble | Miss Nur Azura (OIC)<br> [nur_azura_rahim@schools.gov.sg](nur_azura_rahim@schools.gov.sg)<br> Mdm Tay Aifang,<br> Faith Ms Ivy Ang Wei Li   | Thursdays<br> 2.00 – 4.00 p.m.   |
-| Art Club | Mdm Aznani (OIC)<br> [aznani_aladin@schools.gov.sg](aznani_aladin@schools.gov.sg)<br> Miss Faradillah<br> Mrs Sim-Ng Li Leng <br>Mdm Geeta Jayakumar<br> Mdm Chew Poh Kim<br> Mdm Koh Geok Hwa   | Mondays<br>   Semester 1<br> 2.00 – 3.30 p.m.   Semester 2 <br>2.00 – 4.00 p.m. |
+| Art Club | Mdm Aznani (OIC)<br> [aznani_aladin@schools.gov.sg](aznani_aladin@schools.gov.sg)<br> Miss Faradillah<br> Mrs Sim-Ng Li Leng <br>Mdm Geeta Jayakumar<br> Mdm Chew Poh Kim<br> Mdm Koh Geok Hwa   | Mondays<br><br> Semester 1<br> 2.00 – 3.30 p.m. <br><br>  Semester 2 <br>2.00 – 4.00 p.m. |
+|
+
+##### Clubs and Societies
+
+| CCA | Teachers | Day and Time |
+|:---:|:---:|:---:|
+| Tech Club | Mr Chong Yong Tian (OIC)<br> [chong_yong_tian@schools.gov.sg](chong_yong_tian@schools.gov.sg) <br>Mr Seow Tian Hou<br> Mr Mohamed Faiz <br>Mdm Tan Huaying Maybelline <br>Mdm Siti Hajar<br> Miss Dhashayani   <br>Miss Tia Amelia <br>Ms Dian Hazwani (ICT Trainer)   | Mondays  <br><br> Semester 1<br><br> 2.00 – 3.30 p.m.<br><br>   Semester 2 2.00 – 4.00 p.m. |
 |
