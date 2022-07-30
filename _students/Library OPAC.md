@@ -21,9 +21,11 @@ School eResource Repository (SERR): <br>
 2. Here are the instructions for downloading and installing the Mobile Application.
 * Search for ‘MySchoolLibrary’ in the App Store/Play Store.
 * Alternatively, scan the QR code indicated below to access the App Store/ Play Store and install the ‘MySchoolLibrary’ application.
-	* | For Apple users, please scan the above QR code to access the App Store | For Android users, please scan the above QR code to access the Play Store |
-|:---:|:---:|
-<img src="images/APPLE.png" style="width:50%"> | <img src="images/ANDROID.png" style="width:50%">
-<br>
+* <img src="/images/APPLE.png" style="width:30%" align = "left">
+For Apple users, please scan this <br> QR code to access the App Store 
+<br> <br> <br> <br> <br>
+* <img src="/images/ANDROID.png" style="width:30%" align = "left">
+* For Android users, please scan this <bR> above QR code to access the Play Store
+<br> <br> <br> <br> 
 * Upon installing the mobile application, select your school library and log in with your OPAC borrower ID and password.
 3. Please contact Civica at 6511 7887 or e-mail us at [helpdesk@civica.com.sg](helpdesk@civica.com.sg) should you have any queries.
