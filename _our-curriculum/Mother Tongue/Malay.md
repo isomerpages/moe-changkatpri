@@ -14,9 +14,9 @@ third_nav_title: Mother Tongue
 #### MTL Fortnight
 
 <img src="/images/malay%203.jpg" 
-     style="width:75%">
+     style="width:65%">
 <img src="/images/malay%204.jpg"
-     style="width:75%">
+     style="width:65%">
 		 
 #### Approved Dictionary List for PSLE
 
