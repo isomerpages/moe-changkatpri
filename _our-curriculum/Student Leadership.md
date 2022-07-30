@@ -8,7 +8,9 @@ description: ""
 #### Aim
 In CKPS, we believe every student can be a leader. We aim to develop student leaders to be confident learners who lead by serving and caring for others. Our Student Leadership Programme is guided by the principles of Servant Leadership and also centre about our school values, vision and mission statement in developing the leadership potential in students..
 
-**(image)**
+<img src="/images/SL.png" 
+     style="width:90%">
+
 
 | S/N | Leadership Roles | Area of Focus/Advocacy |
 |:---:|:---:|:---:|
@@ -24,8 +26,8 @@ In CKPS, we believe every student can be a leader. We aim to develop student lea
 #### Student Leadership Development Plan
 The development of our Student Leaders is based on The Student Leadership Challenge, The Five Practices of Exemplary Leadership- MICEE model by Jim Kouzes and Barry Posner which comprises:
 
-**(image)**
-
+<img src="/images/SL2.png" 
+     style="width:60%">
 ##### 1. Model the Way (Accountability)
 Student Leaders are expected to lead by example and be good role models. They will exemplify our school values through their actions and influence others to act and follow in being a citizen of honour.
 
