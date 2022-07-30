@@ -21,3 +21,5 @@ In Changkat, our LLP – ‘**SOAR@CKP’ (S**ports**, O**utdoor**, A**thletics 
 |---|---|
 | P4 Annual Camp<br>Inter-Class Games<br>Sports Carnival<br>P1 & P2 PAL (Sports & Games)<br>P1 & P2 PAL (Outdoor Education) <br>P3 MCA (Rope Skipping)<br>P4 MCA (Chess)<br>P5 MCA (Taekwando)<br>P6 MCA (Inline Skating)<br>P6 MCA (Dragon Boating)| CCA <br> Basketball <br> Track & Field<br>Wushu<br>Multi-Sports |
 |
+
+**(images)**
