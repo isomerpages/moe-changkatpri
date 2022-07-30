@@ -21,7 +21,8 @@ PAL is an initiative introduced at the lower primary (P1 & P2) to ensure that ou
 
 
 <img src="/images/pal4.jpg" 
-     style="width:45%" align = left>
+     style="width:35%" align = left>
 <img src="/images/pal3.jpg" 
-     style="width:45%" align = right>
-![](/images/pal5.jpg)
+     style="width:35%" align = right>
+<img src="/images/pal5.jpg" 
+     style="width:85%">
