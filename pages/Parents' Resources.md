@@ -3,7 +3,7 @@ title: Parents' Resources
 permalink: /parents-resources/
 description: ""
 ---
-* Click   [here](https://go.gov.sg/bondingovertheholidays)   to see   **Parent Kit - Bonding Over the Holidays**  
+* Click   [here](https://go.gov.sg/bondingovertheholidays)   to see   **Parent Kit - Bonding Over the Holidays**  [](/files/bondingovertheholidays.pdf)
 * Click   [here](https://go.gov.sg/transitioningbacktoschool)   to see   **Parent Kit - Transitioning Back To School**  
 * Click   [here](https://go.gov.sg/myindependentlearnerresourcekit)   to see   **Parent Kit - My Independent Learner**
  <br>
