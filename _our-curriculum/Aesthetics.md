@@ -13,8 +13,8 @@ Instilling in our students the love for the visual and performing arts as well a
 
 <br>
 
-|Aesthetics Team @ Changkat |  |
-|:---:|:---:|
+| Aesthetics Team @ Changkat |  |
+|---|---|
 | Mdm Haryati | SH Aesthetics & CCA |
 | Ms Hazel Huang | Art Coordinator |
 | Mdm Aznani | Assistant Art Coordinator |
