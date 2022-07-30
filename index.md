@@ -20,8 +20,8 @@ sections:
           url: /highlights/
         - title: Parent's Notification
           description: ""
-          url: /parent's-notification/
+          url: /parents-notification/
         - title: Parents' Resources
           description: ""
-          url: /parents'-resources/
+          url: /parents-resources/
 ---
