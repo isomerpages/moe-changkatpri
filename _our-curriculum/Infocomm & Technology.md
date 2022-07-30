@@ -16,7 +16,7 @@ description: ""
  
  Other ICT applications are also used pervasively in our teaching and learning such as use of the CMS, dataloggers, Google Apps and Web 2.0 tools. ICT is used as a vehicle to drive our IP subjects.
  
- #### Cyberwellness@Changkat
+#### Cyberwellness@Changkat
 
 ##### Cyber Wellness @CKPS Begins With Me
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and the awareness of how to protect oneself in cyberspace.
