@@ -14,14 +14,14 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: ""
+          url: /announcements/
         - title: Highlights
           description: ""
-          url: ""
+          url: /highlights/
         - title: Parent's Notification
           description: ""
-          url: ""
+          url: /parent's-notification/
         - title: Parents' Resources
           description: ""
-          url: ""
+          url: /parents'-resources/
 ---
