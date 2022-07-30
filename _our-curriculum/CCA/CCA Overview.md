@@ -39,3 +39,12 @@ The school CCAs are designed to:
 |:---:|:---:|:---:|
 | Tech Club | Mr Chong Yong Tian (OIC)<br> [chong_yong_tian@schools.gov.sg](chong_yong_tian@schools.gov.sg) <br>Mr Seow Tian Hou<br> Mr Mohamed Faiz <br>Mdm Tan Huaying Maybelline <br>Mdm Siti Hajar<br> Miss Dhashayani   <br>Miss Tia Amelia <br>Ms Dian Hazwani (ICT Trainer)   | Mondays  <br><br> Semester 1<br> 2.00 – 3.30 p.m.<br><br>   Semester 2 <br>2.00 – 4.00 p.m. |
 |
+
+##### Sports and Games
+
+| CCA | Teachers | Day and Time |
+|:---:|:---:|:---:|
+| Wushu | Mr Lim Choon Hong (OIC)<br> [lim_choon_hong_a@schools.gov.sg](lim_choon_hong_a@schools.gov.sg) <br>Mrs Geraldine Wong<br> Mdm Nooradelin   | Mondays & Thursdays <br>2.00 – 4.00 p.m. |
+| Track & Field (Semester 1: P4-6) (Semester 2: P3-5) | Mr Ng Boon Teng David (OIC)<br> [ng_boon_teng_david@schools.gov.sg](ng_boon_teng_david@schools.gov.sg) <br>Mdm Farhanah<br> Mdm Nur Arina <br>Mr Khairul Nizam<br> Ms Farah Khairiah | Mondays & Thursdays <br><br>  Semester 1<br> 2.00 – 3.30 p.m. <br><br>  Semester 2 <br>2.00 – 4.00 p.m. |
+| P3 Multi-sports &  Multi-sports (P4-6) (Semester 2: P3-5) | Mr Mohammad Taufeek [mohamed_taufeek_ramlan@schools.gov.sg](mohamed_taufeek_ramlan@schools.gov.sg) Mdm Sharifah Aminah Mrs Ofelia Yeo Miss Gina Goh   | Mondays & Thursdays   Semester 1 2.00 – 3.30 p.m.   Semester 2 2.00 – 4.00 p.m. |
+| Basketball (Semester 1: P4-6) (Semester 2: P3-5) | Mr Muhammad Khairil (OIC) [muhammad_khairil_kamal@schools.gov.sg](muhammad_khairil_kamal@schools.gov.sg) Mr Li Kun Peng Mdm Nadjah Mrs Saraswathy Samuel Mdm Radziyah Mrs Juliana Mr Hoo Chee Mun Mr Nurisham Mdm Yan Zhuyun Miss Hazelina Gopinathan   | Mondays & Thursdays Boys & Girls 2.00 – 5.15 p.m.   |
