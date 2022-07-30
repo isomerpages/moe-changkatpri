@@ -23,6 +23,7 @@ We believe in a spiral approach where students will revisit the same topics eve
      style="width:45%" align = left>
 <img src="/images/ALP2.jpg" 
      style="width:45%" align = left>
+<br>
 
 |  | | Level | ICT Skills |PW Product  |
 |:---:|:---:|:---:|:---:|---|
