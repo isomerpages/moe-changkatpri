@@ -16,4 +16,3 @@ PAL is an initiative introduced at the lower primary (P1 & P2) to ensure that ou
 |
 
 **(pal3,4,5 - unable to upload)**
-
