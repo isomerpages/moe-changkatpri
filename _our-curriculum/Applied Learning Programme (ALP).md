@@ -19,11 +19,7 @@ Students will then apply these skills they learnt in the implementation of their
 
 We believe in a spiral approach where students will revisit the same topics every year, with each encounter increasing in complexity and reinforcing previous learning.
 
-<img src="/images/ALP1.jpg" 
-     style="width:45%" align = left>
-<img src="/images/ALP2.jpg" 
-     style="width:45%" align = left>
-<br>
+![](/images/ALP12.jpg)
 
 |  | | Level | ICT Skills |PW Product  |
 |:---:|:---:|:---:|:---:|---|
@@ -34,7 +30,4 @@ We believe in a spiral approach where students will revisit the same topics eve
 |  | Level 3: Advanced Coding | Primary 5 (10 sessions of 1 hour each) | ·       Micro:bits (Advanced) | Build a micro:bit prototype to solve an open-ended environment problem |
 |
 
-<img src="/images/ALP3.jpg" 
-     style="width:49.9%" align = left>
-<img src="/images/ALP4.jpg" 
-     style="width:50%" align = right>
+![](/images/APL34.jpg)
