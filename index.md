@@ -24,4 +24,10 @@ sections:
         - title: Parents' Resources
           description: ""
           url: /parents-and-students/parents/parents-resources/
+  - infobar:
+      title: Events
+      subtitle: Changkat Primary School
+      description: Find out what's going on in Changkat Primary School!
+      button: Click here
+      url: /our-news/events/
 ---
