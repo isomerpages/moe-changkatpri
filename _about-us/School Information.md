@@ -3,35 +3,19 @@ title: School Information
 permalink: /About-Us/useful-information/
 description: ""
 ---
+### **School Information**
+#### **General Office**
+**Monday - Friday**: 7.00am to 5.30pm (School Term)<br>
+**Monday - Friday**: 8.00am to 5.00pm (School Holiday)<br>
+**Closed** on **Saturday, Sunday** and **Public Holidays**<br>
+School Hours: 7.40am to 1.30pm<br>
+Morning assembly activities commence at 7.30am<br>
+Students reporting after 7.30am are deemed to be late for school.
 
-### Useful Information
+<img src="/images/schinfo.png" style="width:85%">
 
-##### School Office
-Telephone: 6783 0923 <br>
-Fax: 6784 4740 <br>
-E-mail: [changkat_ps@moe.edu.sg](changkat_ps@moe.edu.sg)
+<img src="/images/schinfo1.jpg" style="width:20%;margin-right:15px;" align = "left">Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 
-##### School Bookshop
-Chalamay Company<br>
-Tel: 6782 0752 <br>
-Fax: 67822419<br>
-Opening Hours: 7.00am - 7.30am & 9.00am - 2.00pm
+<img src="/images/schinfo2.jpg" style="width:20%;margin-right:15px;" align = "left">Students are to wear the prescribed school uniform and the school PE attire. Modifications to them are not allowed. PE shirt must be tucked in at all times. <br>Boys must be clean shaven and are not allowed to sport a moustache, beard or sideburns.
 
-##### School Uniform Supplier
-My Uniform Shop<br>
-209 New Upper Chang Road,<br>
-#03-651 Singapore 460209<br>
-Tel: 6276 6689<br>
-Fax: 6242 3233
-
-##### School Dental Clinic
-Tel: 6784 4706 <br>
-or call the School General Office
-
-##### School Bus Operators
-Contact Person: Vincent Tan Cheng Guan <br>
-Tel: 9682 9469
-
-##### School Student Care Centre
-[https://learningstudioeducare.com/](https://learningstudioeducare.com/)  <br>
-SCC Centre Number: 88626248
+<img src="/images/schinfo3.jpg" style="width:20%;margin-right:15px;" align = "left">Students are to respect all staff, student leaders and schoolmates at all times. <br>Students are to be punctual for all school activities. <br>Students are to take care of the school property and keep the school compound clean.
