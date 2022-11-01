@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Parents/.keep
+      - Students/My Skills Future.md
       - Students/Student ICON.md
       - Students/Zoom for student.md
       - Students/.keep
