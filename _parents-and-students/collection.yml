@@ -2,7 +2,6 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Students/.keep
       - Parents & Students.md
       - Parents/.keep
       - Parents/FamilyMatters @ School.md
@@ -11,3 +10,4 @@ collections:
       - Parents/Parents Support Group (PIE Club).md
       - Parents/Parents' Resources.md
       - Parents/Primary ONE Blog.md
+      - Students/.keep
