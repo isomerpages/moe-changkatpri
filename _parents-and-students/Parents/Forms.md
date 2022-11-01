@@ -4,3 +4,19 @@ permalink: /parents-and-students/parents/forms/
 description: ""
 third_nav_title: Parents
 ---
+### **Forms**
+*   Click&nbsp;[here](https://form.gov.sg/60b992bd50154500128a20a4)&nbsp;to access&nbsp;**Application Form for Leave of Absence**&nbsp;(External link)
+*   Click&nbsp;[here](https://drive.google.com/file/d/1lNKA2z-5uJ-2dyf443pZ_M2CJBsOdi_K/view?usp=sharing)&nbsp;to download&nbsp;**Visitor Registration Form**
+*   Click&nbsp;[here](https://drive.google.com/file/d/15jsGdMOtpLA2Pu8unhEX9h7lShBWi0Ao/view?usp=sharing)&nbsp;to download&nbsp;**Reply Form - Cycling To School**
+*   Click&nbsp;[here](https://drive.google.com/file/d/1Nh11xGwwECCgnDVBuGQXszq-7DwFBF0M/view?usp=sharing)&nbsp;to download&nbsp;**Acknowledgement Form - Handphone Policy**
+*   Click&nbsp;[here](https://drive.google.com/file/d/1dezhvXqSOr_zhUv1i6LPRgrUyoenvQ7k/view?usp=sharing)&nbsp;to download&nbsp;**Parent Volunteer Application Form**
+*   Click&nbsp;[here](https://drive.google.com/file/d/1uLPhNXXhnJWm3tYGBanYwzUbO4SmA3rB/view?usp=sharing)&nbsp;to download&nbsp;**MOE FAS Application Form (SEP 2022)** <br>**or visit the online form:**&nbsp;[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
+<img align="left" style="width:20%" src="/images/formsqr.png">
+<br clear="left">
+
+*   Click&nbsp;[here](/files/Giro_application_form_Oct_2021.pdf)&nbsp;to download&nbsp;**Interbank GIRO Application Form**&nbsp;(External link)
+*   Click&nbsp;[here](/files/edusave_application_form_revisedsep19.pdf) to download&nbsp;**Edusave Standing Order Form**&nbsp;(External link)
+*   Click&nbsp;[here](https://drive.google.com/file/d/1P8mj5pFI93fWawVPXtQ-D5R8kV-6FrQy/view?usp=sharing)&nbsp;to download&nbsp;**NEU PC Application Form (FAS)**
+*   Click&nbsp;[here](https://drive.google.com/file/d/1Sqmrpo03UM8UvphKEDbmA1lxAbLpipg4/view?usp=sharing)&nbsp;to download&nbsp;**NEU PC Application Form (Non-FAS)**
+*   Click&nbsp;[here](https://drive.google.com/file/d/1qnc8Kmu379RGQILT6lSl9yHFZNIABv6r/view?usp=sharing)&nbsp;to download&nbsp;**Request for School Bus Services 2023 Form**&nbsp;(Submit to the School General Office by&nbsp;**15 NOV 2022**)
