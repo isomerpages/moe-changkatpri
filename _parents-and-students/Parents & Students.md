@@ -16,12 +16,12 @@ description: ""
 [Zoom guide](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/student/zoom-for-student/)
 
 #### **Parents**
-[FamilyMatters@School](https://changkatpri.moe.edu.sg/parents/familymatters-at-school)<br>
+[FamilyMatters@School](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/family-matters-at-school/)<br>
 [Financial Assistance Scheme (FAS) (External link)](https://www.moe.gov.sg/financial-matters/financial-assistance)<br>
-[Forms](https://changkatpri.moe.edu.sg/parents/forms)<br>
-[Meet the parents](https://changkatpri.moe.edu.sg/parents/meet-the-parents-2022)<br>
+[Forms](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/forms/)<br>
+[Meet the parents](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/mtp/)<br>
 [Parents Notification (PN) (External link)](https://drive.google.com/drive/folders/1Wr26Swb6J_sVGBmBKT-cjJ614ojCijTO)<br>
-[Parents Resources](https://changkatpri.moe.edu.sg/parents-n-students/parents-resources)<br>
-[Parents Support Group (PIE Club)](https://changkatpri.moe.edu.sg/parents/parents-support-group-pie-club)<br>
+[Parents Resources](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/parents-resources/)<br>
+[Parents Support Group (PIE Club)](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/pie-club/)<br>
 [Primary One Blog](https://go.gov.sg/p12023orientation)<br>
 [Sexuality Education (External link)](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
