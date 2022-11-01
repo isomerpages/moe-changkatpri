@@ -9,8 +9,6 @@ In CKPS, we believe every student can be a leader. We aim to develop student lea
 
 <img src="/images/sl1.png" style="width:85%">
 
-<br>
-
 | S/N | Leadership Roles | Area of Focus/Advocacy |
 |:---:|:---:|:---:|
 | 1 | Prefects | To represent the student body in leading and refining initiatives. To care, to serve and to lead by maintaining school discipline and building a gracious school community. |
@@ -41,5 +39,3 @@ Student Leaders are expected to be a team player and foster collaboration throug
 
 ##### **5. Encourage the Heart (Humility)**
 Student Leaders recognise and appreciate the contributions made by his/her team members through affirmation, encouragement and moral support. Conscious effort is also made to celebrate small success so as to build a strong sense of collective identity and community spirit.
-
-
