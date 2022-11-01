@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Parents/Meet the Parents.md
       - Parents/Parents Support Group (PIE Club).md
       - Parents/Parents' Resources.md
       - Parents/Primary ONE Blog.md
