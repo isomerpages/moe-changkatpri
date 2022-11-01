@@ -29,5 +29,5 @@ embed youtube
 width="700" height="350"
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%" src="/mothertongue.png">
+<img style="width:25%" src="/images/mothertongue.jpg">
 </a></p>
