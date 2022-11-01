@@ -2,5 +2,6 @@ collections:
   our-news:
     output: true
     order:
+      - E newsletter.md
       - Events/.keep
       - Recognitions.md
