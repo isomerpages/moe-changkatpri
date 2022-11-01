@@ -27,7 +27,7 @@ Teaching Science through inquiry leverages on the use of ICT to promote SDL and 
 #### **(b) Outdoor Experiential Learning**
 At Changkat Primary, pupils are given the opportunity to experience the concepts taught through outdoor experiential learning. Physical Science stations can be found around the school and lessons are conducted there. Students are also able to experience and take care of caterpillars and butterflies at our Butterfly Trail.
 
-<img src="/images/science3.png" style="width:27%;margin-right:15px;" align = "left">
+<img src="/images/science3.png" style="width:29%;margin-right:15px;" align = "left">
 
 <img src="/images/science4.jpg" style="width:34%" align=left>
 <img src="/images/science5.jpg" style="width:34%" align=right>
