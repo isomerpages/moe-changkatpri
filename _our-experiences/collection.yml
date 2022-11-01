@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Distinctive Programmes/Programme for Active Learning (PAL).md
       - Distinctive Programmes/Sustainability.md
       - Distinctive Programmes/.keep
       - Student Leadership.md
