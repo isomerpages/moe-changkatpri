@@ -1,6 +1,0 @@
-collections:
-  achievements:
-    output: true
-    order:
-      - Staff and School Achievements.md
-      - Students Achievements.md
