@@ -35,8 +35,9 @@ links:
         url: /our-news/events/
       - title: Recognitions
         url: /our-news/recognitions/
-      - title: Parents & Students
-        url: /parents-and-students/parents/
+  - title: Parents & Students
+    url: /parents-and-students/parents/
+    sublinks:
       - title: Parents
         url: /parents-and-students/parents/
       - title: Students
