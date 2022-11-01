@@ -34,3 +34,21 @@ At Changkat Primary, pupils are given the opportunity to experience the concepts
 <br><br><br><br><br><br><br>
 <img src="/images/science6.jpg" style="width:34%" align=left>
 <img src="/images/science7.png" style="width:34%" align=right>
+
+#### **(c) Learning Journeys**
+Learning Journeys are planned for the pupils to enrich their learning and to allow pupils to relate what they have learnt in the text to what they observe in the environment. The content covered is aligned to the topics that they are learning for the current year. In line with NE, pupils also learn about Singapore’s heritage and its limited resources and the importance of the needs to conserve the environment and play a role. The Learning Journey for each level is as follows:
+
+*   P3 – Lesson at Science Centre
+*   P4 – Lesson at Science Centre
+*   P5 – Gardens by the Bay
+*   P6 – Sungei Buloh Wetland Reserve
+
+#### **(d) Sony Creative Science Award (SCSA)  ~  Transform your creative invention into a toy!**
+The Sony Creative Science Award (SCSA) is an annual competition jointly organised by the Science Centre Singapore and Sony Electronics Asia Pacific Pte Ltd, with the support of the Ministry of Education and the Agency For Science, Technology and Research (A\*STAR).
+
+The main objective of this competition is to promote creativity among the primary students. The competition also provides an opportunity for them to learn about science beyond the classrooms in a fun and enjoyable way.  Changkat Primary has participated in this competition since 2012. An in-house competition is conducted yearly to shortlist the toys. Pupils are given the opportunity to showcase their toys to the other pupils during recess.
+
+#### **(b) Techniques in Tackling Science Questions**
+When engaging in scientific experiments and answering Science questions, pupils are expected to apply the scientific concepts together with one or more of the process skills learnt. At Changkat Primary, pupils are taught explicitly how to tackle thinking questions using the CER and STEPS techniques. The skills taught are progressive in nature and age-appropriate. This is further supported by a workshop mounted for parents at the beginning of the year to provide the additional coaching at home by using a common language and approach.
+
+
