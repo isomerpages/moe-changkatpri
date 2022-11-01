@@ -3,13 +3,6 @@ collections:
     output: true
     order:
       - Parents & Students.md
-      - Parents/FamilyMatters @ School.md
-      - Parents/Forms.md
-      - Parents/Meet the Parents.md
-      - Parents/Parents Support Group (PIE Club).md
-      - Parents/Parents' Resources.md
-      - Parents/Primary ONE Blog.md
-      - Parents/.keep
       - Students/ezhishi (external link).md
       - Students/Library (OPAC).md
       - Students/Microsoft Office 365 (ProPlus).md
