@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Parents/.keep
+      - Students/ezhishi (external link).md
       - Students/Library (OPAC).md
       - Students/Microsoft Office 365 (ProPlus).md
       - Students/My Skills Future.md
