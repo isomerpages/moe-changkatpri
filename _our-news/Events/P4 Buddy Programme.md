@@ -11,8 +11,8 @@ third_nav_title: Events
 
 <br clear="left">
 
-<img src="/images/p4buddy3.jpeg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/p4buddy4.jpeg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/p4buddy5.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/p4buddy3.jpeg" style="width:31%;margin-right:15px;" align = "left">
+<img src="/images/p4buddy4.jpeg" style="width:31%;margin-right:15px;" align = "left">
+<img src="/images/p4buddy5.jpeg" style="width:31%;margin-right:15px;" align = "left">
 
 <br clear="left">
