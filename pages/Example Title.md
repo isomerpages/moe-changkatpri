@@ -16,6 +16,11 @@ description: ""
 
 <br clear="left">
 
+<img src="/images/pala3.jpg" style="width:40%;margin-right:55px;" align = "right">
+<img src="/images/pala4.jpg" style="width:40%;margin-left:55px;" align = "left">
+
+<br clear="left">
+
 <figure>
 <img src="/images/cce4.jpeg" style="width:90%">
 <figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
