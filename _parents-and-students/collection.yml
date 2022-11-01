@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Parents/.keep
+      - Students/Zoom for student.md
       - Students/.keep
