@@ -10,10 +10,10 @@ In order for parents/guardians to better understand our school and level program
 
 | Level | Principal’s Address | Year Head’s Address | Form Teachers’ Briefing |
 |:---:|:---:|:---:|:---:|
-| P6 | [Principal's Brief] | [Upper YH's Brief] | [Form Teachers' Slides] |
-| P5 | [Principal's Brief] | [Upper YH's Brief] | [Form Teachers' Slides] |
-| P4 | [Principal's Brief] | [Middle YH's Brief] | [Form Teachers' Slides] |
-| P3 | [Principal's Brief] | [Middle YH's Brief] | [Form Teachers' Slides] |
-| P2 | [Principal's Brief]  |  [Lower YH's Brief] |  [Form Teachers' Slides] |
-| P1 | [Principal's Brief]  |  [Lower YH's Brief] |  [Form Teachers' Slides] |
+| P6 | [Principal's Brief](https://drive.google.com/file/d/1x9RfKR-bUh6jAfAx6s3NTHEJSkbn0yDT/view) | [Upper YH's Brief](https://drive.google.com/file/d/1x2mc0AiQAmi93wlNVyL6wb6q_KI55duN/view) | [Form Teachers' Slides] |
+| P5 | [Principal's Brief](https://drive.google.com/file/d/1RAtzdONILDFdi30bhjvZy5rMAxr9S2wX/view) | [Upper YH's Brief](https://drive.google.com/file/d/1Lw4hb_aVW3AJjaP4TYnwvy32Sirw0sQl/view) | [Form Teachers' Slides] |
+| P4 | [Principal's Brief](https://drive.google.com/file/d/1miahMAun5PcoDH0Y4WK7Z-M-AHcrRNZO/view) | [Middle YH's Brief](https://drive.google.com/file/d/12iML7uh2DHbVKAdQXGllgw7eoXSzeheG/view) | [Form Teachers' Slides] |
+| P3 | [Principal's Brief](https://drive.google.com/file/d/16xWduTWHUhm9oIqrv20c99ZHadv0cnCg/view) | [Middle YH's Brief](https://drive.google.com/file/d/1X6FCmJSGRT8OYXoS5H_DzJ8o9JHP58bf/view) | [Form Teachers' Slides] |
+| P2 | [Principal's Brief](https://drive.google.com/file/d/1sgesGV80tzrHrn4KFv8MrhmhRgEEKgnD/view)  |  [Lower YH's Brief](https://drive.google.com/file/d/1Rt0ULtY2QNNAZ5UU_0ItMkYNWmdMvTQE/view) |  [Form Teachers' Slides] |
+| P1 | [Principal's Brief](https://drive.google.com/file/d/1VLkT3EtLaVeK8W7z_WrFp_ol-NcStYT-/view)  |  [Lower YH's Brief](https://drive.google.com/file/d/13jqWpq5L04UNqZc-YKBrfTYm2Zp-ly4q/view) |  [Form Teachers' Slides] |
 |
