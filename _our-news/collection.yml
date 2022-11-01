@@ -1,4 +1,5 @@
 collections:
   our-news:
     output: true
-    order: []
+    order:
+      - Recognitions.md
