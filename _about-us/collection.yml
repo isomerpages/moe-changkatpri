@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Crest, History, Song.md
       - Changkat Primary School/.keep
       - Changkat Primary School/Vision, Mission & Values.md
       - Changkat Primary School/The Changkat Value Proposition.md
