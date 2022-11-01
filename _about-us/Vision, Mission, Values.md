@@ -6,7 +6,10 @@ description: ""
 ### **Vision, Mission, Values**
 
 <img src="/images/School%20Crest.jpg" style="width:35%;margin-right:15px;" align = "left">
+
 We believe that knowledge shines. By this, we mean that those who have acquired knowledge develop a brightness of character. They will stand out in the community and be guiding beacons to others.
+
+<br clear="left">
 
 **School Vision**<br>
 Learners with Passion, Citizens of Honour.
@@ -16,5 +19,3 @@ To instil the love for learning and nurture all-round individuals, grounded by v
 
 **School Values**<br>
 Students (PRIDE) - Patriotism, Resilience, Integrity, Discipline and Empathy
-
-
