@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Parents & Students.md
       - Parents/FamilyMatters @ School.md
       - Parents/Forms.md
       - Parents/Meet the Parents.md
