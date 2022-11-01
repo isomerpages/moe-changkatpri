@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /About-Us/contact-us/
 description: ""
 ---
-### Contact Us
+### **Contact Us**
 
 Changkat Primary School  
 Address: 11 Simei Street 3, Singapore, 529896  
