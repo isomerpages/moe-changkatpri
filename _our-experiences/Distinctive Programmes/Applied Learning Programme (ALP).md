@@ -4,11 +4,10 @@ permalink: /our-experiences/distinctive-programmes/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-
 ### **Applied Learning Programme (ALP)**
 #### **Vision and mission of ECO@CKP Applied Learning Programme**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Happenings@Changkat Primary School" src="https://www.youtube.com/embed/AoP6IrzAvic" height="350"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Happenings@Changkat Primary School" src="https://www.youtube.com/embed/AoP6IrzAvic" width="700" height="350"></iframe>
 
 In 2019, we introduced our Applied Learning Programme (ALP). ALP has a&nbsp;**E3 approach - Engage, Enrich and Empower**&nbsp;\- to cultivate a joy of learning in our students. With the theme&nbsp;**ECO@CKP**, it seeks to have our students be:
 
