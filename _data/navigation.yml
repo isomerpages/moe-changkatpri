@@ -3,85 +3,41 @@ links:
   - title: About Us
     url: /About-Us/
     sublinks:
-      - title: Changkat Primary School
+      - title: School Crest, History, Song
         url: /About-Us/
       - title: Principal's Message
         url: /About-Us/principal-message/
-      - title: School Information
+      - title: Vision, Mission, Values
         url: /About-Us/school-information/
-      - title: Our People
+      - title: School Organisation
         url: /About-Us/our-people/
-      - title: Useful Information
+      - title: School Information
         url: /About-Us/useful-information/
       - title: Contact Us
         url: /About-Us/contact-us/
-  - title: Achievements
-    url: /Achievements/staff-and-school-achievements/
+  - title: Our Experiences
+    url: /our-experiences/curriculum/
     sublinks:
-      - title: Staff and School Achievements
-        url: /Achievements/staff-and-school-achievements/
-      - title: Students Achievements
-        url: /Achievements/students-achievements/
-  - title: Photo Gallery
-    url: /Photo-Gallery/
-  - title: Our Curriculum
-    url: /Our-Curriculum/
-    sublinks:
-      - title: English Language
-        url: /Our-Curriculum/
-      - title: Mathematics
-        url: /Our-Curriculum/mathematics/
-      - title: Science
-        url: /Our-Curriculum/science/
-      - title: Mother Tongue
-        url: /Our-Curriculum/mother-tongue/
-      - title: Physical Education
-        url: /Our-Curriculum/pe/
-      - title: Aesthetics
-        url: /Our-Curriculum/aesthetics/
-      - title: PAL
-        url: /Our-Curriculum/pal/
-      - title: MCA
-        url: /Our-Curriculum/mca/
-      - title: Infocomm & Technology
-        url: /Our-Curriculum/infocomm-and-technology/
-      - title: Applied Learning Programme
-        url: /Our-Curriculum/ALP/
-      - title: Character & Citizenship Edu
-        url: /Our-Curriculum/CCE/
+      - title: Curriculum
+        url: /our-experiences/curriculum/
+      - title: Distinctive Programmes
+        url: /our-experiences/distinctive-programmes/
       - title: Student Leadership
-        url: /Our-Curriculum/student-leadership/
-      - title: CCA
-        url: /Our-Curriculum/cca/
-      - title: Learning for Life Programme
-        url: /Our-Curriculum/LLP/
-  - title: Parents
-    url: /Parents/
+        url: /our-experiences/student-leadership/
+      - title: Co-Curricular Activities (CCA)
+        url: /our-experiences/cca/
+  - title: Our News
+    url: /our-news/e-newsletter/
     sublinks:
-      - title: FamilyMatters@School
-        url: /Parents/
-      - title: Forms
-        url: /Parents/forms/
-      - title: Meet The Parents 2022
-        url: /Parents/meet-the-parents-2022/
-      - title: Parents Support Group
-        url: /Parents/PSG/
-      - title: P1 2022 Orientation Blog
-        url: /Parents/orientation-blog/
-      - title: Student's Guide to Zoom
-        url: /Parents/student-guide-to-zoom/
-  - title: Students
-    url: /Students/
-    sublinks:
-      - title: Student ICON
-        url: /Students/
-      - title: Student Learning Space (SLS)
-        url: /Students/SLS/
-      - title: Library OPAC
-        url: /Students/opac/
-      - title: Microsoft Office 365 (ProPlus)
-        url: /Students/microsoft-office-365-pro-plus/
-      - title: BBC Touchtyping
-        url: /Students/bbc-touchtyping/
-      - title: My Skills Future
-        url: /Students/my-skills-future/
+      - title: E-newsletter
+        url: /our-news/e-newsletter/
+      - title: Events
+        url: /our-news/events/
+      - title: Recognitions
+        url: /our-news/recognitions/
+      - title: Parents & Students
+        url: /parents-and-students/parents/
+      - title: Parents
+        url: /parents-and-students/parents/
+      - title: Students
+        url: /parents-and-students/students/
