@@ -2,5 +2,6 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Parents.md
       - Students.md
       - Parents & Students.md
