@@ -2,4 +2,5 @@ collections:
   our-news:
     output: true
     order:
+      - Events/.keep
       - Recognitions.md
