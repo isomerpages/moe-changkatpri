@@ -19,7 +19,7 @@ third_nav_title: School Organisation
 | PE | Mr Mohamed Taufeek | [mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg) |
 | EL | Mrs Rajeswary Thillaikumar | [rajeswary_thillaikumar@schools.gov.sg](mailto:rajeswary_thillaikumar@schools.gov.sg) |
 | MATH | Mrs Juliana Rozale | [juliana_jumaat@schools.gov.sg](mailto:juliana_jumaat@schools.gov.sg) |
-| SEN | Mdm Nooradelin Md Salleh | [nooradelin_mohamad_salle@schools.gov.sg](mailto:nooradelin_mohamad_salle@schools.gov.sg) |
+| SEN | Vacant | |
 | SC | Mdm Maybelline Tan | [tan_huaying_maybelline@schools.gov.sg](mailto:tan_huaying_maybelline@schools.gov.sg) |
 | LP | Mrs Lim - Ang Yuan Ho Celestine | [ang_yuan_ho_celestine@schools.gov.sg](mailto:ang_yuan_ho_celestine@schools.gov.sg) |
 |
