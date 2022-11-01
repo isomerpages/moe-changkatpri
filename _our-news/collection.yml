@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - E newsletter.md
+      - Events/Events.md
       - Events/Chinese New Year Celebration 2022.md
       - Events/Modular Curricular Activity P3 Skipping.md
       - Events/Modular Curricular Activity P4 Batik.md
