@@ -35,6 +35,8 @@ At Changkat Primary, pupils are given the opportunity to experience the concepts
 <img src="/images/science6.jpg" style="width:34%" align=left>
 <img src="/images/science7.png" style="width:34%" align=right>
 
+<br clear="left">
+
 #### **(c) Learning Journeys**
 Learning Journeys are planned for the pupils to enrich their learning and to allow pupils to relate what they have learnt in the text to what they observe in the environment. The content covered is aligned to the topics that they are learning for the current year. In line with NE, pupils also learn about Singapore’s heritage and its limited resources and the importance of the needs to conserve the environment and play a role. The Learning Journey for each level is as follows:
 
@@ -50,5 +52,3 @@ The main objective of this competition is to promote creativity among the primar
 
 #### **(b) Techniques in Tackling Science Questions**
 When engaging in scientific experiments and answering Science questions, pupils are expected to apply the scientific concepts together with one or more of the process skills learnt. At Changkat Primary, pupils are taught explicitly how to tackle thinking questions using the CER and STEPS techniques. The skills taught are progressive in nature and age-appropriate. This is further supported by a workshop mounted for parents at the beginning of the year to provide the additional coaching at home by using a common language and approach.
-
-
