@@ -31,7 +31,7 @@ For issues related to accessing the OPAC system, students may approach our schoo
 
 |  |  |
 |:---:|:---:|
-| For Apple users, please scan the above QR code to access the App Store | For Android users, please scan the above QR code to access the Play Store |
+| **For Apple users, please scan the above QR code to access the App Store** | **For Android users, please scan the above QR code to access the Play Store** |
 | <img src="/images/appleqr.png" style="width:45%"> | <img src="/images/appleqr.png" style="width:43%"> |
 |
 
