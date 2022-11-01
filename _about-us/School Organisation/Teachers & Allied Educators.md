@@ -4,14 +4,18 @@ permalink: /About-Us/our-people/teaching-staff/
 description: ""
 third_nav_title: School Organisation
 ---
+### **Teachers/Allied Educators**
 
+#### **Lead Teacher**
 
-### Teaching Staff
+|  |  |  |
+|:---:|:---:|:---:|
+| Lead Teacher(Ed Suppt) | Dr Steven Tan Boon Seng | [tan_boon_seng_steven@schools.gov.sg](mailto:tan_boon_seng_steven@schools.gov.sg) |
+|
 
-#### Senior Teacher
-
+#### **Senior Teacher**
 | Subject | Teacher | Email |
-|---|---|---|
+|:---:|:---:|:---:|
 | PE | Mr Mohamed Taufeek | [mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg) |
 | EL | Mrs Rajeswary Thillaikumar | [rajeswary_thillaikumar@schools.gov.sg](mailto:rajeswary_thillaikumar@schools.gov.sg) |
 | MATH | Mrs Juliana Rozale | [juliana_jumaat@schools.gov.sg](mailto:juliana_jumaat@schools.gov.sg) |
@@ -20,10 +24,10 @@ third_nav_title: School Organisation
 | LP | Mrs Lim - Ang Yuan Ho Celestine | [ang_yuan_ho_celestine@schools.gov.sg](mailto:ang_yuan_ho_celestine@schools.gov.sg) |
 |
 
-#### Primary One
+#### **Primary One**
 
 | Class | Form Teachers | Email |
-|---|---|---|
+|:---:|:---:|:---:|
 | 1 PATRIOTISM | Miss Nur Arina Binte Santoso<br>(ML Coor) | [nur_arina_santoso@schools.gov.sg](mailto:nur_arina_santoso@schools.gov.sg) |
 |  | Miss Kris Chan Hui Ying<br>(SH/Student L'ship int.) | [chan_hui_ying_b@schools.gov.sg](mailto:chan_hui_ying_b@schools.gov.sg) |
 | 1 RESILIENCE | Miss Ha Siok Ting | [ha_siok_ting@schools.gov.sg](mailto:ha_siok_ting@schools.gov.sg) |
@@ -38,10 +42,10 @@ third_nav_title: School Organisation
 |  | Miss Ivy Lai Yan Lin<br>(FAJT) | [lai_yan_lin_ivy@moe.edu.sg](mailto:lai_yan_lin_ivy@moe.edu.sg) 
 |
 
-#### Primary Two
+#### **Primary Two**
 
 | Class | Form Teachers | Email |
-|---|---|---|
+|:---:|:---:|:---:|
 | 2 PATRIOTISM | Mrs Sim-Ng Li Leng Clara<br>(ECG Coor, SED Coor) | [ng_li_leng@schools.gov.sg](mailto:ng_li_leng@schools.gov.sg) |
 |  | Mr Mohamed Taufeek B Ramlan<br>(ST/PE) | [mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg) |
 | 2 RESILIENCE | Miss Dhashayani Vallatharasu<br>(LH/Eng int.) | [dhashayani_vallatharasu@schools.gov.sg](mailto:dhashayani_vallatharasu@schools.gov.sg) |
@@ -57,10 +61,10 @@ third_nav_title: School Organisation
 |  | Miss Jiang Caiwei<br>(HOD/MA) | [jiang_caiwei@schools.gov.sg](mailto:jiang_caiwei@schools.gov.sg)
 |
 
-#### Primary Three
+#### **Primary Three**
 
 | Class | Form Teachers | Email |
-|---|---|---|
+|:---:|:---:|:---:|
 | 3 PATRIOTISM | Ms Faradillah bte Jumahat<br>(SH Innovation int.) | [faradillah_jumahat@schools.gov.sg](mailto:faradillah_jumahat@schools.gov.sg) |
 |  | Mr Nurisham Bin Ismail<br>(CCe MTL Coor) | [nurisham_ismail@schools.gov.sg](mailto:nurisham_ismail@schools.gov.sg) |
 |  | Miss Goh Shu Yi | [goh_shu_yi@schools.gov.sg](mailto:goh_shu_yi@schools.gov.sg) |
@@ -72,10 +76,10 @@ third_nav_title: School Organisation
 |  | Mrs Kamala D/O Swamy<br>(iExamms Coor) | [kamala_swamy@schools.gov.sg](mailto:kamala_swamy@schools.gov.sg) |
 | 
 
-#### Primary Four
+#### **Primary Four**
 
 | Class | Form Teachers | Email |
-|---|---|---|
+|:---:|:---:|:---:|
 | 4 PATRIOTISM | Mr Ng Boon Teng, David<br>(Teacher Counsellor) | [ng_boon_teng_david@schools.gov.sg](mailto:ng_boon_teng_david@schools.gov.sg) |
 |  | Mdm Nadjah Omar Alkhatib | [nadjah_omar_alkhatib@schools.gov.sg](mailto:nadjah_omar_alkhatib@schools.gov.sg) |
 | 4 RESILIENCE | Mrs Saraswathy Samuel | [saraswathy_subramaniam_a@schools.gov.sg](mailto:saraswathy_subramaniam_a@schools.gov.sg) |
@@ -89,10 +93,10 @@ third_nav_title: School Organisation
 |  | Mdm Siti Omairah Bte Omar | [siti_omairah_omar@moe.edu.sg](mailto:siti_omairah_omar@moe.edu.sg) |
 |
 
-#### Primary Five
+#### **Primary Five**
 
 | Class | Form Teachers | Email |
-|---|---|---|
+|:---:|:---:|:---:|
 | 5 PATRIOTISM | Mr Hoo Chee Mun<br>(SH/KM) | [hoo_chee_mun@schools.gov.sg](mailto:hoo_chee_mun@schools.gov.sg)<br>  |
 |  | Mrs Juliana Jumaat<br>(ST/MA)<br> | [juliana_jumaat@schools.gov.sg](mailto:juliana_jumaat@schools.gov.sg) |
 | 5 RESILIENCE | Mdm Sharifah Aminah Bte Syed Omar | [sharifah_aminah_syed_omar@schools.gov.sg](mailto:sharifah_aminah_syed_omar@schools.gov.sg) |
@@ -105,10 +109,10 @@ third_nav_title: School Organisation
 |  | Mdm Farah Khairiah Bte Rifaei<br>(SH/NE & Partnership) | [farah_khairiah_rifaei@schools.gov.sg](mailto:farah_khairiah_rifaei@schools.gov.sg) |
 | 
 
-#### Primary Six
+#### **Primary Six**
 
 | Class | Form Teachers | Email |
-|---|---|---|
+|:---:|:---:|:---:|
 | 6 PATRIOTISM | Miss Nur Azura Binte Rahim<br>(Music Coor) | [nur_azura_rahim@schools.gov.sg](mailto:nur_azura_rahim@schools.gov.sg) |
 |  | Mdm Salmi Bte Rahmat<br>(HOD/SC) | [salmi_rahmat@schools.gov.sg](mailto:salmi_rahmat@schools.gov.sg) |
 | 6 RESILIENCE | Mdm Siti Hajar Bte Mohamed Khan | [siti_hajar_mohamed_khan@schools.gov.sg](mailto:siti_hajar_mohamed_khan@schools.gov.sg) |
@@ -119,10 +123,10 @@ third_nav_title: School Organisation
 |  | Mrs Rajeswary Thillaikumar<br>(ST/EL) | [rajeswary_thillaikumar@schools.gov.sg](mailto:rajeswary_thillaikumar@schools.gov.sg) |
 |
 
-#### Allied Educator
+#### **Allied Educator**
 
 | Designation | Name | Email |
-|---|---|---|
+|:---:|:---:|:---:|
 | SCHOOL COUNSELLOR<br>(AED) | Miss Farah Izzah Bte Imran | [farah_izzah_imran@schools.gov.sg](mailto:farah_izzah_imran@schools.gov.sg) |
 | ALLIED EDUCATOR<br>(LBS) | Miss Nur Atasha Binte Razali<br> | [nur_atasha_razali@schools.gov.sg](mailto:nur_atasha_razali@schools.gov.sg) |
 | ALLIED EDUCATOR <br>(LBS) | Miss Surya Binte Effendi | [surya_effendi@schools.gov.sg](mailto:surya_effendi@schools.gov.sg) |
