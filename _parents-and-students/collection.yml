@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Parents/Primary ONE Blog.md
       - Parents/.keep
       - Students/ezhishi (external link).md
       - Students/Library (OPAC).md
