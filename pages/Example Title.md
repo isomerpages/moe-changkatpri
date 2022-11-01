@@ -28,6 +28,6 @@ width="800" height="450"
 embed youtube 
 width="700" height="350"
 
-<p><a href="https://scmobile.moe.edu.sg/login">
-<img style="width:25%" src="/images/SC%20Mobile%20Attendance%20Icon.png">
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" src="/mothertongue.png">
 </a></p>
