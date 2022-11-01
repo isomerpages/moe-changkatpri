@@ -28,7 +28,7 @@ description: ""
 |  | YFKE LEYUN CORMONT | 4R | NSG - Track & Field Junior | 1000m - 4th in National |
 |  | MUHD ALFIE HAKIM BIN MUHD KHAIRI | 4D | NSG - Track & Field Junior | 80m - 4th in National |
 | BASKETBALL | AARYA ATUL PADMAWAR | 6R | NSG - Basketball Senior Girls | Sportmanship Award |
-|  | SWASTIKA PRAVIN MISHRA | 6R | NSG - Basketball Senior Girls |  |
+|  | SWASTIKA PRAVIN MISHRA | 6R | NSG - Basketball Senior Girls | Sportmanship Award |
 |
 
 | Award | Staff |
