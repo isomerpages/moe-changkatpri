@@ -36,7 +36,6 @@ Teaching and encouraging digital responsibility also ties in with our school vis
 	*   Cyber Wellness Week
 	*   Cyber Wellness Learning Fiesta
 	*   Partnering Parents on Cyber Wellness
-
 *   Termly Parent Notifications
 *   Semester Newsletter
 	*   Empowering Students
