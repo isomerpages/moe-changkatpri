@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - E newsletter.md
+      - Events/Modular Curricular Activity P4 Batik.md
       - Events/Modular Curricular Activity P4 Coding.md
       - Events/Modular Curricular Activity P5 Metal Tooling.md
       - Events/P4 Buddy Programme.md
