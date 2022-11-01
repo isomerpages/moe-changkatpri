@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - E newsletter.md
+      - Events/Total Defence Day.md
       - Events/.keep
       - Recognitions.md
