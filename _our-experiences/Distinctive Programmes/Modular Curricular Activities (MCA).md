@@ -9,7 +9,7 @@ third_nav_title: Distinctive Programmes
 MCA aim to promote mass participation, provides students with the opportunity to experience a wide range of activities as well as facilitate the development of social and emotional competencies.
 
 <img src="/images/mca1.jpg" style="width:49%" align=left>
-<img src="/images/mca2.jpg" style="width:49%" align=right>
+<img src="/images/mca2.jpg" style="width:49.5%" align=right>
 
 <br clear="left">
 
