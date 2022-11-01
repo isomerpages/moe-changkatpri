@@ -23,7 +23,7 @@ MCA aim to promote mass participation, provides students with the opportunity to
 | Primary 6 | Dance/ iPad GarageBand/ Cajon/ STOMP/ Ukulele | Inline Skating & Dragon Boating | Social Enterprise Day (SED) |   |
 |
 
-<img src="/images/mca3.jpg" style="width:68%" align=left>
+<img src="/images/mca3.jpg" style="width:68.5%" align=left>
 <img src="/images/mca4a.jpg" style="width:29%" align=right>
 
 <br clear="left">
