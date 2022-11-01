@@ -23,5 +23,5 @@ sections:
           url: /parents-notification/
         - title: Parents' Resources
           description: ""
-          url: /parents-resources/
+          url: /parents-and-students/parents/parents-resources/
 ---
