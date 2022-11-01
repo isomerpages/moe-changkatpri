@@ -2,4 +2,5 @@ collections:
   our-experiences:
     output: true
     order:
+      - Student Leadership.md
       - Co Curricular Activities (CCA).md
