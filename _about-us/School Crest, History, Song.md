@@ -46,4 +46,4 @@ Citizens of Honour
 Changkat as one 
 In harmony (x2)
 
-Click <a href="https://www.youtube.com/embed/c89R2ber_g0" title="Changkat Primary School Song">here</a> to listen to Changkat Primary School Song
+Click <a href="https://www.youtube.com/embed/c89R2ber_g0" title="Changkat Primary School Song">here</a> to listen to Changkat Primary School Song.
