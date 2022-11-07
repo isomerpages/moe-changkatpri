@@ -21,9 +21,6 @@ sections:
         - title: Parent's Notification
           description: ""
           url: /parents-notification/
-        - title: Parents' Resources
-          description: ""
-          url: /parents-and-students/parents/parents-resources/
   - infobar:
       title: Events
       subtitle: Changkat Primary School
