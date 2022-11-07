@@ -4,7 +4,7 @@ permalink: /About-Us/our-people/teaching-staff/
 description: ""
 third_nav_title: School Organisation
 ---
-### **Teachers/Allied Educators**
+### **Teachers & Allied Educators**
 
 #### **Lead Teacher**
 
