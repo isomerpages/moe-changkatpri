@@ -10,6 +10,7 @@ third_nav_title: Parents
 *   Click&nbsp;[here](https://drive.google.com/file/d/15jsGdMOtpLA2Pu8unhEX9h7lShBWi0Ao/view?usp=sharing)&nbsp;to download&nbsp;**Reply Form - Cycling To School**
 *   Click&nbsp;[here](https://drive.google.com/file/d/1Nh11xGwwECCgnDVBuGQXszq-7DwFBF0M/view?usp=sharing)&nbsp;to download&nbsp;**Acknowledgement Form - Handphone Policy**
 *   Click&nbsp;[here](https://drive.google.com/file/d/1dezhvXqSOr_zhUv1i6LPRgrUyoenvQ7k/view?usp=sharing)&nbsp;to download&nbsp;**Parent Volunteer Application Form**
+*   Click&nbsp;[here](https://drive.google.com/file/d/10GgJYA4AzGqNVvSQou3ZM87Sx6qtNnyO/view)&nbsp;to download **MOEs Centrally Provisioned Digital Tools Consent Form**
 *   Click&nbsp;[here](https://drive.google.com/file/d/1uLPhNXXhnJWm3tYGBanYwzUbO4SmA3rB/view?usp=sharing)&nbsp;to download&nbsp;**MOE FAS Application Form (SEP 2022)** <br>**or visit the online form:**&nbsp;[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
 <img align="left" style="width:20%" src="/images/formsqr.png">
