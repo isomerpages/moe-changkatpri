@@ -16,8 +16,8 @@ third_nav_title: Parents
 <img align="left" style="width:20%" src="/images/formsqr.png">
 <br clear="left">
 
-*   Click&nbsp;[here](/files/Giro_application_form_Oct_2021.pdf)&nbsp;to download&nbsp;**Interbank GIRO Application Form**&nbsp;(External link)
-*   Click&nbsp;[here](/files/edusave_application_form_revisedsep19.pdf) to download&nbsp;**Edusave Standing Order Form**&nbsp;(External link)
+*   Click&nbsp;[here](https://drive.google.com/file/d/1zTvhns3m7FHupjpyLO6UQypf_9WGPFDq/view?usp=sharing)&nbsp;to download&nbsp;**Interbank GIRO Application Form**&nbsp;(External link)
+*   Click&nbsp;[here](https://drive.google.com/file/d/1LNV_xMMB4fvwl6UWeh8oR87MQ2W5vcWs/view?usp=share_link)&nbsp;to download&nbsp;**Edusave Standing Order Form**&nbsp;(External link)
 *   Click&nbsp;[here](https://drive.google.com/file/d/1P8mj5pFI93fWawVPXtQ-D5R8kV-6FrQy/view?usp=sharing)&nbsp;to download&nbsp;**NEU PC Application Form (FAS)**
 *   Click&nbsp;[here](https://drive.google.com/file/d/1Sqmrpo03UM8UvphKEDbmA1lxAbLpipg4/view?usp=sharing)&nbsp;to download&nbsp;**NEU PC Application Form (Non-FAS)**
 *   Click&nbsp;[here](https://drive.google.com/file/d/1qnc8Kmu379RGQILT6lSl9yHFZNIABv6r/view?usp=sharing)&nbsp;to download&nbsp;**Request for School Bus Services 2023 Form**&nbsp;(Submit to the School General Office by&nbsp;**15 NOV 2022**)
