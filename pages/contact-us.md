@@ -18,7 +18,7 @@ locations:
       - days: Weekends
         time: Closed
         description: Closed on Saturday,Sunday and Public Holidays
-    maps_link: ""
+    maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.34023163951633&lng=103.952080114035
     title: General Office
 contacts:
   - content:
