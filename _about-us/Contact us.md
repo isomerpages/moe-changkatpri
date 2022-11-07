@@ -11,4 +11,5 @@ Fax: 67844740
 
 Bus Service: 5, 9, 20, 38
 Nearest MRT Station: EW3 Simei MRT Station
+
 Email Address: changkat_ps@moe.edu.sg
