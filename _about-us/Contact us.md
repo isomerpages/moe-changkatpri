@@ -5,6 +5,7 @@ description: ""
 ---
 Changkat Primary School
 Address: 11 Simei Street 3, Singapore, 529896
+
 Tel: 67830923
 Fax: 67844740
 
