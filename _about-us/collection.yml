@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - School Crest, History, Song.md
       - Principal's Message.md
       - Vision, Mission, Values.md
@@ -11,4 +10,5 @@ collections:
       - School Organisation/Teachers & Allied Educators.md
       - School Organisation/Admin Team.md
       - School Information.md
+      - Contact Us.md
       - Contact us.md
