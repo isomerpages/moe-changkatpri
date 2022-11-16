@@ -11,10 +11,6 @@ sections:
       background: /images/banner.gif
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/
   - infobar:
       title: Events
       subtitle: Changkat Primary School
