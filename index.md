@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Changkat Primary School
-      background: /images/banner.gif
+      background: /images/banner.png
       button: Contact Us
       url: /contact-us/
   - infobar:
