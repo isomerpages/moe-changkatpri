@@ -29,18 +29,18 @@ third_nav_title: School Organisation
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| 1 PATRIOTISM | Miss Nur Arina Binte Santoso<br>(ML Coor) | [nur_arina_santoso@schools.gov.sg](mailto:nur_arina_santoso@schools.gov.sg) |
-|  | Miss Kris Chan Hui Ying<br>(SH/Student L'ship int.) | [chan_hui_ying_b@schools.gov.sg](mailto:chan_hui_ying_b@schools.gov.sg) |
-| 1 RESILIENCE | Miss Ha Siok Ting | [ha_siok_ting@schools.gov.sg](mailto:ha_siok_ting@schools.gov.sg) |
-|  | Mr Ban Choon Kwee<br>(HOD/PE CCA & AES) | [ban_choon_kwee@schools.gov.sg](mailto:ban_choon_kwee@schools.gov.sg) |
-| 1 INTEGRITY | Mdm Tay Aifang Faith | [tay_aifang@schools.gov.sg](mailto:tay_aifang@schools.gov.sg) |
-|  | Mrs Lim - Ang Yuan Ho Celestine<br>(ST/LP) | [ang_yuan_ho_celestine@schools.gov.sg](mailto:ang_yuan_ho_celestine@schools.gov.sg) |
-| 1 DISCIPLINE | Mrs Heng - Ong Li Mei Elaine<br>(SDR) | [elaine_ong_li_mei@schools.gov.sg](mailto:elaine_ong_li_mei@schools.gov.sg) |
-|  | Miss Rauhdah Binte Abdul Latif | [rauhdah_abdul_latif@schools.gov.sg](mailto:rauhdah_abdul_latif@schools.gov.sg) |
-| 1 EMPATHY | Mrs Christina Chan | [cheong_hwee_peng@schools.gov.sg](mailto:cheong_hwee_peng@schools.gov.sg) |
-|  | Miss Loy Hin Jong<br>(LSP, SDR, LSM) | [loy_hin_jong@schools.gov.sg](mailto:loy_hin_jong@schools.gov.sg) |
-| 1 GRATITUDE | Miss Tan Keng Tzu | [tan_keng_tzu@schools.gov.sg](mailto:tan_keng_tzu@schools.gov.sg) |
-|  | Miss Ivy Lai Yan Lin<br>(FAJT) | [lai_yan_lin_ivy@moe.edu.sg](mailto:lai_yan_lin_ivy@moe.edu.sg) |
+| 1 PATRIOTISM |  Ms Faradillah bte Jumahat<br>(SH Innovation int.) | [faradillah_jumahat@schools.gov.sg](mailto:faradillah_jumahat@schools.gov.sg) |
+|  |  Mr Lim Choon Hong | [lim_choon_hong_a@schools.gov.sg](mailto:lim_choon_hong_a@schools.gov.sg) |
+| 1 RESILIENCE |  Miss Hazelina Gopinathan | [hazelina_gopinathan@schools.gov.sg](mailto:hazelina_gopinathan@schools.gov.sg) |
+|  |  Mdm Haryati Bte Ariffin<br>(SH/CCA & AES) | [haryati_ariffin@schools.gov.sg](mailto:haryati_ariffin@schools.gov.sg) |
+| 1 INTEGRITY | Mdm Nadjah Omar Alkhatib | [nadjah_omar_alkhatib@schools.gov.sg](mailto:nadjah_omar_alkhatib@schools.gov.sg) |
+|  | Miss Soh Kang Hwee Gladys | [soh_kang_hwee_gladys@schools.gov.sg](mailto:soh_kang_hwee_gladys@schools.gov.sg)
+| 1 DISCIPLINE |Miss Jesslyn Ng Shi Hui | [ng_shi_hui_jesslyn@schools.gov.sg](mailto:ng_shi_hui_jesslyn@schools.gov.sg) |
+|  |Mr K Parathi<br>(SH/ML&TL) | [k_parathi@schools.gov.sg](mailto:k_parathi@schools.gov.sg) |
+| 1 EMPATHY | Miss Tan Keng Tzu | [tan_keng_tzu@schools.gov.sg](mailto:tan_keng_tzu@schools.gov.sg) |
+|  | Miss Yan Zhuyun<br>(MRL Coor) | [yan_zhuyun@schools.gov.sg](mailto:yan_zhuyun@schools.gov.sg) |
+| 1 GRATITUDE |  Mrs Sim-Ng Li Leng Clara<br>(ECG Coor, SED Coor) | [ng_li_leng@schools.gov.sg](mailto:ng_li_leng@schools.gov.sg) |
+|  | Mr Nurisham Bin Ismail<br>(CCe MTL Coor) | [nurisham_ismail@schools.gov.sg](mailto:nurisham_ismail@schools.gov.sg) |
 |
 
 #### **Primary Two**
