@@ -13,7 +13,7 @@ sections:
       url: /contact-us/
   - infobar:
       title: Events
-      description: Find out what's going on in Changkat Primary School!
+      description: Find out what's going on!
       button: Click here
       url: /our-news/events/
 ---
