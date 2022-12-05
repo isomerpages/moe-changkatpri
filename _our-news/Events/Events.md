@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Events
 ---
 ### **Events**
-#### **2022 P1 First Day of School**
+#### **1st day of school**
 
 <figure>
 	<figcaption>  In classroom
