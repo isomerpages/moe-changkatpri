@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: " Changkat Primary School"
+title: " "
 description: Brief site description here
 image: /images/changkat pri logo.jpg
 permalink: /
@@ -16,3 +16,4 @@ sections:
       button: Click here
       url: /our-news/events/
 ---
+
