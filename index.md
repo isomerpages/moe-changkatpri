@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.png
+      background: /images/banner2.png
       button: Contact Us
       url: /contact-us/
   - infobar:
