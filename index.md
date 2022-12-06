@@ -16,4 +16,3 @@ sections:
       button: Click here
       url: /our-news/events/
 ---
-
