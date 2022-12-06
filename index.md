@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner1.png
+      background: /images/banner.png
       button: Contact Us
       url: /contact-us/
   - infobar:
@@ -16,5 +16,3 @@ sections:
       button: Click here
       url: /our-news/events/
 ---
-
-
