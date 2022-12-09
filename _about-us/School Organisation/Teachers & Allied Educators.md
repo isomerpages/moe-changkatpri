@@ -67,12 +67,11 @@ third_nav_title: School Organisation
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Mdm Juliana Jumaat <br>|juliana_jumaat@schools.gov.sg|
+|Patriotism|Mdm Juliana Jumaat |juliana_jumaat@schools.gov.sg|
 ||Mr Md Faiz Md Siddiq| mohamed_faiz_mohamed_siddiq@schools.gov.sg|
-|Resilience|Dr Steven
-  Tan <br>(Ed Suppt)|tan_boon_seng_steven@schools.gov.sg|
+|Resilience|Dr Steven Tan <br>(Ed Suppt)|tan_boon_seng_steven@schools.gov.sg|
 ||Ms Goh Huang Yiing Gina| goh_huang_yiing@schools.gov.sg|
-||Mdm Salmi Rahmat<br> (HOD/SC)| goh_huang_yiing@schools.gov.sgsalmi_rahmat@schools.gov.sg|
+||Mdm Salmi Rahmat<br> (HOD/SC)|salmi_rahmat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Shazwani (FAJT)|
 |Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
@@ -85,4 +84,15 @@ third_nav_title: School Organisation
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|
+|Patriotism| Mrs Geeta Jayakumar|geeta_jayakumar@schools.gov.sg|
+||Mdm Zhang Fangfang<br>(HOD/MTL)|  zhang_fangfang@schools.gov.sg|
+|Resilience|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
+||Mdm Siti Aisyah Mustapha|Siti_Aisyah_Mustapha@schools.gov.sg|
+||Mr Artt Muhd Ashraf|artt_muhammad_ashraf_sulong@moe.edu.sg|
+|Integrity|Mdm Anithasri d/o Manokaran|anithasri_manokaran@schools.sg|
+||Mr Li Kun Peng<br> (CL Coor)|li_kun_peng@schools.gov.sg|
+|Discipline|Mdm
+  Kamala d/o Swamy<br>(iExamms Coor)|kamala_swamy@schools.gov.sg|
+||Mr Md Taufeek Ramlan<br>(ST/PE)|
+  mohamed_taufeek_ramlan@schools.gov.sg|
+|
