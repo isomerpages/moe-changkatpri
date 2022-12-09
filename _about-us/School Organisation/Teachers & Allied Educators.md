@@ -131,7 +131,7 @@ third_nav_title: School Organisation
 |:---:|:---:|
 |Mrs Suzanna Bambang <br>[Upper Level  Year Head]|suzanna_abdul_rahim@schools.gov.sg|
 |Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
-|Mdm Yeo Lee Theng Deon<BR>[Lower Level  Year Head|yeo_lee_theng@schools.gov.sg|
+|Mdm Yeo Lee Theng Deon<BR>[Lower Level  Year Head]|yeo_lee_theng@schools.gov.sg|
 |Ms Faradillah bte Jumahat<br>(SH Innovation int.)|faradillah_jumahat@schools.gov.sg|
 |Ms Debbie Koh Ling Zhi|Debbie_Koh_Ling_Zhi@schools.gov.sg|
 |
