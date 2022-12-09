@@ -42,4 +42,47 @@ third_nav_title: School Organisation
 |Gratitude|Mdm Ng Li Leng Clara (Mrs Sim) <br>(ECG Coor, SED Coor)|ng_li_leng@schools.gov.sg|
 ||Mr Nurisham Ismail <br>(CCe MTL Coor)|nurisham_ismail@schools.gov.sg|
 |
-  
+
+#### **Primary Two**
+
+| Class | Form Teachers | Email |
+|:---:|:---:|:---:|
+|Patriotism|Ms Chan Huiying Kris <br>(SH/Student Leadership int.)|chan_hui_ying_b@schools.gov.sg|
+||Ms Ivy Ang Wei Li|ang_wei_li_ivy@schools.gov.sg|
+||Mdm Nur Arina Santoso<br>(ML Coor) &nbsp;<br>(on NPL in Sem 1) | nur_arina_santoso@schools.gov.sg|
+|Resilience|Ms Ha Siok Ting|ha_siok_ting@schools.gov.sg|
+||Mdm Kalai Selvi d/o Kaliannan|kalai_selvi_c_kaliannan@schools.gov.sg|
+|Integrity|Mdm Tay Aifang Faith|tay_aifang@schools.gov.sg|
+||Mdm Ang Yuan Ho Celestine <br>(ST/LP) (Mrs Lim)| ang_yuan_ho_celestine@schools.gov.sg|
+| Discipline| Mdm Ong Li Mei Elaine (Mrs Heng)<br>  (SDR) |elaine_ong_li_mei@schools.gov.sg|
+||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
+|Empathy|Mdm Cheong Hwee Peng Christina (Mrs Chan)|cheong_hwee_peng@schools.gov.sg|
+||Ms Loy Hin Jong <br>(LSP, SDR, LSM)|loy_hin_jong@schools.gov.sg|
+|Gratitude|Mdm Wong Mei Ee Geraldine (Mrs Hu)|geraldine_wong_mei_ee@schools.gov.sg|
+||Mdm Jiang Caiwei<br>(HOD MATHS)|jiang_caiwei@schools.gov.sg|
+|
+
+
+#### **Primary Three**
+
+| Class | Form Teachers | Email |
+|:---:|:---:|:---:|
+|Patriotism|Mdm Juliana Jumaat <br>|juliana_jumaat@schools.gov.sg|
+||Mr Md Faiz Md Siddiq| mohamed_faiz_mohamed_siddiq@schools.gov.sg|
+|Resilience|Dr Steven
+  Tan <br>(Ed Suppt)|tan_boon_seng_steven@schools.gov.sg|
+||Ms Goh Huang Yiing Gina| goh_huang_yiing@schools.gov.sg|
+||Mdm Salmi Rahmat<br> (HOD/SC)| goh_huang_yiing@schools.gov.sgsalmi_rahmat@schools.gov.sg|
+|Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
+||Mdm Shazwani (FAJT)|
+|Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
+||Ms Celeste Loh Shi Min<br>(HOD/CCE)| celeste_loh_shi_min@schools.gov.sg|
+|Empathy|Mdm Aznani Binte Aladin<br>(Art Coor)|aznani_aladin@schools.gov.sg|
+||Mdm Tan Huaying Maybelline (Mrs Low)<br>(ST/SC)| tan_huaying_maybelline@schools.gov.sg|
+|
+
+#### **Primary Four**
+
+| Class | Form Teachers | Email |
+|:---:|:---:|:---:|
+|Patriotism|
