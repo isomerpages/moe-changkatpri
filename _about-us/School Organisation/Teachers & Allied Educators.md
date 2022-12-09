@@ -91,8 +91,6 @@ third_nav_title: School Organisation
 ||Mr Artt Muhd Ashraf|artt_muhammad_ashraf_sulong@moe.edu.sg|
 |Integrity|Mdm Anithasri d/o Manokaran|anithasri_manokaran@schools.sg|
 ||Mr Li Kun Peng<br> (CL Coor)|li_kun_peng@schools.gov.sg|
-|Discipline|Mdm
-  Kamala d/o Swamy<br>(iExamms Coor)|kamala_swamy@schools.gov.sg|
-||Mr Md Taufeek Ramlan<br>(ST/PE)|
-  mohamed_taufeek_ramlan@schools.gov.sg|
+|Discipline|Mdm Kamala d/o Swamy<br>(iExamm Coor)|kamala_swamy@schools.gov.sg|
+||Mr Md Taufeek Ramlan<br>(ST/PE)|mohamed_taufeek_ramlan@schools.gov.sg|
 |
