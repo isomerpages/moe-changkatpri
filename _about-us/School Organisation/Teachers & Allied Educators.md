@@ -126,7 +126,7 @@ third_nav_title: School Organisation
 |
 
 #### **Teachers without Form Class**
-|  |  |
+|  Name | Email |
 |:---:|:---:|
 |Mrs Suzanna Bambang [Upp YH]|suzanna_abdul_rahim@schools.gov.sg|
 |Mdm Nur Iffah Bte Abdul Ghafar [Md YH]|nur_iffah_abdul_ghafar@schools.gov.sg|
