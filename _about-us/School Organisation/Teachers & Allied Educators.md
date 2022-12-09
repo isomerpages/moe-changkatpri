@@ -10,7 +10,7 @@ third_nav_title: School Organisation
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Lead Teacher(Ed Suppt) | Dr Steven Tan Boon Seng | [tan_boon_seng_steven@schools.gov.sg](mailto:tan_boon_seng_steven@schools.gov.sg) |
+| Lead Teacher<BR>(Education Support) | Dr Steven Tan Boon Seng | [tan_boon_seng_steven@schools.gov.sg](mailto:tan_boon_seng_steven@schools.gov.sg) |
 |
 
 #### **Senior Teacher**
