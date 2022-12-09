@@ -94,3 +94,53 @@ third_nav_title: School Organisation
 |Discipline|Mdm Kamala d/o Swamy<br>(iExamm Coor)|kamala_swamy@schools.gov.sg|
 ||Mr Md Taufeek Ramlan<br>(ST/PE)|mohamed_taufeek_ramlan@schools.gov.sg|
 |
+
+#### **Primary Five**
+
+| Class | Form Teachers | Email |
+|:---:|:---:|:---:|
+|Patriotism|Ms Nur Azura Rahim<br>(Music Coor)|nur_azura_rahim@schools.gov.sg|
+||Ms Dhashayani Vallatharasu <br>(LH/Eng int.)|dhashayani_vallatharasu@schools.gov.sg<|
+|Resilience|Mr Khairul Nizam A Aziz|Khairul_Nizam_Abdul_Aziz@schools.gov.sg|
+||Mrs Rajeswary Thillaikumar<br> (ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
+|Integrity|Mdm Saraswathy Samuel|saraswathy_subramaniam_a@schools.gov.sg|
+||Mr Matthew Teo||
+|Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
+||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)|ban_choon_kwee@schools.gov.sg|
+|Excellence|Mdm Farhanah Jumahat <br>(Cyberwellness Coor)|farhanah_jumahat@moe.edu.sg|
+||Mr Seow Tian Hou<br> (HOD ICT Int.)|seow_tian_hou@schools.gov.sg|
+|
+  
+#### **Primary Six**
+
+| Class | Form Teachers | Email |
+|:---:|:---:|:---:| 
+|Patriotism|Mr Hoo Chee Mun<br>(SH/KM)|hoo_chee_mun@schools.gov.sg|
+||Mdm Soh Chern Hui (Mrs Leong)<br>(LH/EL)|soh_chern_hui@schools.gov.sg|
+|Resilience|Mdm Sharifah Aminah Syed Omar Alsree|sharifah_aminah_syed_omar@schools.gov.sg|
+||Ms Yong Yun Yun<br>(LH/Maths) | yong_yun_yun@schools.gov.sg|
+|Integrity|Muhammad Khairil Bin Kamal <br>(AYH) |muhammad_khairil_kamal@schools.gov.sg|
+||Mdm Chong Stephanie Jemima Tan<br>(SSD)|chong_stephanie_jemima_tan@schools.gov.sg|
+|Discipline|Mdm Radziyah Mohd Zain|radziyah_mohamed_zain@schools.gov.sg|
+||Mdm Farah Khairiah Rifaei <br>(SH/NE &amp; Partnership)|farah_khairiah_rifaei@schools.gov.sg|
+|
+
+#### **Teachers without Form Class**
+
+|  |  |
+|:---:|:---:|
+|Mrs Suzanna Bambang [Upp YH]|suzanna_abdul_rahim@schools.gov.sg|
+|Mdm Nur Iffah Bte Abdul Ghafar [Md YH]|nur_iffah_abdul_ghafar@schools.gov.sg|
+|Mdm Yeo Lee Theng Deon [Lw YH]|yeo_lee_theng@schools.gov.sg|
+|Ms Faradillah bte Jumahat<br>(SH Innovation int.)|faradillah_jumahat@schools.gov.sg|
+|Ms Debbie Koh Ling Zhi|Debbie_Koh_Ling_Zhi@schools.gov.sg|
+|
+#### **Allied Educator**
+
+| Designation | Name | Email |
+|:---:|:---:|:---:|
+| SCHOOL COUNSELLOR<br>(AED) | Miss Farah Izzah Bte Imran | [farah_izzah_imran@schools.gov.sg](mailto:farah_izzah_imran@schools.gov.sg) |
+| ALLIED EDUCATOR<br>(LBS) | Miss Nur Atasha Binte Razali<br> | [nur_atasha_razali@schools.gov.sg](mailto:nur_atasha_razali@schools.gov.sg) |
+| ALLIED EDUCATOR <br>(LBS) | Miss Surya Binte Effendi | [surya_effendi@schools.gov.sg](mailto:surya_effendi@schools.gov.sg) |
+|
+ 
