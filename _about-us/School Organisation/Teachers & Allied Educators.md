@@ -100,14 +100,14 @@ third_nav_title: School Organisation
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 |Patriotism|Ms Nur Azura Rahim<br>(Music Coor)|nur_azura_rahim@schools.gov.sg|
-||Ms Dhashayani Vallatharasu <br>(LH/Eng int.)|dhashayani_vallatharasu@schools.gov.sg<|
+||Ms Dhashayani Vallatharasu <br>(LH/Eng int.)|dhashayani_vallatharasu@schools.gov.sg|
 |Resilience|Mr Khairul Nizam A Aziz|Khairul_Nizam_Abdul_Aziz@schools.gov.sg|
 ||Mrs Rajeswary Thillaikumar<br> (ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
 |Integrity|Mdm Saraswathy Samuel|saraswathy_subramaniam_a@schools.gov.sg|
 ||Mr Matthew Teo| teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)|ban_choon_kwee@schools.gov.sg|
-|Excellence|Mdm Farhanah Jumahat <br>(Cyberwellness Coor)|farhanah_jumahat@moe.edu.sg|
+|Empathy|Mdm Farhanah Jumahat <br>(Cyberwellness Coor)|farhanah_jumahat@schools.gov.sg|
 ||Mr Seow Tian Hou<br> (HOD ICT Int.)|seow_tian_hou@schools.gov.sg|
 |
   
@@ -132,7 +132,7 @@ third_nav_title: School Organisation
 |Mrs Suzanna Bambang <br>[Upper Level  Year Head]|suzanna_abdul_rahim@schools.gov.sg|
 |Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
 |Mdm Yeo Lee Theng Deon<BR>[Lower Level  Year Head]|yeo_lee_theng@schools.gov.sg|
-|Ms Faradillah bte Jumahat<br>(SH Innovation int.)|faradillah_jumahat@schools.gov.sg|
+|Ms Faradillah bte Jumahat |faradillah_jumahat@schools.gov.sg|
 |Ms Debbie Koh Ling Zhi|Debbie_Koh_Ling_Zhi@schools.gov.sg|
 |
 
