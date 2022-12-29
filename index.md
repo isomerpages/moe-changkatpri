@@ -8,8 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.png
-      button: Contact Us
       url: /contact-us/
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Events
       description: Find out what's going on!
