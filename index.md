@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.png
-      url: /contact-us/
       key_highlights:
         - title: Key Highlight Title
           description: Key Highlight description
