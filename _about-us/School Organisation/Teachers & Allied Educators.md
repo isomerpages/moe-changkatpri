@@ -30,7 +30,7 @@ third_nav_title: School Organisation
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 |Patriotism|Mr Lim Choon Hong |lim_choon_hong_a@schools.gov.sg |
-||Ms Faradillah Jumahat <br>(SH Innovation int.)|farhanah_jumahat@schools.gov.sg<|
+||Ms Faradillah Jumahat <br>(SH Innovation int.)|faradillah_jumahat@schools.gov.sg|
 |Resilience|Hazelina Gopinathan|hazelina_gopinathan@schools.gov.sg|
 ||Mdm Haryati Ariffin <br>(SH/CCA &amp; AES)|haryati_ariffin@schools.gov.sg|
 |Integrity|Mdm Nadjah Omar Alkhatib|nadjah_omar_alkhatib@schools.gov.sg|
@@ -134,7 +134,9 @@ third_nav_title: School Organisation
 |Mdm Yeo Lee Theng Deon<BR>[Lower Level  Year Head]|yeo_lee_theng@schools.gov.sg|
 |Ms Faradillah bte Jumahat<br>(SH Innovation int.)|faradillah_jumahat@schools.gov.sg|
 |Ms Debbie Koh Ling Zhi|Debbie_Koh_Ling_Zhi@schools.gov.sg|
+|Mr Teo Hock Chye| teo_hock_chye@schools.gov.sg|
 |
+
 
 #### **Allied Educator**
 
