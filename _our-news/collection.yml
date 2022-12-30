@@ -3,8 +3,9 @@ collections:
     output: true
     order:
       - E newsletter.md
-      - Events/2023 P1 first day at school.md
+      - Events/.keep
       - Events/Events.md
+      - Events/2023 P1 first day at school.md
       - Events/Modular Curricular Activity P3 Skipping.md
       - Events/Modular Curricular Activity P4 Batik.md
       - Events/Modular Curricular Activity P4 Coding.md
@@ -15,5 +16,4 @@ collections:
       - Events/Pi Day.md
       - Events/Prefect Investiture.md
       - Events/Total Defence Day.md
-      - Events/.keep
       - Recognitions.md
