@@ -16,7 +16,7 @@ description: ""
 [Zoom guide](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/student/zoom-for-student/)
 
 #### **Parents**
-[FamilyMatters@School](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/family-matters-at-school/)<br>
+[Parents' Notification](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/Parentsnotification/)<br>
 [Financial Assistance Scheme (FAS) (External link)](https://www.moe.gov.sg/financial-matters/financial-assistance)<br>
 [Forms](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/forms/)<br>
 [Meet the parents](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/mtp/)<br>
