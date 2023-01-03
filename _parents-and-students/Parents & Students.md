@@ -16,11 +16,10 @@ description: ""
 [Zoom guide](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/student/zoom-for-student/)
 
 #### **Parents**
-[Parents' Notification](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/Parentsnotification/)<br>
+[Parents Notification (PN) (External link)](https://drive.google.com/drive/folders/1Wr26Swb6J_sVGBmBKT-cjJ614ojCijTO)<br> 
 [Financial Assistance Scheme (FAS) (External link)](https://www.moe.gov.sg/financial-matters/financial-assistance)<br>
 [Forms](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/forms/)<br>
 [Meet the parents](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/mtp/)<br>
-[Parents Notification (PN) (External link)](https://drive.google.com/drive/folders/1Wr26Swb6J_sVGBmBKT-cjJ614ojCijTO)<br>
 [Parents Resources](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/parents-resources/)<br>
 [Parents Support Group (PIE Club)](https://staging.d1vexrv91kdnoi.amplifyapp.com/parents-and-students/parents/pie-club/)<br>
 [Primary One Blog](https://go.gov.sg/p12023orientation)<br>
