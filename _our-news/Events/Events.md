@@ -4,13 +4,6 @@ permalink: /our-news/events/
 description: ""
 third_nav_title: Events
 ---
-
-
-
-
-
-
-
 ### **Events**
 #### **P1 1st day of school**
 
@@ -19,7 +12,7 @@ third_nav_title: Events
  </figcaption>
 </figure>
 
-<img src="/images/firstdayofsch1.jpg" style="width:49%" align=left>
+<img src="https://drive.google.com/file/d/1d-SdrMj-7CD-G5AAXRPVJQ0Ys6bolh0_/view?usp=sharing" style="width:49%" align=left>
 <img src="/images/firstdayofsch2.jpg" style="width:49%" align=right>
 
 <br clear="left">
