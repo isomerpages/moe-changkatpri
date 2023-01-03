@@ -12,7 +12,7 @@ third_nav_title: Events
  </figcaption>
 </figure>
 
-<img src="https://drive.google.com/file/d/1d-SdrMj-7CD-G5AAXRPVJQ0Ys6bolh0_/view?usp=sharing" style="width:49%" align=left>
+<img src="https://drive.google.com/file/d/1d-SdrMj-7CD-G5AAXRPVJQ0Ys6bolh0_/view" style="width:49%" align=left>
 <img src="/images/firstdayofsch2.jpg" style="width:49%" align=right>
 
 <br clear="left">
