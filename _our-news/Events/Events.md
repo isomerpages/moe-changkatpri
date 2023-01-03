@@ -12,8 +12,8 @@ third_nav_title: Events
  </figcaption>
 </figure>
 
-<img src="https://drive.google.com/file/d/1d-SdrMj-7CD-G5AAXRPVJQ0Ys6bolh0_/view" style="width:49%" align=left>
-<img src="/images/firstdayofsch2.jpg" style="width:49%" align=right>
+<img src="/images/2023%20P1%201stday/Classroom%20fam%20(1).JPG" style="width:49%" align=left>
+<img src="/images/2023%20P1%201stday/Classroom%20fam%20(2).JPG" style="width:49%" align=right>
 
 <br clear="left">
 
@@ -23,9 +23,9 @@ third_nav_title: Events
  </figcaption>
 </figure>
 
-<img src="/images/firstdayofsch3.jpg" style="width:49%" align=left>
-<img src="/images/firstdayofsch4.jpg" style="width:49%" align=right>
+<img src="/images/2023%20P1%201stday/canteen%20fam%20(1).JPG" style="width:49%" align=left>
+<img src="/images/2023%20P1%201stday/canteen%20fam%20(2).JPG" style="width:49%" align=right>
 
 <br clear="left">
 
-<img src="/images/firstdayofsch5.jpg" style="width:49%" align=left>
+<img src="/images/2023%20P1%201stday/canteen%20fam%20(3).JPG" style="width:49%" align=left>
