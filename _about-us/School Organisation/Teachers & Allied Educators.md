@@ -74,7 +74,7 @@ third_nav_title: School Organisation
 ||Ms Goh Huang Yiing Gina <BR>(VIA Coord)| goh_huang_yiing@schools.gov.sg|
 ||Mdm Salmi Rahmat<br> (HOD/SC)|salmi_rahmat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
-||Mdm Shazwani (FAJT)|
+||Ms Kelly Chan (FAJT))| chan_poh_geok@moe.edu.sg|
 |Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
 ||Ms Celeste Loh Shi Min<br>(HOD/CCE)| celeste_loh_shi_min@schools.gov.sg|
 |Empathy|Mdm Aznani Binte Aladin<br>(Art Coor)|aznani_aladin@schools.gov.sg|
