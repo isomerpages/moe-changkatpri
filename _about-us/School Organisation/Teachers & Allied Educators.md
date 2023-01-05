@@ -74,10 +74,10 @@ third_nav_title: School Organisation
 ||Ms Goh Huang Yiing Gina <BR>(VIA Coord)| goh_huang_yiing@schools.gov.sg|
 ||Mdm Salmi Rahmat<br> (HOD/SC)|salmi_rahmat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
-||Ms Kelly Chan (FAJT))| chan_poh_geok@moe.edu.sg|
+||Ms Kelly Chan (FAJT)| chan_poh_geok@moe.edu.sg|
 |Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
 ||Ms Celeste Loh Shi Min<br>(HOD/CCE)| celeste_loh_shi_min@schools.gov.sg|
-|Empathy|Mdm Aznani Binte Aladin<br>(Art Coor)|aznani_aladin@schools.gov.sg|
+|Empathy|Mdm Aznani Binte Aladin<br>(AYH, Art Coor)|aznani_aladin@schools.gov.sg|
 ||Mdm Tan Huaying Maybelline (Mrs Low)<br>(ST/SC)| tan_huaying_maybelline@schools.gov.sg|
 |
 
@@ -92,7 +92,7 @@ third_nav_title: School Organisation
 ||Mr Artt Muhd Ashraf|artt_muhammad_ashraf_sulong@moe.edu.sg|
 |Integrity|Mdm Anithasri d/o Manokaran|anithasri_manokaran@schools.sg|
 ||Mr Li Kun Peng<br> (CL Coor)|li_kun_peng@schools.gov.sg|
-|Discipline|Mdm Kamala d/o Swamy<br>(iExamm Coor)|kamala_swamy@schools.gov.sg|
+|Discipline|Mdm Kamala d/o Swamy<br>(iExams Coor)|kamala_swamy@schools.gov.sg|
 ||Mr Md Taufeek Ramlan<br>(ST/PE)|mohamed_taufeek_ramlan@schools.gov.sg|
 |
 
@@ -101,7 +101,7 @@ third_nav_title: School Organisation
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 |Patriotism|Ms Nur Azura Rahim<br>(Music Coor)|nur_azura_rahim@schools.gov.sg|
-||Ms Dhashayani Vallatharasu <br>(LH/Eng int.)|dhashayani_vallatharasu@schools.gov.sg|
+||Ms Dhashayani Vallatharasu <br>(LH/Eng \[Internal\])|dhashayani_vallatharasu@schools.gov.sg|
 |Resilience|Mr Khairul Nizam A Aziz|Khairul_Nizam_Abdul_Aziz@schools.gov.sg|
 ||Mrs Rajeswary Thillaikumar<br> (ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
 |Integrity|Mdm Saraswathy Samuel|saraswathy_subramaniam_a@schools.gov.sg|
@@ -109,7 +109,7 @@ third_nav_title: School Organisation
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)|ban_choon_kwee@schools.gov.sg|
 |Empathy|Mdm Farhanah Jumahat <br>(Cyberwellness Coor)|farhanah_jumahat@schools.gov.sg|
-||Mr Seow Tian Hou<br> (HOD ICT Int.)|seow_tian_hou@schools.gov.sg|
+||Mr Seow Tian Hou<br> (HOD ICT \[Internal\])|seow_tian_hou@schools.gov.sg|
 |
   
 #### **Primary Six**
