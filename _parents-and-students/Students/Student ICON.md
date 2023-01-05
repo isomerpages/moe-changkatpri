@@ -21,7 +21,7 @@ Here's an example of the slip:
 
 <img src="/images/access.png" style="width:75%">
 
-For more instructions on Student ICON Onboarding, please click [here](https://tinyurl.com/ICONckps2021)
+For more instructions on Student ICON Onboarding, please click [here](https://drive.google.com/file/d/1MqNXVUTQREpPG2lOSDwkv7xJJyhbxxPN/view)
 
 For more instructions on Google Classroom, please click [here](/files/Student%20iCON%20-%20Student%20EDM%20-%20Introducing%20Google%20Classroom_3%20ways%20to%20join%20Google%20classroom.pdf)
 
