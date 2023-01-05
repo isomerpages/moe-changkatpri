@@ -41,7 +41,7 @@ third_nav_title: School Organisation
 |Empathy|Mdm Tan Keng Tzu|tan_keng_tzu@schools.gov.sg|
 ||Mdm Yan Zhuyun <br>(MRL Coor)|yan_zhuyun@schools.gov.sg|
 |Gratitude|Mdm Ng Li Leng Clara (Mrs Sim) <br>(ECG Coor, SED Coor)|ng_li_leng@schools.gov.sg|
-||Mr Nurisham Ismail <br>(CCe MTL Coor)|nurisham_ismail@schools.gov.sg|
+||Mr Nurisham Ismail <br>(CCE MTL Coor)|nurisham_ismail@schools.gov.sg|
 |
 
 #### **Primary Two**
