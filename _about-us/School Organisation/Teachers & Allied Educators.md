@@ -118,7 +118,7 @@ third_nav_title: School Organisation
 |:---:|:---:|:---:| 
 |Patriotism|Mr Hoo Chee Mun<br>(SH/KM)|hoo_chee_mun@schools.gov.sg|
 ||Mdm Soh Chern Hui (Mrs Leong)<br>(LH/EL)|soh_chern_hui@schools.gov.sg|
-|Resilience|Mdm Sharifah Aminah Syed Omar Alsree|sharifah_aminah_syed_omar@schools.gov.sg|
+|Resilience|Mdm Sharifah Aminah Syed Omar Alsree <BR> (ML Coor)|sharifah_aminah_syed_omar@schools.gov.sg|
 ||Ms Yong Yun Yun<br>(LH/Maths) | yong_yun_yun@schools.gov.sg|
 |Integrity|Muhammad Khairil Bin Kamal <br>(AYH) |muhammad_khairil_kamal@schools.gov.sg|
 ||Mdm Chong Stephanie Jemima Tan<br>(SSD)|chong_stephanie_jemima_tan@schools.gov.sg|
