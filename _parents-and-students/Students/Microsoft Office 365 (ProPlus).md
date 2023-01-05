@@ -22,5 +22,3 @@ This access is **free** for students whose parents have given their consent to
 ![](/images/Microsoft%20office%203.png)
 
 Click [here](https://drive.google.com/file/d/11LCMhStTypSkqrBO5lrxofAXn86lhiPP/view?usp=sharing) to view the guide on how to install and activate the Office 365 ProPlus.  
-  
-Updated on 5 July 2022
