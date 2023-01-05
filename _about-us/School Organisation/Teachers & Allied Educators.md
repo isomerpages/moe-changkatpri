@@ -41,14 +41,14 @@ third_nav_title: School Organisation
 |Empathy|Mdm Tan Keng Tzu|tan_keng_tzu@schools.gov.sg|
 ||Mdm Yan Zhuyun <br>(MRL Coor)|yan_zhuyun@schools.gov.sg|
 |Gratitude|Mdm Ng Li Leng Clara (Mrs Sim) <br>(ECG Coor, SED Coor)|ng_li_leng@schools.gov.sg|
-||Mr Nurisham Ismail <br>(CCE MTL Coor)|nurisham_ismail@schools.gov.sg|
+||Mr Nurisham Bin Ismail <br>(CCE MTL Coor)|nurisham_ismail@schools.gov.sg|
 |
 
 #### **Primary Two**
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Ms Chan Huiying Kris <br>(SH/Student Leadership int.)|chan_hui_ying_b@schools.gov.sg|
+|Patriotism|Ms Chan Huiying Kris <br>(SH/Student Well-Being & Leadership)|chan_hui_ying_b@schools.gov.sg|
 ||Ms Ivy Ang Wei Li|ang_wei_li_ivy@schools.gov.sg|
 ||Mdm Nur Arina Santoso<br>(ML Coor) &nbsp;<br>(on NPL in Sem 1) | nur_arina_santoso@schools.gov.sg|
 |Resilience|Ms Ha Siok Ting|ha_siok_ting@schools.gov.sg|
@@ -57,7 +57,7 @@ third_nav_title: School Organisation
 ||Mdm Ang Yuan Ho Celestine <br>(ST/LP) (Mrs Lim)| ang_yuan_ho_celestine@schools.gov.sg|
 | Discipline| Mdm Ong Li Mei Elaine (Mrs Heng)<br>  (SDR) |elaine_ong_li_mei@schools.gov.sg|
 ||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
-|Empathy|Mdm Cheong Hwee Peng Christina (Mrs Chan)|cheong_hwee_peng@schools.gov.sg|
+|Empathy|Mdm Cheong Hwee Peng Christina (Mrs Chan) <BR> (Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
 ||Ms Loy Hin Jong <br>(LSP, SDR, LSM)|loy_hin_jong@schools.gov.sg|
 |Gratitude|Mdm Wong Mei Ee Geraldine (Mrs Hu)|geraldine_wong_mei_ee@schools.gov.sg|
 ||Mdm Jiang Caiwei<br>(HOD MATHS)|jiang_caiwei@schools.gov.sg|
@@ -71,7 +71,7 @@ third_nav_title: School Organisation
 |Patriotism|Mdm Juliana Jumaat |juliana_jumaat@schools.gov.sg|
 ||Mr Md Faiz Md Siddiq| mohamed_faiz_mohamed_siddiq@schools.gov.sg|
 |Resilience|Dr Steven Tan <br>(Ed Suppt)|tan_boon_seng_steven@schools.gov.sg|
-||Ms Goh Huang Yiing Gina| goh_huang_yiing@schools.gov.sg|
+||Ms Goh Huang Yiing Gina <BR>(VIA Coord)| goh_huang_yiing@schools.gov.sg|
 ||Mdm Salmi Rahmat<br> (HOD/SC)|salmi_rahmat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Shazwani (FAJT)|
