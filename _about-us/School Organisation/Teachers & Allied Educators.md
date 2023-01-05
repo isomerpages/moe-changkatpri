@@ -17,12 +17,13 @@ third_nav_title: School Organisation
 
 | Subject | Teacher | Email |
 |:---:|:---:|:---:|
-| PE | Mr Mohamed Taufeek | [mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg) |
+|CL|Mr Teo Hock Chye Matthew| teo_hock_chye@schools.gov.sg|
 | EL | Mrs Rajeswary Thillaikumar | [rajeswary_thillaikumar@schools.gov.sg](mailto:rajeswary_thillaikumar@schools.gov.sg) |
-| MATH | Mrs Juliana Rozale | [juliana_jumaat@schools.gov.sg](mailto:juliana_jumaat@schools.gov.sg) |
-| SEN | Vacant | |
-| SC | Mdm Maybelline Tan | [tan_huaying_maybelline@schools.gov.sg](mailto:tan_huaying_maybelline@schools.gov.sg) |
 | LP | Mrs Lim - Ang Yuan Ho Celestine | [ang_yuan_ho_celestine@schools.gov.sg](mailto:ang_yuan_ho_celestine@schools.gov.sg) |
+| PE | Mr Mohamed Taufeek | [mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg) |
+| MATH | Mrs Juliana Rozale | [juliana_jumaat@schools.gov.sg](mailto:juliana_jumaat@schools.gov.sg) |
+| SC | Mdm Maybelline Tan | [tan_huaying_maybelline@schools.gov.sg](mailto:tan_huaying_maybelline@schools.gov.sg) |
+| SEN | Vacant | |
 |
 
 #### **Primary One**
@@ -104,7 +105,7 @@ third_nav_title: School Organisation
 |Resilience|Mr Khairul Nizam A Aziz|Khairul_Nizam_Abdul_Aziz@schools.gov.sg|
 ||Mrs Rajeswary Thillaikumar<br> (ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
 |Integrity|Mdm Saraswathy Samuel|saraswathy_subramaniam_a@schools.gov.sg|
-||Mr Matthew Teo| teo_hock_chye@schools.gov.sg|
+||Mr Teo Hock Chye Matthew <br> (ST/CL)| teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)|ban_choon_kwee@schools.gov.sg|
 |Empathy|Mdm Farhanah Jumahat <br>(Cyberwellness Coor)|farhanah_jumahat@schools.gov.sg|
