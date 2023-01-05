@@ -22,7 +22,7 @@ third_nav_title: School Organisation
 | LP | Mrs Lim - Ang Yuan Ho Celestine | [ang_yuan_ho_celestine@schools.gov.sg](mailto:ang_yuan_ho_celestine@schools.gov.sg) |
 | PE | Mr Mohamed Taufeek | [mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg) |
 | MATH | Mrs Juliana Rozale | [juliana_jumaat@schools.gov.sg](mailto:juliana_jumaat@schools.gov.sg) |
-| SC | Mdm Maybelline Tan | [tan_huaying_maybelline@schools.gov.sg](mailto:tan_huaying_maybelline@schools.gov.sg) |
+| SCI | Mdm Maybelline Tan | [tan_huaying_maybelline@schools.gov.sg](mailto:tan_huaying_maybelline@schools.gov.sg) |
 | SEN | Vacant | |
 |
 
@@ -31,12 +31,12 @@ third_nav_title: School Organisation
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 |Patriotism|Mr Lim Choon Hong |lim_choon_hong_a@schools.gov.sg |
-||Ms Faradillah Jumahat <br>(SH Innovation int.)|faradillah_jumahat@schools.gov.sg|
+||Ms Faradillah Jumahat <br>(SH Innovation \[Internal\])|faradillah_jumahat@schools.gov.sg|
 |Resilience|Hazelina Gopinathan|hazelina_gopinathan@schools.gov.sg|
 ||Mdm Haryati Ariffin <br>(SH/CCA &amp; AES)|haryati_ariffin@schools.gov.sg|
 |Integrity|Mdm Nadjah Omar Alkhatib|nadjah_omar_alkhatib@schools.gov.sg|
 ||Ms Gladys Soh | soh_kang_hwee_gladys@schools.gov.sg|
-| Discipline | Ms Jesslyn Ng Shi Hui|ng_shi_hui_jesslyn@schools.gov.sg|
+| Discipline | Ms Jesslyn Ng Shi Hui <br>AYH)|ng_shi_hui_jesslyn@schools.gov.sg|
 || Mr K Parathi <br>(SH/ML&amp;TL)|k_parathi@schools.gov.sg|
 |Empathy|Mdm Tan Keng Tzu|tan_keng_tzu@schools.gov.sg|
 ||Mdm Yan Zhuyun <br>(MRL Coor)|yan_zhuyun@schools.gov.sg|
