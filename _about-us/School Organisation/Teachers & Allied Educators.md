@@ -39,9 +39,9 @@ third_nav_title: School Organisation
 | Discipline | Ms Jesslyn Ng Shi Hui <br>AYH)|ng_shi_hui_jesslyn@schools.gov.sg|
 || Mr K Parathi <br>(SH/ML&amp;TL)|k_parathi@schools.gov.sg|
 |Empathy|Mdm Tan Keng Tzu|tan_keng_tzu@schools.gov.sg|
-||Mdm Yan Zhuyun <br>(MRL Coor)|yan_zhuyun@schools.gov.sg|
-|Gratitude|Mdm Ng Li Leng Clara (Mrs Sim) <br>(ECG Coor, SED Coor)|ng_li_leng@schools.gov.sg|
-||Mr Nurisham Bin Ismail <br>(CCE MTL Coor)|nurisham_ismail@schools.gov.sg|
+||Mdm Yan Zhuyun <br>(MRL Coord)|yan_zhuyun@schools.gov.sg|
+|Gratitude|Mdm Ng Li Leng Clara (Mrs Sim) <br>(ECG Coord, SED Coord)|ng_li_leng@schools.gov.sg|
+||Mr Nurisham Bin Ismail <br>(CCE MTL Coord)|nurisham_ismail@schools.gov.sg|
 |
 
 #### **Primary Two**
@@ -50,7 +50,7 @@ third_nav_title: School Organisation
 |:---:|:---:|:---:|
 |Patriotism|Ms Chan Huiying Kris <br>(SH/Student Well-Being & Leadership)|chan_hui_ying_b@schools.gov.sg|
 ||Ms Ivy Ang Wei Li|ang_wei_li_ivy@schools.gov.sg|
-||Mdm Nur Arina Santoso<br>(ML Coor) &nbsp;<br>(on NPL in Sem 1) | nur_arina_santoso@schools.gov.sg|
+||Mdm Nur Arina Santoso<br>(ML Coord) &nbsp;<br>(on NPL in Sem 1) | nur_arina_santoso@schools.gov.sg|
 |Resilience|Ms Ha Siok Ting|ha_siok_ting@schools.gov.sg|
 ||Mdm Kalai Selvi d/o Kaliannan|kalai_selvi_c_kaliannan@schools.gov.sg|
 |Integrity|Mdm Tay Aifang Faith|tay_aifang@schools.gov.sg|
@@ -77,7 +77,7 @@ third_nav_title: School Organisation
 ||Ms Kelly Chan (FAJT)| chan_poh_geok@moe.edu.sg|
 |Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
 ||Ms Celeste Loh Shi Min<br>(HOD/CCE)| celeste_loh_shi_min@schools.gov.sg|
-|Empathy|Mdm Aznani Binte Aladin<br>(AYH, Art Coor)|aznani_aladin@schools.gov.sg|
+|Empathy|Mdm Aznani Binte Aladin<br>(AYH, Art Coord)|aznani_aladin@schools.gov.sg|
 ||Mdm Tan Huaying Maybelline (Mrs Low)<br>(ST/SC)| tan_huaying_maybelline@schools.gov.sg|
 |
 
@@ -91,8 +91,8 @@ third_nav_title: School Organisation
 ||Mdm Siti Aisyah Mustapha|siti_aisyah_mustapha@schools.gov.sg|
 ||Mr Artt Muhd Ashraf|artt_muhammad_ashraf_sulong@moe.edu.sg|
 |Integrity|Mdm Anithasri d/o Manokaran|anithasri_manokaran@schools.sg|
-||Mr Li Kun Peng<br> (CL Coor)|li_kun_peng@schools.gov.sg|
-|Discipline|Mdm Kamala d/o Swamy<br>(iExams Coor)|kamala_swamy@schools.gov.sg|
+||Mr Li Kun Peng<br> (CL Coord)|li_kun_peng@schools.gov.sg|
+|Discipline|Mdm Kamala d/o Swamy<br>(iExams Coord)|kamala_swamy@schools.gov.sg|
 ||Mr Md Taufeek Ramlan<br>(ST/PE)|mohamed_taufeek_ramlan@schools.gov.sg|
 |
 
@@ -100,7 +100,7 @@ third_nav_title: School Organisation
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Ms Nur Azura Rahim<br>(Music Coor)|nur_azura_rahim@schools.gov.sg|
+|Patriotism|Ms Nur Azura Rahim<br>(Music Cood)|nur_azura_rahim@schools.gov.sg|
 ||Ms Dhashayani Vallatharasu <br>(LH/Eng \[Internal\])|dhashayani_vallatharasu@schools.gov.sg|
 |Resilience|Mr Khairul Nizam A Aziz|khairul_nizam_abdul_aziz@schools.gov.sg|
 ||Mrs Rajeswary Thillaikumar<br> (ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
@@ -108,7 +108,7 @@ third_nav_title: School Organisation
 ||Mr Teo Hock Chye Matthew <br> (ST/CL)| teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)|ban_choon_kwee@schools.gov.sg|
-|Empathy|Mdm Farhanah Jumahat <br>(Cyberwellness Coor)|farhanah_jumahat@schools.gov.sg|
+|Empathy|Mdm Farhanah Jumahat <br>(Cyberwellness Coord)|farhanah_jumahat@schools.gov.sg|
 ||Mr Seow Tian Hou<br> (HOD ICT \[Internal\])|seow_tian_hou@schools.gov.sg|
 |
   
@@ -118,7 +118,7 @@ third_nav_title: School Organisation
 |:---:|:---:|:---:| 
 |Patriotism|Mr Hoo Chee Mun<br>(SH/KM)|hoo_chee_mun@schools.gov.sg|
 ||Mdm Soh Chern Hui (Mrs Leong)<br>(LH/EL)|soh_chern_hui@schools.gov.sg|
-|Resilience|Mdm Sharifah Aminah Syed Omar Alsree <BR> (ML Coor)|sharifah_aminah_syed_omar@schools.gov.sg|
+|Resilience|Mdm Sharifah Aminah Syed Omar Alsree <BR> (ML Coord)|sharifah_aminah_syed_omar@schools.gov.sg|
 ||Ms Yong Yun Yun<br>(LH/Maths) | yong_yun_yun@schools.gov.sg|
 |Integrity|Muhammad Khairil Bin Kamal <br>(AYH) |muhammad_khairil_kamal@schools.gov.sg|
 ||Mdm Chong Stephanie Jemima Tan<br>(SSD)|chong_stephanie_jemima_tan@schools.gov.sg|
