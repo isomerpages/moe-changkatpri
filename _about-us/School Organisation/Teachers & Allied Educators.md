@@ -88,7 +88,7 @@ third_nav_title: School Organisation
 |Patriotism| Mrs Geeta Jayakumar|geeta_jayakumar@schools.gov.sg|
 ||Mdm Zhang Fangfang<br>(HOD/MTL)|  zhang_fangfang@schools.gov.sg|
 |Resilience|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
-||Mdm Siti Aisyah Mustapha|Siti_Aisyah_Mustapha@schools.gov.sg|
+||Mdm Siti Aisyah Mustapha|siti_aisyah_mustapha@schools.gov.sg|
 ||Mr Artt Muhd Ashraf|artt_muhammad_ashraf_sulong@moe.edu.sg|
 |Integrity|Mdm Anithasri d/o Manokaran|anithasri_manokaran@schools.sg|
 ||Mr Li Kun Peng<br> (CL Coor)|li_kun_peng@schools.gov.sg|
