@@ -10,19 +10,19 @@ third_nav_title: School Organisation
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Lead Teacher<BR>(Education Support) | Dr Steven Tan Boon Seng | [tan_boon_seng_steven@schools.gov.sg](mailto:tan_boon_seng_steven@schools.gov.sg) |
+| Lead Teacher<BR>(Education Support) | Dr Steven Tan Boon Seng |  tan_boon_seng_steven@schools.gov.sg  |
 |
 
 #### **Senior Teacher**
 
 | Subject | Teacher | Email |
 |:---:|:---:|:---:|
-|CL|Mr Teo Hock Chye Matthew| [teo_hock_chye@schools.gov.sg](mailto:teo_hock_chye@schools.gov.sg)|
-| EL | Mrs Rajeswary Thillaikumar | [rajeswary_thillaikumar@schools.gov.sg](mailto:rajeswary_thillaikumar@schools.gov.sg) |
-| LP | Mrs Lim - Ang Yuan Ho Celestine | [ang_yuan_ho_celestine@schools.gov.sg](mailto:ang_yuan_ho_celestine@schools.gov.sg) |
-| PE | Mr Mohamed Taufeek | [mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg) |
-| MATH | Mrs Juliana Rozale | [juliana_jumaat@schools.gov.sg](mailto:juliana_jumaat@schools.gov.sg) |
-| SCI | Mdm Maybelline Tan | [tan_huaying_maybelline@schools.gov.sg](mailto:tan_huaying_maybelline@schools.gov.sg) |
+|CL|Mr Teo Hock Chye Matthew| teo_hock_chye@schools.gov.sg )|
+| EL | Mrs Rajeswary Thillaikumar |  rajeswary_thillaikumar@schools.gov.sg ) |
+| LP | Mrs Lim - Ang Yuan Ho Celestine | ang_yuan_ho_celestine@schools.gov.s |
+| PE | Mr Mohamed Taufeek |  mohamed_taufeek_ramlan@schools.gov.sg  |
+| MATH | Mrs Juliana Rozale |  juliana_jumaat@schools.gov.sg  |
+| SCI | Mdm Maybelline Tan | tan_huaying_maybelline@schools.gov.sg |
 | SEN | Vacant | |
 |
 
