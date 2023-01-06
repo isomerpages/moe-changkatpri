@@ -102,7 +102,7 @@ third_nav_title: School Organisation
 |:---:|:---:|:---:|
 |Patriotism|Ms Nur Azura Rahim<br>(Music Coor)|nur_azura_rahim@schools.gov.sg|
 ||Ms Dhashayani Vallatharasu <br>(LH/Eng \[Internal\])|dhashayani_vallatharasu@schools.gov.sg|
-|Resilience|Mr Khairul Nizam A Aziz|Khairul_Nizam_Abdul_Aziz@schools.gov.sg|
+|Resilience|Mr Khairul Nizam A Aziz|khairul_nizam_abdul_aziz@schools.gov.sg|
 ||Mrs Rajeswary Thillaikumar<br> (ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
 |Integrity|Mdm Saraswathy Samuel|saraswathy_subramaniam_a@schools.gov.sg|
 ||Mr Teo Hock Chye Matthew <br> (ST/CL)| teo_hock_chye@schools.gov.sg|
@@ -133,7 +133,7 @@ third_nav_title: School Organisation
 |Mrs Suzanna Bambang <br>[Upper Level  Year Head]|suzanna_abdul_rahim@schools.gov.sg|
 |Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
 |Mdm Yeo Lee Theng Deon<BR>[Lower Level  Year Head]|yeo_lee_theng@schools.gov.sg|
-|Ms Debbie Koh Ling Zhi|Debbie_Koh_Ling_Zhi@schools.gov.sg|
+|Ms Debbie Koh Ling Zhi|debbie_koh_ling_zhi@schools.gov.sg|
 |
 
 
