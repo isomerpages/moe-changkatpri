@@ -1,15 +1,42 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/School Crest with Name.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /About-Us/
+    sublinks:
+      - title: School Crest, History, Song
+        url: /About-Us/
+      - title: Principal's Message
+        url: /About-Us/principal-message/
+      - title: Vision, Mission, Values
+        url: /About-Us/school-information/
+      - title: School Organisation
+        url: /About-Us/our-people/
+      - title: School Information
+        url: /About-Us/useful-information/
+  - title: Our Experiences
+    url: /our-experiences/curriculum/
+    sublinks:
+      - title: Curriculum
+        url: /our-experiences/curriculum/
+      - title: Distinctive Programmes
+        url: /our-experiences/distinctive-programmes/
+      - title: Student Leadership
+        url: /our-experiences/student-leadership/
+      - title: Co-Curricular Activities (CCA)
+        url: /our-experiences/cca/
+  - title: Our News
+    url: /our-news/e-newsletter/
+    sublinks:
+      - title: E-newsletter
+        url: /our-news/e-newsletter/
+      - title: Events
+        url: /our-news/events/
+      - title: Recognitions
+        url: /our-news/recognitions/
+  - title: Parents & Students
+    url: /parents-and-students/
+    sublinks:
+      - title: Parents
+        url: /parents-and-students/Parents/Parentsnotification/
+      - title: Students
+        url: /parents-and-students/student/ezhishi/

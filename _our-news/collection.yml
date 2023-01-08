@@ -1,0 +1,8 @@
+collections:
+  our-news:
+    output: true
+    order:
+      - E newsletter.md
+      - Events/.keep
+      - Events/Events.md
+      - Recognitions.md
