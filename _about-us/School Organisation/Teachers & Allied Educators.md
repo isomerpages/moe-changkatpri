@@ -17,9 +17,9 @@ third_nav_title: School Organisation
 
 | Subject | Teacher | Email |
 |:---:|:---:|:---:|
-|CL|Mr Teo Hock Chye Matthew| teo_hock_chye@schools.gov.sg )|
-| EL | Mrs Rajeswary Thillaikumar |  rajeswary_thillaikumar@schools.gov.sg ) |
-| LP | Mrs Lim - Ang Yuan Ho Celestine | ang_yuan_ho_celestine@schools.gov.s |
+|CL|Mr Teo Hock Chye Matthew| teo_hock_chye@schools.gov.sg|
+| EL | Mrs Rajeswary Thillaikumar |  rajeswary_thillaikumar@schools.gov.sg  |
+| LP | Mrs Lim - Ang Yuan Ho Celestine | ang_yuan_ho_celestine@schools.gov.sg |
 | PE | Mr Mohamed Taufeek |  mohamed_taufeek_ramlan@schools.gov.sg  |
 | MATH | Mrs Juliana Rozale |  juliana_jumaat@schools.gov.sg  |
 | SCI | Mdm Maybelline Tan | tan_huaying_maybelline@schools.gov.sg |
@@ -35,8 +35,8 @@ third_nav_title: School Organisation
 |Resilience|Hazelina Gopinathan|hazelina_gopinathan@schools.gov.sg|
 ||Mdm Haryati Ariffin <br>(SH/CCA &amp; AES)|haryati_ariffin@schools.gov.sg|
 |Integrity|Mdm Nadjah Omar Alkhatib|nadjah_omar_alkhatib@schools.gov.sg|
-||Ms Gladys Soh | soh_kang_hwee_gladys@schools.gov.sg|
-| Discipline | Ms Jesslyn Ng Shi Hui <br>AYH)|ng_shi_hui_jesslyn@schools.gov.sg|
+||Ms Gladys Soh Kang Hwee| soh_kang_hwee_gladys@schools.gov.sg|
+| Discipline | Ms Jesslyn Ng Shi Hui <br>(AYH)|ng_shi_hui_jesslyn@schools.gov.sg|
 || Mr K Parathi <br>(SH/ML&amp;TL)|k_parathi@schools.gov.sg|
 |Empathy|Mdm Tan Keng Tzu|tan_keng_tzu@schools.gov.sg|
 ||Mdm Yan Zhuyun <br>(MRL Coord)|yan_zhuyun@schools.gov.sg|
@@ -50,11 +50,10 @@ third_nav_title: School Organisation
 |:---:|:---:|:---:|
 |Patriotism|Ms Chan Huiying Kris <br>(SH/Student Well-Being & Leadership)|chan_hui_ying_b@schools.gov.sg|
 ||Ms Ivy Ang Wei Li|ang_wei_li_ivy@schools.gov.sg|
-||Mdm Nur Arina Santoso<br>(ML Coord) &nbsp;<br>(on NPL in Sem 1) | nur_arina_santoso@schools.gov.sg|
 |Resilience|Ms Ha Siok Ting|ha_siok_ting@schools.gov.sg|
 ||Mdm Kalai Selvi d/o Kaliannan|kalai_selvi_c_kaliannan@schools.gov.sg|
 |Integrity|Mdm Tay Aifang Faith|tay_aifang@schools.gov.sg|
-||Mdm Ang Yuan Ho Celestine <br>(ST/LP) (Mrs Lim)| ang_yuan_ho_celestine@schools.gov.sg|
+||Mdm Ang Yuan Ho Celestine (Mrs Lim)<br>(ST/LP) | ang_yuan_ho_celestine@schools.gov.sg|
 | Discipline| Mdm Ong Li Mei Elaine (Mrs Heng)<br>  (SDR) |elaine_ong_li_mei@schools.gov.sg|
 ||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
 |Empathy|Mdm Cheong Hwee Peng Christina (Mrs Chan) <BR> (Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
@@ -74,7 +73,7 @@ third_nav_title: School Organisation
 ||Ms Goh Huang Yiing Gina <BR>(VIA Coord)| goh_huang_yiing@schools.gov.sg|
 ||Mdm Salmi Rahmat<br> (HOD/SC)|salmi_rahmat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
-||Ms Kelly Chan (FAJT)| chan_poh_geok@moe.edu.sg|
+||Ms Kelly Chan Poh Geok (FAJT)| chan_poh_geok@moe.edu.sg|
 |Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
 ||Ms Celeste Loh Shi Min<br>(HOD/CCE)| celeste_loh_shi_min@schools.gov.sg|
 |Empathy|Mdm Aznani Binte Aladin<br>(AYH, Art Coord)|aznani_aladin@schools.gov.sg|
@@ -134,6 +133,7 @@ third_nav_title: School Organisation
 |Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
 |Mdm Yeo Lee Theng Deon<BR>[Lower Level  Year Head]|yeo_lee_theng@schools.gov.sg|
 |Ms Debbie Koh Ling Zhi|debbie_koh_ling_zhi@schools.gov.sg|
+|Mdm Nur Arina Santoso<br>(ML Coord) &nbsp;<br>(on NPL in Sem 1) | nur_arina_santoso@schools.gov.sg|
 |
 
 

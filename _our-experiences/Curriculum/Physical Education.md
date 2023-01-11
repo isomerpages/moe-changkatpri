@@ -17,7 +17,7 @@ Every student to be able to demonstrate individually and with others the physica
 |:---:|:---:|
 | Mr Ban Choon Kwee | HOD PE, Aesthetics & CCA |
 | Mr Mohd Taufeek Ramlan | Senior Teacher PE |
-| Miss Chan Hui Ying | SH Student Leadership |
+| Miss Chan Hui Ying | SH Student Well-Being & Leadership |
 | Mr David Ng | Teacher Counselor |
 | Mr Khairil Kamal | Assistant Year Head (P5) |
 | Mr Lim Choon Hong | Health Education Coordinator |
