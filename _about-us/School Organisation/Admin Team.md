@@ -15,7 +15,7 @@ third_nav_title: School Organisation
 | Admin Executive | Mdm Tay Suan Zee | [tay_suan_zee@schools.gov.sg](mailto:tay_suan_zee@schools.gov.sg) |
 | Admin Executive | Mr Jasri Bin Bahari | [jasri_bahari@schools.gov.sg](mailto:jasri_bahari@schools.gov.sg) |
 | CSO | Miss Tan Sock Hoong Shirley | [tan_sock_hoong_shirley@schools.gov.sg](mailto:tan_sock_hoong_shirley@schools.gov.sg) |
-| CSO | Mdm Edith Chong | [chong_yen_yuen@schools.gov.sg](mailto:chong_yen_yuen@schools.gov.sg) |
+| CSO | Mdm Edith Chong Yen Yuen | [chong_yen_yuen@schools.gov.sg](mailto:chong_yen_yuen@schools.gov.sg) |
 |  CSO | Miss Rozanna Binti Roselan  | [rozanna_roselan@schools.gov.sg](mailto:rozanna_roselan@schools.gov.sg) |
 | OSO | Mdm Zainah Binte Mat Shah |  |
 | OSO | Miss Goh Ah Suay |   |
