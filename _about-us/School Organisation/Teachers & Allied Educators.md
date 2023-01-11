@@ -54,7 +54,7 @@ third_nav_title: School Organisation
 |Resilience|Ms Ha Siok Ting|ha_siok_ting@schools.gov.sg|
 ||Mdm Kalai Selvi d/o Kaliannan|kalai_selvi_c_kaliannan@schools.gov.sg|
 |Integrity|Mdm Tay Aifang Faith|tay_aifang@schools.gov.sg|
-||Mdm Ang Yuan Ho Celestine <br>(ST/LP) (Mrs Lim)| ang_yuan_ho_celestine@schools.gov.sg|
+||Mdm Ang Yuan Ho Celestine (Mrs Lim)<br>(ST/LP) | ang_yuan_ho_celestine@schools.gov.sg|
 | Discipline| Mdm Ong Li Mei Elaine (Mrs Heng)<br>  (SDR) |elaine_ong_li_mei@schools.gov.sg|
 ||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
 |Empathy|Mdm Cheong Hwee Peng Christina (Mrs Chan) <BR> (Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
@@ -74,7 +74,7 @@ third_nav_title: School Organisation
 ||Ms Goh Huang Yiing Gina <BR>(VIA Coord)| goh_huang_yiing@schools.gov.sg|
 ||Mdm Salmi Rahmat<br> (HOD/SC)|salmi_rahmat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
-||Ms Kelly Chan (FAJT)| chan_poh_geok@moe.edu.sg|
+||Ms Kelly Chan Poh Geok (FAJT)| chan_poh_geok@moe.edu.sg|
 |Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
 ||Ms Celeste Loh Shi Min<br>(HOD/CCE)| celeste_loh_shi_min@schools.gov.sg|
 |Empathy|Mdm Aznani Binte Aladin<br>(AYH, Art Coord)|aznani_aladin@schools.gov.sg|
