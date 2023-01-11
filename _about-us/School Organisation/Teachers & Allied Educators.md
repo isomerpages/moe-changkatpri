@@ -50,7 +50,6 @@ third_nav_title: School Organisation
 |:---:|:---:|:---:|
 |Patriotism|Ms Chan Huiying Kris <br>(SH/Student Well-Being & Leadership)|chan_hui_ying_b@schools.gov.sg|
 ||Ms Ivy Ang Wei Li|ang_wei_li_ivy@schools.gov.sg|
-||Mdm Nur Arina Santoso<br>(ML Coord) &nbsp;<br>(on NPL in Sem 1) | nur_arina_santoso@schools.gov.sg|
 |Resilience|Ms Ha Siok Ting|ha_siok_ting@schools.gov.sg|
 ||Mdm Kalai Selvi d/o Kaliannan|kalai_selvi_c_kaliannan@schools.gov.sg|
 |Integrity|Mdm Tay Aifang Faith|tay_aifang@schools.gov.sg|
@@ -134,6 +133,7 @@ third_nav_title: School Organisation
 |Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
 |Mdm Yeo Lee Theng Deon<BR>[Lower Level  Year Head]|yeo_lee_theng@schools.gov.sg|
 |Ms Debbie Koh Ling Zhi|debbie_koh_ling_zhi@schools.gov.sg|
+|Mdm Nur Arina Santoso<br>(ML Coord) &nbsp;<br>(on NPL in Sem 1) | nur_arina_santoso@schools.gov.sg|
 |
 
 
