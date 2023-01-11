@@ -17,8 +17,8 @@ third_nav_title: School Organisation
 
 | Subject | Teacher | Email |
 |:---:|:---:|:---:|
-|CL|Mr Teo Hock Chye Matthew| teo_hock_chye@schools.gov.sg )|
-| EL | Mrs Rajeswary Thillaikumar |  rajeswary_thillaikumar@schools.gov.sg ) |
+|CL|Mr Teo Hock Chye Matthew| teo_hock_chye@schools.gov.sg|
+| EL | Mrs Rajeswary Thillaikumar |  rajeswary_thillaikumar@schools.gov.sg  |
 | LP | Mrs Lim - Ang Yuan Ho Celestine | ang_yuan_ho_celestine@schools.gov.s |
 | PE | Mr Mohamed Taufeek |  mohamed_taufeek_ramlan@schools.gov.sg  |
 | MATH | Mrs Juliana Rozale |  juliana_jumaat@schools.gov.sg  |
