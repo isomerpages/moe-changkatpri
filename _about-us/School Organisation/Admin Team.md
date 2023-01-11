@@ -24,5 +24,5 @@ third_nav_title: School Organisation
 | Desktop Engineer | Mr Abdullah Mustafa | [abdullahm@ncs.com.sg](mailto:abdullahm@ncs.com.sg) |
 | Desktop Engineer | Mr Tan Kok Tong | [tankt@ncs.com.sg](mailto:tankt@ncs.com.sg)  |
 | ICT Trainer | Miss Dian | [dian_hazwani_saihen@moe.edu.sg](mailto:dian_hazwani_saihen@moe.edu.sg) |
-| Librarian | Ms Nur Suhailah Binte Saadon |  |
+| Librarian | Vacant |  |
 |
