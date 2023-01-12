@@ -6,4 +6,4 @@ third_nav_title: Students
 ---
 ### **Ezhishi (external link)**
 
-click [here](https://www.ezhishi.net/CKPSebook2022/) for ezhishi external link
+click [here](https://www.ezhishi.net/CKPSebook2022/) for ezhishi (external link)
