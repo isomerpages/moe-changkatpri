@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - E newsletter.md
-      - Events/Chinese New Year.md
       - Events/.keep
       - Events/Events.md
+      - Events/Chinese New Year.md
       - Recognitions.md
