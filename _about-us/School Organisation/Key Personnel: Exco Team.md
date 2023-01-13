@@ -7,7 +7,7 @@ third_nav_title: School Organisation
 ### **Key Personnel: Exco Team**
 
 | Designation | Name | Email |
-|:---:|:---:|:---:|
+|:---:|:---:|:---:| 
 | PRINCIPAL | Mrs Cheng Huey Teng | [cheng_huey_teng@schools.gov.sg](mailto:cheng_huey_teng@schools.gov.sg) |
 | VICE-PRINCIPAL (EO) | Mdm Siti Nazrah Bte Abdul Rahman | [siti_nazrah_abdul_rahman@schools.gov.sg](mailto:siti_nazrah_abdul_rahman@schools.gov.sg) |
 | VICE-PRINCIPAL (ADMIN) | Mdm Magella Tan | [magella_tan@schools.gov.sg](mailto:magella_tan@schools.gov.sg) |
