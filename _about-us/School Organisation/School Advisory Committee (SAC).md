@@ -13,7 +13,7 @@ Mr Alvin Lee
 Mrs Cheng Huey Teng  
   
 **Members:**   
-Dr Kwan wei Lek  
+Dr Kwan Wei Lek  
 Mr Beh Chwee Boon  
 Mr Chao Yu  
 Mr Keith Tan  
