@@ -6,4 +6,4 @@ third_nav_title: Events
 ---
 # Chinese New Year
 
-Stay tune.
+Stay tune...Coming soon!
