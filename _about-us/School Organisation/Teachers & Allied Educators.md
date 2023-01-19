@@ -64,6 +64,7 @@ third_nav_title: School Organisation
 
 
 #### **Primary Three**
+
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 |Patriotism|Mdm Juliana Jumaat |juliana_jumaat@schools.gov.sg|
@@ -98,7 +99,7 @@ third_nav_title: School Organisation
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Ms Nur Azura Rahim<br>(Music Cood)|nur_azura_rahim@schools.gov.sg|
+|Patriotism|Ms Nur Azura Rahim<br>(Music Coord)|nur_azura_rahim@schools.gov.sg|
 ||Ms Dhashayani Vallatharasu <br>(LH/Eng \[Internal\])|dhashayani_vallatharasu@schools.gov.sg|
 |Resilience|Mr Khairul Nizam A Aziz|khairul_nizam_abdul_aziz@schools.gov.sg|
 ||Mrs Rajeswary Thillaikumar<br> (ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
