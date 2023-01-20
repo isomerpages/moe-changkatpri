@@ -14,7 +14,7 @@ third_nav_title: Events
 <img src="/images/CNY%202023/CNY%20(3).jpg" style="width:50%" align=right>
   <br>
 <figure>
-	<figcaption> “兔”riffic celebration
+	<figcaption> “兔”-riffic celebration
 </figcaption>
 </figure> 
 <img src="/images/CNY%202023/CNY%20(1).jpg" style="width:50%" align=left>
