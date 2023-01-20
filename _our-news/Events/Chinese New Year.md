@@ -7,4 +7,4 @@ third_nav_title: Events
 # Chinese New Year Celebration
 
 ![](/images/CNY%202023/CNY%20(0).jpg) ![](/images/CNY%202023/CNY%20(1).jpg)
-![](/images/CNY%202023/CNY%20(3).jpg) ![](/images/CNY%202023/CNY%20(4).jpg)
+![](/images/CNY%202023/CNY%20(3).jpg) ![](/images/CNY%202023/CNY%20(4).jpg)![](/images/CNY%202023/CNY%20(2).jpg)
