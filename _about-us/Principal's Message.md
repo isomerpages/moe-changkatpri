@@ -12,6 +12,7 @@ Since last year, we have been emerging from the shadow of COVID-19 and returning
 In my 2019 new year message to the school just before COVID hit the world, I urged all of us to **grow strong by serving**.  Indeed, our resilience grows when we live a life to serve others, when we find the purpose of life in serving others. As we begin a new year, I want to bring back this message that is enshrined in our school motto found in our school crest:
 
 <img  src="/images/School%20Crest.jpg"  alt="School Crest" width="20px" height="20px">
+
      
 All members of Changkat are **to learn**, **to live** what we learnt, so as **to serve** others. We are truly serving when:
 
