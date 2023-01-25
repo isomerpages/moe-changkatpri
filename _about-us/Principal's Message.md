@@ -22,3 +22,5 @@ All members of Changkat are **to learn**, **to live** what we learnt, so as **to
 In this new year, I challenge each of us to look for ways to serve others in our community. This could be through doing a part to save the Earth, making the table cleaner than before it is used for the next user, volunteering for a task, mentoring others, or simply being a listening ear for someone in need. By putting the needs of others first, we can contribute to a culture of care and empathy that will benefit everyone. Your efforts will make a real difference in the lives of our parents, students, staff and yourself.
 
 Thank you for your commitment to serve others. I wish you all a happy and healthy new year.
+
+Cheng Huey Teng (Mrs) 
