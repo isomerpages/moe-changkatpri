@@ -23,4 +23,4 @@ In this new year, I challenge each of us to look for ways to serve others in our
 
 Thank you for your commitment to serve others. I wish you all a happy and healthy new year.
 
-Cheng Huey Teng (Mrs) 
+Cheng Huey Teng (Mrs)
