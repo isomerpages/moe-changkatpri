@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Curriculum/MOE Sexuality Education.md
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
       - Curriculum/Science.md
