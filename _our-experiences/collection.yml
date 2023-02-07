@@ -2,7 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
-      - Curriculum/MOE Sexuality Education.md
+      - Curriculum/.keep
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
       - Curriculum/Science.md
@@ -11,7 +11,7 @@ collections:
       - Curriculum/Aesthetics.md
       - Curriculum/Character & Citizenship Education.md
       - Curriculum/Infocomm & Technology (ICT).md
-      - Curriculum/.keep
+      - Curriculum/MOE Sexuality Education.md
       - Distinctive Programmes/Applied Learning Programme (ALP).md
       - Distinctive Programmes/Learning for Life Programme (LLP).md
       - Distinctive Programmes/Modular Curricular Activities (MCA).md
