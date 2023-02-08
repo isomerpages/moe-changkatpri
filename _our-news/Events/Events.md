@@ -24,7 +24,7 @@ third_nav_title: Events
 </figure>
 
 <img src="/images/Events/2023%20P1%201stday/canteen%20fam%20(1).JPG" style="width:49%" align=left>
-<img src="/images/2023%20P1%201stday/canteen%20fam%20(2).JPG" style="width:49%" align=right>
+<img src="/images/Events/2023%20P1%201stday/canteen%20fam%20(2).JPG" style="width:49%" align=right>
 
 <br clear="left">
 
