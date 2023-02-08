@@ -50,16 +50,13 @@ b)    Character and Citizenship Education (CCE)
 
 **Primary 5**
 
-**CCE(FTGP) theme:** Growing Years
-
-**Time period:** Term 2 Week 1
+**CCE(FTGP) theme:** Growing Years  **Time period:** Term 2 Week 1
 
 **Lesson title/ duration:** The Changes in Me (60 min)
 
 **Lesson overview:** This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 
-**Lesson title/ duration:** Did You Know? (60 min)
-
+**Lesson title/ duration:** Did You Know? (60 min) 
 **Lesson overview:** This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.** This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions
 
 **Lesson title/ duration:** Keeping Myself Safe (60 min)
@@ -70,9 +67,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 **Primary 6**
 
-**CCE(FTGP) theme:** Growing Years
-
-**Time period:** Term 1 Week 9
+**CCE(FTGP) theme:** Growing Years  **Time period:** Term 1 Week 9
 
 **Lesson title / duration:** Are We More than Friends? Lesson 1 (60 min)
 
