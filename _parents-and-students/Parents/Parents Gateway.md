@@ -12,4 +12,4 @@ It aims to aggregate parent-teacher communications securely on a centralised dig
 
 Access to Parents Gateway is given to parents, legal guardians and authorised caregivers of students currently studying in MOE schools. Parents with children eligible for P1 registration will be able to access Parents Gateway from late May 2021 as well. Parents will need to use their Singpass to access Parents Gateway.
 
-**Download and install the app via [App](https://apps.apple.com/sg/app/parents-gateway/id1267198708?platform=iphone) Store (for iPhones) or [Play](https://play.google.com/store/apps/details?id=com.moe.pgp) Store (for Android phones).
+Download and install the app via [App](https://apps.apple.com/sg/app/parents-gateway/id1267198708?platform=iphone) Store (for iPhones) or [Play](https://play.google.com/store/apps/details?id=com.moe.pgp) Store (for Android phones).
