@@ -12,4 +12,4 @@ Bus Service: 5, 9, 20, 38
 <br> Nearest MRT Station: EW3 Simei MRT Station 
 <br>Email Address: [changkat_ps@moe.edu.sg](mailto:changkat_ps@moe.edu.sg)
 
-![Changkat Primary School area map](/images/ckps%20transport%20map.png)
+![Changkat Primary School area map](/images/Contactus/ckps%20transport%20map.png)
