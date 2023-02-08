@@ -94,7 +94,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programme by MOE-approved external providers. Sexuality Education programme is conducted by trained staff of Changkat Primary School.
 
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form which will be sent via Parents Gateway (PG) in February.  
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form which will be sent via Parents Gateway (PG) in February.  
   
 
 10. Parents can contact the form teachers or Mrs Sim- Ng Li Leng (ng_li_leng@schools.gov.sg), the Sexuality Education Coordinator, via email for discussion or to seek clarification about the school’s Sexuality Education Programme.
