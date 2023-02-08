@@ -15,7 +15,7 @@ To instill in every child a sense of pride in his cultural heritage, a passion t
 Click on the picture below to read more about the publication.
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:75%" src="/images/mothertongue.jpg">
+<img style="width:75%" src="/images/OurExperiences/Curriculum/MTL/mothertongue.jpg">
 </a></p>
 
 **[https://www.ezhishi.net/CKPSebook2022/](https://www.ezhishi.net/CKPSebook2022/)**
@@ -37,5 +37,3 @@ The Conversational Chinese/Malay Programme (CCM) was introduced as an enrichment
 
 ##### **Overseas Immersion Programme (For selected P5 students)**
 The overseas Immersion Programme is to develop in students the 21st Century Competencies of global awareness and cross-cultural skills and sensitivities and to expose these students to Asia and the world and sensitize them to Singapore’s place in the world. We also hope to help students cultivate skills and values such as self-reliance, independence, bonding with fellow schoolmates and foster team camaraderie through their participation in this programme.  This programme will resume when the situation returns to normalcy.
-
-
