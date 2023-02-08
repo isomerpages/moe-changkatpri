@@ -34,22 +34,20 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 7 - Sexuality Education (SEd) lessons are taught as part of CCE (Form Teacher Guidance Period  (FTGP)) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
 **At Changkat Primary School, the following Sexuality Education lessons will be taught in 2023:**
-
-**2023 Sexuality Education Lessons**
-
+ 
 **Primary 5**
 
 **CCE(FTGP) theme:** Growing Years  **Time period:** Term 2 Week 1
 
-**Lesson title/ duration:** The Changes in Me (60 min)<br>
+**Lesson title / duration:** The Changes in Me (60 min)<br>
 **Lesson overview:** This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 
-**Lesson title/ duration:** Did You Know? (60 min) <br>
+**Lesson title / duration:** Did You Know? (60 min) <br>
 **Lesson overview:** This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.** <br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions
 
-**Lesson title/ duration:** Keeping Myself Safe (60 min)<br>
+**Lesson title / duration:** Keeping Myself Safe (60 min)<br>
 **Lesson overview:** In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 
