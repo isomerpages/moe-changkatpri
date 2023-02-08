@@ -4,7 +4,6 @@ permalink: /our-experiences/distinctive-programmes/llp/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-
 ### **Learning for Life Programme (LLP)**
 **Learning for Life Programme (LLP)** provides meaningful and purposeful opportunities to allow experimentation, self-discovery and promote the joy of learning.
 
@@ -14,8 +13,8 @@ In Changkat, our LLP – ‘ **_SOAR@CKP’_** (**S**ports, **O**utdoor, **A**th
 * Provide avenues for students to develop and practice leadership skills.
 * Establish the school as a Champion and Advocate for sports and outdoor activities through the organization of inter-class games, learn-to-play programmes for students and community outreach programmes.
 
-<img src="/images/LLP1.jpg" style="width:42%" align=left>
-<img src="/images/LLP2.jpg" style="width:56%" align=right>
+<img src="/images/OurExperiences/Distinctive%20Programmes/LLP/LLP1.png" style="width:42%" align=left>
+<img src="/images/OurExperiences/Distinctive%20Programmes/LLP/LLP2.jpg" style="width:56%" align=right>
 
 <br clear="left"><br>
 
@@ -24,7 +23,7 @@ In Changkat, our LLP – ‘ **_SOAR@CKP’_** (**S**ports, **O**utdoor, **A**th
 | P4 Annual Camp<br>Inter-Class Games<br>Sports Carnival<br>P1 & P2 Pal (Sports & Games)<br>P1 & P2 PAL (Outdoor Education)<br>P3 MCA (Rope Skipping)<br>P4 MCA (Chess)<br>P5 MCA (Taekwondo)<br>P6 MCA (Inline Skating)<br>P6 MCA (Dragon Boating) | <br><br><br>CCA – Basketball<br>CCA - Track & Field<br>CCA - Wushu<br>CCA – Multi-Sports |
 |
 
-<img src="/images/LLP3.jpg" style="width:45%" align=left>
-<img src="/images/LLP4.jpg" style="width:53%" align=right>
+<img src="/images/OurExperiences/Distinctive%20Programmes/LLP/LLP3.jpg" style="width:45%" align=left>
+<img src="/images/OurExperiences/Distinctive%20Programmes/LLP/LLP4.jpg" style="width:53%" align=right>
 
 <br clear="left">
