@@ -24,8 +24,8 @@ For more information on STELLAR visit: [http://www.stellarliteracy.sg/](http://
 ##### **Writing, Reading & Oral Communication**
 We believe in equipping our language learners with a host of strategies to tackle various components of the English Language.
 
-<img src="/images/eng1a.jpg" style="width:35%" align=left>
-<img src="/images/eng2.jpg" style="width:62%" align=right>
+<img src="/images/OurExperiences/Curriculum/Eng/eng1a.jpg" style="width:35%" align=left>
+<img src="/images/OurExperiences/Curriculum/Eng/eng2.jpg" style="width:62%" align=right>
 
 <br clear="left">
 
@@ -33,7 +33,7 @@ Our writing packages, which begin with the Middle Primary (P3 & P4) through to t
 
 There are many reading strategies when it comes to interacting with a text. In CKPS, pupils are taught to be more deliberate readers; one who is able to connect with the text, the world and self. They do so through effective reading comprehension skills like annotation. Pupils learn to stop to ask questions as they read texts so as to glean a better understanding of what the author is putting across. This in turn aids pupils in answering comprehension questions better. In tackling the Oral Communication component, pupils use the EEC strategy in order to Express, Elaborate and Conclude a given stimulus presented in Stimulus-based Conversation component.
 
-<img src="/images/eng3.jpg" style="width:85%">
+<img src="/images/OurExperiences/Curriculum/Eng/eng3.jpg" style="width:85%">
 
 ##### **Differentiated Instruction, Formative Assessment & Cooperative Learning**
 Our teachers engage the pupils through the use DI, FA and CL to customise the pupils’ learning experience. Pupils are often grouped flexibly to suit the learning intentions of the lesson. CL structures such as Jigsaw, Numbered Heads Together, Rally Robin and Round Robin are commonplace in our classrooms as are FA tools such as white boarding, use of exit cards or use of thumbs up-down during lessons.

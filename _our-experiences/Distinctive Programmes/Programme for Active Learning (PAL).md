@@ -6,8 +6,8 @@ third_nav_title: Distinctive Programmes
 ---
 ### **Programme for Active Learning (PAL)**
 
-<img src="/images/pala1.jpg" style="width:49%" align=left>
-<img src="/images/pala2.jpg" style="width:49%" align=right>
+<img src="/images/OurExperiences/Distinctive%20Programmes/PAL/pala1.jpg" style="width:49%" align=left>
+<img src="/images/OurExperiences/Distinctive%20Programmes/PAL/pala2.jpg" style="width:49%" align=right>
 
 <br clear="left">
 
@@ -22,9 +22,9 @@ PAL is an initiative introduced at the lower primary (P1 & P2) to ensure that ou
 |
 
 
-<img src="/images/pala3.jpg" style="width:40%;margin-right:55px;" align = "right">
-<img src="/images/pala4.jpg" style="width:40%;margin-left:55px;" align = "left">
+<img src="/images/OurExperiences/Distinctive%20Programmes/PAL/pala3.jpg" style="width:40%;margin-right:55px;" align = "right">
+<img src="/images/OurExperiences/Distinctive%20Programmes/PAL/pala4.jpg" style="width:40%;margin-left:55px;" align = "left">
 
 <br clear="left">
 
-<img src="/images/pala5.jpg" style="width:85%">
+<img src="/images/OurExperiences/Distinctive%20Programmes/PAL/pala5.jpg" style="width:85%">

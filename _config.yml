@@ -1,6 +1,6 @@
 title: "  Changkat Primary School"
 url: https://changkatpri.moe.edu.sg
-favicon: /images/changkat pri logo.jpg
+favicon: /images/Site/changkat pri logo.jpg
 colors:
   primary-color: "#307fff"
   secondary-color: "#7ed321"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1vexrv91kdnoi.amplifyapp.com
 prod: https://master.d1vexrv91kdnoi.amplifyapp.com
-shareicon: /images/changkat pri logo.jpg
+shareicon: /images/Site/changkat pri logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

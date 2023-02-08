@@ -25,6 +25,6 @@ The 21 st  Century Competencies, which are Civic Literacy, Global Awareness a
 
 The school’s CCE programmes are delivered through the curriculum and co-curriculum to achieve the intended outcomes. The design and delivery of CCE as a total curriculum is guided by the 5Ps of CCE ( P urpose,  P upil, Holistic Ex P eriences,  P rofessional Development and  P artnership). Through the E³ approach ( E ducate,  E xperience and  E xcel), all students will be provided with opportunities to learn through experience and apply and reflect on what has been taught subsequently.
 
-<img src="/images/cce1.png" style="width:85%">
+<img src="/images/OurExperiences/Curriculum/CCE/cce1.png" style="width:85%">
 
-<img src="/images/cce2.png" style="width:85%">
+<img src="/images/OurExperiences/Curriculum/CCE/cce2.png" style="width:85%">

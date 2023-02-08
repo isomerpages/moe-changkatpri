@@ -5,6 +5,6 @@ description: ""
 third_nav_title: Students
 ---
 ### **Zoom for student**
-Click **[here](/files/Student%20iCON%20-%20Student%20EDM%20-%20Introducing%20Google%20Classroom_3%20ways%20to%20join%20Google%20classroom.pdf)** for Student’s Guide to Video Conferencing with Teachers using Zoom for Home-based Learning.  
+Click **[here](https://drive.google.com/file/d/16MJ0skY90g_nGq7MJ9Kpy-DJQAlywoHB/view)** for Student’s Guide to Video Conferencing with Teachers using Zoom for Home-based Learning.  
 
 Teachers may use the video conferencing platform to engage your child/ward in online interactive lessons. Your child/ward will be informed prior to the Zoom lesson.

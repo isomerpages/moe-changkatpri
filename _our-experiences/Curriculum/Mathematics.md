@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 ---
 ### **Mathematics**
 
-<img src="/images/Maths%20Framework.jpg" style="width:50%;margin-right:15px;" align = "left">**Vision:**<br>Every pupil, a logical thinker and an analytical problem solver, with a lifelong interest and love for Mathematics.<br><br>**Mission:**<br>
+<img src="/images/OurExperiences/Curriculum/Maths/Maths%20Framework.jpg" style="width:50%;margin-right:15px;" align = "left">**Vision:**<br>Every pupil, a logical thinker and an analytical problem solver, with a lifelong interest and love for Mathematics.<br><br>**Mission:**<br>
 To develop the lifelong interest and love for Mathematics which allows pupils to discover the meaning in learning Mathematics by engaging pupils in activities which develop their ability to reason logically and to communicate mathematically.
 
 #### **Programmes:**
@@ -32,16 +32,16 @@ This programme equips the pupils with the basic numeracy and literacy skills, th
 ##### **Learning Fiesta**
 Changkat’s Learning Fiesta is an inter-department event carried out on Term 3 Week 1. It aims to be an engaging platform for pupils to develop the joy of learning Mathematics and also, to see the relevance of Mathematics in their daily lives. Station games involving Whole Numbers, Money, Percentage, Fraction and Time were carried out during recess.
 
-<img src="/images/math1.jpg" style="width:52%" align=left>
-<img src="/images/math2.jpg" style="width:46.5%" align=right>
+<img src="/images/OurExperiences/Curriculum/Maths/math1.jpg" style="width:52%" align=left>
+<img src="/images/OurExperiences/Curriculum/Maths/math2.jpg" style="width:46.5%" align=right>
 
 <br clear="left">
 
 ##### **Parents Workshop**
 Engaging Parents is part of the school’s effort to enhance home support for pupil learning. The department organises Math workshops for parents every year as parental involvement plays a vital role at all stages in the pupils’ learning. The objectives are to better equip parents with approaches and strategies to guide their children through their learning and preparations for examinations.
 
-<img src="/images/math3.jpg" style="width:62%" align=left>
-<img src="/images/math4.jpg" style="width:35%" align=right>
+<img src="/images/OurExperiences/Curriculum/Maths/math3.jpg" style="width:62%" align=left>
+<img src="/images/OurExperiences/Curriculum/Maths/math4.jpg" style="width:35%" align=right>
 
 <br clear="left">
 

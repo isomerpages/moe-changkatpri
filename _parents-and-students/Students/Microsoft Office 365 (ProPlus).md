@@ -15,10 +15,10 @@ This access is **free** for students whose parents have given their consent to
   
 **Office 365 ProPlus** is a suite of productivity tools (including full version of Excel, PowerPoint & Word) that is installed on your **personal desktop, laptop or mobile device and Personal Learning Device** (PLD).
 
-![](/images/Microsoft%20office%201.png)
+![](/images/Student/M365/Microsoft%20office%201.png)
 
-![](/images/Microsoft%20office%202.png)
+![](/images/Student/M365/Microsoft%20office%202.png)
 
-![](/images/Microsoft%20office%203.png)
+![](/images/Student/M365/Microsoft%20office%203.png)
 
 Click [here](https://drive.google.com/file/d/11LCMhStTypSkqrBO5lrxofAXn86lhiPP/view?usp=sharing) to view the guide on how to install and activate the Office 365 ProPlus.
