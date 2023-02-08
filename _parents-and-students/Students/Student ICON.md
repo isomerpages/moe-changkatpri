@@ -19,7 +19,7 @@ Here's an example of the slip:
 
 #### **Student ICON Onboard Guide**
 
-<img src="/images/access.png" style="width:75%">
+<img src="/images/Student/access.png" style="width:75%">
 
 For more instructions on Student ICON Onboarding, please click [here](https://drive.google.com/file/d/1MqNXVUTQREpPG2lOSDwkv7xJJyhbxxPN/view)
 
@@ -31,4 +31,4 @@ Student ICON is primarily used to log on to the computers in school. Please appr
 **Password Requirements**<br>
 Do take note of the password policy below:
 
-<img src="/images/Student%20iCON%20-%20Password%20Requirements.jpg" style="width:75%">
+<img src="/images/Student/Student%20iCON%20-%20Password%20Requirements.jpg" style="width:75%">
