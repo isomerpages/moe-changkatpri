@@ -22,5 +22,6 @@ description: ""
 [Meet the parents](/parents-and-students/parents/mtp/)<br>
 [Parents Resources](/parents-and-students/parents/parents-resources/)<br>
 [Parents Support Group (PIE Club)](/parents-and-students/parents/pie-club/)<br>
-[Primary One Blog](https://go.gov.sg/p12023orientation)<br>
-[Sexuality Education (External link)](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
+[Primary One Blog (External link)](https://go.gov.sg/p12023orientation)<br>
+[Sexuality Education (External link)](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)<br>
+[Parents Gateway](/parents-and-students/Parents/PG/)
