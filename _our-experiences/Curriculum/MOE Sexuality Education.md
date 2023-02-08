@@ -86,11 +86,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 **Lesson title / duration:** Did You Know? ^ (60 min)
 
-**Lesson overview:** This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+**Lesson overview:** This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 
-**Please Note:**
-
-^For 2023, the Primary 5 lesson “**Did You Know?**” will also be conducted for the Primary 6 cohort.
+**Please Note:** ^For 2023, the Primary 5 lesson **"Did You Know?"** will also be conducted for the Primary 6 cohort.
 
 **Information for Parents**
 
