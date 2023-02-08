@@ -31,9 +31,9 @@ Every student to be able to demonstrate individually and with others the physica
 * Modular Curricular Activities (MCA) (P3 to P6)
 * Superfit Me (P4 to P6)
 
-<img src="/images/pe1.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/pe2.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/pe3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/OurExperiences/Curriculum/PE/pe1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/OurExperiences/Curriculum/PE/pe2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/OurExperiences/Curriculum/PE/pe3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
