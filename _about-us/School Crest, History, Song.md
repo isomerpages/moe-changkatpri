@@ -6,7 +6,7 @@ description: ""
 ### **School Crest, History, Song**
 #### **School Crest**
 
-<img src="/images/School%20Crest.jpg" style="width:30%" align=left>
+<img src="/images/Site/School%20Crest.jpg" style="width:30%" align=left>
 
 <br clear="left">
 
