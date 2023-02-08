@@ -9,11 +9,11 @@ third_nav_title: Parents
 *   Click [here](https://drive.google.com/file/d/1lNKA2z-5uJ-2dyf443pZ_M2CJBsOdi_K/view) to download **Visitor Registration Form**
 *   Click [here](https://forms.moe.edu.sg/forms/vjpl6o) to download **Reply Form - Cycling To School** (External link)
 *   Click [here](https://forms.moe.edu.sg/forms/JmVlWo) to download **Acknowledgement Form - Handphone Policy** (External link)
-*   Click [here](https://drive.google.com/file/d/1dezhvXqSOr_zhUv1i6LPRgrUyoenvQ7k/view) to download **Parent Volunteer Application Form**
+*   Click [here](https://form.gov.sg/634f7b32d25d7f0012ff9f93) to access **Parent Volunteer Application Form** (External link)
 *   Click [here](https://drive.google.com/file/d/10GgJYA4AzGqNVvSQou3ZM87Sx6qtNnyO/view) to download **MOEs Centrally Provisioned Digital Tools Consent Form**
 *   Click [here](https://drive.google.com/file/d/1uLPhNXXhnJWm3tYGBanYwzUbO4SmA3rB/view) to download **MOE FAS Application Form (SEP 2022)** <br>**or visit the online form:** [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
-<img align="left" style="width:20%" src="/images/formsqr.png">
+<img src="/images/formsqr.png" style="width:20%" align="left">
 <br clear="left">
 
 *   Click [here](https://drive.google.com/file/d/1zTvhns3m7FHupjpyLO6UQypf_9WGPFDq/view) to download **Interbank GIRO Application Form** (External link)
