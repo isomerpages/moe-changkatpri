@@ -13,7 +13,7 @@ In Changkat, our LLP – ‘ **_SOAR@CKP’_** (**S**ports, **O**utdoor, **A**th
 * Provide avenues for students to develop and practice leadership skills.
 * Establish the school as a Champion and Advocate for sports and outdoor activities through the organization of inter-class games, learn-to-play programmes for students and community outreach programmes.
 
-<img src="/images/OurExperiences/Distinctive%20Programmes/LLP/LLP1.png" style="width:42%" align=left>
+<img src="/images/OurExperiences/Distinctive%20Programmes/LLP/LLP1.jpg" style="width:42%" align=left>
 <img src="/images/OurExperiences/Distinctive%20Programmes/LLP/LLP2.jpg" style="width:56%" align=right>
 
 <br clear="left"><br>
