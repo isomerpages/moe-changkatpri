@@ -13,7 +13,7 @@ For the ICON email address, please take note the following:
 *   Any space in the full name will be replaced with an underscore.
 *   Should the student’s full name have words such as “Bte”, “d/o”  and “s/o”, they will not appear in the email address. (eg, Abdullah Bte Mohmand => abdullah_mohmand@students.edu.sg)
 *   For cases where students share the same full name, we have added a numerical number (e.g. Ang\_Bee\_Bee\_1, Ang\_Bee\_Bee\_2) to differentiate their email addresses.
-*   Take note of the correct domain is <font style="color:blue"> student**S**.edu.sg</font> not ~student.edu.sg~
+*   Take note of the correct domain is <font style="color:blue"> student **S** .edu.sg</font> not ~student.edu.sg~
 
 Here's an example of the slip:
 
