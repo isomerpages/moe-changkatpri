@@ -6,7 +6,7 @@ third_nav_title: Students
 ---
 ### **Student ICON**
 #### **Instructions to login to Student ICON**
-Click [here](https://workspace.google.com/dashboard) for login page.  Go to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) <br>
+Click [here](https://workspace.google.com/dashboard) for login page.  URL: [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) <br>
 Student ICON login details has been given to students.
 
 For the ICON email address, please take note the following:
