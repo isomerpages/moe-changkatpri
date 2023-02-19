@@ -43,7 +43,7 @@ The school CCAs are designed to:
 
 | CCA | Teachers | Day and Time |
 |---|---|---|
-| **Wushu** | Mr Lim Choon Hong (OIC)<br>[lim_choon_hong_a@schools.gov.sg](mailto:lim_choon_hong_a@schools.gov.sg)<br>Mrs Geraldine Wong<br>Miss Goh Shu Yi | Mondays & Thursdays<br>2.00 – 4.00 p.m. |
+| **Wushu** | Mr Lim Choon Hong (OIC)<br>[lim_choon_hong_a@schools.gov.sg](mailto:lim_choon_hong_a@schools.gov.sg)<br>Mrs Geraldine Wong<br>Mr Teo Hock Chye | Mondays & Thursdays<br>2.00 – 4.00 p.m. |
 | **Track & Field (Semester 1: P4-6)<br>(Semester 2: P3-5)** | Mr Ng Boon Teng David (OIC)<br>[ng_boon_teng_david@schools.gov.sg](mailto:ng_boon_teng_david@schools.gov.sg)<br>Mdm Farhanah<br>Mdm Nur Arina<br>Mr Khairul Nizam | Mondays & Thursdays<br>2.00 – 4.00 p.m. |
 | **Basketball<br>(Semester 1: P4-6)<br>(Semester 2: P3-5)** | Mr Muhammad Khairil (OIC)<br>[muhammad_khairil_kamal@schools.gov.sg](mailto:muhammad_khairil_kamal@schools.gov.sg)<br>Mr Li Kun Peng<br>Mdm Nadjah<br>Mrs Saraswathy Samuel<br>Mdm Radziyah<br>Mrs Juliana<br>Mr Hoo Chee Mun<br>Mr Nurisham<br>Mdm Yan Zhuyun<br>Miss Hazelina Gopinathan<br>Mdm Sharifah Aminah<br>Mrs Manoj Kamala<br>Miss Gina Goh<br>Mrs Ofelia Yeo | Mondays & Thursdays<br>Boys & Girls<br>2.00 – 5.15 p.m.<br>  |
 | **P3 (Sem 1) & P2 (Sem 2) Multi-sports<br>(By invitation only)**<br>  | Mr Mohammad Taufeek<br>[mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg)<br>Mr Ban Choon Kwee | Mondays & Thursdays<br>2.00 – 3.30 p.m. |
