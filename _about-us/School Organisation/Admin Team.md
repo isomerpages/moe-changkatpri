@@ -14,14 +14,14 @@ third_nav_title: School Organisation
 | Operation Manager | Mr Ho Han Keong Philip | ho_han_keong@schools.gov.sg|
 | Admin Executive | Mdm Tay Suan Zee | tay_suan_zee@schools.gov.sg |
 | Admin Executive | Mr Jasri Bin Bahari | jasri_bahari@schools.gov.sg |
-| CSO | Miss Tan Sock Hoong Shirley | tan_sock_hoong_shirley@schools.gov.sg |
 | CSO | Mdm Edith Chong Yen Yuen | chong_yen_yuen@schools.gov.sg |
-|  CSO | Miss Rozanna Binti Roselan  | rozanna_roselan@schools.gov.sg |
-| OSO | Mdm Zainah Binte Mat Shah |  |
+| CSO | Miss Tan Sock Hoong Shirley | tan_sock_hoong_shirley@schools.gov.sg |
+| CSO | Miss Rozanna Binti Roselan  | rozanna_roselan@schools.gov.sg |
 | OSO | Miss Goh Ah Suay |   |
 | OSO | Mdm Jenn Pok Nyit Yoon |  |
-| OSO | Mr William Tham Chee Wore |  |
 | OSO | Ms Tan Kwee Chiew |   |
+| OSO | Mr William Tham Chee Wore |  |
+| OSO | Mdm Zainah Binte Mat Shah |  |
 | Desktop Engineer | Mr Abdullah Mustafa | abdullahm@ncs.com.sg |
 | Desktop Engineer | Mr Tan Kok Tong | tankt@ncs.com.sg  |
 | ICT Trainer | Miss Dian | dian_hazwani_saihen@moe.edu.sg |
