@@ -19,7 +19,8 @@ third_nav_title: School Organisation
 |  CSO | Miss Rozanna Binti Roselan  | rozanna_roselan@schools.gov.sg |
 | OSO | Mdm Zainah Binte Mat Shah |  |
 | OSO | Miss Goh Ah Suay |   |
-|  OSO | Mr William Tham Chee Wore |  |
+| OSO | Mdm Jenn Pok Nyit Yoon |  |
+| OSO | Mr William Tham Chee Wore |  |
 | OSO | Ms Tan Kwee Chiew |   |
 | Desktop Engineer | Mr Abdullah Mustafa | abdullahm@ncs.com.sg |
 | Desktop Engineer | Mr Tan Kok Tong | tankt@ncs.com.sg  |
