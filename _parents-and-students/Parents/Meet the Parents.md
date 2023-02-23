@@ -5,15 +5,29 @@ description: ""
 third_nav_title: Parents
 ---
 ### **Meet the Parents**
-#### **Follow-up on Meet-the-Parents (MTP) Session 2022**
+#### **Follow-up on Meet-the-Parents (MTP) Session 2023**
 In order for parents/guardians to better understand our school and level programmes and expectations, the school would like to urge all parents/guardians to set aside time this week to go through the information in the Meet-the-Parents (MTP) slides on your own carefully and familiarize yourselves with the content. Should you have any queries, please feel free to contact your child/ward’s Form Teachers and clarify any doubts with the teachers.
 
-| Level | Principal’s Address | Year Head’s Address | Form Teachers’ Briefing |
-|:---:|:---:|:---:|:---:|
-| P6 | [Principal's Brief](https://drive.google.com/file/d/1x9RfKR-bUh6jAfAx6s3NTHEJSkbn0yDT/view?usp=sharing) | [Upper YH's Brief](https://drive.google.com/file/d/1x2mc0AiQAmi93wlNVyL6wb6q_KI55duN/view?usp=sharing) | [Form Teachers' Slides](https://drive.google.com/file/d/1OPw4KjpIRQHV_6ey2lfx2mUr7Ko06icE/view?usp=sharing) |
-| P5 | [Principal's Brief](https://drive.google.com/file/d/1RAtzdONILDFdi30bhjvZy5rMAxr9S2wX/view?usp=sharing) | [Upper YH's Brief](https://drive.google.com/file/d/1Lw4hb_aVW3AJjaP4TYnwvy32Sirw0sQl/view?usp=sharing) | [Form Teachers' Slides](https://drive.google.com/file/d/1b6A6JhOPV_ZD9Nlnlb4TROH_U--5YQ_-/view?usp=sharing) |
-| P4 | [Principal's Brief](https://drive.google.com/file/d/1miahMAun5PcoDH0Y4WK7Z-M-AHcrRNZO/view?usp=sharing) | [Middle YH's Brief](https://drive.google.com/file/d/12iML7uh2DHbVKAdQXGllgw7eoXSzeheG/view?usp=sharing) | [Form Teachers' Slides](https://drive.google.com/file/d/1bwsH6u8nJ0j9NW2okJAInl3dtjfNG_WH/view?usp=sharing) |
-| P3 | [Principal's Brief](https://drive.google.com/file/d/16xWduTWHUhm9oIqrv20c99ZHadv0cnCg/view?usp=sharing) | [Middle YH's Brief](https://drive.google.com/file/d/1X6FCmJSGRT8OYXoS5H_DzJ8o9JHP58bf/view?usp=sharing) | [Form Teachers' Slides](https://drive.google.com/file/d/12g5ToMgGosCB7qdM1lCCsi7b35nrcFya/view?usp=sharing) |
-| P2 | [Principal's Brief](https://drive.google.com/file/d/1sgesGV80tzrHrn4KFv8MrhmhRgEEKgnD/view?usp=sharing) |  [Lower YH's Brief](https://drive.google.com/file/d/1Rt0ULtY2QNNAZ5UU_0ItMkYNWmdMvTQE/view?usp=sharing) |  [Form Teachers' Slides](https://drive.google.com/file/d/14F2AmETVgxMOL9IHzbAAIYAqbhoPHBQ6/view?usp=sharing) |
-| P1 | [Principal's Brief](https://drive.google.com/file/d/1VLkT3EtLaVeK8W7z_WrFp_ol-NcStYT-/view?usp=sharing) |  [Lower YH's Brief](https://drive.google.com/file/d/13jqWpq5L04UNqZc-YKBrfTYm2Zp-ly4q/view?usp=sharing) |  [Form Teachers' Slides](https://drive.google.com/file/d/1pnTXLpdk_7_tNN3kTWTQjwMYPj0blr0h/view?usp=sharing) |
+| Level | Principal’s Address|
+|:---:|:---:|
+|Upper Primary | [Principal's Brief](https://drive.google.com/file/d/131aTPlDaAUrepZOfmfI_LvMJgrREaeMz/)|
+|Middle Primary | [Principal's Brief](https://drive.google.com/file/d/1agQtaUQCoXtMWrRekvUCM2eIhrNv5AIN/)|
+|Lower Primary | [Principal's Brief](https://drive.google.com/file/d/1Tnj2LbfIvLh4atuFDIPBJdAi_cHTzRG1/)|
+|
+
+| Level | Year Head (YH)’s Address|
+|:---:|:---:|
+|Upper Primary | [Upper YH's Brief](https://drive.google.com/file/d/1lOK8jueu3PCYT-H2LjOo1xmCAFAepSwB/)|
+|Middle Primary | [Middle YH's Brief](https://drive.google.com/file/d/1l2Nv1dkBeSZXLE_vLeBReMGbTTAXDmUg/)|
+|Lower Primary | [Lower YH's Brief](https://drive.google.com/file/d/1jtPx-Mdu3HADdC-RTv4z6gnvsjWODE_j/)|
+|
+
+|Level | Form Teachers’ Briefing|
+|:---:|:---:|
+|P6| | [Form Teachers' Slides](https://drive.google.com/file/d/1beDV6pRCEJqX6TypHjpjlU3sDGeGOgSH/) |
+| P5 | [Form Teachers' Slides](https://drive.google.com/file/d/10fkERRE2DbCjUSYnLlU8om3ZnEdnB5Xs/) |
+| P4 | [Form Teachers' Slides](https://drive.google.com/file/d/1hxsIQX2AWKLUWSOmlwRH2fIDPIW7RdWO/) |
+| P3 | [Form Teachers' Slides](https://drive.google.com/file/d/1IoNUfJfyJWjlTNmwjRgViIC5aA7M_YnF/) |
+| P2 | [Form Teachers' Slides](https://drive.google.com/file/d/1krHO9f0pJoBbJGDDieS5c2uzPQJt-XVj/) |
+| P1 |  [Form Teachers' Slides](https://drive.google.com/file/d/1hXAdylBHHiXFemEBxJzOlC1nn6z7yJpb/v) |
 |
