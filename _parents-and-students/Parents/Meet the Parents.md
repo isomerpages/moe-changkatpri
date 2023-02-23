@@ -8,19 +8,13 @@ third_nav_title: Parents
 #### **Follow-up on Meet-the-Parents (MTP) Session 2023**
 In order for parents/guardians to better understand our school and level programmes and expectations, the school would like to urge all parents/guardians to set aside time this week to go through the information in the Meet-the-Parents (MTP) slides on your own carefully and familiarize yourselves with the content. Should you have any queries, please feel free to contact your child/ward’s Form Teachers and clarify any doubts with the teachers.
 
-| Level | Principal’s Address|
-|:---:|:---:|
-|Upper Primary | [Principal's Brief](https://drive.google.com/file/d/131aTPlDaAUrepZOfmfI_LvMJgrREaeMz/)|
-|Middle Primary | [Principal's Brief](https://drive.google.com/file/d/1agQtaUQCoXtMWrRekvUCM2eIhrNv5AIN/)|
-|Lower Primary | [Principal's Brief](https://drive.google.com/file/d/1Tnj2LbfIvLh4atuFDIPBJdAi_cHTzRG1/)|
+| Level | Principal’s Address| Year Head (YH)’s Address|
+|:---:|:---:|:---:|
+|Upper Primary | [Principal's Brief](https://drive.google.com/file/d/131aTPlDaAUrepZOfmfI_LvMJgrREaeMz/)| [Upper YH's Brief](https://drive.google.com/file/d/1lOK8jueu3PCYT-H2LjOo1xmCAFAepSwB/)|
+|Middle Primary | [Principal's Brief](https://drive.google.com/file/d/1agQtaUQCoXtMWrRekvUCM2eIhrNv5AIN/) | [Middle YH's Brief](https://drive.google.com/file/d/1l2Nv1dkBeSZXLE_vLeBReMGbTTAXDmUg/)|
+|Lower Primary | [Principal's Brief](https://drive.google.com/file/d/1Tnj2LbfIvLh4atuFDIPBJdAi_cHTzRG1/) | [Lower YH's Brief](https://drive.google.com/file/d/1jtPx-Mdu3HADdC-RTv4z6gnvsjWODE_j/)|
 |
-
-| Level | Year Head (YH)’s Address|
-|:---:|:---:|
-|Upper Primary | [Upper YH's Brief](https://drive.google.com/file/d/1lOK8jueu3PCYT-H2LjOo1xmCAFAepSwB/)|
-|Middle Primary | [Middle YH's Brief](https://drive.google.com/file/d/1l2Nv1dkBeSZXLE_vLeBReMGbTTAXDmUg/)|
-|Lower Primary | [Lower YH's Brief](https://drive.google.com/file/d/1jtPx-Mdu3HADdC-RTv4z6gnvsjWODE_j/)|
-|
+ 
 
 |Level | Form Teachers’ Briefing|
 |:---:|:---:|
