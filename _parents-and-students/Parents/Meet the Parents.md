@@ -24,7 +24,7 @@ In order for parents/guardians to better understand our school and level program
 
 |Level | Form Teachers’ Briefing|
 |:---:|:---:|
-|P6| | [Form Teachers' Slides](https://drive.google.com/file/d/1beDV6pRCEJqX6TypHjpjlU3sDGeGOgSH/) |
+|P6| [Form Teachers' Slides](https://drive.google.com/file/d/1beDV6pRCEJqX6TypHjpjlU3sDGeGOgSH/) |
 | P5 | [Form Teachers' Slides](https://drive.google.com/file/d/10fkERRE2DbCjUSYnLlU8om3ZnEdnB5Xs/) |
 | P4 | [Form Teachers' Slides](https://drive.google.com/file/d/1hxsIQX2AWKLUWSOmlwRH2fIDPIW7RdWO/) |
 | P3 | [Form Teachers' Slides](https://drive.google.com/file/d/1IoNUfJfyJWjlTNmwjRgViIC5aA7M_YnF/) |
