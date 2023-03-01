@@ -17,5 +17,5 @@ Download and install the app via [App](https://apps.apple.com/sg/app/parents-gat
 Scan the QR code
 
 | Apple | Google |  
-| ---:  | ---:  | 
+| ---   | ---:  | 
 |  ![Apple Store](/images/Parent/ParentGateway/qr-code-apple-PG.png)    |  ![Google Play Store](/images/Parent/ParentGateway/qr-code-google-PG.png)     |
