@@ -31,4 +31,6 @@ We partner and support the school by volunteering our time, talent and thoughts;
 |
 
 #### **Join us!**
-Play an active role in your child’s development in school. We need and value parents’ help and support and we invite all parents to partner us in our journey to help our children grow into Learners with Passion, Citizens of Honour. Fill up a form at the General Office and we will get in touch with you shortly.
+Play an active role in your child’s development in school. We need and value parents’ help and support and we invite all parents to partner us in our journey to help our children grow into Learners with Passion, Citizens of Honour. 
+
+Click [here](https://form.gov.sg/634f7b32d25d7f0012ff9f93) to fill-in the **Parent Volunteer Application Form** (External link) or Fill up a form at the General Office and we will get in touch with you shortly.
