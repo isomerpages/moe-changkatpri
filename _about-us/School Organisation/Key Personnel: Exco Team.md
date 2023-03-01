@@ -22,8 +22,8 @@ third_nav_title: School Organisation
 | Subject Head (SH) CCA / Aesthetics | Mdm Haryati Ariffin | [haryati_ariffin@schools.gov.sg](mailto:haryati_ariffin@schools.gov.sg) |
 | SH Innovation (Internal) | Miss Faradillah Jumahat | [faradillah_jumahat@schools.gov.sg](mailto:faradillah_jumahat@schools.gov.sg) |
 | SH Knowledge Management (KM)| Mr Hoo Chee Mun | [hoo_chee_mun@schools.gov.sg](mailto:hoo_chee_mun@schools.gov.sg) |
-| SH National Education (NE) & Partnership, Social Studies  | Mdm Farah Khairiah Bte Rifaei | [farah_khairiah_rifaei@schools.gov.sg](mailto:farah_khairiah_rifaei@schools.gov.sg) |
 | SH Malay Language (ML) & Tamil Language (TL) | Mr K Parathi | [k_parathi@schools.gov.sg](mailto:k_parathi@schools.gov.sg) |
+| SH National Education (NE) & Partnership, Social Studies  | Mdm Farah Khairiah Bte Rifaei | [farah_khairiah_rifaei@schools.gov.sg](mailto:farah_khairiah_rifaei@schools.gov.sg) |
 | SH Student Well-being & Leadership | Miss Chan Hui Ying Kris | [chan_hui_ying_b@schools.gov.sg](mailto:chan_hui_ying_b@schools.gov.sg) |
 | Level Head (LH) English  | Mrs Leong - Soh Chern Hui | [soh_chern_hui@schools.gov.sg](mailto:soh_chern_hui@schools.gov.sg) |
 | LH English (Internal) | Miss Dhashayani Vallatharasu | [dhashayani_vallatharasu@schools.gov.sg](mailto:dhashayani_vallatharasu@schools.gov.sg) |
