@@ -15,6 +15,7 @@ Access to Parents Gateway is given to parents, legal guardians and authorised ca
 Download and install the app via [App](https://apps.apple.com/sg/app/parents-gateway/id1267198708?platform=iphone) Store (for iPhones) or [Play](https://play.google.com/store/apps/details?id=com.moe.pgp) Store (for Android phones).
 
 Scan the QR code:
+
 | Apple | Google |  
 | ---:  | ---:  | 
-|  ![Apple Store](/images/Parent/ParentGateway/qr-code-apple-PG.png)    |  ![Google Play Store](/images/Parent/ParentGateway/qr-code-google-PG.png)     | 
+|  ![Apple Store](/images/Parent/ParentGateway/qr-code-apple-PG.png)    |  ![Google Play Store](/images/Parent/ParentGateway/qr-code-google-PG.png)     |
