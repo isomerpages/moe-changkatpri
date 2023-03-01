@@ -10,9 +10,9 @@ In order for parents/guardians to better understand our school and level program
 
 | Level | Principal’s Address| Year Head (YH)’s Address|
 |:---:|:---:|:---:|
-|Upper Primary | [Principal's Brief](https://drive.google.com/file/d/131aTPlDaAUrepZOfmfI_LvMJgrREaeMz/)| [Upper YH's Brief](https://drive.google.com/file/d/1lOK8jueu3PCYT-H2LjOo1xmCAFAepSwB/)|
-|Middle Primary | [Principal's Brief](https://drive.google.com/file/d/1agQtaUQCoXtMWrRekvUCM2eIhrNv5AIN/) | [Middle YH's Brief](https://drive.google.com/file/d/1l2Nv1dkBeSZXLE_vLeBReMGbTTAXDmUg/)|
-|Lower Primary | [Principal's Brief](https://drive.google.com/file/d/1Tnj2LbfIvLh4atuFDIPBJdAi_cHTzRG1/) | [Lower YH's Brief](https://drive.google.com/file/d/1jtPx-Mdu3HADdC-RTv4z6gnvsjWODE_j/)|
+|Upper Primary (P5 & P6) | [Principal's Brief](https://drive.google.com/file/d/131aTPlDaAUrepZOfmfI_LvMJgrREaeMz/)| [Upper YH's Brief](https://drive.google.com/file/d/1lOK8jueu3PCYT-H2LjOo1xmCAFAepSwB/)|
+|Middle Primary (P3 & P4) | [Principal's Brief](https://drive.google.com/file/d/1agQtaUQCoXtMWrRekvUCM2eIhrNv5AIN/) | [Middle YH's Brief](https://drive.google.com/file/d/1l2Nv1dkBeSZXLE_vLeBReMGbTTAXDmUg/)|
+|Lower Primary (P1 & P2) | [Principal's Brief](https://drive.google.com/file/d/1Tnj2LbfIvLh4atuFDIPBJdAi_cHTzRG1/) | [Lower YH's Brief](https://drive.google.com/file/d/1jtPx-Mdu3HADdC-RTv4z6gnvsjWODE_j/)|
 |
  
 
