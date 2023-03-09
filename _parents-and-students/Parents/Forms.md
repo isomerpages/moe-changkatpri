@@ -12,14 +12,11 @@ third_nav_title: Parents
 *   Click [here](https://drive.google.com/file/d/10GgJYA4AzGqNVvSQou3ZM87Sx6qtNnyO/view) to download **MOEs Centrally Provisioned Digital Tools Consent Form** (External link)
 *   Click [here](https://drive.google.com/file/d/1uLPhNXXhnJWm3tYGBanYwzUbO4SmA3rB/view) to download **MOE FAS Application Form (SEP 2022)** (External link) <br>**or visit the online form:** [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
-<img src="/images/Parent/Form/formsqr.png" style="width:20%" align="left">
+<img align="left" style="width:20%" src="/images/Parent/Form/formsqr.png">
 <br clear="left">
 
 *   Click [here](https://drive.google.com/file/d/1zTvhns3m7FHupjpyLO6UQypf_9WGPFDq/view) to download **Interbank GIRO Application Form** (External link)
 *   Click [here](https://drive.google.com/file/d/1LNV_xMMB4fvwl6UWeh8oR87MQ2W5vcWs/view?) to download **Edusave Standing Order Form** (External link)
-*   Click [here](https://drive.google.com/file/d/1-iDk4QrK3LvImSpVd-Xu9xs-GNvgVxHd/view) to download **NEU PC Application Form (FAS)** (External link)
-*   Click [here](https://drive.google.com/file/d/1YamrLgMSUDueOKgGTEcRnXYShZcBPDUJ/view) to download **NEU PC Application Form (Non-FAS)** (External link)
-
 * Click [here](https://drive.google.com/file/d/1UxBL0S-PmOrOJazaS-dsksx_2OJRpA9e/view) to download the **Bethesda Care Services Bursary 2023 form** (External link)
 * Click [here](https://drive.google.com/file/d/1iYY57MyNS3PR9Gxn0MQsofTXzcJuw8FC/view) to download the **Application form for The Straits Times School Pocket Money Fund (STSPMF) for P1-P5 students** (External link)
 *   Click [here](https://drive.google.com/file/d/1qnc8Kmu379RGQILT6lSl9yHFZNIABv6r/view) to download **Request for School Bus Services 2023 Form**  (External link)
