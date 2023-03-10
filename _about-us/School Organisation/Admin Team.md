@@ -9,7 +9,7 @@ third_nav_title: School Organisation
 | Designation | Staff | Email |
 |:---:|:---:|:---:|
 | Admin Manager | Mdm Shirrin Bano | shirrin_bano_s_akhbar_ali@schools.gov.sg |
-| Admin Manager | Mdm Yvonne Lee | ee_pui_yin_yvonne@schools.gov.sg|
+| Admin Manager | Mdm Yvonne Lee | lee_pui_yin_yvonne@schools.gov.sg|
 | ICT Manager | Mr Steve Ng | ng_szu_lieh_steve@schools.gov.sg |
 | Operation Manager | Mr Ho Han Keong Philip | ho_han_keong@schools.gov.sg|
 | Admin Executive | Mr Jasri Bin Bahari | jasri_bahari@schools.gov.sg |
