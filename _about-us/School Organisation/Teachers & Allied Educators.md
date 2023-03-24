@@ -103,7 +103,7 @@ third_nav_title: School Organisation
 ||Ms Dhashayani Vallatharasu <br>(LH/Eng \[Internal\])|dhashayani_vallatharasu@schools.gov.sg|
 |Resilience|Mr Khairul Nizam A Aziz|khairul_nizam_abdul_aziz@schools.gov.sg|
 ||Mrs Rajeswary Thillaikumar<br> (ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
-|Integrity|Mdm Saraswathy Samuel|saraswathy_subramaniam_a@schools.gov.sg|
+|Integrity|Mrs Saraswathy Samuel|saraswathy_subramaniam_a@schools.gov.sg|
 ||Mr Teo Hock Chye Matthew <br> (ST/CL)| teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)|ban_choon_kwee@schools.gov.sg|
