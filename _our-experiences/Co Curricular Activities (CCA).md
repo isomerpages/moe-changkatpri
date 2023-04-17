@@ -26,10 +26,10 @@ The school CCAs are designed to:
 
 | CCA | Teachers | Day and Time |
 |---|---|---|
-| **Choir** | Miss Ha Siok Ting (OIC)<br>[ha_siok_ting@schools.gov.sg](mailto:ha_siok_ting@schools.gov.sg)<br>Ms Anithasri<br>  | Mondays<br>2.00 – 4.00 p.m.<br>  |
-| **Dance (Modern)** | Miss Rauhdah (OIC)<br>[Rauhdah_ABDUL_LATIF@schools.gov.sg](mailto:Rauhdah_ABDUL_LATIF@schools.gov.sg)<br>Mdm Kalai Selvi<br>Ms Gladys Soh Kang Hwee<br>  | Mondays<br>2.00 – 4.00 p.m.<br>  |
-| **Guitar Ensemble** | Miss Nur Azura (OIC)<br>[nur_azura_rahim@schools.gov.sg](mailto:nur_azura_rahim@schools.gov.sg)<br>Mdm Tay Aifang, Faith<br>Ms Ivy Ang Wei Li<br>  | Thursdays<br>2.00 – 4.00 p.m.<br>  |
-| **Art Club** | Mdm Aznani (OIC)<br>[aznani_aladin@schools.gov.sg](mailto:aznani_aladin@schools.gov.sg)<br>Miss Tia Amelia<br>Mrs Sim-Ng Li Leng<br>Mdm Geeta Jayakumar<br>Mdm Chew Poh Kim | Mondays<br>2.00 – 4.00 p.m.<br>  |
+| **Choir** | Miss Ha Siok Ting (OIC)<br>[ha_siok_ting@schools.gov.sg](mailto:ha_siok_ting@schools.gov.sg)<br>Ms Anithasri<br>Mrs Manoj Kamala  | Mondays<br>2.00 – 4.00 p.m.<br>  |
+| **Dance (Modern)** | Miss Rauhdah (OIC)<br>[Rauhdah_ABDUL_LATIF@schools.gov.sg](mailto:Rauhdah_ABDUL_LATIF@schools.gov.sg)<br>Mdm Kalai Selvi<br>Ms Gladys Soh Kang Hwee<br>Miss Gina Goh | Mondays<br>2.00 – 4.00 p.m.<br>  |
+| **Guitar Ensemble** | Miss Nur Azura (OIC)<br>[nur_azura_rahim@schools.gov.sg](mailto:nur_azura_rahim@schools.gov.sg)<br>Miss Hazelina Gopinathan<br>Ms Ivy Ang Wei Li<br>Miss Nuriani  | Thursdays<br>2.00 – 4.00 p.m.<br>  |
+| **Art Club** | Miss Tia Amelia(OIC)<br>[tia_amelia_abdullah@schools.gov.sg](mailto:tia_amelia_abdullah@schools.gov.sg)<br>Mdm Aznani <br>Mr Nurisham<br>Mdm Geeta Jayakumar<br>Mdm Tay Aifang, Faith | Mondays<br>2.00 – 4.00 p.m.<br>  |
 |
 
 #### **Clubs and Societies**
@@ -43,8 +43,8 @@ The school CCAs are designed to:
 
 | CCA | Teachers | Day and Time |
 |---|---|---|
-| **Wushu** | Mr Lim Choon Hong (OIC)<br>[lim_choon_hong_a@schools.gov.sg](mailto:lim_choon_hong_a@schools.gov.sg)<br>Mrs Geraldine Wong<br>Mr Teo Hock Chye | Mondays & Thursdays<br>2.00 – 4.00 p.m. |
-| **Track & Field (Semester 1: P4-6)<br>(Semester 2: P3-5)** | Mr Ng Boon Teng David (OIC)<br>[ng_boon_teng_david@schools.gov.sg](mailto:ng_boon_teng_david@schools.gov.sg)<br>Mdm Farhanah<br>Mdm Nur Arina<br>Mr Khairul Nizam | Mondays & Thursdays<br>2.00 – 4.00 p.m. |
-| **Basketball<br>(Semester 1: P4-6)<br>(Semester 2: P3-5)** | Mr Muhammad Khairil (OIC)<br>[muhammad_khairil_kamal@schools.gov.sg](mailto:muhammad_khairil_kamal@schools.gov.sg)<br>Mr Li Kun Peng<br>Mdm Nadjah<br>Mrs Saraswathy Samuel<br>Mdm Radziyah<br>Mrs Juliana<br>Mr Hoo Chee Mun<br>Mr Nurisham<br>Mdm Yan Zhuyun<br>Miss Hazelina Gopinathan<br>Mdm Sharifah Aminah<br>Mrs Manoj Kamala<br>Miss Gina Goh<br>Mrs Ofelia Yeo | Mondays & Thursdays<br>Boys & Girls<br>2.00 – 5.15 p.m.<br>  |
-| **P3 (Sem 1) & P2 (Sem 2) Multi-sports<br>(By invitation only)**<br>  | Mr Mohammad Taufeek<br>[mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg)<br>Mr Ban Choon Kwee | Mondays & Thursdays<br>2.00 – 3.30 p.m. |
+| **Wushu** | Mr Lim Choon Hong (OIC)<br>[lim_choon_hong_a@schools.gov.sg](mailto:lim_choon_hong_a@schools.gov.sg)<br>Mrs Geraldine Wong<br>Mr Teo Hock Chye | Mondays &amp; Thursdays<br>2.00 – 4.00 p.m. |
+| **Track &amp; Field (Semester 1: P4-6)<br>(Semester 2: P3-5)** | Mr Ng Boon Teng David (OIC)<br>[ng_boon_teng_david@schools.gov.sg](mailto:ng_boon_teng_david@schools.gov.sg)<br>Mdm Farhanah<br>Miss Tan Keng Tzu<br>Mr Khairul Nizam | Mondays &amp; Thursdays<br>2.00 – 4.00 p.m. |
+| **Basketball<br>(Semester 1: P4-6)<br>(Semester 2: P3-5)** | Mr Muhammad Khairil (OIC)<br>[muhammad_khairil_kamal@schools.gov.sg](mailto:muhammad_khairil_kamal@schools.gov.sg)<br>Mr Li Kun Peng<br>Mdm Nadjah<br>Mrs Saraswathy Samuel<br>Mdm Radziyah<br>Mrs Juliana<br>Mr Hoo Chee Mun<br>Mdm Sharifah Aminah<br>| Mondays &amp; Thursdays<br>Boys &amp; Girls<br>2.00 – 5.00 p.m.<br>  |
+| **P3 (Sem 1) &amp; P2 (Sem 2) Multi-sports<br>(By invitation only)**<br>  | Mr Mohammad Taufeek<br>[mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg)<br>Mr Ban Choon Kwee | Mondays &amp; Thursdays<br>2.00 – 4.00 p.m. |
 |
