@@ -13,7 +13,7 @@ third_nav_title: School Organisation
 | ICT Manager | Mr Steve Ng | ng_szu_lieh_steve@schools.gov.sg |
 | Operation Manager | Mr Ho Han Keong Philip | ho_han_keong@schools.gov.sg|
 | Admin Executive | Mr Jasri Bin Bahari | jasri_bahari@schools.gov.sg |
-| Admin Executive | Mdm Tay Suan Zee | tay_suan_zee@schools.gov.sg |
+| Admin Executive | Miss Tan Lay Guat | tan_lay_guat_a@schools.gov.sg |
 | CSO | Mdm Edith Chong Yen Yuen | chong_yen_yuen@schools.gov.sg |
 | CSO | Miss Tan Sock Hoong Shirley | tan_sock_hoong_shirley@schools.gov.sg |
 | CSO | Miss Rozanna Binti Roselan  | rozanna_roselan@schools.gov.sg |
