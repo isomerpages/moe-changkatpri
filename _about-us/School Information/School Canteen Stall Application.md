@@ -40,7 +40,7 @@ There XX stalls available.
 *   Bus Service: 5, 9, 20, 38
 *   Nearest MRT Station: EW3 Simei MRT Station
 
-Interested applicants must meet the following criteria:
+**Interested applicants must meet the following criteria:**
 
 *   Able to provide food and drinks that meet the health/nutritional standards set by the Health Promotion Board.
 *   Able to provide good service and quality food at reasonable prices.
