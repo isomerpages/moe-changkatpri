@@ -41,3 +41,9 @@ There XX stalls available.
 *   Nearest MRT Station: EW3 Simei MRT Station
 
 Interested applicants must meet the following criteria:
+
+*   Able to provide food and drinks that meet the health/nutritional standards set by the Health Promotion Board.
+*   Able to provide good service and quality food at reasonable prices.
+*   Able to observe a high standard of food and personal hygiene.
+
+Successful candidates will have to attend and pass the Food Safety Course Level 1 (formerly known as Basic Food Hygiene Course) and then apply for a Food Stall Licence issued by Singapore Food Agency to operate the stalls. They may apply the Licence from GoBusiness website.
