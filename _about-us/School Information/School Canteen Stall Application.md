@@ -23,7 +23,7 @@ There XX stalls available.
 
 1. Download and complete the application form, [School Canteen Application Form](https://drive.google.com/file/d/1-BAU8kaHehSwbrDKQSeAZqWBzsJLNDvL/view) or request a hardcopy from the [School General Office](https://www.changkatpri.moe.edu.sg/contact-us/) 
 
-2. Attached the competed form togather with the following documents:
+2. Attached the completed form togather with the following documents:
    * Photocopy of NRIC (Front and Back)
    * List of proposed menu and pricing for all items
    * Photocopy of relevant certificates such Basic Food Hygiene Course, etc
