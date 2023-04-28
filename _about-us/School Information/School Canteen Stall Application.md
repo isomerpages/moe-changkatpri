@@ -30,7 +30,7 @@ There XX stalls available.
     2. List of proposed menu and pricing for all items
     3. Photocopy of relevant certificates such Basic Food Hygiene Course, etc
 
-3. Submit the completed Application Form and the relevant documents   via&nbsp;[**email**](mailto:changkat_ps@moe.edu.sg)&nbsp;or to the&nbsp;[School General Office](https://www.changkatpri.moe.edu.sg/contact-us/)
+3. Submit the completed Application Form and the relevant documents   via&nbsp;[**email**](mailto:changkat_ps@moe.edu.sg) or to the [School General Office](https://www.changkatpri.moe.edu.sg/contact-us/)
 
    Address: 11 Simei Street 3, Singapore,529896<br>
    Tel: 6783 0923<br>
@@ -43,3 +43,4 @@ There XX stalls available.
 *   Nearest MRT Station: EW3 Simei MRT Station
 
 Interested applicants must meet the following criteria:
+
