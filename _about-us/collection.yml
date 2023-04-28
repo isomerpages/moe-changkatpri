@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/School Information.md
-      - School Information/.keep
       - School Crest, History, Song.md
       - Principal's Message.md
       - Vision, Mission, Values.md
@@ -14,3 +12,5 @@ collections:
       - School Organisation/Admin Team.md
       - School Organisation/School Bus.md
       - School Organisation/School Canteen.md
+      - School Information/.keep
+      - School Information/School Information.md
