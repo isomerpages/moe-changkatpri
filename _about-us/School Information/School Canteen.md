@@ -5,3 +5,4 @@ description: ""
 third_nav_title: School Information
 ---
 ### **School Canteen**
+**Canteen stalls**
