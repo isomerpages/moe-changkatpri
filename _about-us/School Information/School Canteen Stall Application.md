@@ -6,7 +6,7 @@ third_nav_title: School Information
 ---
 ### **School Canteen Stall Application**
 
-**Currently all stalls are occupied. Please check back periodically for vaccancies.**
+**Currently all stalls are occupied.**
 
 <!--
 There XX stalls available.
@@ -23,12 +23,10 @@ There XX stalls available.
 
 1. Download and complete the application form, [School Canteen Application Form](https://drive.google.com/file/d/1-BAU8kaHehSwbrDKQSeAZqWBzsJLNDvL/view) or request a hardcopy from the [School General Office](https://www.changkatpri.moe.edu.sg/contact-us/) 
 
-
-
 2. Attached the competed form togather with the following documents:
-    1. Photocopy of NRIC (Front and Back)
-    2. List of proposed menu and pricing for all items
-    3. Photocopy of relevant certificates such Basic Food Hygiene Course, etc
+   * Photocopy of NRIC (Front and Back)
+   * List of proposed menu and pricing for all items
+   * Photocopy of relevant certificates such Basic Food Hygiene Course, etc
 
 3. Submit the completed Application Form and the relevant documents   via&nbsp;[**email**](mailto:changkat_ps@moe.edu.sg) or to the [School General Office](https://www.changkatpri.moe.edu.sg/contact-us/)
 
@@ -43,4 +41,3 @@ There XX stalls available.
 *   Nearest MRT Station: EW3 Simei MRT Station
 
 Interested applicants must meet the following criteria:
-
