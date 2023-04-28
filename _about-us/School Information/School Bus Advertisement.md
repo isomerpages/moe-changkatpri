@@ -6,7 +6,6 @@ third_nav_title: School Information
 ---
 #### **School Bus Advertisement**
 To apply, please refer to the Service Requirements and Application Procdeure below:
-
 #### Service Requirements
 1. Call for Proposal
 2. Agreement for Appointment of School Bus Operator
