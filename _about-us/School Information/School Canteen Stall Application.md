@@ -18,8 +18,7 @@ There XX stalls available.
 | Text     | Text     | Text     |
 |
 
-
-  
+To apply, please refer to the Application Procedure below:  
 
 #### **Application Procedure**
 
