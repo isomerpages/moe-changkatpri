@@ -29,6 +29,3 @@ To apply, please refer to the Service Requirements and Application Procdeure bel
 
 *   Bus Service: 5, 9, 20, 38
 *   Nearest MRT Station: EW3 Simei MRT Station
-
-
-
