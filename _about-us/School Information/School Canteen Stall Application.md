@@ -8,7 +8,9 @@ third_nav_title: School Information
 
 **Currently all stalls are occupied.**
 
-<!--
+<!-- hidden -->
+Sample
+
 There XX stalls available.
 
 | Type of Food | Closing Date | Requirement |
@@ -16,7 +18,7 @@ There XX stalls available.
 | Text     | Text     | Text     |
 |
 
--->
+
   
 
 #### **Application Procedure**
