@@ -47,4 +47,4 @@ To apply, please refer to the Application Procedure below:
 *   Able to provide good service and quality food at reasonable prices.
 *   Able to observe a high standard of food and personal hygiene.
 
-Successful candidates will have to attend and pass the Food Safety Course Level 1 (formerly known as Basic Food Hygiene Course) and then apply for a Food Stall Licence issued by Singapore Food Agency to operate the stalls. They may apply the Licence from GoBusiness website.
+Successful candidates will have to attend and pass the Food Safety Course Level 1 (formerly known as Basic Food Hygiene Course) and then apply for a Food Stall Licence issued by Singapore Food Agency to operate the stalls. They may apply the Licence from [GoBusiness Singapore](https://www.gobusiness.gov.sg/) website.
