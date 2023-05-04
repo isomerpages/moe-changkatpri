@@ -5,13 +5,13 @@ description: ""
 third_nav_title: School Information
 ---
 ### **School Canteen Stall Application**
-#### Canteen Stall Status
+#### **Canteen Stall Status**
 **Currently all stalls are occupied.**
 
 <!-- hidden text code-->
 Sample:
 
-There XX stalls available.
+**There XX stalls available:**
 
 | Type of Food | Closing Date | Requirement |
 | -------- | -------- | -------- |
@@ -47,7 +47,7 @@ To apply, please refer to the Application Procedure below:
 * Able to provide good service and quality food with prices determined in consultation with the school
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “[Healthy Meals in Schools Programme (HMSP)](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)” guidelines
 * Able to maintain high standard of food safety and personal hygiene
-* Healthy and fi t to operate the stall
+* Healthy and fit to operate the stall
 
 **Applicants should preferably fulfill the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate (attend and pass the Food Safety Course Level 1 (formerly known as Basic Food Hygiene Course))
