@@ -5,11 +5,11 @@ description: ""
 third_nav_title: School Information
 ---
 ### **School Canteen Stall Application**
-
+#### Canteen Stall Status
 **Currently all stalls are occupied.**
 
-<!-- hidden -->
-Sample
+<!-- hidden text code-->
+Sample:
 
 There XX stalls available.
 
