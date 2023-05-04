@@ -43,8 +43,10 @@ To apply, please refer to the Application Procedure below:
 
 **Interested applicants must meet the following criteria:**
 
-*   Able to provide food and drinks that meet the health/nutritional standards set by the Health Promotion Board.
-*   Able to provide good service and quality food at reasonable prices.
-*   Able to observe a high standard of food and personal hygiene.
+* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+* Able to provide good service and quality food with prices determined in consultation with the school.
+* Able to provide cooked food that meets the health / nutritional standards set by the [Health Promotion Board (HPB) under the“Healthy Meals in Schools Programme (HMSP)] (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)” guidelines. 
+* Able to maintain high standard of food safety and personal hygiene.
+Healthy and fi t to operate the stall.
 
 Successful candidates will have to attend and pass the Food Safety Course Level 1 (formerly known as Basic Food Hygiene Course) and then apply for a Food Stall Licence issued by Singapore Food Agency to operate the stalls. They may apply the Licence from [GoBusiness Singapore](https://www.gobusiness.gov.sg/) website.
