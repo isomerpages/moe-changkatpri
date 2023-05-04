@@ -50,8 +50,8 @@ To apply, please refer to the Application Procedure below:
 * Healthy and fi t to operate the stall
 
 **Applicants should preferably fulfill the following criteria:**
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate (attend and pass the Food Safety Course Level 1 (formerly known as Basic Food Hygiene Course))
 * Possess catering experience or experience operating in a school environment.
-* Successful applicant is required to apply for a food stall license fromSingapore Food Agency (SFA).
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). Apply the Licence from [GoBusiness Singapore](https://www.gobusiness.gov.sg/) website
 
-Successful candidates will have to attend and pass the Food Safety Course Level 1 (formerly known as Basic Food Hygiene Course) and then apply for a Food Stall Licence issued by Singapore Food Agency to operate the stalls. They may apply the Licence from [GoBusiness Singapore](https://www.gobusiness.gov.sg/) website.
+ Shortlisted applicants will be notifi ed for an interview and will berequired to provide food sampling for the School Canteen SelectionCommittee at the applicant’s own expense.
