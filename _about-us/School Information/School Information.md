@@ -22,7 +22,7 @@ Students reporting after 7.30am are deemed to be late for school.
 <img src="/images/About%20us/SchInfo/schinfo3.jpg" style="width:20%;margin-right:15px;" align="left">Students are to respect all staff, student leaders and schoolmates at all times. <br>Students are to be punctual for all school activities. <br>Students are to take care of the school property and keep the school compound clean.
 
 #### **Student Cyclist**
-Students are allowed to cycle only with written permission from the school. Parents must fill in a prescribed form for this purpose.&nbsp;Parents/ Guardians of students who intend to cycle to school are required to submit the reply form found in our school website in the ‘Parents’ -&gt; 'Form' link in ‘Parents &amp; Students’ tab
+Students are allowed to cycle only with written permission from the school. Parents must fill in a prescribed form for this purpose.&nbsp;Parents/ Guardians of students who intend to cycle to school are required to submit the reply form found in our school website in the ‘Parents’ -&gt; 'Forms' link in ‘Parents &amp; Students’ tab
 
 #### **Possession of Weapons**
 Students are not allowed to have any weapon in their possession. They are also not allowed to bring any weapon – like items which are used or intended to be use to cause harm to others.
