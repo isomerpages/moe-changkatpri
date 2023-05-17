@@ -22,7 +22,7 @@ Students reporting after 7.30am are deemed to be late for school.
 <img src="/images/About%20us/SchInfo/schinfo3.jpg" style="width:20%;margin-right:15px;" align="left">Students are to respect all staff, student leaders and schoolmates at all times. <br>Students are to be punctual for all school activities. <br>Students are to take care of the school property and keep the school compound clean.
 
 #### **Student Cyclist**
-Students are allowed to cycle only with written permission from the school. Parents must fill in a prescribed form for this purpose.&nbsp;Parents/ Guardians of students who intend to cycle to school are required to submit the reply form found in our school website in the ‘Parents’ tab in ‘Forms’. Please submit the reply form to the general office.
+Students are allowed to cycle only with written permission from the school. Parents must fill in a prescribed form for this purpose.&nbsp;Parents/ Guardians of students who intend to cycle to school are required to submit the reply form found in our school website in the ‘Parents’ -&gt; 'Forms' link in ‘Parents &amp; Students’ menu.
 
 #### **Possession of Weapons**
 Students are not allowed to have any weapon in their possession. They are also not allowed to bring any weapon – like items which are used or intended to be use to cause harm to others.
@@ -38,4 +38,4 @@ We would like to share some guidelines pertaining to the usage of handphones in 
 
 Students who are found to have breached the guidelines will have their handphones confiscated by the teachers and Parents/Guardians informed. Parents/Guardians will be required to personally collect the handphones from the school’s Operation Manager (OM).&nbsp;Please note also that the school shall not be held responsible for any loss of or damage to the children’s&nbsp; handphones. Students must&nbsp;be responsible&nbsp;for the care of their handphones.
 
-Parents/ Guardians of students who are bringing handphones to school are required to complete the acknowledgement slip (Acknowledgement Form - Handphone Policy) found in our school website in the ‘Parents &amp; Students’ tab in ‘Forms’. Please give this acknowledgement slip to the class form teachers.
+Parents/ Guardians of students who are bringing handphones to school are required to complete the acknowledgement slip (Acknowledgement Form - Handphone Policy) found in our school website in the ‘Parents’ -&gt; 'Forms' link in ‘Parents &amp; Students’ menu.
