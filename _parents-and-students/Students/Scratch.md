@@ -6,6 +6,6 @@ third_nav_title: Students
 ---
 ## **Scratch**
 
-Scratch is the world's largest free coding community for kids. Your support makes a difference.
+Scratch is the world's largest free coding community for kids.  
 
 Click [here](https://scratch.mit.edu/) to visit Scratch.
