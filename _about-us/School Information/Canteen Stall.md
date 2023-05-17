@@ -8,7 +8,7 @@ third_nav_title: School Information
 #### **Canteen Stall Status**
 **Currently all stalls are occupied.**
 
-<!-- hidden text code-->
+<!-- hidden text code
 Sample:
 
 **There XX stalls available:**
@@ -55,3 +55,4 @@ To apply, please refer to the Application Procedure below:
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). Apply the Licence from [GoBusiness Singapore](https://www.gobusiness.gov.sg/) website
 
 *** Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. ***
+-->
