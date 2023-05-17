@@ -6,7 +6,8 @@ third_nav_title: School Information
 ---
 ### **School Bus**
 
-2023 School Bus 
+2023 School Bus Vendor has been awarded.
+
 <!---
 #### **School Bus Advertisement**
 
