@@ -15,8 +15,8 @@ sections:
       url: /our-news/events/
   - infopic:
       title: The Changkat Experience
-      subtitle: Scan the QR code
-      description: Discover the Changkat Experience!
-      alt: Image alt text
+      subtitle: Changkat Primary Open House
+      description: Scan the QR code to register.
+      alt: Scan the QR code to register
       image: /images/Events/Experience/banner final 17 may version.png
 ---
