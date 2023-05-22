@@ -14,9 +14,9 @@ sections:
       button: Click here
       url: /our-news/events/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: The Changkat Experience
+      subtitle: Scan the QR code
+      description: Discover the Changkat Experience!
       alt: Image alt text
+      image: /images/Events/Experience/banner final 17 may version.png
 ---
