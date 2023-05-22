@@ -13,7 +13,7 @@ sections:
       subtitle: Changkat Primary Open House
       description: Scan the QR code to register.
       alt: Scan the QR code to register
-      image: /images/Events/Experience/ckexpbanner.png
+      image: /images/Events/Experience/ckexpbanner2.png
       button: Click to view larger image
       url: https://raw.githubusercontent.com/isomerpages/moe-changkatpri/staging/images/Events/Experience/ckexpbanner.png
   - infobar:
