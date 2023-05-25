@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - E newsletter.md
-      - Events/Hari Raya Celebration.md
       - Events/.keep
       - Events/Events.md
       - Events/Chinese New Year.md
+      - Events/Hari Raya Celebration.md
       - Recognitions.md
