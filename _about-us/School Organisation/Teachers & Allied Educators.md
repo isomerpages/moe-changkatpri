@@ -76,7 +76,7 @@ third_nav_title: School Organisation
 |Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
 ||Ms Celeste Loh Shi Min<br>(HOD/CCE)| celeste_loh_shi_min@schools.gov.sg|
 |Empathy|Mdm Tan Huaying Maybelline (Mrs Low)<br>(ST/SC)| tan_huaying_maybelline@schools.gov.sg|
-||Mdm Nur Arina| nur_arina_santoso@schools.gov.sg|
+||Mdm Nur Arina Santoso<br>(ML Coord)  | nur_arina_santoso@schools.gov.sg|
 |
 
 #### **Primary Four**
