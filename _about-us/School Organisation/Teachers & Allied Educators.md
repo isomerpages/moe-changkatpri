@@ -107,7 +107,7 @@ third_nav_title: School Organisation
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)|ban_choon_kwee@schools.gov.sg|
 |Empathy|Mdm Farhanah Jumahat <br>(Cyberwellness Coord)|farhanah_jumahat@schools.gov.sg|
-||Mdm Farah Khairiah Rifaei<br>(SH/NE &amp; Partnership, Social Studies)|farah_khairiah_rifaei@schools.gov.sg|
+||Mdm Farah Khairiah Rifaei<br>(SH/NE &amp; Partnership, Social Studies)|farah_khairiah_rifaei@schools.gov.sg| 
 |
   
 #### **Primary Six**
