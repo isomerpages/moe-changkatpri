@@ -121,7 +121,7 @@ third_nav_title: School Organisation
 |Integrity|Muhammad Khairil Bin Kamal <br>(AYH) |muhammad_khairil_kamal@schools.gov.sg|
 ||Mdm Chong Stephanie Jemima Tan<br>(SSD)|chong_stephanie_jemima_tan@schools.gov.sg|
 |Discipline|Mdm Radziyah Mohd Zain|radziyah_mohamed_zain@schools.gov.sg|
-||Mdm Farah Khairiah Rifaei <br>(SH/NE &amp; Partnership, Social Studies)|farah_khairiah_rifaei@schools.gov.sg|
+||Mdm Salmi <br>(HOD Science)|salmi_rahmat@schools.gov.sg|
 |
 
 #### **Teachers without Form Class**
