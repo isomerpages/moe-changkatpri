@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents & Students.md
-      - Parents/Home Based Learning Plan.md
       - Parents/.keep
       - Parents/Parents' Notification.md
       - Parents/Forms.md
