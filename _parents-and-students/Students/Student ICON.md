@@ -6,7 +6,7 @@ third_nav_title: Students
 ---
 ### **Student ICON**
 
-#### **Student ICON backup**  New
+#### **Student ICON backup**  (New)
 
 From Jun 2024, Student iCON will have a storage limit of 1 GB for each student.
 
