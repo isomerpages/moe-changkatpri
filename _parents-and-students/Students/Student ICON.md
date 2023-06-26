@@ -6,9 +6,11 @@ third_nav_title: Students
 ---
 ### **Student ICON**
 
-Student ICON backup
+#### **Student ICON backup** New
 
-Click here to view the guide on how to Backup Student iCON data to your personal Gmail account
+From Jun 2024, Student iCON will have a storage limit of 1 GB for each student.
+
+Click [here](https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view) to view the guide on how to Backup Student iCON data to your personal Gmail account
 
 Click here to view the guide on how to Backup Student iCON data to your device (who don't have a personal Gmail account)
 
