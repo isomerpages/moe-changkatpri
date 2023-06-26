@@ -11,4 +11,4 @@ third_nav_title: Parents
 * Click [here](https://drive.google.com/file/d/1cnZDqsxNentp3YNJ8tPYPmjuDRabN1cX/view) to see **Parent Kit - Supporting your child during Full Home-Based Learning**
 * Click [here](https://drive.google.com/file/d/18tS4tPtpYTzp9fPgIVgXQVppSOFDO7fF/view) to download the article on **Resilience Booster**
 * Click [here](https://drive.google.com/file/d/1L37ZmTwsqySH_qNvY9GKZA9tE1Q5ure5/view) to download the article on **Supporting Your Child's transition through Primary 1**
-* Click [here](https://drive.google.com/drive/folders/1mddGVFroUXakO3qppZYGqqQ36gv_IShE) to view the **P3-P5 Home-Based Learning (HBL) Plan (7 July 2023)**
+* Click [here](https://drive.google.com/drive/folders/1mddGVFroUXakO3qppZYGqqQ36gv_IShE) to view the **Home-Based Learning (HBL) Plan**
