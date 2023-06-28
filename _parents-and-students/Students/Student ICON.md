@@ -5,15 +5,25 @@ description: ""
 third_nav_title: Students
 ---
 ### **Student ICON**
+
+#### **Student ICON backup**  (New)
+
+From Jun 2024, Student iCON will have a storage limit of 1 GB for each student.
+
+Click [here](https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view) to view the guide on how to Backup Student iCON data to your personal Gmail account
+
+Click [here](https://drive.google.com/file/d/121mnowVv5lGzS951wpAiqbEu2bSlDhEF/view) to view the guide on how to Backup Student iCON data to your device (who don't have a personal Gmail account)
+
+
 #### **Instructions to login to Student ICON**
-Click [here](https://workspace.google.com/dashboard) for login page.  URL: [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) <br>
+Click&nbsp;[here](https://workspace.google.com/dashboard)&nbsp;for login page.&nbsp; URL:&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) <br>
 Student ICON login details has been given to students.
 
 For the ICON email address, please take note the following:
 *   Any space in the full name will be replaced with an underscore.
-*   Should the student’s full name have words such as “Bte”, “d/o”  and “s/o”, they will not appear in the email address. (eg, Abdullah Bte Mohmand => abdullah_mohmand@students.edu.sg)
-*   For cases where students share the same full name, a numerical number (e.g. Ang\_Bee\_Bee\_1, Ang\_Bee\_Bee\_2) to differentiate their email addresses.
-*   Take note of the correct domain is <font style="color:blue"> studentS.edu.sg</font> not  ~~student.edu.sg~~ 
+*   Should the student’s full name have words such as “Bte”, “d/o”&nbsp;&nbsp;and “s/o”, they will not appear in the email address. (eg, Abdullah Bte Mohmand =&gt;&nbsp;abdullah_mohmand@students.edu.sg)
+*   For cases where students share the same full name, a numerical number (e.g. Ang\_Bee\_Bee\_1,&nbsp;Ang\_Bee\_Bee\_2) to differentiate their email addresses.
+*   Take note of the correct domain is&nbsp;<font style="color:blue"> studentS.edu.sg</font> not&nbsp; ~~student.edu.sg~~ 
 
 Here's an example of the slip:
 
@@ -21,9 +31,9 @@ Here's an example of the slip:
 
 <img src="/images/Student/ICON/access.png" style="width:75%">
 
-For more instructions on Student ICON Onboarding, please click [here](https://drive.google.com/file/d/1MqNXVUTQREpPG2lOSDwkv7xJJyhbxxPN/view)
+For more instructions on Student ICON Onboarding, please click&nbsp;[here](https://drive.google.com/file/d/1MqNXVUTQREpPG2lOSDwkv7xJJyhbxxPN/view)
 
-For more instructions on Google Classroom, please click [here](https://drive.google.com/file/d/1hqs0nkbrcFkAVpN0IULhCY6WuJKPl8Vt/view)
+For more instructions on Google Classroom, please click&nbsp;[here](https://drive.google.com/file/d/1hqs0nkbrcFkAVpN0IULhCY6WuJKPl8Vt/view)
 
 **Password**<br>
 Student ICON is primarily used to log on to the computers in school. Please approach your form teacher if you need your account to be unlocked.
