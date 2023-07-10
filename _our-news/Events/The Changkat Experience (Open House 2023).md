@@ -19,6 +19,7 @@ third_nav_title: Events
 <p>&nbsp;</p> 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 #### Classroom tour and activities
 <img title="Art Gallery Tour" src="/images/Events/OpenHouse/tour_1.JPG" style="width:50%" align="left"> <img title="Classroom activities" src="/images/Events/OpenHouse/tour_2.JPG" style="width:50%" align="left">
