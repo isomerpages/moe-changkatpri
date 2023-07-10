@@ -6,3 +6,7 @@ third_nav_title: Events
 ---
 # The Changkat Experience (Open House 2023)
 ![Welcoming the kindergartener](/images/Events/OpenHouse/registration.JPG)
+<figure>
+	<figcaption> Welcoming the kindergartener
+</figcaption>
+</figure> 
