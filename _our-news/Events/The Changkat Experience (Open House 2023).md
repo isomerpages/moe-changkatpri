@@ -11,9 +11,9 @@ third_nav_title: Events
 </figcaption>
 </figure>
 
-<br>
+ 
+####  Performances by our Choir, Dance and Guitar clubs
 <img src="/images/Events/OpenHouse/thechoir.JPG" style="width:50%" align="left"><img src="/images/Events/OpenHouse/guitar.JPG" style="width:50%" align="left"><img src="/images/Events/OpenHouse/thedance.JPG" style="width:50%" align="left">
  <br>
  <br>
 <br>
-<br>Performances by our Choir, Dance and Guitar clubs
