@@ -8,6 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/Site/banner1.png
+  - infobar:
+      title: Events
+      description: Find out what's going on!
+      button: Click here
+      url: /our-news/events/
   - infopic:
       title: The Changkat Experience
       subtitle: Changkat Primary Open House
@@ -16,9 +21,4 @@ sections:
       image: /images/Events/Experience/ckexpbanner2.png
       button: Click to view larger image
       url: https://raw.githubusercontent.com/isomerpages/moe-changkatpri/staging/images/Events/Experience/ckexpbanner.png
-  - infobar:
-      title: Events
-      description: Find out what's going on!
-      button: Click here
-      url: /our-news/events/
 ---
