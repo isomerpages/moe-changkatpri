@@ -18,8 +18,7 @@ third_nav_title: Events
 <p>&nbsp;</p>
 <p>&nbsp;</p> 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <figure>
 	<figcaption> 
 </figcaption>
