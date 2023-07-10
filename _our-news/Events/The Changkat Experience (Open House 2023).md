@@ -12,8 +12,12 @@ third_nav_title: Events
 </figure>
 
  
-####  Performances by our Choir, Dance and Guitar clubs
+#### Performances by our Choir, Dance and Guitar clubs
 <img src="/images/Events/OpenHouse/thechoir.JPG" style="width:50%" align="left"><img src="/images/Events/OpenHouse/guitar.JPG" style="width:50%" align="left"><img src="/images/Events/OpenHouse/thedance.JPG" style="width:50%" align="left">
- <br>
- <br>
-<br>
+<p>&nbsp;
+</p><p>&nbsp;
+</p><p>&nbsp;
+</p><p>&nbsp;
+	
+#### Classroom tour and activities
+<img title="Art Gallery Tour" src="/images/Events/OpenHouse/tour_1.JPG" style="width:50%" align="left"> <img title="Classroom activities" src="/images/Events/OpenHouse/tour_2.JPG" style="width:50%" align="left"></p>
