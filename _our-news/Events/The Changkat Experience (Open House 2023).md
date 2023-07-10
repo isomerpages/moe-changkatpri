@@ -11,4 +11,8 @@ third_nav_title: Events
 </figcaption>
 </figure>
 
-<img src="/images/Events/OpenHouse/thechoir.JPG" style="width:50%" align="left"><img src="/images/Events/OpenHouse/guitar.JPG" style="width:50%" align="left">[Dance](/images/Events/OpenHouse/thedance.JPG)
+<img src="/images/Events/OpenHouse/thechoir.JPG" style="width:50%" align="left"><img src="/images/Events/OpenHouse/guitar.JPG" style="width:50%" align="left"><img src="/images/Events/OpenHouse/thedance.JPG" style="width:50%" align="left">
+<figure>
+	<figcaption> Performace by our Choir,Dance and Guitar clubs
+</figcaption>
+</figure>
