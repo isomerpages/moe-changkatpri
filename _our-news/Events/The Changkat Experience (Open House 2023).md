@@ -10,3 +10,5 @@ third_nav_title: Events
 	<figcaption> Welcoming the kindergartener
 </figcaption>
 </figure>
+
+![Choir](/images/Events/OpenHouse/thechoir.JPG)![Guitar](/images/Events/OpenHouse/guitar.JPG)![Dance](/images/Events/OpenHouse/thedance.JPG)
