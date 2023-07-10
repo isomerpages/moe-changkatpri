@@ -14,4 +14,6 @@ third_nav_title: Events
 <br>
 <img src="/images/Events/OpenHouse/thechoir.JPG" style="width:50%" align="left"><img src="/images/Events/OpenHouse/guitar.JPG" style="width:50%" align="left"><img src="/images/Events/OpenHouse/thedance.JPG" style="width:50%" align="left">
  <br>
- <br>Performances by our Choir, Dance and Guitar clubs
+ <br>
+<br>
+<br>Performances by our Choir, Dance and Guitar clubs
