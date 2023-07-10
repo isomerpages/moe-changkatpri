@@ -20,10 +20,8 @@ third_nav_title: Events
 </p><p>&nbsp;
 </p><p>&nbsp;
 </p><p>&nbsp;
-</p> 
-<p></p><p>&nbsp;
-</p> 
-<p></p><p>&nbsp;
+</p><p>&nbsp;
+</p><p>&nbsp;
 </p> 
 
 #### Classroom tour and activities
