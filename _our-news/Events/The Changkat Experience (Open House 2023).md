@@ -9,4 +9,4 @@ third_nav_title: Events
 <figure>
 	<figcaption> Welcoming the kindergartener
 </figcaption>
-</figure> 
+</figure>
