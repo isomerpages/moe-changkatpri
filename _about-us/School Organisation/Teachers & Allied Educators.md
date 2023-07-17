@@ -88,7 +88,6 @@ third_nav_title: School Organisation
 ||Mdm Zhang Fangfang<br>(HOD/MTL)|  zhang_fangfang@schools.gov.sg|
 |Resilience|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
 ||Mdm Siti Aisyah Mustapha|siti_aisyah_mustapha@schools.gov.sg|
-||Mr Artt Muhd Ashraf|artt_muhammad_ashraf_sulong@moe.edu.sg|
 |Integrity|Mdm Anithasri d/o Manokaran|anithasri_manokaran@schools.sg|
 ||Mr Li Kun Peng<br> (CL Coord)|li_kun_peng@schools.gov.sg|
 |Discipline|Mdm Kamala d/o Swamy<br>(iExams Coord)|kamala_swamy@schools.gov.sg|
@@ -132,7 +131,6 @@ third_nav_title: School Organisation
 |Mrs Suzanna Bambang <br>[Upper Level  Year Head]|suzanna_abdul_rahim@schools.gov.sg|
 |Mdm Yeo Lee Theng Deon<br>[Lower Level  Year Head]|yeo_lee_theng@schools.gov.sg|
 |Ms Debbie Koh Ling Zhi|debbie_koh_ling_zhi@schools.gov.sg|
-|Mdm Nur Arina Santoso<br>(ML Coord) &nbsp;<br>(on NPL in Sem 1) | nur_arina_santoso@schools.gov.sg|
 |
 
 
