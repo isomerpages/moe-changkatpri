@@ -9,7 +9,7 @@ third_nav_title: Events
 
 ![](/images/Events/NDP2023/img_1088.JPG)
 
-<br>
+
  ![](/images/Events/NDP2023/img_1093.JPG)
  ![](/images/Events/NDP2023/img_1144.JPG)
  ![](/images/Events/NDP2023/img_1211.JPG) 
