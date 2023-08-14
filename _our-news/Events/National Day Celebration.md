@@ -19,7 +19,7 @@ third_nav_title: Events
 <p>&nbsp;</p>
 	
  
- #### 
+ 
  <img src="/images/Events/NDP2023/img_1211.JPG" style="width:50%" align="left"><img src="/images/Events/NDP2023/img_1216.JPG" style="width:50%" align="left">
 <figure>
 	<figcaption> VIP Ribbon cutting
@@ -27,7 +27,7 @@ third_nav_title: Events
 </figure>
 <p>&nbsp;</p>
 
- #### 
+ 
   <img src="/images/Events/NDP2023/img_1340.JPG" style="width:50%" align="left"><img src="/images/Events/NDP2023/img_1525.JPG" style="width:50%" align="left">
  <figure>
 	<figcaption> Celebration
