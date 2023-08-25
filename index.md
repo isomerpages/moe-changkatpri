@@ -13,7 +13,7 @@ sections:
       subtitle: 30 Aug (Wednesday)
       description: Ex-students of Changkat Primary are welcome to visit their teachers
         on 30 Aug from 2.45 to 3.45pm.  Meetings will be held at the hall.
-      button: For details, please visit this link
+      button: For details, please click here
       url: https://www.changkatpri.moe.edu.sg/our-news/events/visitckps/
   - infobar:
       title: Events
