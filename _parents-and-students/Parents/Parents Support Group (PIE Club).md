@@ -26,11 +26,11 @@ We partner and support the school by volunteering our time, talent and thoughts;
 | **Recess Duty** | **Stage Deco** | **Constructive Dialogues** |
 | Once a week (9.30 to 11.30am) <br><br>A chance for our teachers to take a break before they begin lessons again | <br>Stage decorations for festive celebrations and different school events. | Through dialogues with school leaders, we give constructive feedback, and in return, we understand the rationale behind school policies and share important information with other parents. |
 | <img src="/images/Parent/PIE/volunteer4.jpg" style="width:100%"> | <img src="/images/Parent/PIE/volunteer5.jpg" style="width:65%"> | <img src="/images/Parent/PIE/volunteer6.jpg" style="width:60%"> |
-| **Reading to Children** | **Performers** | *Event Helpers** |
-| - English KidsREAD<br>- Malay & Tamil Reading Programme<br>- Chinese Storytelling | Stage performance (in the form of dance, workout or skit) for school celebrations such as Total Defence Day, National Day, Children’s Day, etc | Ad-hoc events during school hours eg:<br>- Field trips <br>- Sports Day <br>- Activity booths at school’s National Education and cultural events |
+| **Reading to Children** | **Performers** | **Event Helpers** |
+| - English KidsREAD<br>- Malay &amp; Tamil Reading Programme<br>- Chinese Storytelling | Stage performance (in the form of dance, workout or skit) for school celebrations such as Total Defence Day, National Day, Children’s Day, etc | Ad-hoc events during school hours eg:<br>- Field trips <br>- Sports Day <br>- Activity booths at school’s National Education and cultural events |
 |
 
 #### **Join us!**
 Play an active role in your child’s development in school. We need and value parents’ help and support and we invite all parents to partner us in our journey to help our children grow into Learners with Passion, Citizens of Honour. 
 
-Click [here](https://form.gov.sg/634f7b32d25d7f0012ff9f93) to fill-in the **Parent Volunteer Application Form** (External link) or Fill up a form at the General Office and we will get in touch with you shortly.
+Click&nbsp;[here](https://form.gov.sg/634f7b32d25d7f0012ff9f93)&nbsp;to fill-in the&nbsp;**Parent Volunteer Application Form**&nbsp;(External link) or Fill up a form at the General Office and we will get in touch with you shortly.
