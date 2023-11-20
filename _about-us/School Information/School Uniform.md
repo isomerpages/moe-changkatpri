@@ -20,9 +20,8 @@ Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.
 <img style="width:20%" src="/images/My_Uniform_Shop__ASIA__Pte_Ltd___Changkat_Primary_School_2023.jpg"><br>
 
 
- | Date | Day | Time | Remarks | 
- | -------- | -------- | -------- | -------- | 
-
+ | Date | Day | Time | Remarks |
+ | -------- | -------- | -------- | -------- |
  | 20/11/2023 | Monday | 9:00 am - 3:00 pm | P1 Orientation |
  | 22/11/2023 | Wednesday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
  | 24/11/2023 | Friday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
@@ -39,4 +38,6 @@ Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.
  | 27/12/2023 | Wednesday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
  | 29/12/2023 | Friday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
  | 30/12/2023 | Saturday | 9:00 am - 12:30 pm | Primary 1 to Primary 6 | 
+ 
+*Please note that there is no sale of uniforms outside of school. Sales are conducted strictly based on the dates and timings above.
 
