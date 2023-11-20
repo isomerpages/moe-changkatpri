@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Bookshop.md
       - School Crest, History, Song.md
       - Principal's Message.md
       - Vision, Mission, Values.md
