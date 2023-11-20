@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - E newsletter.md
+      - Events/Prize Giving and P6 Graduation Day.md
       - Events/Visitations by Former Students of Changkat Primary.md
       - Events/.keep
       - Events/Events.md
