@@ -23,7 +23,7 @@ Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.
  | Date | Day | Time | Remarks | 
  | -------- | -------- | -------- | -------- | 
 
- | 20/11/2023 | Monday | 9:00 am - 3:00 pm | P1 Orientation | 
+ | 20/11/2023 | Monday | 9:00 am - 3:00 pm | P1 Orientation |
  | 22/11/2023 | Wednesday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
  | 24/11/2023 | Friday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
  | 25/11/2023 | Saturday | 9:00 am - 12:30 pm | Primary 1 to Primary 6 | 
