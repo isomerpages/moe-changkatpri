@@ -7,12 +7,11 @@ third_nav_title: School Information
 ---
 ## School Information
 
-Appointed school uniform vendor: **myuniform Shop**.
+Appointed school uniform vendor: **My Uniform Shop**.
 
 My Uniform Shop will be selling the school uniforms in Changkat Primary School during the school holidays until 31 December 2023 only.
 
-Payment Mode – Cash
- 
+
 **Online Order**
 Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.myuniformshop.com.sg) for more details regarding purchasing guide and delivery. Website is opened for home delivery. All home delivery orders must be received and paid for before 10 December 2023, 2359.
 
