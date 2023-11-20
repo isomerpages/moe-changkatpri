@@ -13,12 +13,14 @@ My Uniform Shop will be selling the school uniforms in Changkat Primary School d
 
 
 **Online Order**
-Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.myuniformshop.com.sg) for more details regarding purchasing guide and delivery. Website is opened for home delivery. All home delivery orders must be received and paid for before 10 December 2023, 2359.
-
-
+ Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.myuniformshop.com.sg) for more details regarding purchasing guide and delivery. Website is opened for home delivery. All home delivery orders must be received and paid for before 10 December 2023, 2359.
+Scan the QR code:
 <img style="width:20%" src="/images/My_Uniform_Shop__ASIA__Pte_Ltd___Changkat_Primary_School_2023.jpg"><br>
 
 **Onsite (school) Order**
+
+ Payment Mode – Cash
+
  | Date | Day | Time | Remarks |
  | -------- | -------- | -------- | -------- |
  | 20/11/2023 | Monday | 9:00 am - 3:00 pm | P1 Orientation |
