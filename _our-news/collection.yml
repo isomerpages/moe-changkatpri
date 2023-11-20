@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - E newsletter.md
+      - Events/.keep
+      - Events/P1 1st day of school.md
       - Events/Prize Giving and P6 Graduation Day.md
       - Events/Visitations by Former Students of Changkat Primary.md
-      - Events/.keep
-      - Events/Events.md
       - Events/Chinese New Year.md
       - Events/Hari Raya Celebration.md
       - Events/The Changkat Experience (Open House 2023).md
