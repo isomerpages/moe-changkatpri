@@ -14,10 +14,10 @@ Parents and students are advised to get books from the bookshop to avoid buying 
 Books sold are non-refundable.
 
 Date of sale in school:<br>
-NOV 2023: 20, 22, 24, 25 (Sat*), 29<br>
-DEC 2023: 01, 02 (Sat\*), 07, 09 (Sat\*), 15, 16 (Sat\*), 21, 23 (Sat\*), 27, 29, 30 (Sat\*)
+NOV 2023: 20, 22, 24, 25 (Sat^), 29<br>
+DEC 2023: 01, 02 (Sat^), 07, 09 (Sat^), 15, 16 (Sat^), 21, 23 (Sat^), 27, 29, 30 (Sat^)
 
-OPERATING HOURS: Mon-Fri (9.00AM – 3.00PM) || *Sat &amp; Eve of Public Holiday (9.00AM – 12.30PM)
+OPERATING HOURS: Mon-Fri (9.00AM – 3.00PM) || ^Sat &amp; Eve of Public Holiday (9.00AM – 12.30PM)
 
 You may order your school textbooks and name tags via our website  [WWW.CPS.CHALAMAY.COM](https://WWW.CPS.CHALAMAY.COM).
 
