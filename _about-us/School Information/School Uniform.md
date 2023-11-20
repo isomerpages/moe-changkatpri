@@ -21,6 +21,7 @@ Scan the QR code:
 **Onsite (school) Order**
 
  Payment Mode – Cash
+ 
 
  | Date | Day | Time | Remarks |
  | -------- | -------- | -------- | -------- |
