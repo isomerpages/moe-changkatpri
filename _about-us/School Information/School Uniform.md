@@ -19,24 +19,23 @@ Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.
 
 <img height="5%" width="5%" src="/images/My_Uniform_Shop__ASIA__Pte_Ltd___Changkat_Primary_School_2023.jpg">
 
-| Date|Day|Time|Remarks|
-| -------- | -------- | -------- | -------- |
+ | Date | Day | Time | Remarks | 
+ | -------- | -------- | -------- | -------- | 
 
-| 20/11/2023 | Monday | 9:00 am - 3:00 pm | P1 Orientation |
-| 22/11/2023|Wednesday|9:00 am - 3:00 pm|Primary 1 to Primary 6|
-|24/11/2023|Friday|9:00 am - 3:00 pm|Primary 1 to Primary 6|
-|25/11/2023|Saturday|9:00 am - 12:30 pm|Primary 1 to Primary 6|
-|29/11/2023|Wednesday|9:00 am - 3:00 pm|Primary 1 to Primary 6|
-|1/12/2023|Friday|9:00 am - 3:00 pm|Primary 1 to Primary 6|
-|2/12/2023|Saturday|9:00 am - 12:30 pm|Primary 1 to Primary 6|
-|7/12/2023|Thursday|9:00 am - 3:00 pm|Primary 1 to Primary 6|
-|9/12/2023|Saturday|9:00 am - 12:30 pm|Primary 1 to Primary 6|
-|15/12/2023|Friday|9:00 am - 3:00 pm|Primary 1 to Primary 6|
-|16/12/2023|Saturday|9:00 am - 12:30 pm|Primary 1 to Primary 6|
-|21/12/2023|Thursday|9:00 am - 3:00 pm|Primary 1 to Primary 6|
-|23/12/2023|Saturday|9:00 am - 12:30 pm|Primary 1 to Primary 6|
-|27/12/2023|Wednesday|9:00 am - 3:00 pm|Primary 1 to Primary 6|
-|29/12/2023|Friday|9:00 am - 3:00 pm|Primary 1 to Primary 6|
-|30/12/2023|Saturday|9:00 am - 12:30 pm|Primary 1 to Primary 6|
-
+ | 20/11/2023 | Monday | 9:00 am - 3:00 pm | P1 Orientation | 
+ | 22/11/2023 | Wednesday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
+ | 24/11/2023 | Friday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
+ | 25/11/2023 | Saturday | 9:00 am - 12:30 pm | Primary 1 to Primary 6 | 
+ | 29/11/2023 | Wednesday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
+ | 1/12/2023 | Friday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
+ | 2/12/2023 | Saturday | 9:00 am - 12:30 pm | Primary 1 to Primary 6 | 
+ | 7/12/2023 | Thursday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
+ | 9/12/2023 | Saturday | 9:00 am - 12:30 pm | Primary 1 to Primary 6 | 
+ | 15/12/2023 | Friday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
+ | 16/12/2023 | Saturday | 9:00 am - 12:30 pm | Primary 1 to Primary 6 | 
+ | 21/12/2023 | Thursday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
+ | 23/12/2023 | Saturday | 9:00 am - 12:30 pm | Primary 1 to Primary 6 | 
+ | 27/12/2023 | Wednesday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
+ | 29/12/2023 | Friday | 9:00 am - 3:00 pm | Primary 1 to Primary 6 | 
+ | 30/12/2023 | Saturday | 9:00 am - 12:30 pm | Primary 1 to Primary 6 | 
 
