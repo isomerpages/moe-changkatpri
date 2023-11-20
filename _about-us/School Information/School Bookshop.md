@@ -21,7 +21,7 @@ OPERATING HOURS: Mon-Fri (9.00AM – 3.00PM) || *Sat &amp; Eve of Public Holiday
 
 You may order your school textbooks and name tags via our website  [WWW.CPS.CHALAMAY.COM](https://WWW.CPS.CHALAMAY.COM).
 
-Advance online ordering period (for primary one only): 09 NOV 2023 - 11 NOV 2023
+Advance online ordering period (for primary one only): 09 NOV 2023 - 11 NOV 2023<br>
 Online ordering period (For all levels): 18 NOV 2023 - 16 DEC 2023
 
 The order is deemed successful upon receipt of confirmation and payment.
