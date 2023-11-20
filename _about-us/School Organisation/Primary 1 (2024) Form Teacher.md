@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: School Organisation
 ---
-### Primary 1 2024 Form Teacher
+### Primary 1 (2024) Form Teacher
 
 |Class|Name|Contact Information|
 |-----|-----|-----|
