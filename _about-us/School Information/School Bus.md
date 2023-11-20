@@ -3,10 +3,11 @@ title: School Bus
 permalink: /about-us/school-organization/schbus/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 ### **School Bus**
 
-2023 School Bus Vendor has been awarded.
+2023/2024 School Bus Vendor has been awarded with option to extend 2 more years (2025-2026) .
 
 <!---
 #### **School Bus Advertisement**
