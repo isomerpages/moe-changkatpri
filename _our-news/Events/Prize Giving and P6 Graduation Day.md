@@ -12,5 +12,12 @@ For prize winners' photo, please visit the link [here](https://drive.google.com/
 ![](/images/Events/PG&amp;P6Grad2023/IMG_7034.JPG)
 
 <p><img src="/images/Events/PG&amp;P6Grad2023/IMG_7128.JPG">
-<img src="/images/Events/PG&amp;P6Grad2023/IMG_7081.JPG">
-</p>	
+<img src="/images/Events/PG&amp;P6Grad2023/IMG_7081.JPG"></p>
+
+<p><img src="/images/Events/PG&amp;P6Grad2023/IMG_7062.JPG">
+<img src="/images/Events/PG&amp;P6Grad2023/IMG_7138.JPG"></p>
+
+<p><img src="/images/Events/PG&amp;P6Grad2023/6P.JPG">
+<img src="/images/Events/PG&amp;P6Grad2023/6I.JPG"><br>
+<img src="/images/Events/PG&amp;P6Grad2023/6D.JPG">
+<img src="/images/Events/PG&amp;P6Grad2023/6R.JPG"></p>
