@@ -7,7 +7,7 @@ third_nav_title: Events
 ---
 ## Prize Giving and P6 Graduation Day
 
-For prize winners' photo, please visit the link [here](https://drive.google.com/drive/folders/1KL4zDkCA1f2tLVPysXgIaNJlH-UxTLMP?usp=sharing). 
+For prize winners' photos, please visit the link [here](https://drive.google.com/drive/folders/1KL4zDkCA1f2tLVPysXgIaNJlH-UxTLMP?usp=sharing). 
 
 Click [here](https://drive.google.com/drive/folders/1XdcSHq3HzB5p9qcFAAMYilRx0ar0UrUs?usp=sharing) to view the P6 Graduation Montage 2023 video.
 
