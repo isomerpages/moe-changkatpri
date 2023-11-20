@@ -18,7 +18,7 @@ For prize winners' photo, please visit the link [here](https://drive.google.com/
 <p><img align="left" style="width:50%" src="/images/Events/PG&amp;P6Grad2023/IMG_7062.JPG">
 <img align="right" style="width:50%" src="/images/Events/PG&amp;P6Grad2023/IMG_7138.JPG">
 </p>
-
+<br>
 <p><img align="left" style="width:50%" src="/images/Events/PG&amp;P6Grad2023/6P.JPG">
 <img align="right" style="width:50%" src="/images/Events/PG&amp;P6Grad2023/6I.JPG"><br>
 <img align="left" style="width:50%" src="/images/Events/PG&amp;P6Grad2023/6D.JPG">
