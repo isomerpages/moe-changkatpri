@@ -7,7 +7,7 @@ third_nav_title: School Information
 ---
 ### School Bookshop
 
-Appointed school bookshop vendor: **CHALAMAY CO**
+Appointed school bookshop vendor: **CHALAMAY CO** (until 31 Dec 2023).
 
 Parents and students are advised to get books from the bookshop to avoid buying the wrong books.
 
