@@ -11,12 +11,11 @@ Appointed school uniform vendor: **My Uniform Shop**.
 
 **Online Order**
 
- Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.myuniformshop.com.sg) for more details regarding purchasing guide and delivery.
+Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.myuniformshop.com.sg) for more details regarding purchasing guide and delivery.
 
 **Onsite (school) Order**
 
- Payment Mode – Cash
+Payment Mode – Cash
  
 Please visit their [website](https://www.myuniformshop.com.sg/ckps-booking) for the sale date.
  
-*Please note that there is no sale of uniforms outside of school. Sales are conducted strictly based on the dates and timings above.
