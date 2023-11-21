@@ -15,7 +15,5 @@ Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.
 
 **Onsite (school) Order**
 
-Payment Mode – Cash
- 
 Please visit their [website](https://www.myuniformshop.com.sg/ckps-booking) for the sale date.
  
