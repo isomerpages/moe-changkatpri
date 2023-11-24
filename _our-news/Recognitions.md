@@ -2,40 +2,20 @@
 title: Recognitions
 permalink: /our-news/recognitions/
 description: ""
+variant: markdown
 ---
 ### **Recognitions**
 #### **Staff And School Achievements**
-##### **2022**
+##### **2023**
 
-| 2022 SYF AP Participation |
-|:---:|
-| CHOIR |
-| DANCE (MODERN) |
-| GUITAR ENSEMBLE |
-|
-
-|  |  |  |  |  |
-|:---:|:---:|:---:|:---:|:---:|
-|  | FU**LL NAME<br>(for individual event/participation)** | **CLASS** | **CATEGORY / NAME OF COMPETITION** | **AWARD** |
-| WUSHU | ZIYA AKBAR TINWALA | 6R | NSG - Wushu - Senior | Sportmanship Award |
-|  | MA XI EN | 4E | NSG - Wushu - Junior | 3 - Duan Nanquan - 17th (National Standing) |
-|  | MA XI EN | 4E | NSG - Wushu - Junior | 4 - Duan Broadsword - 21th (National Standing) |
-|  | SOON MIN XUAN ZELIA | 5P | NSG - Wushu - Junior | 4 - Duan Cudgel - 21th (National Standing) |
-| TRACK & FIELD | FATEH SINGH RANAWAT | 6P | NSG - Track & Field Senior | Sportmanship Award |
-|  | ARNAV ANAND | 6P | NSG - Track & Field Senior | Long Jump - 4th in National |
-|  | NG ZHEN KAI | 4E | NSG - Track & Field Junior | Overhand Beanbag Throw - 2nd in National |
-|  | TANG XI | 4P | NSG - Track & Field Junior | 60m Hurdles - 8th in National |
-|  | YFKE LEYUN CORMONT | 4R | NSG - Track & Field Junior | 1000m - 4th in National |
-|  | MUHD ALFIE HAKIM BIN MUHD KHAIRI | 4D | NSG - Track & Field Junior | 80m - 4th in National |
-| BASKETBALL | AARYA ATUL PADMAWAR | 6R | NSG - Basketball Senior Girls | Sportmanship Award |
-|  | SWASTIKA PRAVIN MISHRA | 6R | NSG - Basketball Senior Girls | Sportmanship Award |
-|
 
 | Award | Staff |
 |:---:|:---:|
-| National Day Awards - Commendation Medal | Mr Ban Choon Kwee |
-| National Day Awards - Long Service Medal | Miss Ha Siok Ting<br>Mdm Juliana Bte Jumaat<br>Mdm Radziyah Bte Mohamed Zain<br>Mr Chong Yong Tian<br>Mrs Suzanna Bambang |
-| MOE Service Excellence Award (Platinum) | Ms Tay Suan Zee |
-| MOE Service Excellence Award (Gold) | Miss Ang Wei Li Ivy<br>Mdm Farah Izzah Imran<br>Mr Ho Han Keong<br>Mr Jasri Bin Bahari<br>Ms Lee Pui Yin Yvonne<br>Mr Ng Boon Teng David<br>Miss Rauhdah Binte Abdul Latif<br>Mdm Shirrin Bano Binte S Akhbar Ali |
-| MOE Service Excellence Award (Silver) | Mdm Chong Yen Yuen<br>Miss Rozanna Binte Roslan |
+| National Day Awards - Commendation Medal | Mdm Nur Iffah Binte Abdul Ghafar |
+| National Day Awards - COVID-19 Resilience Commendation Medal |Mrs Cheng Huey Teng |
+| National Day Awards - COVID-19 Resilience Medal |  Mr Ho Han Keong <br> Ms Lee Pui Yin Yvonne<br> Mdm Nur Iffah Binte Abdul Ghafar|
+| National Day Awards - Long Service Medal | Mrs Lim-Ang Yuan Ho Celestine<br>Mr Mohamed Taufeek Bin Ramlan<br> Mdm Salmi Binte Rahmat|
+| Associate of AST Award (Innovator) | Mdm Anithasri d/o Manokaran<br> Mr Chong Yong Tian<br> Mdm Faith Tay Aifang<br> Mdm Salmi Bte Rahmat<br> Mdm Siti Aisyah Binte Mustapha <br> Mdm Siti Hajar Binte Mohd Khan <br> Mrs Low-Tan Huaying Maybelline<br>  |
+| MOE Service Excellence Award (Gold) | Mdm Anithasri d/o Manokaran <br> Miss Chan Hui Ying<br> Mr Ng Szu Lieh Steve<br> Miss Soh Kang Hwee Gladys <br> Ms Tan Kwee Chiew<br> Mr Tham Chee Wore <br> Ms Yan Zhuyun|
+| MOE Service Excellence Award (Silver) | Mrs Lim-Ang Yuan Ho Celestine<br> Mr Ban Choon Kwee <br> Miss Dhashayani Vallatharasu<br> Mdm Faith Tay Aifang<br> Miss Ha Siok Ting<br> Miss Jesslyn Ng Shi Hui<br> Mdm Kalai Selvi d/o C Kaliannan <br>  Mdm Nadjah Omar Alkhatib<br> Mdm Nur Arina Binte Santoso<br> Mdm Nur Azura Binte Rahim<br> Mrs Heng-Ong Li Mei Elaine<br> Ms Surya Binte Effendi<br> Miss Tan Sock Hoong Shirley<br> Mdm Wong Mei Ee Geraldine |
 |
