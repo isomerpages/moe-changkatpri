@@ -9,6 +9,11 @@ variant: markdown
 
 2023/2024 School Bus Vendor has been awarded with option to extend 2 more years (2025-2026) .
 
+School Bus Service Contact Person: Mr Lam Kwok Mun<br>
+Contact Number: 9817 9710
+
+
+
 <!---
 #### **School Bus Advertisement**
 
