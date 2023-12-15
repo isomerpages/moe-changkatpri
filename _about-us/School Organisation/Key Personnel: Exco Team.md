@@ -11,7 +11,7 @@ variant: markdown
 |:---:|:---:|:---:| 
 | PRINCIPAL | Mrs Cheng Huey Teng | [cheng_huey_teng@schools.gov.sg](mailto:cheng_huey_teng@schools.gov.sg) |
 | VICE-PRINCIPAL (EO) | Mdm Siti Nazrah Bte Abdul Rahman | [siti_nazrah_abdul_rahman@schools.gov.sg](mailto:siti_nazrah_abdul_rahman@schools.gov.sg) |
-| VICE-PRINCIPAL | Mrs Tay-Lee Li Theng | [lee_li_theng@schools.gov.sg ](mailto:LEE_Li_Theng@schools.gov.sg ) |
+| VICE-PRINCIPAL (EO) | Mrs Tay-Lee Li Theng | [lee_li_theng@schools.gov.sg ](mailto:LEE_Li_Theng@schools.gov.sg ) |
 |  Head-of-Department (HOD) Character & Citizenship Education (CCE) | Miss Celeste Loh Shi Min | [celeste_loh_shi_min@schools.gov.sg](mailto:celeste_loh_shi_min@schools.gov.sg) |
 | HOD English  | Vacant |   |
 | HOD Information & Communication Technology (ICT) (Internal) | Mr Seow Tian Hou | [seow_tian_hou@schools.gov.sg](mailto:seow_tian_hou@schools.gov.sg) |
