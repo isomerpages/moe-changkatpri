@@ -123,8 +123,8 @@ variant: markdown
 ||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
 |Integrity|Mdm Saraswathy Samuel |saraswathy_subramaniam_a@schools.gov.sg
 ||Mr Matthew Teo Hock Chye<br>(ST/CL)	teo_hock_chye@schools.gov.sg|
-|Discipline|Mdm Radziyah Mohd Zain|radziyah_mohamed_zain@schools.gov.sg|
-||Mdm Salmi Bte Rahmat <br>(HOD Science)|salmi_rahmat@schools.gov.sg|
+|Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
+||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)	|ban_choon_kwee@schools.gov.sg|
 |
 
 #### **Teachers without Form Class**
