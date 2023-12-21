@@ -78,8 +78,8 @@ variant: markdown
 |Discipline|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
 ||Mdm Radziyah Mohd Zain| radziyah_mohamed_zain@schools.gov.sg|
 ||Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
-|Empathy|Mdm Tan Huaying Maybelline (Mrs Low)<br>(ST/SC)| tan_huaying_maybelline@schools.gov.sg|
-||Mdm Nur Arina Santoso<br>(ML Coord)  | nur_arina_santoso@schools.gov.sg|
+|Empathy|Mdm Anithasri d/o Manokaran	|anithasri_manokaran@schools.sg|
+||Mr Md Taufeek Ramlan<br>(ST/PE)	|mohamed_taufeek_ramlan@schools.gov.sg|
 |
 
 #### **Primary Four**
