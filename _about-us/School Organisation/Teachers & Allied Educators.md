@@ -69,9 +69,9 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Mdm Juliana Jumaat |juliana_jumaat@schools.gov.sg|
-||Mr Md Faiz Md Siddiq| mohamed_faiz_mohamed_siddiq@schools.gov.sg|
-|Resilience|Ms Goh Huang Yiing Gina <br>(VIA Coord)| goh_huang_yiing@schools.gov.sg|
+|Patriotism|Ms Goh Huang Yiing Gina<br>(VIA Coord)|	goh_huang_yiing@schools.gov.sg|
+||Mr Hoo Chee Mun<br>(SH/KM)|	hoo_chee_mun@schools.gov.sg|
+|Resilience|Mdm Siti Aisyah Mustapha| siti_aisyah_mustapha@schools.gov.sg|
 ||Mdm Aznani|aznani_aladin@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Binte Mahat | Nuriani_Mahat@schools.gov.sg |
