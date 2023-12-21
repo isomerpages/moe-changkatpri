@@ -120,9 +120,9 @@ variant: markdown
 |Patriotism|Ms Dhashayani Vallatharasu<br>(LH/Eng [Internal])	|dhashayani_vallatharasu@schools.gov.sg|
 ||Mr Muhammad Khairil Bin Kamal<br>(AYH)|muhammad_khairil_kamal@schools.gov.sg|
 |Resilience|Mrs Rajeswary Thillaikumar|rajeswary_thillaikumar@schools.gov.sg|
-||Ms Yong Yun Yun<br>(LH/Maths) | yong_yun_yun@schools.gov.sg|
-|Integrity|Muhammad Khairil Bin Kamal <br>(AYH) |muhammad_khairil_kamal@schools.gov.sg|
-||Mdm Chong Stephanie Jemima Tan<br>(SSD)|chong_stephanie_jemima_tan@schools.gov.sg|
+||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
+|Integrity|Mdm Saraswathy Samuel |saraswathy_subramaniam_a@schools.gov.sg
+||Mr Matthew Teo Hock Chye<br>(ST/CL)	teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Radziyah Mohd Zain|radziyah_mohamed_zain@schools.gov.sg|
 ||Mdm Salmi Bte Rahmat <br>(HOD Science)|salmi_rahmat@schools.gov.sg|
 |
