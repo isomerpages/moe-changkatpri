@@ -32,17 +32,17 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |-----|-----|-----|
-|1 Patriotism | Miss Ivy Any Wei Li| ang_wei_li_ivy@schools.gov.sg |
+| Patriotism | Miss Ivy Any Wei Li| ang_wei_li_ivy@schools.gov.sg |
 ||Miss Josephine Teo| josephine_teow@moe.edu.sg|
-|1 Resilience|Miss Ha Siok Ting|ha_siok_ting@schools.gov.sg|
+| Resilience|Miss Ha Siok Ting|ha_siok_ting@schools.gov.sg|
 ||Mdm Kalai Selvi d/o Kaliannan	| kalai_selvi_c_kaliannan@schools.gov.sg|
-|1 Integrity| Mdm Ong Li Mei Elaine (Mrs Heng)<br>(SDR) |	elaine_ong_li_mei@schools.gov.sg|
+| Integrity| Mdm Ong Li Mei Elaine (Mrs Heng)<br>(SDR) |	elaine_ong_li_mei@schools.gov.sg|
 ||Mdm Tay Aifang Faith| tay_aifang@schools.gov.sg|
-|1 Discipline|Mr Li Kun Peng<br>(CL Coord)	|li_kun_peng@schools.gov.sg|
+| Discipline|Mr Li Kun Peng<br>(CL Coord)	|li_kun_peng@schools.gov.sg|
 ||Mdm Chong Stephanie Jemima Tan<br>(SSD)	| chong_stephanie_jemima_tan@schools.gov.sg|
-|1 Empathy|Mdm Ang Yuan Ho Celestine (Mrs Lim)<br>(ST/LP)|	ang_yuan_ho_celestine@schools.gov.sg|
+| Empathy|Mdm Ang Yuan Ho Celestine (Mrs Lim)<br>(ST/LP)|	ang_yuan_ho_celestine@schools.gov.sg|
 ||Mdm Wong Mei Ee Geraldine (Mrs Hu)	|geraldine_wong_mei_ee@schools.gov.sg|
-|1 Gratitude|Ms Loy Hin Jong <br>(LSP, SDR, LSM) |	loy_hin_jong@schools.gov.sg|
+| Gratitude|Ms Loy Hin Jong <br>(LSP, SDR, LSM) |	loy_hin_jong@schools.gov.sg|
 ||Mdm Rahayu|siti_rahayu_ali@moe.edu.sg|
 |
 
