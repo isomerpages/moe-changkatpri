@@ -86,13 +86,13 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism| Mrs Geeta Jayakumar|geeta_jayakumar@schools.gov.sg|
+|Patriotism| Mr Md Faiz Md Siddiq|mohamed_faiz_mohamed_siddiq@schools.gov.sg|
 ||Mdm Zhang Fangfang<br>(HOD/MTL)|  zhang_fangfang@schools.gov.sg|
-|Resilience|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
-||Mdm Siti Aisyah Mustapha|siti_aisyah_mustapha@schools.gov.sg|
-|Integrity|Mdm Anithasri d/o Manokaran|anithasri_manokaran@schools.sg|
-||Mr Li Kun Peng<br> (CL Coord)|li_kun_peng@schools.gov.sg|
-|Discipline|Mdm Kamala d/o Swamy<br>(iExams Coord)|kamala_swamy@schools.gov.sg|
+|Resilience|Mdm Aznani Binte Aladin|aznani_aladin@schools.gov.sg|
+||Mdm Faradillah Jumahat<br>(SH Innovation [Internal])	|faradillah_jumahat@schools.gov.sg|
+|Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
+||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
+|Discipline|Mr Ng Boon Teng David<br>(Teacher Counsellor)	|ng_boon_teng_david@schools.gov.sg|
 ||Mr Md Taufeek Ramlan<br>(ST/PE)|mohamed_taufeek_ramlan@schools.gov.sg|
 |
 
