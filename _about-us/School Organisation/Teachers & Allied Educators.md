@@ -94,6 +94,8 @@ variant: markdown
 ||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
 |Discipline|Mr Ng Boon Teng David<br>(Teacher Counsellor)	|ng_boon_teng_david@schools.gov.sg|
 ||Ms Celeste Loh Shi Min<br>(HOD/CCE)|celeste_loh_shi_min@schools.gov.sg|
+|Empathy|Mdm Tan Huaying Maybelline (Mrs Low)<br>(ST/SC)|tan_huaying_maybelline@schools.gov.sg
+||Mr Nurisham Ismail<br>(CCE MTL Coord)	|nurisham_ismail@schools.gov.sg|
 |
 
 #### **Primary Five**
