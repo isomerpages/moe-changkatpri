@@ -50,8 +50,8 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Ms Chan Huiying Kris <br>(SH/Student Well-Being &amp; Leadership)|chan_hui_ying_b@schools.gov.sg|
-||Ms Ivy Ang Wei Li|ang_wei_li_ivy@schools.gov.sg|
+|Patriotism|Mr Lim Choon Hong|lim_choon_hong_a@schools.gov.sg|
+||Mdm Winnie Wong|asmah_wong@moe.edu.sg|
 |Resilience|Ms Ha Siok Ting|ha_siok_ting@schools.gov.sg|
 ||Mdm Kalai Selvi d/o Kaliannan|kalai_selvi_c_kaliannan@schools.gov.sg|
 |Integrity|Mdm Tay Aifang Faith|tay_aifang@schools.gov.sg|
