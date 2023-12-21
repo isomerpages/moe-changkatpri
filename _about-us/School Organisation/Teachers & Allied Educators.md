@@ -102,10 +102,11 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Ms Nur Azura Rahim<br>(Music Coord)|nur_azura_rahim@schools.gov.sg|
-||Ms Dhashayani Vallatharasu <br>(LH/Eng \[Internal\])|dhashayani_vallatharasu@schools.gov.sg|
+|Patriotism|Mdm Soh Chern Hui (Mrs Leong)<br>(LH/EL)	|soh_chern_hui@schools.gov.sg|
+||Mdm Nur Azura Rahim<br>(Music Coord)	|nur_azura_rahim@schools.gov.sg|
+||Mdm Jovial Ng (UT)||
 |Resilience|Mr Khairul Nizam A Aziz|khairul_nizam_abdul_aziz@schools.gov.sg|
-||Mrs Rajeswary Thillaikumar<br> (ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
+||Mdm Farah Khairiah Rifaei<br>(SH/NE &amp; Partnership, Social Studies)	|farah_khairiah_rifaei@schools.gov.sg|
 |Integrity|Mrs Saraswathy Samuel|saraswathy_subramaniam_a@schools.gov.sg|
 ||Mr Teo Hock Chye Matthew <br> (ST/CL)| teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
