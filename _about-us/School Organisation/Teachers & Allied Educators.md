@@ -60,8 +60,8 @@ variant: markdown
 ||Mr K Parathi<br>(SH/ML&amp;TL)| k_parathi@schools.gov.sg|
 |Empathy|Mdm Tan Keng Tzu|tan_keng_tzu@schools.gov.sg
 ||Mdm Yan Zhuyun<br>(MRL Coord)|yan_zhuyun@schools.gov.sg|
-|Gratitude|Mdm Wong Mei Ee Geraldine (Mrs Hu)|geraldine_wong_mei_ee@schools.gov.sg|
-||Mdm Jiang Caiwei<br>(HOD MATHS)|jiang_caiwei@schools.gov.sg|
+|Gratitude|Mdm Ng Li Leng Clara (Mrs Sim)<br>(ECG Coord, SED Coord)|ng_li_leng@schools.gov.sg|
+||Mdm Nur Arina Santoso<br>(ML Coord)|nur_arina_santoso@schools.gov.sg|
 |
 
 
