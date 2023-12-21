@@ -87,7 +87,7 @@ variant: markdown
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 |Patriotism| Mr Md Faiz Md Siddiq|mohamed_faiz_mohamed_siddiq@schools.gov.sg|
-||Mdm Zhang Fangfang<br>(HOD/MTL)|  zhang_fangfang@schools.gov.sg|
+||Mdm Zhang Fangfang<br>(HOD MTL)|  zhang_fangfang@schools.gov.sg|
 |Resilience|Mdm Aznani Binte Aladin|aznani_aladin@schools.gov.sg|
 ||Mdm Faradillah Jumahat<br>(SH Innovation [Internal])	|faradillah_jumahat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
@@ -124,7 +124,7 @@ variant: markdown
 |Integrity|Mdm Saraswathy Samuel |saraswathy_subramaniam_a@schools.gov.sg
 ||Mr Matthew Teo Hock Chye<br>(ST/CL)	teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
-||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)	|ban_choon_kwee@schools.gov.sg|
+||Mr Ban Choon Kwee<br>(HOD PE CCA &amp; AES)	|ban_choon_kwee@schools.gov.sg|
 |Empathy|Mdm Farhanah Jumahat<br>(Cyberwellness Coord)	|farhanah_jumahat@schools.gov.sg​|
 ||Mr Seow Tian Hou<br> (HOD ICT)|seow_tian_hou@schools.gov.sg|
 |
