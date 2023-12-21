@@ -52,14 +52,14 @@ variant: markdown
 |:---:|:---:|:---:|
 |Patriotism|Mr Lim Choon Hong|lim_choon_hong_a@schools.gov.sg|
 ||Mdm Winnie Wong|asmah_wong@moe.edu.sg|
-|Resilience|Ms Ha Siok Ting|ha_siok_ting@schools.gov.sg|
-||Mdm Kalai Selvi d/o Kaliannan|kalai_selvi_c_kaliannan@schools.gov.sg|
-|Integrity|Mdm Tay Aifang Faith|tay_aifang@schools.gov.sg|
-||Mdm Ang Yuan Ho Celestine (Mrs Lim)<br>(ST/LP) | ang_yuan_ho_celestine@schools.gov.sg|
-| Discipline| Mdm Ong Li Mei Elaine (Mrs Heng)<br>  (SDR) |elaine_ong_li_mei@schools.gov.sg|
-||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
-|Empathy|Mdm Cheong Hwee Peng Christina (Mrs Chan) <br> (Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
-||Ms Loy Hin Jong <br>(LSP, SDR, LSM)|loy_hin_jong@schools.gov.sg|
+|Resilience|Hazelina Gopinathan|hazelina_gopinathan@schools.gov.sg|
+||Mdm Haryati Ariffin<br>(SH/CCA &amp; AES)|haryati_ariffin@schools.gov.sg|
+|Integrity|Mdm Nadjah Omar Alkhatib|nadjah_omar_alkhatib@schools.gov.sg|
+||Ms Gladys Soh Kang Hwee | soh_kang_hwee_gladys@schools.gov.sg|
+| Discipline| Ms Jesslyn Ng Shi Hui<br>(AYH)|ng_shi_hui_jesslyn@schools.gov.sg|
+||Mr K Parathi<br>(SH/ML&amp;TL)| k_parathi@schools.gov.sg|
+|Empathy|Mdm Tan Keng Tzu|tan_keng_tzu@schools.gov.sg
+||Mdm Yan Zhuyun<br>(MRL Coord)|yan_zhuyun@schools.gov.sg|
 |Gratitude|Mdm Wong Mei Ee Geraldine (Mrs Hu)|geraldine_wong_mei_ee@schools.gov.sg|
 ||Mdm Jiang Caiwei<br>(HOD MATHS)|jiang_caiwei@schools.gov.sg|
 |
