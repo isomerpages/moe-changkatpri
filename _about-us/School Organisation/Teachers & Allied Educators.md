@@ -117,9 +117,9 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:| 
-|Patriotism|Mr Hoo Chee Mun<br>(SH/KM)|hoo_chee_mun@schools.gov.sg|
-||Mdm Soh Chern Hui (Mrs Leong)<br>(LH/EL)|soh_chern_hui@schools.gov.sg|
-|Resilience|Mdm Sharifah Aminah Syed Omar Alsree <br> (ML Coord)|sharifah_aminah_syed_omar@schools.gov.sg|
+|Patriotism|Ms Dhashayani Vallatharasu<br>(LH/Eng [Internal])	|dhashayani_vallatharasu@schools.gov.sg|
+||Mr Muhammad Khairil Bin Kamal<br>(AYH)|muhammad_khairil_kamal@schools.gov.sg|
+|Resilience|Mrs Rajeswary Thillaikumar|rajeswary_thillaikumar@schools.gov.sg|
 ||Ms Yong Yun Yun<br>(LH/Maths) | yong_yun_yun@schools.gov.sg|
 |Integrity|Muhammad Khairil Bin Kamal <br>(AYH) |muhammad_khairil_kamal@schools.gov.sg|
 ||Mdm Chong Stephanie Jemima Tan<br>(SSD)|chong_stephanie_jemima_tan@schools.gov.sg|
