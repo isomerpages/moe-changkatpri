@@ -107,12 +107,10 @@ variant: markdown
 ||Mdm Jovial Ng (UT)||
 |Resilience|Mr Khairul Nizam A Aziz|khairul_nizam_abdul_aziz@schools.gov.sg|
 ||Mdm Farah Khairiah Rifaei<br>(SH/NE &amp; Partnership, Social Studies)	|farah_khairiah_rifaei@schools.gov.sg|
-|Integrity|Mrs Saraswathy Samuel|saraswathy_subramaniam_a@schools.gov.sg|
-||Mr Teo Hock Chye Matthew <br> (ST/CL)| teo_hock_chye@schools.gov.sg|
-|Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
-||Mr Ban Choon Kwee<br>(HOD/PE CCA &amp; AES)|ban_choon_kwee@schools.gov.sg|
-|Empathy|Mdm Farhanah Jumahat <br>(Cyberwellness Coord)|farhanah_jumahat@schools.gov.sg|
-||Mdm Farah Khairiah Rifaei<br>(SH/NE &amp; Partnership, Social Studies)|farah_khairiah_rifaei@schools.gov.sg| 
+|Integrity|Mdm Sharifah Aminah Syed Omar Alsree<br>(ML Coord)	|harifah_aminah_syed_omar@schools.gov.sg|
+||Mdm Cheong Hwee Peng Christina (Mrs Chan)<br>(Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
+|Discipline|Ms Yong Yun Yun<br>(LH/Maths)|yong_yun_yun@schools.gov.sg|
+||Mdm Juliana Jumaat|juliana_jumaat@schools.gov.sg|
 |
   
 #### **Primary Six**
