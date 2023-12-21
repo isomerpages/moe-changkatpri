@@ -31,7 +31,7 @@ variant: markdown
 #### **Primary One**
 
 | Class | Form Teachers | Email |
-|-----|-----|-----|
+|:---:|:---:|:---:|
 | Patriotism | Miss Ivy Any Wei Li| ang_wei_li_ivy@schools.gov.sg |
 ||Miss Josephine Teo| josephine_teow@moe.edu.sg|
 | Resilience|Miss Ha Siok Ting|ha_siok_ting@schools.gov.sg|
