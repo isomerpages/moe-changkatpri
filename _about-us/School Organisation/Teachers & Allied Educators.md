@@ -3,6 +3,7 @@ title: Teachers & Allied Educators
 permalink: /About-Us/our-people/teaching-staff/
 description: ""
 third_nav_title: School Organisation
+variant: markdown
 ---
 ### **Teachers &amp; Allied Educators**
 
@@ -26,22 +27,23 @@ third_nav_title: School Organisation
 | SEN | Vacant | |
 |
 
+### 2024
 #### **Primary One**
 
 | Class | Form Teachers | Email |
-|:---:|:---:|:---:|
-|Patriotism|Mr Lim Choon Hong |lim_choon_hong_a@schools.gov.sg |
-||Ms Faradillah Jumahat <br>(SH Innovation \[Internal\])|faradillah_jumahat@schools.gov.sg|
-|Resilience|Hazelina Gopinathan|hazelina_gopinathan@schools.gov.sg|
-||Mdm Haryati Ariffin <br>(SH/CCA &amp; AES)|haryati_ariffin@schools.gov.sg|
-|Integrity|Mdm Nadjah Omar Alkhatib|nadjah_omar_alkhatib@schools.gov.sg|
-||Ms Gladys Soh Kang Hwee| soh_kang_hwee_gladys@schools.gov.sg|
-| Discipline | Ms Jesslyn Ng Shi Hui <br>(AYH)|ng_shi_hui_jesslyn@schools.gov.sg|
-|| Mr K Parathi <br>(SH/ML&amp;TL)|k_parathi@schools.gov.sg|
-|Empathy|Mdm Tan Keng Tzu|tan_keng_tzu@schools.gov.sg|
-||Mdm Yan Zhuyun <br>(MRL Coord)|yan_zhuyun@schools.gov.sg|
-|Gratitude|Mdm Ng Li Leng Clara (Mrs Sim) <br>(ECG Coord, SED Coord)|ng_li_leng@schools.gov.sg|
-||Mr Nurisham Bin Ismail <br>(CCE MTL Coord)|nurisham_ismail@schools.gov.sg|
+|-----|-----|-----|
+|1 Patriotism | Miss Ivy Any Wei Li| ang_wei_li_ivy@schools.gov.sg |
+||Miss Josephine Teo| josephine_teow@moe.edu.sg|
+|1 Resilience|Miss Ha Siok Ting|ha_siok_ting@schools.gov.sg|
+||Mdm Kalai Selvi d/o Kaliannan	| kalai_selvi_c_kaliannan@schools.gov.sg|
+|1 Integrity| Mdm Ong Li Mei Elaine (Mrs Heng)<br>(SDR) |	elaine_ong_li_mei@schools.gov.sg|
+||Mdm Tay Aifang Faith| tay_aifang@schools.gov.sg|
+|1 Discipline|Mr Li Kun Peng<br>(CL Coord)	|li_kun_peng@schools.gov.sg|
+||Mdm Chong Stephanie Jemima Tan<br>(SSD)	| chong_stephanie_jemima_tan@schools.gov.sg|
+|1 Empathy|Mdm Ang Yuan Ho Celestine (Mrs Lim)<br>(ST/LP)|	ang_yuan_ho_celestine@schools.gov.sg|
+||Mdm Wong Mei Ee Geraldine (Mrs Hu)	|geraldine_wong_mei_ee@schools.gov.sg|
+|1 Gratitude|Ms Loy Hin Jong <br>(LSP, SDR, LSM) |	loy_hin_jong@schools.gov.sg|
+||Mdm Rahayu|siti_rahayu_ali@moe.edu.sg|
 |
 
 #### **Primary Two**
