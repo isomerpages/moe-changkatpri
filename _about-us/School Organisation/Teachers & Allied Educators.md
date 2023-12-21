@@ -93,7 +93,7 @@ variant: markdown
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
 |Discipline|Mr Ng Boon Teng David<br>(Teacher Counsellor)	|ng_boon_teng_david@schools.gov.sg|
-||Ms Celeste Loh Shi Min<br>(HOD/CCE)|celeste_loh_shi_min@schools.gov.sg|
+||Ms Celeste Loh Shi Min<br>(HOD CCE)|celeste_loh_shi_min@schools.gov.sg|
 |Empathy|Mdm Tan Huaying Maybelline (Mrs Low)<br>(ST/SC)|tan_huaying_maybelline@schools.gov.sg
 ||Mr Nurisham Ismail<br>(CCE MTL Coord)	|nurisham_ismail@schools.gov.sg|
 |
@@ -133,8 +133,8 @@ variant: markdown
 
 | Name | Email |
 |:---:|:---:|
-|Mrs Suzanna Bambang <br>[Upper Level  Year Head]|suzanna_abdul_rahim@schools.gov.sg|
-|Mdm Yeo Lee Theng Deon<br>[Lower Level  Year Head]|yeo_lee_theng@schools.gov.sg|
+|Mrs Suzanna Bambang <br>(Upper Level  Year Head)|suzanna_abdul_rahim@schools.gov.sg|
+|Mdm Yeo Lee Theng Deon<br>(Lower Level  Year Head)|yeo_lee_theng@schools.gov.sg|
 |Ms Debbie Koh Ling Zhi|debbie_koh_ling_zhi@schools.gov.sg|
 |
 
@@ -143,7 +143,6 @@ variant: markdown
 
 | Designation | Name | Email |
 |:---:|:---:|:---:|
-| SCHOOL COUNSELLOR<br>(AED) | Miss Farah Izzah Bte Imran | [farah_izzah_imran@schools.gov.sg](mailto:farah_izzah_imran@schools.gov.sg) |
-| ALLIED EDUCATOR<br>(LBS) | Miss Nur Atasha Binte Razali<br> | [nur_atasha_razali@schools.gov.sg](mailto:nur_atasha_razali@schools.gov.sg) |
-| ALLIED EDUCATOR <br>(LBS) | Miss Surya Binte Effendi | [surya_effendi@schools.gov.sg](mailto:surya_effendi@schools.gov.sg) |
+| ALLIED EDUCATOR<br>(LBS) | Miss Nur Atasha Binte Razali| nur_atasha_razali@schools.gov.sg|
+| ALLIED EDUCATOR <br>(LBS) | Miss Surya Binte Effendi | surya_effendi@schools.gov.sg |
 |
