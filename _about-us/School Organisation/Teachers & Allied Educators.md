@@ -73,10 +73,10 @@ variant: markdown
 ||Mr Hoo Chee Mun<br>(SH/KM)|	hoo_chee_mun@schools.gov.sg|
 |Resilience|Mdm Siti Aisyah Mustapha| siti_aisyah_mustapha@schools.gov.sg|
 ||Mdm Kalai Selvi d/o Kaliannan<br>(iExams Coord)|	kamala_swamy@schools.gov.sg|
-|Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
-||Mdm Nuriani Binte Mahat | Nuriani_Mahat@schools.gov.sg |
-|Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
-||Ms Celeste Loh Shi Min<br>(HOD/CCE)| celeste_loh_shi_min@schools.gov.sg|
+|Integrity|Mrs Geeta Jayakumar|geeta_jayakumar@schools.gov.sg|
+||Mdm Salmi Bte Rahmat<br>(HOD Science) | salmi_rahmat@schools.gov.sg |
+|Discipline|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
+||Mdm Radziyah Mohd Zain| radziyah_mohamed_zain@schools.gov.sg|
 ||Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
 |Empathy|Mdm Tan Huaying Maybelline (Mrs Low)<br>(ST/SC)| tan_huaying_maybelline@schools.gov.sg|
 ||Mdm Nur Arina Santoso<br>(ML Coord)  | nur_arina_santoso@schools.gov.sg|
