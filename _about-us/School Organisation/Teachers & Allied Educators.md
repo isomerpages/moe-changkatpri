@@ -93,7 +93,7 @@ variant: markdown
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
 |Discipline|Mr Ng Boon Teng David<br>(Teacher Counsellor)	|ng_boon_teng_david@schools.gov.sg|
-||Mr Md Taufeek Ramlan<br>(ST/PE)|mohamed_taufeek_ramlan@schools.gov.sg|
+||Ms Celeste Loh Shi Min<br>(HOD/CCE)|celeste_loh_shi_min@schools.gov.sg|
 |
 
 #### **Primary Five**
