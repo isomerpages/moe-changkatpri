@@ -72,7 +72,7 @@ variant: markdown
 |Patriotism|Ms Goh Huang Yiing Gina<br>(VIA Coord)|	goh_huang_yiing@schools.gov.sg|
 ||Mr Hoo Chee Mun<br>(SH/KM)|	hoo_chee_mun@schools.gov.sg|
 |Resilience|Mdm Siti Aisyah Mustapha| siti_aisyah_mustapha@schools.gov.sg|
-||Mdm Aznani|aznani_aladin@schools.gov.sg|
+||Mdm Kalai Selvi d/o Kaliannan<br>(iExams Coord)|	kamala_swamy@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Binte Mahat | Nuriani_Mahat@schools.gov.sg |
 |Discipline|Mr Ng  Boon Teng David<br>(Teacher Counsellor)|ng_boon_teng_david@schools.gov.sg|
