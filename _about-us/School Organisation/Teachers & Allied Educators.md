@@ -89,7 +89,7 @@ variant: markdown
 |Patriotism| Mr Md Faiz Md Siddiq|mohamed_faiz_mohamed_siddiq@schools.gov.sg|
 ||Mdm Zhang Fangfang<br>(HOD MTL)|  zhang_fangfang@schools.gov.sg|
 |Resilience|Mdm Aznani Binte Aladin|aznani_aladin@schools.gov.sg|
-||Mdm Faradillah Jumahat<br>(SH Innovation [Internal])	|faradillah_jumahat@schools.gov.sg|
+||Mdm Faradillah Jumahat<br>(LH/EL [Internal])	|faradillah_jumahat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
 |Discipline|Mr Ng Boon Teng David<br>(Teacher Counsellor)	|ng_boon_teng_david@schools.gov.sg|
