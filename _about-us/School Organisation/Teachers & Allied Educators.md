@@ -125,7 +125,7 @@ variant: markdown
 ||Mr Matthew Teo Hock Chye<br>(ST/CL)	|teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD PE CCA &amp; AES)	|ban_choon_kwee@schools.gov.sg|
-|Empathy|Mdm Farhanah Jumahat<br>(Cyberwellness Coord)	|farhanah_jumahat@schools.gov.sg​|
+|Empathy|Mdm Farhanah Jumahat<br>(LH/EL [Internal])	|farhanah_jumahat@schools.gov.sg​|
 ||Mr Seow Tian Hou<br> (HOD ICT)|seow_tian_hou@schools.gov.sg|
 |
 
