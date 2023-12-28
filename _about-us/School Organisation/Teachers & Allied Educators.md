@@ -135,7 +135,6 @@ variant: markdown
 |:---:|:---:|
 |Mrs Suzanna Bambang <br>(Upper Level  Year Head)|suzanna_abdul_rahim@schools.gov.sg|
 |Mdm Yeo Lee Theng Deon<br>(Lower Level  Year Head)|yeo_lee_theng@schools.gov.sg|
-|Ms Debbie Koh Ling Zhi|debbie_koh_ling_zhi@schools.gov.sg|
 |
 
 
