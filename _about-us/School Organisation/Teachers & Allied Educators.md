@@ -117,8 +117,8 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:| 
-|Patriotism|Ms Dhashayani Vallatharasu<br>(LH/Eng [Internal])	|dhashayani_vallatharasu@schools.gov.sg|
-||Mr Muhammad Khairil Bin Kamal<br>(AYH)|muhammad_khairil_kamal@schools.gov.sg|
+|Patriotism|Ms Dhashayani Vallatharasu<br>(SH/Innovation [Internal])	|dhashayani_vallatharasu@schools.gov.sg|
+||Mr Muhammad Khairil Bin Kamal<br>(SH/Student Leadership &amp; Well-being)|muhammad_khairil_kamal@schools.gov.sg|
 |Resilience|Mrs Rajeswary Thillaikumar|rajeswary_thillaikumar@schools.gov.sg|
 ||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
 |Integrity|Mdm Saraswathy Samuel |saraswathy_subramaniam_a@schools.gov.sg
