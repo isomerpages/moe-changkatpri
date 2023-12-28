@@ -33,7 +33,7 @@ variant: markdown
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 | Patriotism | Miss Ivy Any Wei Li| ang_wei_li_ivy@schools.gov.sg |
-||Miss Josephine Teo| josephine_teow@moe.edu.sg|
+||Miss Josephine Teo| josephine_teow@schools.gov.sg|
 | Resilience|Miss Ha Siok Ting|ha_siok_ting@schools.gov.sg|
 ||Mdm Kalai Selvi d/o Kaliannan	| kalai_selvi_c_kaliannan@schools.gov.sg|
 | Integrity| Mdm Ong Li Mei Elaine (Mrs Heng)<br>(SDR) |	elaine_ong_li_mei@schools.gov.sg|
