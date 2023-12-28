@@ -89,7 +89,7 @@ variant: markdown
 |Patriotism| Mr Md Faiz Md Siddiq|mohamed_faiz_mohamed_siddiq@schools.gov.sg|
 ||Mdm Zhang Fangfang<br>(HOD MTL)|  zhang_fangfang@schools.gov.sg|
 |Resilience|Mdm Aznani Binte Aladin|aznani_aladin@schools.gov.sg|
-||Mdm Faradillah Jumahat<br>(SH Innovation [Internal])	|faradillah_jumahat@schools.gov.sg|
+||Mdm Faradillah Jumahat<br>(LH/EL [Internal])	|faradillah_jumahat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
 |Discipline|Mr Ng Boon Teng David<br>(Teacher Counsellor)	|ng_boon_teng_david@schools.gov.sg|
@@ -102,7 +102,7 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Mdm Soh Chern Hui (Mrs Leong)<br>(LH/EL)	|soh_chern_hui@schools.gov.sg|
+|Patriotism|Mdm Soh Chern Hui (Mrs Leong)<br>(HOD/EL)	|soh_chern_hui@schools.gov.sg|
 ||Mdm Nur Azura Rahim<br>(Music Coord)	|nur_azura_rahim@schools.gov.sg|
 ||Mdm Jovial Ng (UT)|jovial_ng_hui_yee@moe.edu.sg|
 |Resilience|Mr Khairul Nizam A Aziz|khairul_nizam_abdul_aziz@schools.gov.sg|
@@ -117,8 +117,8 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:| 
-|Patriotism|Ms Dhashayani Vallatharasu<br>(LH/Eng [Internal])	|dhashayani_vallatharasu@schools.gov.sg|
-||Mr Muhammad Khairil Bin Kamal<br>(AYH)|muhammad_khairil_kamal@schools.gov.sg|
+|Patriotism|Ms Dhashayani Vallatharasu<br>(SH/Innovation [Internal])	|dhashayani_vallatharasu@schools.gov.sg|
+||Mr Muhammad Khairil Bin Kamal<br>(SH/Student Leadership &amp; Well-being)|muhammad_khairil_kamal@schools.gov.sg|
 |Resilience|Mrs Rajeswary Thillaikumar|rajeswary_thillaikumar@schools.gov.sg|
 ||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
 |Integrity|Mdm Saraswathy Samuel |saraswathy_subramaniam_a@schools.gov.sg
