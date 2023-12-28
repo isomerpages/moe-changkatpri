@@ -89,7 +89,7 @@ variant: markdown
 |Patriotism| Mr Md Faiz Md Siddiq|mohamed_faiz_mohamed_siddiq@schools.gov.sg|
 ||Mdm Zhang Fangfang<br>(HOD MTL)|  zhang_fangfang@schools.gov.sg|
 |Resilience|Mdm Aznani Binte Aladin|aznani_aladin@schools.gov.sg|
-||Mdm Faradillah Jumahat<br>(LH/EL [Internal])	|faradillah_jumahat@schools.gov.sg|
+||Mdm Faradillah Jumahat |faradillah_jumahat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
 |Discipline|Mr Ng Boon Teng David<br>(Teacher Counsellor)	|ng_boon_teng_david@schools.gov.sg|
@@ -125,7 +125,7 @@ variant: markdown
 ||Mr Matthew Teo Hock Chye<br>(ST/CL)	|teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD PE CCA &amp; AES)	|ban_choon_kwee@schools.gov.sg|
-|Empathy|Mdm Farhanah Jumahat<br>(Cyberwellness Coord)	|farhanah_jumahat@schools.gov.sg​|
+|Empathy|Mdm Farhanah Jumahat<br>(LH/EL [Internal])	|farhanah_jumahat@schools.gov.sg​|
 ||Mr Seow Tian Hou<br> (HOD ICT)|seow_tian_hou@schools.gov.sg|
 |
 
@@ -135,7 +135,6 @@ variant: markdown
 |:---:|:---:|
 |Mrs Suzanna Bambang <br>(Upper Level  Year Head)|suzanna_abdul_rahim@schools.gov.sg|
 |Mdm Yeo Lee Theng Deon<br>(Lower Level  Year Head)|yeo_lee_theng@schools.gov.sg|
-|Ms Debbie Koh Ling Zhi|debbie_koh_ling_zhi@schools.gov.sg|
 |
 
 
