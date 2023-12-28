@@ -102,7 +102,7 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Mdm Soh Chern Hui (Mrs Leong)<br>(LH/EL)	|soh_chern_hui@schools.gov.sg|
+|Patriotism|Mdm Soh Chern Hui (Mrs Leong)<br>(HOD/EL)	|soh_chern_hui@schools.gov.sg|
 ||Mdm Nur Azura Rahim<br>(Music Coord)	|nur_azura_rahim@schools.gov.sg|
 ||Mdm Jovial Ng (UT)|jovial_ng_hui_yee@moe.edu.sg|
 |Resilience|Mr Khairul Nizam A Aziz|khairul_nizam_abdul_aziz@schools.gov.sg|
