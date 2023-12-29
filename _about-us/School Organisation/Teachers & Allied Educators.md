@@ -35,7 +35,7 @@ variant: markdown
 | Patriotism | Miss Ivy Any Wei Li| ang_wei_li_ivy@schools.gov.sg |
 ||Miss Josephine Teo| josephine_teow@schools.gov.sg|
 | Resilience|Miss Ha Siok Ting|ha_siok_ting@schools.gov.sg|
-||Mdm Kalai Selvi d/o Kaliannan	| kalai_selvi_c_kaliannan@schools.gov.sg|
+||Mdm Kamala d/o Swamy	| kamala_swamy@schools.gov.sg|
 | Integrity| Mdm Ong Li Mei Elaine (Mrs Heng)<br>(SDR) |	elaine_ong_li_mei@schools.gov.sg|
 ||Mdm Tay Aifang Faith| tay_aifang@schools.gov.sg|
 | Discipline|Mr Li Kun Peng<br>(CL Coord)	|li_kun_peng@schools.gov.sg|
@@ -72,7 +72,7 @@ variant: markdown
 |Patriotism|Ms Goh Huang Yiing Gina<br>(VIA Coord)|	goh_huang_yiing@schools.gov.sg|
 ||Mr Hoo Chee Mun<br>(SH/KM)|	hoo_chee_mun@schools.gov.sg|
 |Resilience|Mdm Siti Aisyah Mustapha| siti_aisyah_mustapha@schools.gov.sg|
-||Mdm Kalai Selvi d/o Kaliannan<br>(iExams Coord)|	kamala_swamy@schools.gov.sg|
+||Mdm Kalai Selvi d/o Kaliannan	| kalai_selvi_c_kaliannan@schools.gov.sg|
 |Integrity|Mrs Geeta Jayakumar|geeta_jayakumar@schools.gov.sg|
 ||Mdm Salmi Bte Rahmat<br>(HOD Science) | salmi_rahmat@schools.gov.sg |
 |Discipline|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
