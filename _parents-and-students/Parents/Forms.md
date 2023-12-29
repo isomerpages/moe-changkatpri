@@ -3,13 +3,14 @@ title: Forms
 permalink: /parents-and-students/parents/forms/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ### **Forms**
 
 *   Click [here](https://drive.google.com/file/d/1_DbkIFVPBJmOoo_VIJqPULpBl8UvabJ5/view) to download the **Leave of Absence Application Form** (External link)
 *   Click [here](https://forms.moe.edu.sg/forms/vjpl6o) to fill-in the **Reply Form - Cycling To School** (External link)
-*   Click [here](https://forms.moe.edu.sg/forms/JmVlWo) to fill-in the **Acknowledgement Form - Handphone Policy** (External link)
-*   Click [here](https://form.gov.sg/634f7b32d25d7f0012ff9f93) to fill-in the **Parent Volunteer Application Form** (External link)
+*   Click [here](https://form.gov.sg/658e4b0f0628120011eb47f0) to fill-in the **Acknowledgement Form - Handphone Policy** (External link)
+*   Click [here](https://form.gov.sg/658e43213412300011729138) to fill-in the **Parent Volunteer Application Form** (External link)
 *   Click [here](https://drive.google.com/file/d/10GgJYA4AzGqNVvSQou3ZM87Sx6qtNnyO/view) to download **MOEs Centrally Provisioned Digital Tools Consent Form** (External link)
 *   Click [here](https://drive.google.com/file/d/1uLPhNXXhnJWm3tYGBanYwzUbO4SmA3rB/view) to download **MOE FAS Application Form (SEP 2022)** (External link) <br>**or visit the online form:** [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
