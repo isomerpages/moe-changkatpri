@@ -38,7 +38,7 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
  
 **Primary 5**
 
-**CCE(FTGP) theme:** Growing Years  **Time period:** Term 2 Week 1
+**CCE(FTGP) theme:** Growing Years  **Time period:** Term 2 Week 5
 
 **Lesson title / duration:** The Changes in Me (60 min)<br>
 **Lesson overview:** This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br>
@@ -64,10 +64,6 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 **Lesson title / duration:** Are We More than Friends? Lesson 2 (60 min)<br>
 **Lesson overview:** In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
 
-**Lesson title / duration:** Did You Know?&nbsp;^ (60 min)<br>
-**Lesson overview:** This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-
-**Please Note:** ^For&nbsp;2023, the Primary 5 lesson **"Did You Know?"** will also be conducted for the Primary 6 cohort.
 
 **Information for Parents**<br>
 8 - Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
