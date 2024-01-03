@@ -134,6 +134,7 @@ variant: markdown
 | Name | Email |
 |:---:|:---:|
 |Mrs Suzanna Bambang <br>(Upper Level  Year Head)|suzanna_abdul_rahim@schools.gov.sg|
+|Mdm Nur Iffah Abdul Ghafar<br>(Middle Level  Year Head)| nur_iffah_abdul_ghafar@schools.gov.sg|
 |Mdm Yeo Lee Theng Deon<br>(Lower Level  Year Head)|yeo_lee_theng@schools.gov.sg|
 |
 
@@ -142,6 +143,7 @@ variant: markdown
 
 | Designation | Name | Email |
 |:---:|:---:|:---:|
-| ALLIED EDUCATOR<br>(LBS) | Miss Nur Atasha Binte Razali| nur_atasha_razali@schools.gov.sg|
-| ALLIED EDUCATOR <br>(LBS) | Miss Surya Binte Effendi | surya_effendi@schools.gov.sg |
+| Allied Educator<br>(LBS) | Miss Nur Atasha Binte Razali| nur_atasha_razali@schools.gov.sg|
+| Allied Educator <br>(LBS) | Miss Surya Binte Effendi | surya_effendi@schools.gov.sg |
+| Senior School Counsellor  | Mr Dave Kang | |
 |
