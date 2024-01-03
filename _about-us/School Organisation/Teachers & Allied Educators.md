@@ -52,7 +52,7 @@ variant: markdown
 |:---:|:---:|:---:|
 |Patriotism|Mr Lim Choon Hong|lim_choon_hong_a@schools.gov.sg|
 ||Mdm Winnie Wong|asmah_wong@moe.edu.sg|
-|Resilience|Hazelina Gopinathan|hazelina_gopinathan@schools.gov.sg|
+|Resilience|Ms Hazelina Gopinathan|hazelina_gopinathan@schools.gov.sg|
 ||Mdm Haryati Ariffin<br>(SH/CCA &amp; AES)|haryati_ariffin@schools.gov.sg|
 |Integrity|Mdm Nadjah Omar Alkhatib|nadjah_omar_alkhatib@schools.gov.sg|
 ||Ms Gladys Soh Kang Hwee | soh_kang_hwee_gladys@schools.gov.sg|
@@ -78,7 +78,7 @@ variant: markdown
 |Discipline|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
 ||Mdm Radziyah Mohd Zain| radziyah_mohamed_zain@schools.gov.sg|
 ||Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
-|Empathy|Mdm Anithasri d/o Manokaran	<br>AYH|anithasri_manokaran@schools.sg|
+|Empathy|Mdm Anithasri d/o Manokaran	<br>(AYH)|anithasri_manokaran@schools.sg|
 ||Mr Md Taufeek Ramlan<br>(ST/PE)	|mohamed_taufeek_ramlan@schools.gov.sg|
 |
 
@@ -88,7 +88,7 @@ variant: markdown
 |:---:|:---:|:---:|
 |Patriotism| Mr Md Faiz Md Siddiq|mohamed_faiz_mohamed_siddiq@schools.gov.sg|
 ||Mdm Zhang Fangfang<br>(HOD MTL)|  zhang_fangfang@schools.gov.sg|
-|Resilience|Mdm Aznani Binte Aladin<br>AYH|aznani_aladin@schools.gov.sg|
+|Resilience|Mdm Aznani Binte Aladin<br>(AYH)|aznani_aladin@schools.gov.sg|
 ||Mdm Faradillah Jumahat |faradillah_jumahat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
@@ -105,12 +105,12 @@ variant: markdown
 |Patriotism|Mdm Soh Chern Hui (Mrs Leong)<br>(HOD/EL)	|soh_chern_hui@schools.gov.sg|
 ||Mdm Nur Azura Rahim<br>(Music Coord)	|nur_azura_rahim@schools.gov.sg|
 ||Mdm Jovial Ng|jovial_ng_hui_yee@moe.edu.sg|
-|Resilience|Mr Khairul Nizam A Aziz <br>AYH|khairul_nizam_abdul_aziz@schools.gov.sg|
+|Resilience|Mr Khairul Nizam A Aziz <br>(AYH)|khairul_nizam_abdul_aziz@schools.gov.sg|
 ||Mdm Farah Khairiah Rifaei<br>(SH/NE &amp; Partnership, Social Studies)	|farah_khairiah_rifaei@schools.gov.sg|
 |Integrity|Mdm Sharifah Aminah Syed Omar Alsree<br>(ML Coord)	|harifah_aminah_syed_omar@schools.gov.sg|
 ||Mdm Cheong Hwee Peng Christina (Mrs Chan)<br>(Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
 |Discipline|Ms Yong Yun Yun<br>(LH/Maths)|yong_yun_yun@schools.gov.sg|
-||Mdm Juliana Jumaat<br>ST/MATHS|juliana_jumaat@schools.gov.sg|
+||Mdm Juliana Jumaat<br>(ST/MATHS)|juliana_jumaat@schools.gov.sg|
 |
   
 #### **Primary Six**
@@ -119,13 +119,13 @@ variant: markdown
 |:---:|:---:|:---:| 
 |Patriotism|Ms Dhashayani Vallatharasu<br>(SH/Innovation [Internal])	|dhashayani_vallatharasu@schools.gov.sg|
 ||Mr Muhammad Khairil Bin Kamal<br>(SH/Student Leadership &amp; Well-being)|muhammad_khairil_kamal@schools.gov.sg|
-|Resilience|Mrs Rajeswary Thillaikumar<br>ST/EL|rajeswary_thillaikumar@schools.gov.sg|
+|Resilience|Mrs Rajeswary Thillaikumar<br>(ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
 ||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
 |Integrity|Mdm Saraswathy Samuel |saraswathy_subramaniam_a@schools.gov.sg
 ||Mr Matthew Teo Hock Chye<br>(ST/CL)	|teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD PE CCA &amp; AES)	|ban_choon_kwee@schools.gov.sg|
-|Empathy|Mdm Farhanah Jumahat<br>(LH/EL [Internal])	|farhanah_jumahat@schools.gov.sg​|
+|Empathy|Mdm Farhanah Jumahat<br>(LH/EL [Internal])	|farhanah_jumahat@schools.gov.sg|
 ||Mr Seow Tian Hou<br> (HOD ICT)|seow_tian_hou@schools.gov.sg|
 |
 
@@ -145,5 +145,5 @@ variant: markdown
 |:---:|:---:|:---:|
 | Allied Educator<br>(LBS) | Miss Nur Atasha Binte Razali| nur_atasha_razali@schools.gov.sg|
 | Allied Educator <br>(LBS) | Miss Surya Binte Effendi | surya_effendi@schools.gov.sg |
-| Senior School Counsellor  | Mr Dave Kang | |
+| Senior School Counsellor  | Mr Dave Kang ||
 |
