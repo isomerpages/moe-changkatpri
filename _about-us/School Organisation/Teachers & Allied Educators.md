@@ -110,7 +110,7 @@ variant: markdown
 |Integrity|Mdm Sharifah Aminah Syed Omar Alsree<br>(ML Coord)	|harifah_aminah_syed_omar@schools.gov.sg|
 ||Mdm Cheong Hwee Peng Christina (Mrs Chan)<br>(Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
 |Discipline|Ms Yong Yun Yun<br>(LH/Maths)|yong_yun_yun@schools.gov.sg|
-||Mdm Juliana Jumaat<br>ST/MATHS|juliana_jumaat@schools.gov.sg|
+||Mdm Juliana Jumaat<br>(ST/MATHS)|juliana_jumaat@schools.gov.sg|
 |
   
 #### **Primary Six**
@@ -119,7 +119,7 @@ variant: markdown
 |:---:|:---:|:---:| 
 |Patriotism|Ms Dhashayani Vallatharasu<br>(SH/Innovation [Internal])	|dhashayani_vallatharasu@schools.gov.sg|
 ||Mr Muhammad Khairil Bin Kamal<br>(SH/Student Leadership &amp; Well-being)|muhammad_khairil_kamal@schools.gov.sg|
-|Resilience|Mrs Rajeswary Thillaikumar<br>ST/EL|rajeswary_thillaikumar@schools.gov.sg|
+|Resilience|Mrs Rajeswary Thillaikumar<br>(ST/EL)|rajeswary_thillaikumar@schools.gov.sg|
 ||Ms Rauhdah A Latif| rauhdah_abdul_latif@schools.gov.sg|
 |Integrity|Mdm Saraswathy Samuel |saraswathy_subramaniam_a@schools.gov.sg
 ||Mr Matthew Teo Hock Chye<br>(ST/CL)	|teo_hock_chye@schools.gov.sg|
@@ -145,5 +145,5 @@ variant: markdown
 |:---:|:---:|:---:|
 | Allied Educator<br>(LBS) | Miss Nur Atasha Binte Razali| nur_atasha_razali@schools.gov.sg|
 | Allied Educator <br>(LBS) | Miss Surya Binte Effendi | surya_effendi@schools.gov.sg |
-| Senior School Counsellor  | Mr Dave Kang | |
+| Senior School Counsellor  | Mr Dave Kang ||
 |
