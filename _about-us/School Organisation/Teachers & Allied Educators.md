@@ -78,7 +78,7 @@ variant: markdown
 |Discipline|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
 ||Mdm Radziyah Mohd Zain| radziyah_mohamed_zain@schools.gov.sg|
 ||Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
-|Empathy|Mdm Anithasri d/o Manokaran	<br>AYH|anithasri_manokaran@schools.sg|
+|Empathy|Mdm Anithasri d/o Manokaran	<br>(AYH)|anithasri_manokaran@schools.sg|
 ||Mr Md Taufeek Ramlan<br>(ST/PE)	|mohamed_taufeek_ramlan@schools.gov.sg|
 |
 
@@ -88,7 +88,7 @@ variant: markdown
 |:---:|:---:|:---:|
 |Patriotism| Mr Md Faiz Md Siddiq|mohamed_faiz_mohamed_siddiq@schools.gov.sg|
 ||Mdm Zhang Fangfang<br>(HOD MTL)|  zhang_fangfang@schools.gov.sg|
-|Resilience|Mdm Aznani Binte Aladin<br>AYH|aznani_aladin@schools.gov.sg|
+|Resilience|Mdm Aznani Binte Aladin<br>(AYH)|aznani_aladin@schools.gov.sg|
 ||Mdm Faradillah Jumahat |faradillah_jumahat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
@@ -105,7 +105,7 @@ variant: markdown
 |Patriotism|Mdm Soh Chern Hui (Mrs Leong)<br>(HOD/EL)	|soh_chern_hui@schools.gov.sg|
 ||Mdm Nur Azura Rahim<br>(Music Coord)	|nur_azura_rahim@schools.gov.sg|
 ||Mdm Jovial Ng|jovial_ng_hui_yee@moe.edu.sg|
-|Resilience|Mr Khairul Nizam A Aziz <br>AYH|khairul_nizam_abdul_aziz@schools.gov.sg|
+|Resilience|Mr Khairul Nizam A Aziz <br>(AYH)|khairul_nizam_abdul_aziz@schools.gov.sg|
 ||Mdm Farah Khairiah Rifaei<br>(SH/NE &amp; Partnership, Social Studies)	|farah_khairiah_rifaei@schools.gov.sg|
 |Integrity|Mdm Sharifah Aminah Syed Omar Alsree<br>(ML Coord)	|harifah_aminah_syed_omar@schools.gov.sg|
 ||Mdm Cheong Hwee Peng Christina (Mrs Chan)<br>(Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
