@@ -104,13 +104,13 @@ variant: markdown
 |:---:|:---:|:---:|
 |Patriotism|Mdm Soh Chern Hui (Mrs Leong)<br>(HOD/EL)	|soh_chern_hui@schools.gov.sg|
 ||Mdm Nur Azura Rahim<br>(Music Coord)	|nur_azura_rahim@schools.gov.sg|
-||Mdm Jovial Ng (UT)|jovial_ng_hui_yee@moe.edu.sg|
-|Resilience|Mr Khairul Nizam A Aziz|khairul_nizam_abdul_aziz@schools.gov.sg|
+||Mdm Jovial Ng|jovial_ng_hui_yee@moe.edu.sg|
+|Resilience|Mr Khairul Nizam A Aziz <br>AYH|khairul_nizam_abdul_aziz@schools.gov.sg|
 ||Mdm Farah Khairiah Rifaei<br>(SH/NE &amp; Partnership, Social Studies)	|farah_khairiah_rifaei@schools.gov.sg|
 |Integrity|Mdm Sharifah Aminah Syed Omar Alsree<br>(ML Coord)	|harifah_aminah_syed_omar@schools.gov.sg|
 ||Mdm Cheong Hwee Peng Christina (Mrs Chan)<br>(Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
 |Discipline|Ms Yong Yun Yun<br>(LH/Maths)|yong_yun_yun@schools.gov.sg|
-||Mdm Juliana Jumaat|juliana_jumaat@schools.gov.sg|
+||Mdm Juliana Jumaat<br>ST/MATHS|juliana_jumaat@schools.gov.sg|
 |
   
 #### **Primary Six**
