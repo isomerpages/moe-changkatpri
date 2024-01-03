@@ -52,7 +52,7 @@ variant: markdown
 |:---:|:---:|:---:|
 |Patriotism|Mr Lim Choon Hong|lim_choon_hong_a@schools.gov.sg|
 ||Mdm Winnie Wong|asmah_wong@moe.edu.sg|
-|Resilience|Hazelina Gopinathan|hazelina_gopinathan@schools.gov.sg|
+|Resilience|Ms Hazelina Gopinathan|hazelina_gopinathan@schools.gov.sg|
 ||Mdm Haryati Ariffin<br>(SH/CCA &amp; AES)|haryati_ariffin@schools.gov.sg|
 |Integrity|Mdm Nadjah Omar Alkhatib|nadjah_omar_alkhatib@schools.gov.sg|
 ||Ms Gladys Soh Kang Hwee | soh_kang_hwee_gladys@schools.gov.sg|
@@ -125,7 +125,7 @@ variant: markdown
 ||Mr Matthew Teo Hock Chye<br>(ST/CL)	|teo_hock_chye@schools.gov.sg|
 |Discipline|Mdm Siti Hajar Mohamed Khan|siti_hajar_mohamed_khan@schools.gov.sg|
 ||Mr Ban Choon Kwee<br>(HOD PE CCA &amp; AES)	|ban_choon_kwee@schools.gov.sg|
-|Empathy|Mdm Farhanah Jumahat<br>(LH/EL [Internal])	|farhanah_jumahat@schools.gov.sg​|
+|Empathy|Mdm Farhanah Jumahat<br>(LH/EL [Internal])	|farhanah_jumahat@schools.gov.sg|
 ||Mr Seow Tian Hou<br> (HOD ICT)|seow_tian_hou@schools.gov.sg|
 |
 
