@@ -32,8 +32,8 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| Patriotism | Miss Ivy Ang Wei Li| ang_wei_li_ivy@schools.gov.sg |
-||Miss Josephine Teow| josephine_teow@schools.gov.sg|
+| Patriotism | Ms Ivy Ang Wei Li| ang_wei_li_ivy@schools.gov.sg |
+||Ms Josephine Teow| josephine_teow@schools.gov.sg|
 | Resilience|Miss Ha Siok Ting|ha_siok_ting@schools.gov.sg|
 ||Mdm Kamala d/o Swamy	| kamala_swamy@schools.gov.sg|
 | Integrity| Mdm Ong Li Mei Elaine (Mrs Heng)<br>(SDR) |	elaine_ong_li_mei@schools.gov.sg|
@@ -77,7 +77,6 @@ variant: markdown
 ||Mdm Salmi Bte Rahmat<br>(HOD Science) | salmi_rahmat@schools.gov.sg |
 |Discipline|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
 ||Mdm Radziyah Mohd Zain| radziyah_mohamed_zain@schools.gov.sg|
-||Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
 |Empathy|Mdm Anithasri d/o Manokaran	<br>(AYH)|anithasri_manokaran@schools.sg|
 ||Mr Md Taufeek Ramlan<br>(ST/PE)	|mohamed_taufeek_ramlan@schools.gov.sg|
 |
@@ -107,7 +106,7 @@ variant: markdown
 ||Mdm Jovial Ng|jovial_ng_hui_yee@moe.edu.sg|
 |Resilience|Mr Khairul Nizam A Aziz <br>(AYH)|khairul_nizam_abdul_aziz@schools.gov.sg|
 ||Mdm Farah Khairiah Rifaei<br>(SH/NE &amp; Partnership, Social Studies)	|farah_khairiah_rifaei@schools.gov.sg|
-|Integrity|Mdm Sharifah Aminah Syed Omar Alsree<br>(ML Coord)	|harifah_aminah_syed_omar@schools.gov.sg|
+|Integrity|Mdm Sharifah Aminah Syed Omar Alsree<br>(ML Coord)	|sharifah_aminah_syed_omar@schools.gov.sg|
 ||Mdm Cheong Hwee Peng Christina (Mrs Chan)<br>(Teacher Counsellor)|cheong_hwee_peng@schools.gov.sg|
 |Discipline|Ms Yong Yun Yun<br>(LH/Maths)|yong_yun_yun@schools.gov.sg|
 ||Mdm Juliana Jumaat<br>(ST/MATHS)|juliana_jumaat@schools.gov.sg|
@@ -143,7 +142,7 @@ variant: markdown
 
 | Designation | Name | Email |
 |:---:|:---:|:---:|
-| Allied Educator<br>(LBS) | Miss Nur Atasha Binte Razali| nur_atasha_razali@schools.gov.sg|
-| Allied Educator <br>(LBS) | Miss Surya Binte Effendi | surya_effendi@schools.gov.sg |
+| Allied Educator<br>(Special Educational Needs Officer) | Miss Nur Atasha Binte Razali| nur_atasha_razali@schools.gov.sg|
+| Allied Educator <br>(Special Educational Needs Officer) | Miss Surya Binte Effendi | surya_effendi@schools.gov.sg |
 | Senior School Counsellor  | Mr Dave Kang ||
 |
