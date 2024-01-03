@@ -58,7 +58,7 @@ variant: markdown
 ||Ms Gladys Soh Kang Hwee | soh_kang_hwee_gladys@schools.gov.sg|
 | Discipline| Ms Jesslyn Ng Shi Hui<br>(AYH)|ng_shi_hui_jesslyn@schools.gov.sg|
 ||Mr K Parathi<br>(SH/ML&amp;TL)| k_parathi@schools.gov.sg|
-|Empathy|Mdm Tan Keng Tzu|tan_keng_tzu@schools.gov.sg
+|Empathy|Mdm Tan Keng Tzu (Mrs Wong)|tan_keng_tzu@schools.gov.sg
 ||Mdm Yan Zhuyun<br>(MRL Coord)|yan_zhuyun@schools.gov.sg|
 |Gratitude|Mdm Ng Li Leng Clara (Mrs Sim)<br>(ECG Coord, SED Coord)|ng_li_leng@schools.gov.sg|
 ||Mdm Nur Arina Santoso<br>(ML Coord)|nur_arina_santoso@schools.gov.sg|
