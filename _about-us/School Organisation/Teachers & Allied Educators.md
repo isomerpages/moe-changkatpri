@@ -60,8 +60,8 @@ variant: markdown
 ||Mr K Parathi<br>(SH/ML&amp;TL)| k_parathi@schools.gov.sg|
 |Empathy|Mdm Tan Keng Tzu (Mrs Wong)|tan_keng_tzu@schools.gov.sg
 ||Mdm Yan Zhuyun<br>(MRL Coord)|yan_zhuyun@schools.gov.sg|
-|Gratitude|Mdm Ng Li Leng Clara (Mrs Sim)<br>(ECG Coord, SED Coord)|ng_li_leng@schools.gov.sg|
-||Mdm Nur Arina Santoso<br>(ML Coord)|nur_arina_santoso@schools.gov.sg|
+|Gratitude|Mdm Ng Li Leng Clara (Mrs Sim)<br>(ECG Coord)|ng_li_leng@schools.gov.sg|
+||Mdm Nur Arina Santoso|nur_arina_santoso@schools.gov.sg|
 |
 
 
@@ -69,7 +69,7 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-|Patriotism|Ms Goh Huang Yiing Gina<br>(VIA Coord)|	goh_huang_yiing@schools.gov.sg|
+|Patriotism|Mdm Chiah Chwee Peng)|	chiah_chwee_peng@moe.edu.sg|
 ||Mr Hoo Chee Mun<br>(SH/KM)|	hoo_chee_mun@schools.gov.sg|
 |Resilience|Mdm Siti Aisyah Mustapha| siti_aisyah_mustapha@schools.gov.sg|
 ||Mdm Kalai Selvi d/o Kaliannan	| kalai_selvi_c_kaliannan@schools.gov.sg|
@@ -78,7 +78,7 @@ variant: markdown
 |Discipline|Ms Tia Amelia Abdullah|tia_amelia_abdullah@schools.gov.sg|
 ||Mdm Radziyah Mohd Zain| radziyah_mohamed_zain@schools.gov.sg|
 ||Mdm Nur Iffah Bte Abdul Ghafar <br>[Middle Level  Year Head]|nur_iffah_abdul_ghafar@schools.gov.sg|
-|Empathy|Mdm Anithasri d/o Manokaran	|anithasri_manokaran@schools.sg|
+|Empathy|Mdm Anithasri d/o Manokaran	<br>AYH|anithasri_manokaran@schools.sg|
 ||Mr Md Taufeek Ramlan<br>(ST/PE)	|mohamed_taufeek_ramlan@schools.gov.sg|
 |
 
@@ -88,7 +88,7 @@ variant: markdown
 |:---:|:---:|:---:|
 |Patriotism| Mr Md Faiz Md Siddiq|mohamed_faiz_mohamed_siddiq@schools.gov.sg|
 ||Mdm Zhang Fangfang<br>(HOD MTL)|  zhang_fangfang@schools.gov.sg|
-|Resilience|Mdm Aznani Binte Aladin|aznani_aladin@schools.gov.sg|
+|Resilience|Mdm Aznani Binte Aladin<br>AYH|aznani_aladin@schools.gov.sg|
 ||Mdm Faradillah Jumahat |faradillah_jumahat@schools.gov.sg|
 |Integrity|Mr Chong Yong Tian|chong_yong_tian@schools.gov.sg|
 ||Mdm Nuriani Mahat|Nuriani_Mahat@schools.gov.sg|
