@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Forms**
 
-*  Click [here](https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students) to submit MOE GPA Insurance claim (External link). <br>Download the GPA Insurance factsheet [here](https://drive.google.com/file/d/1olB9ux_OBNsY6dw7ArinsXURpXy9XYED/view?usp=sharing) (External link)
+*  Click [here](https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students) to submit **MOE GPA Insurance claim** (External link). <br>Download the GPA Insurance factsheet [here](https://drive.google.com/file/d/1olB9ux_OBNsY6dw7ArinsXURpXy9XYED/view?usp=sharing) (External link)
 *   Click [here](https://drive.google.com/file/d/1_DbkIFVPBJmOoo_VIJqPULpBl8UvabJ5/view) to download the **Leave of Absence Application Form** (External link)
 *   Click [here](https://form.gov.sg/658e4b0f0628120011eb47f0) to fill-in the **Reply Form - Cycling To School** (External link)
 *   Click [here](https://form.gov.sg/658e43213412300011729138) to fill-in the **Acknowledgement Form - Handphone Policy** (External link)
