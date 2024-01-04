@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: School Information
 ---
-## School Information
+## School Uniform
 
 Appointed school uniform vendor: **My Uniform Shop**.
 
@@ -16,4 +16,3 @@ Parents may refer to the online website: [www.myuniformshop.com.sg](https://www.
 **Onsite (school) Order**
 
 Please visit their [website](https://www.myuniformshop.com.sg/ckps-booking) for the sale date.
- 
