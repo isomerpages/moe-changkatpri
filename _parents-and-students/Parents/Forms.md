@@ -20,6 +20,6 @@ variant: markdown
 
 *   Click [here](https://drive.google.com/file/d/1zTvhns3m7FHupjpyLO6UQypf_9WGPFDq/view) to download **Interbank GIRO Application Form** (External link)
 *   Click [here](https://drive.google.com/file/d/1LNV_xMMB4fvwl6UWeh8oR87MQ2W5vcWs/view?) to download **Edusave Standing Order Form** (External link)
-* Click [here](https://drive.google.com/file/d/1Td-CpserxDgKpS3Z5Qfp0ouEFvGAsFy1/view) to download the **Bethesda Care Services Bursary 2024 form** (External link)<br>[All completed application forms, together with the required supporting documents, must be submitted to the General Office by **Friday, 25 Aug 2023**].<br>
+<!-- * Click [here](https://drive.google.com/file/d/1Td-CpserxDgKpS3Z5Qfp0ouEFvGAsFy1/view) to download the **Bethesda Care Services Bursary 2024 form** (External link)<br>[All completed application forms, together with the required supporting documents, must be submitted to the General Office by **Friday, 25 Aug 2023**].<br> -->
 * Click [here](https://drive.google.com/file/d/1mIuEIq0_1h0K6KxZwrpjU58E2qyDEYqa/) to download the **Application form for The Straits Times School Pocket Money Fund (STSPMF) for P1-P5 students** (External link)
 *   Click [here](https://drive.google.com/file/d/1qnc8Kmu379RGQILT6lSl9yHFZNIABv6r/view) to download **Request for School Bus Services 2023 Form**  (External link)
