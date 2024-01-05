@@ -9,5 +9,5 @@ third_nav_title: School Information
 
 Appointed school bookshop vendor: **D Y Education Service Trading** (w.e.f. 1 Jan 2024).
 
-Visit their website ([https://dyeducation.net/](https://dyeducation.net/)) for more details
+Visit their website ([https://dyeducation.net/](https://dyeducation.net/)) for more details.
 
