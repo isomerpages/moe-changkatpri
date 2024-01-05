@@ -3,42 +3,11 @@ title: Infocomm & Technology (ICT)
 permalink: /our-experiences/curriculum/ict/
 description: ""
 third_nav_title: Curriculum
+variant: tiptap
 ---
-### **Infocomm & Technology (ICT)**
- _“I don’t use technology in my classroom because it’s a buzzword or a trend. I use it because connecting my kids with the world will prepare them for the future.” ~ Anonymous_
- 
- In Changkat Primary School, we believe in teaching our students tomorrow’s skills today. A structured **Core ICT Programme** is administered to ensure that our students are equipped with the relevant ICT skills to help them attain the Baseline Standards set by MOE. The Core ICT Programme is conducted during school hours by our ICT Resident Trainer.
- 
-####  **Integration of ICT into Curriculum**
-In pursuit of academic excellence, our Supporting ICT Programmes are integrated into the curriculum. To support and enhance learning, students in Changkat Primary School have two main e-learning platforms that cater to different learning needs. One of which is The Singapore Student Learning Space (SLS) that provides teachers with a wide repertoire of teaching materials to support collaborative learning. This platform also encourages students to be a Self-Directed learner as students will be able to revise their work at their own pace and own time. We are also tapping on MOE Student ICON’s G Suite for Education which is a suite of hosted communication and collaboration tools that include Gmail, Calendar, Drive, Docs, Forms, Slides, Sheets, Sites, and Drawings. Google Classroom is also used by teachers to help create and organise assignments via Google Docs/Sheet/Slides quickly, provide feedback efficiently and communicate easily with their classes.
-
-E-learning days are also set aside and e-learning tasks are assigned to students frequently in various subjects to ensure that students know what to do in case of school closure.
-
-Other ICT applications are also used pervasively in our teaching and learning such as use of the CMS, dataloggers, Google Apps and Web 2.0 tools. ICT is used as a vehicle to drive our IP subjects.
-
-#### **Cyberwellness@Changkat**
-##### **Cyber Wellness @CKPS Begins With Me**
-Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and the awareness of how to protect oneself in cyberspace.
-
-Inculcating a sense of digital responsibility in students is especially important in this digital age where there is increased use of technology among young children.
-
-The focus of CW is about helping students to become responsible digital learners. Based on MOE’s Cyber Wellness framework, these 3 main principles will guide student's decision-making and anchor their well-being:
-
-*   Respect for self and others
-*    Safe and responsible use
-*    Positive peer influence
-
-Teaching and encouraging digital responsibility also ties in with our school vision of nurturing Citizens of Honour. This is achieved through our Cyber Wellness programme in CKPS which aims to equip our students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.
-
-	*   Cyber wellness lessons during FTGP
-	*   Assembly talks
-	*   Termly cyber wellness messages
-	*   Cyber Wellness Week
-	*   Cyber Wellness Learning Fiesta
-	*   Partnering Parents on Cyber Wellness
-*   Termly Parent Notifications
-*   Semester Newsletter
-	*   Empowering Students
-*   ICT Leaders undergo training to lead and advocate cyber wellness messages to their peers.
-
-<img src="/images/OurExperiences/Curriculum/ICT/ict.png" style="width:85%">
+<h3><strong>Infocomm &amp; Technology (ICT)</strong></h3><p>“I don’t use technology in my classroom because it’s a buzzword or a trend. I use it because connecting my kids with the world will prepare them for the future.” ~ Anonymous</p><p>In Changkat Primary School, we believe in teaching our students tomorrow’s skills today. A structured&nbsp;<strong>Core ICT Programme</strong>&nbsp;is administered to ensure that our students are equipped with the relevant ICT skills to help them attain the Baseline Standards set by MOE. The Core ICT Programme is conducted during school hours by our ICT Resident Trainer.</p><p>Digital Literacy (DL) is defined as a set of knowledge, skills and dispositions that would help our learners to be confident, critical and responsible users of digital technologies for information, communication and problem-solving.</p><p>The Find, Think, Apply, Create (FTAC) framework for DL was introduced when MOE’s National Digital Literacy Programme (NDLP) was launched in 2020. Students will acquire digital skills across four components in the FTAC framework.</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/ICT/ict1.png"></div><h4><strong>Integration of ICT into Curriculum</strong></h4><p>In pursuit of academic excellence, our Supporting ICT Programmes are integrated into the curriculum. To support and enhance learning, students in Changkat Primary School have two main e-learning platforms that cater to different learning needs. One of which is The Singapore Student Learning Space (SLS) that provides teachers with a wide repertoire of teaching materials to support collaborative learning. This platform also encourages students to be a Self-Directed learner as students will be able to revise their work at their own pace and own time. We are also tapping on MOE Student ICON’s&nbsp;G Suite for Education which is a suite of hosted communication and collaboration tools that include Gmail, Calendar, Drive, Docs, Forms, Slides, Sheets, Sites, and Drawings. Google Classroom is also used by teachers to help create and organise assignments via Google Docs/Sheet/Slides quickly, provide feedback efficiently and communicate easily with their classes.</p><p>E-learning days are also set aside and e-learning tasks are assigned to students frequently in various subjects to ensure that students know what to do in case of school closure.</p><p>Other ICT applications are also used pervasively in our teaching and learning such as use of the CMS, dataloggers, Google Apps and Web 2.0 tools. ICT is used as a vehicle to drive our IP subjects.</p><h4><strong>Cyberwellness@Changkat</strong></h4><h5><strong>Cyber Wellness @CKPS Begins With Me</strong></h5><p>Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and the awareness of how to protect oneself in cyberspace.</p><p>Inculcating a sense of digital responsibility in students is especially important in this digital age where there is increased use of technology among young children.</p><p>The focus of CW is about helping students to become responsible digital learners. Based on MOE’s Cyber Wellness framework, these 3 main principles will guide student's decision-making and anchor their well-being:</p><ul data-tight="true" class="tight"><li><p>Respect for self and others</p></li><li><p>&nbsp;Safe and responsible use</p></li><li><p>&nbsp;Positive peer influence</p></li></ul><p>Teaching and encouraging digital responsibility also ties in with our school vision of nurturing Citizens of Honour. This is achieved through our&nbsp;Cyber Wellness programme in CKPS which&nbsp;aims to equip our students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.</p><pre><code>*   Cyber wellness lessons during FTGP
+*   Assembly talks
+*   Termly cyber wellness messages
+*   Cyber Wellness Week
+*   Cyber Wellness Learning Fiesta
+*   Partnering Parents on Cyber Wellness</code></pre><ul data-tight="true" class="tight"><li><p>Termly Parent Notifications</p></li><li><p>Semester Newsletter</p><ul data-tight="true" class="tight"><li><p>Empowering Students</p></li></ul></li><li><p>ICT Leaders undergo training to lead and advocate cyber wellness messages to their peers.</p></li></ul><div class="isomer-image-wrapper"><img style="width:85%" height="auto" width="100%" src="/images/OurExperiences/Curriculum/ICT/ict.png"></div><p></p>
