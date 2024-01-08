@@ -25,7 +25,7 @@ The whole-school CCE implementation anchors on the R³ICH and PRIDE values, the 
 
 The 21<sup>st</sup> Century Competencies, which are Civic Literacy, Global Awareness and Cross-Cultural Skills, Critical and Inventive Thinking, and Communication, Collaboration and Information Skills, are necessary for the globalised world we live in. Together, these core values and competencies will help our students embody the Desired Outcomes of Education: to be a Self-directed Learner, an Active Contributor, a Concerned Citizen and a Confident Person, so that they are able to capitalise on the rich opportunities of the digital age, while keeping a strong Singapore heartbeat.
 
-The school’s CCE programmes are delivered through the curriculum and co-curriculum to achieve the intended outcomes. The design and delivery of CCE as a total curriculum is guided by the 5Ps of CCE (**P**urpose,**P**upil, Holistic Ex**P**riences,**P**rofessional Development and **P**artnership). Through the E³ approach (**E**ducate, **E**xperience and **E**xcel), all students will be provided with opportunities to learn through experience and apply and reflect on what has been taught subsequently.
+The school’s CCE programmes are delivered through the curriculum and co-curriculum to achieve the intended outcomes. The design and delivery of CCE as a total curriculum is guided by the 5Ps of CCE (**P**urpose, **P**upil, Holistic Ex**P**riences, **P**rofessional Development and **P**artnership). Through the E³ approach (**E**ducate, **E**xperience and **E**xcel), all students will be provided with opportunities to learn through experience and apply and reflect on what has been taught subsequently.
 
 <img src="/images/OurExperiences/Curriculum/CCE/cce1.png" style="width:85%">
 
