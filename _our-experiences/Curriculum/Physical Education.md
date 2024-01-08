@@ -46,5 +46,5 @@ The PE Department is guided by the 3E framework of&nbsp;**_‘Educate, Experienc
 |---|---|
 | <br><br><br>**Educate** | **P1 to P6:**<br>1. Games &amp; Sports<br>2. Outdoor Education<br>3. Gymnastics<br>4. Dance<br>5. Physical Health Education<br>6. Athletic Skills (From P3) |
 | <br><br><br>**Experience** | **P1 to P6:**<br>Introduction to various sports &amp; games<br>Identification, promotion &amp; enhancement of students’ interests &amp; strengths<br>Exposure to authentic game-like situations<br>Promotion of an active and healthy lifestyle<br>Differentiated Instructions in sports modules<br><br>P4 Annual School Camp in Term 3<br>  |
-| <br><br><br>**Excel** | **P3 to P6:**<br>Intra-Class Games throughout the year during PE lessons<br>Inter-Class Games<br>Sports Carnival in Term 4<br>NAPFA (P4 &amp; P6) in Term 1<br><br>**P1 &amp; P2:**<br>Intra-Class Games throughout the year during PE lessons<br>Inter-Class Games in Term 3 &amp; Term 4<br>Sports Carnival in Term 3<br> |
+| <br><br><br>**Excel** | **P3 to P6:**<br>Intra-Class Games throughout the year during PE lessons<br>Inter-Class Games<br>Sports Carnival in Term 4<br>NAPFA (P4 &amp; P6) in Term 1<br><br>**P1 &amp; P2:**<br>Intra-Class Games throughout the year during PE lessons<br>Inter-Class Games in Term 3<br>Sports Carnival in Term 3<br> |
 |
