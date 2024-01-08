@@ -41,7 +41,9 @@ Pi Day is a day to celebrate the mathematical constant π [pi]. It is observed o
 <br clear="left">
 
 ##### **Super Mathematician Task cards**
-The Super Mathematician Task cards aim to provide opportunities for students to apply Math to their daily life and in turn, promote joy of learning in Math. P1 to P4 students are given the task sheet during June Holiday to complete a series of tasks together with their family members. Upon completing 10 stars, students will receive a Super Mathematician Badge.![](/images/OurExperiences/Curriculum/Maths/math3.png)
+The Super Mathematician Task cards aim to provide opportunities for students to apply Math to their daily life and in turn, promote joy of learning in Math. P1 to P4 students are given the task sheet during June Holiday to complete a series of tasks together with their family members. Upon completing 10 stars, students will receive a Super Mathematician Badge.
+
+![](/images/OurExperiences/Curriculum/Maths/math3.png)
 <br clear="left">
 
 ##### **Useful Links**
