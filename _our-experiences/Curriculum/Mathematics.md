@@ -27,26 +27,18 @@ Equipping pupils with the skills and heuristics for mathematical problem-solving
 The E2K Mathematics Programme is a Mathematics enrichment for selected Primary 4 and 5 pupils conducted by our teachers. It aims to develop in pupils mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach which allows them to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme.
 
 
-
 ##### **External Competitions**
 Pupils have the opportunities to take part in various Math competitions organized by other schools such as NUS High NMOS, RIPMWC organized by Raffles Institution, SMOPS organized by Hwa Chong etc.
 
 ##### **LSM and ICAN**
 This programme equips the pupils with the basic numeracy and literacy skills, thereby boosting their confidence in Mathematics problem solving.
 
-##### **Learning Fiesta**
-Changkat’s Learning Fiesta is an inter-department event carried out on Term 3 Week 1. It aims to be an engaging platform for pupils to develop the joy of learning Mathematics and also, to see the relevance of Mathematics in their daily lives. Station games involving Whole Numbers, Money, Percentage, Fraction and Time were carried out during recess.
+##### **Pi Day**
+Pi Day is a day to celebrate the mathematical constant π [pi]. It is observed on 14th March annually as the date represents the first three digits [3.14] of pi. In order to ignite students’ interest and curiosity in Mathematics, students will participate in activities related to Pi Day to discover more about pi. Activity booths were set up at the foyer during recess in term 3 week 10.
 
-<img src="/images/OurExperiences/Curriculum/Maths/math1.jpg" style="width:52%" align="left">
-<img src="/images/OurExperiences/Curriculum/Maths/math2.jpg" style="width:46.5%" align="right">
+<p><img align="left" style="width:50%" src="/images/OurExperiences/Curriculum/Maths/math1.png">
+<img align="right" style="width:50%" src="/images/OurExperiences/Curriculum/Maths/math2.png"></p>
 
-<br clear="left">
-
-##### **Parents Workshop**
-Engaging Parents is part of the school’s effort to enhance home support for pupil learning. The department organises Math workshops for parents every year as parental involvement plays a vital role at all stages in the pupils’ learning. The objectives are to better equip parents with approaches and strategies to guide their children through their learning and preparations for examinations.
-
-<img src="/images/OurExperiences/Curriculum/Maths/math3.jpg" style="width:62%" align="left">
-<img src="/images/OurExperiences/Curriculum/Maths/math4.jpg" style="width:35%" align="right">
 
 <br clear="left">
 
