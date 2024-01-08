@@ -8,7 +8,7 @@ variant: markdown
 ### **Learning for Life Programme (LLP)**
 **Learning for Life Programme (LLP)** provides meaningful and purposeful opportunities to allow experimentation, self-discovery and promote the joy of learning.
 
-In Changkat, our LLP – ‘ **_SOAR@CKP’_** (**S**ports, **O**utdoor, **A**thletics &amp; **R**ecreation **@** Changkat Primary) aims to:
+In Changkat, our LLP – ‘ **_SOAR@CKP’_** (**S**ports, **O**utdoor, **A**thletics &amp; **R**ecreation **@** **C**hang**k**at **P**rimary) aims to:
 * Meet the needs of students beyond academic achievement, promote active participation in physical activities, and promote life-long love for sports and the outdoors.
 * Build character, team spirit &amp; responsibility; promote social integration and racial harmony.
 * Provide avenues for students to develop and practice leadership skills.
