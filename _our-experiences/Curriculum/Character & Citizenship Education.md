@@ -30,3 +30,5 @@ The school’s CCE programmes are delivered through the curriculum and co-curric
 <img src="/images/OurExperiences/Curriculum/CCE/cce1.png" style="width:85%">
 
 <img src="/images/OurExperiences/Curriculum/CCE/cce2.png" style="width:85%">
+
+<img src="/images/OurExperiences/Curriculum/CCE/cce3.png" style="width:85%">
