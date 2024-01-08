@@ -36,10 +36,13 @@ This programme equips the pupils with the basic numeracy and literacy skills, th
 ##### **Pi Day**
 Pi Day is a day to celebrate the mathematical constant π [pi]. It is observed on 14th March annually as the date represents the first three digits [3.14] of pi. In order to ignite students’ interest and curiosity in Mathematics, students will participate in activities related to Pi Day to discover more about pi. Activity booths were set up at the foyer during recess in term 3 week 10.
 
-<p><img align="left" style="width:50%" src="/images/OurExperiences/Curriculum/Maths/math1.png">
-<img align="right" style="width:50%" src="/images/OurExperiences/Curriculum/Maths/math2.png"></p>
+<br><img align="left" style="width:50%" src="/images/OurExperiences/Curriculum/Maths/math1.png">
+<img align="right" style="width:50%" src="/images/OurExperiences/Curriculum/Maths/math2.png">
 
+<br>
 
+##### **Super Mathematician Task cards**
+The Super Mathematician Task cards aim to provide opportunities for students to apply Math to their daily life and in turn, promote joy of learning in Math. P1 to P4 students are given the task sheet during June Holiday to complete a series of tasks together with their family members. Upon completing 10 stars, students will receive a Super Mathematician Badge
 <br clear="left">
 
 ##### **Useful Links**
