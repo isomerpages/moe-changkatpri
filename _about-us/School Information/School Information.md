@@ -3,6 +3,7 @@ title: School Information
 permalink: /About-Us/useful-information/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 ### **School Information**
 #### **General Office**
@@ -13,8 +14,26 @@ School Hours: 7.40am to 1.30pm<br>
 Morning assembly activities commence at 7.30am<br>
 Students reporting after 7.30am are deemed to be late for school.
 
-<img src="/images/About%20us/SchInfo/schinfo.png" style="width:85%">
+####  Overview of After-School Activities^
 
+| Monday | Tuesday | Wednesday  | Thursday | Friday|
+| -------- | -------- | -------- |  --------  | -------- |
+| **CCAs**<br> 2 - 5pm    | **RRP** <br> 2 - 3 pm <br><br>**SDR** <br> 2 - 3 pm<br><br>**FMA** <br> 2 - 3 pm  <br><br>**Enrichment** <br> 2 - 3 pm <br><br>**TL MTSP (P3 &amp; P4)** <br> 2 - 3 pm  <br><br>**Maths &amp; Sci Consultation Clinic**<br> (for selected P6 students) <br> 2 - 3 pm    |  **SINDA TEACH Programme**<br>(for selected P5 students) <br> 2 - 3 pm      |**RRP** <br> 2 - 3 pm <br><br>**SDR** <br> 2 - 3 pm <br><br>**P5 &amp; P6 HMT**<br> 2 - 3 pm <br><br>**SDR** <br> 2 - 3 pm <br><br>**CCAs**<br> 2 - 5pm   |**SDR** <br> 2 - 3 pm<br> <br>**Student Leaders Training** <br>(for selected students) <br>2 - 4 pm^^   |
+|
+* CCAs: Co-Curricular Activities
+* Enrichment (selected P4 &amp; P5 students): E2K Math, E2K Science &amp; ExcEL
+* FMA: Founction Mathematics
+* HMT: Higher Mother Tongue
+* MTSP: Mother Tongue Support Programme
+* RRP: Reading Remediation Programme
+* SDR: School-based Dyslexia Remediations
+
+* Teacher or Student-initiated Consultation: Parents will be informed via phone call, Class Dojo or Whatsapp.
+
+^ More formation and details will be given by the respective teachers-in-charge. Consent forms will also be disseminated throught Parents Gateways (PG).<br>
+^^ Time and frequency may differ for different groups of student leaders| 
+| 
+<br><br>
 <img src="/images/About%20us/SchInfo/schinfo1.jpg" style="width:20%;margin-right:15px;" align="left">Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 
 <img src="/images/About%20us/SchInfo/schinfo2.jpg" style="width:20%;margin-right:15px;" align="left">Students are to wear the prescribed school uniform and the school PE attire. Modifications to them are not allowed. PE shirt must be tucked in at all times.&nbsp;<br>Boys must be clean shaven and are not allowed to sport a moustache, beard or sideburns.
