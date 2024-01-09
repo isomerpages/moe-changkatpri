@@ -31,8 +31,7 @@ Students reporting after 7.30am are deemed to be late for school.
 * Teacher or Student-initiated Consultation: Parents will be informed via phone call, Class Dojo or Whatsapp.
 
 ^ More formation and details will be given by the respective teachers-in-charge. Consent forms will also be disseminated throught Parents Gateways (PG).<br>
-^^ Time and frequency may differ for different groups of student leaders| 
-| 
+^^ Time and frequency may differ for different groups of student leaders
 <br><br>
 <img src="/images/About%20us/SchInfo/schinfo1.jpg" style="width:20%;margin-right:15px;" align="left">Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 
