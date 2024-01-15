@@ -42,4 +42,4 @@ Student ICON is primarily used to log on to the computers in school. Please appr
 **Password Requirements**<br>
 Do take note of the password policy below:
 
-<img src="/images/Student/ICON/Student%20iCON%20-%20Password%20Requirements.jpg" style="width:75%">
+<img src="/images/Student/ICON/Student%20iCON%20-%20Password%20Requirements.png" style="width:75%">
