@@ -6,15 +6,15 @@ variant: markdown
 ---
 ### **Student Leadership**
 #### **Aim**
-In CKPS, we believe every student can be a leader. We aim to develop student leaders to be confident learners who lead by serving and caring for others.&nbsp;Our Student Leadership Programme is guided by the principles of Servant Leadership and also centre about our school values, vision and mission statement in developing the leadership potential in students..
+In CKPS, we believe that every student can be a leader. We aim to develop student leaders to be confident learners who lead by serving and caring for others. Our Student Leadership Programme is guided by the principles of Servant Leadership, centered around our school values, vision and mission statement in developing the leadership potential in students.
 
-<img src="/images/OurExperiences/StudentLeadership/sl1.png" style="width:85%">
+<img src="/images/OurExperiences/StudentLeadership/SL.png" style="width:85%">
 
 | S/N | Leadership Roles | Area of Focus/Advocacy |
 |:---:|:---:|:---:|
 | 1 | Prefects | To represent the student body in leading and refining initiatives. To care, to serve and to lead by maintaining school discipline and building a gracious school community. |
 | 2 | CCA Leaders | To lead, inspire and guide CCA members to achieve their best. To build camaraderie amongst CCA members. |
-| 3 | Monitors/Peer Support Leaders | To promote a bully-free environment and encourage others to look out for peers who need help or support. |
+| 3 | Peer Support Leaders (P3-P6 Student Leaders)| To promote a safe and inclusive environment and encourage others to look out for peers who need help or support. |
 | 4 | Reading Ambassadors | To promote reading culture in school through sharing of book reviews and raising awareness on the benefits of reading |
 | 5 | VIA Leaders | To lead in raising awareness of environmental issues |
 | 6 | ICT Leaders | To champion key cyber wellness messages.<br>To lead in setting up &amp; troubleshooting of technological tools. |
