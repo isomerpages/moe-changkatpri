@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Student Leadership**
 #### **Aim**
-In CKPS, we believe every student can be a leader. We aim to develop student leaders to be confident learners who lead by serving and caring for others.&nbsp;Our Student Leadership Programme is guided by the principles of Servant Leadership and also centre about our school values, vision and mission statement in developing the leadership potential in students..
+In CKPS, we believe that every student can be a leader. We aim to develop student leaders to be confident learners who lead by serving and caring for others. Our Student Leadership Programme is guided by the principles of Servant Leadership, centered around our school values, vision and mission statement in developing the leadership potential in students.
 
 <img src="/images/OurExperiences/StudentLeadership/sl1.png" style="width:85%">
 
