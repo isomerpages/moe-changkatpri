@@ -1,0 +1,8 @@
+collections:
+  our-news:
+    output: true
+    order:
+      - E newsletter.md
+      - Events/.keep
+      - Events/P1 1st day of school.md
+      - Recognitions.md

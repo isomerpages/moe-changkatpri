@@ -1,0 +1,22 @@
+collections:
+  our-experiences:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/English Language.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Character & Citizenship Education.md
+      - Curriculum/Infocomm & Technology (ICT).md
+      - Curriculum/MOE Sexuality Education.md
+      - Distinctive Programmes/Applied Learning Programme (ALP).md
+      - Distinctive Programmes/Learning for Life Programme (LLP).md
+      - Distinctive Programmes/Modular Curricular Activities (MCA).md
+      - Distinctive Programmes/Programme for Active Learning (PAL).md
+      - Distinctive Programmes/Sustainability.md
+      - Distinctive Programmes/.keep
+      - Student Leadership.md
+      - Co Curricular Activities (CCA).md
