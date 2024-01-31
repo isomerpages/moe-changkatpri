@@ -3,6 +3,7 @@ title: Parents Support Group (PIE Club)
 permalink: /parents-and-students/parents/pie-club/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ### **Parents Support Group (PIE Club)**
 
@@ -32,5 +33,7 @@ We partner and support the school by volunteering our time, talent and thoughts;
 
 #### **Join us!**
 Play an active role in your child’s development in school. We need and value parents’ help and support and we invite all parents to partner us in our journey to help our children grow into Learners with Passion, Citizens of Honour. 
+
+Read up on our Parent Volunteer (PV) Guidelines [here](https://drive.google.com/file/d/1-Ixn2_SXpvXBAy5uZAQ1jSpJGMPaXlg6/view).
 
 Click&nbsp;[here](https://form.gov.sg/634f7b32d25d7f0012ff9f93)&nbsp;to fill-in the&nbsp;**Parent Volunteer Application Form**&nbsp;(External link) or Fill up a form at the General Office and we will get in touch with you shortly.
