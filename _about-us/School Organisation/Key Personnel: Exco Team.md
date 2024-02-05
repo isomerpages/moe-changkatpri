@@ -26,7 +26,7 @@ variant: markdown
 | SH Malay Language (ML) & Tamil Language (TL) | Mr K Parathi | [k_parathi@schools.gov.sg](mailto:k_parathi@schools.gov.sg) |
 | SH National Education (NE) & Partnership, Social Studies  | Mdm Farah Khairiah Bte Rifaei | [farah_khairiah_rifaei@schools.gov.sg](mailto:farah_khairiah_rifaei@schools.gov.sg) |
 | SH Student Well-being & Leadership (Internal) | Mr Muhammad Khairil Bin Kamal | [muhammad_khairil_kamal@schools.gov.sg](mailto:muhammad_khairil_kamal@schools.gov.sg) |
-| Level Head (LH) English  |   Mdm Farhanah Jumahat | [farhanah_jumahat@schools.gov.sg](mailto:farhanah_jumahat@schools.gov.sg) |
+| Level Head (LH) English (Internal)   |   Mdm Farhanah Jumahat | [farhanah_jumahat@schools.gov.sg](mailto:farhanah_jumahat@schools.gov.sg) |
 | LH Mathematics | Ms Yong Yun Yun | [yong_yun_yun@schools.gov.sg](mailto:yong_yun_yun@schools.gov.sg) |
 | Year Head (YH) Lower Primary | Mdm Yeo Lee Theng Deon | [yeo_lee_theng@schools.gov.sg](mailto:yeo_lee_theng@schools.gov.sg) |
 | YH Middle Primary | Mdm Nur Iffah Bte Abdul Ghafar | [nur_iffah_abdul_ghafar@schools.gov.sg](mailto:nur_iffah_abdul_ghafar@schools.gov.sg) |
