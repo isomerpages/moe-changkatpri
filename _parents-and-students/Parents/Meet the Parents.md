@@ -12,7 +12,7 @@ In order for parents/guardians to better understand our school and level program
 | Level | Principal’s Address| Year Head (YH)’s Address|
 |:---:|:---:|:---:|
 |Upper Primary (P5 & P6) | [Principal's Brief](https://drive.google.com/file/d/1LJIZmOj7pD-S2EEryJYRkmaeCmVt9zKR/view)| [Upper YH's Brief](https://drive.google.com/file/d/1bhyHKFx9i8TU-HVzzzMSyJOSxvO2o8oi/view)|
-|Middle Primary (P3 & P4) | [Principal's Brief](https://drive.google.com/file/d/14iH35BOVN_NkwnftdgarXMQjTh4JGoIC/view/) | [Middle YH's Brief](https://drive.google.com/file/d/1hDsRTmcC4dRb-0hTXXx-S1SkEYpnaT-n/view)|
+|Middle Primary (P3 & P4) | [Principal's Brief](https://drive.google.com/file/d/14iH35BOVN_NkwnftdgarXMQjTh4JGoIC/view) | [Middle YH's Brief](https://drive.google.com/file/d/1hDsRTmcC4dRb-0hTXXx-S1SkEYpnaT-n/view)|
 |Lower Primary (P1 & P2) | [Principal's Brief](https://drive.google.com/file/d/1hL1hFR90rZTYS2vQTizBY4hf7rqmiHm3/view) | [Lower YH's Brief](https://drive.google.com/file/d/1oN6UHiHeIYfx_gKxtxaPkSi4-j7L9qxb/view?usp=drive_link)|
 |
  
