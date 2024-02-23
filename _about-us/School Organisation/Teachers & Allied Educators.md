@@ -144,5 +144,6 @@ variant: markdown
 |:---:|:---:|:---:|
 | Allied Educator<br>(Special Educational Needs Officer) | Miss Nur Atasha Binte Razali| nur_atasha_razali@schools.gov.sg|
 | Allied Educator <br>(Special Educational Needs Officer) | Miss Surya Binte Effendi | surya_effendi@schools.gov.sg |
-| Senior School Counsellor  | Mr Dave Kang ||
+| Senior School Counsellor  | Mr Dave Kang |kang_chun_yong@schools.gov.sg|
+| School Counsellor  | Mr Muhammad Roskhairi|muhammad_roshairi_roskhaider@schools.gov.sg |
 |
