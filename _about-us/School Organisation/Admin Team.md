@@ -3,6 +3,7 @@ title: Admin Team
 permalink: /About-Us/our-people/school-admin-team/
 description: ""
 third_nav_title: School Organisation
+variant: markdown
 ---
 ### **Admin Team**
 
