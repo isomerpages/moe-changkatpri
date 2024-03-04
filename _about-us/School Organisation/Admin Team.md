@@ -26,5 +26,5 @@ variant: markdown
 | Desktop Engineer | Mr Abdullah Mustafa | abdullahm@ncs.com.sg |
 | Desktop Engineer | Mr Tan Kok Tong | tankt@ncs.com.sg  |
 | ICT Trainer | Miss Dian | dian_hazwani_saihen@moe.edu.sg |
-| Librarian | Vacant |  |
+| Librarian | Miss Nurul Suriyanti| nurul.suriyanti@staff.spydus.com.sg |
 |
