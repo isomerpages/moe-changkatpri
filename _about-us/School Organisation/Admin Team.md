@@ -3,6 +3,7 @@ title: Admin Team
 permalink: /About-Us/our-people/school-admin-team/
 description: ""
 third_nav_title: School Organisation
+variant: markdown
 ---
 ### **Admin Team**
 
@@ -25,5 +26,5 @@ third_nav_title: School Organisation
 | Desktop Engineer | Mr Abdullah Mustafa | abdullahm@ncs.com.sg |
 | Desktop Engineer | Mr Tan Kok Tong | tankt@ncs.com.sg  |
 | ICT Trainer | Miss Dian | dian_hazwani_saihen@moe.edu.sg |
-| Librarian | Vacant |  |
+| Librarian | Miss Nurul Suriyanti| nurul.suriyanti@staff.spydus.com.sg |
 |
