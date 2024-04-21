@@ -49,6 +49,7 @@ The Super Mathematician Task cards aim to provide opportunities for students to 
 ##### Useful Links
 [https://www.seab.gov.sg/docs/default-source/documents/guidelines_calculators.pdf](https://www.seab.gov.sg/docs/default-source/documents/guidelines_calculators.pdf)<br>
 [https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf](https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf)<br>
+[https://www.moe.gov.sg/primary/curriculum/learning-support](https://www.moe.gov.sg/primary/curriculum/learning-support)<br>
 [http://sg.ixl.com/math/](http://sg.ixl.com/math/)<br>
 [http://www.math-play.com/index.html](http://www.math-play.com/index.html)<br>
 [http://coolmath-games.com/](http://coolmath-games.com/)<br>
