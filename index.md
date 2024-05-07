@@ -8,11 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Site/banner1.png
-  - infobar:
-      title: Events
-      description: Find out what's going on!
-      button: Click here
-      url: /our-news/events/
   - infopic:
       title: Changkat Experience 2024
       id: infopic
@@ -21,4 +16,9 @@ sections:
       image: /images/Site/Changkat
         Experience/The_Changkat_Experience_Poster_Thumbnail.png
       alt: Image alt text
+  - infobar:
+      title: Events
+      description: Find out what's going on!
+      button: Click here
+      url: /our-news/events/
 ---
