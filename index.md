@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Site/banner1.png
   - infopic:
-      title: Changkat Experience 2024
+      title: The Changkat Experience 2024
       id: infopic
       button: Click here to find out more
       url: https://drive.google.com/file/d/1L0fw4T8JOsrIM1Xzvk_-kCCmKvlliJV-/view?usp=sharing
