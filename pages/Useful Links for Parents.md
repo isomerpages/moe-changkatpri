@@ -110,4 +110,48 @@ view the <strong>Home-Based Learning (HBL) Plan</strong>
 </p>
 </li>
 </ul>
+<h3>Parents Gateway</h3>
+<p>Parents Gateway is a mobile application (or “app”) that supports parents
+and schools on key administrative matters, providing MOE and schools with
+the platform to send updates on programmes and activities to parents. At
+the same time, Parents Gateway allows parents to perform administrative
+functions such as providing consent for their children to participate in
+school activities and declaring travel plans.</p>
+<p>It aims to aggregate parent-teacher communications securely on a centralised
+digital platform.</p>
+<p>Access to Parents Gateway is given to parents, legal guardians and authorised
+caregivers of students currently studying in MOE schools. Parents will
+need to use their Singpass to access Parents Gateway.</p>
+<p>Download and install the app via <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708?platform=iphone" rel="noopener noreferrer nofollow" target="_blank"><u>App</u></a> Store
+(for iPhones) or <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener noreferrer nofollow" target="_blank"><u>Play</u></a> Store
+(for Android phones).</p>
+<p>or scan the QR code below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Apple</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Google</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 196.797px;" height="auto" width="100%" src="https://www.changkatpri.moe.edu.sg/images/Parent/ParentGateway/qr-code-apple-PG.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 201.859px;" height="auto" width="100%" src="https://www.changkatpri.moe.edu.sg/images/Parent/ParentGateway/qr-code-google-PG.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
