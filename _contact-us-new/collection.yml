@@ -2,5 +2,6 @@ collections:
   contact-us-new:
     output: true
     order:
+      - School Bus.md
       - School Bookshop.md
       - School Information.md
