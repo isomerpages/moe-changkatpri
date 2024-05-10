@@ -1,4 +1,5 @@
 collections:
   our-changkat:
     output: true
-    order: []
+    order:
+      - Principal's Message.md
