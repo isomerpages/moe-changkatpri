@@ -15,6 +15,15 @@ links:
         url: /achievements-students/
       - title: School Information
         url: /About-Us/useful-information/
+  - title: Our News
+    url: /our-news/e-newsletter/
+    sublinks:
+      - title: E-newsletter
+        url: /our-news/e-newsletter/
+      - title: Events
+        url: /our-news/events/
+      - title: Recognitions
+        url: /our-news/recognitions/
   - title: Our Curriculum
     url: /our-experiences/curriculum/
     sublinks:
@@ -26,15 +35,6 @@ links:
         url: /our-experiences/student-leadership/
       - title: Co-Curricular Activities (CCA)
         url: /our-experiences/cca/
-  - title: Our News
-    url: /our-news/e-newsletter/
-    sublinks:
-      - title: E-newsletter
-        url: /our-news/e-newsletter/
-      - title: Events
-        url: /our-news/events/
-      - title: Recognitions
-        url: /our-news/recognitions/
   - title: Parents & Students
     url: /parents-and-students/
     sublinks:
