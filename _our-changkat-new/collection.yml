@@ -1,5 +1,5 @@
 collections:
-  our-changkat:
+  our-changkat-new:
     output: true
     order:
       - Principal's Message.md
