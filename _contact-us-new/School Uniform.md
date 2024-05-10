@@ -4,7 +4,7 @@ permalink: /school-uniform/
 variant: tiptap
 description: ""
 ---
-<h2>School Uniform</h2>
+<h3>School Uniform</h3>
 <p>Appointed school uniform vendor: <strong>My Uniform Shop</strong>.</p>
 <p><strong>Online Order</strong>
 </p>
