@@ -2,5 +2,5 @@ collections:
   our-changkat:
     output: true
     order:
-      - History.md
       - Principal's Message.md
+      - History.md
