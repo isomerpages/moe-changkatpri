@@ -1,0 +1,4 @@
+collections:
+  contact-us-new:
+    output: true
+    order: []
