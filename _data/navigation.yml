@@ -15,11 +15,11 @@ links:
         url: /achievements-students/
       - title: School Information
         url: /About-Us/useful-information/
-  - title: Our News
-    url: /our-news/e-newsletter/
+  - title: Our People
+    url: /#
     sublinks:
-      - title: E-newsletter
-        url: /our-news/e-newsletter/
+      - title: "PIE (Parents Support Group) "
+        url: /parent-support-group-pie/
       - title: Events
         url: /our-news/events/
       - title: Recognitions
