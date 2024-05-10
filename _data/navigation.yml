@@ -18,12 +18,12 @@ links:
   - title: Our People
     url: /#
     sublinks:
-      - title: PIE (Parents Support Group)
-        url: /parent-support-group-pie/
       - title: School Advisory Committee
         url: /school-advisory-committee-sac/
-      - title: Recognitions
-        url: /our-news/recognitions/
+      - title: Staff
+        url: /staff/
+      - title: PIE (Parents Support Group)
+        url: /parent-support-group-pie/
   - title: Our Curriculum
     url: /our-experiences/curriculum/
     sublinks:
