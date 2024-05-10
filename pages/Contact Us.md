@@ -10,7 +10,7 @@ description: ""
 <br>Fax: 6784 4740
 <br>Bus Service: 5, 9, 20, 38
 <br>Nearest MRT Station: EW3 Simei MRT Station
-<br>Email Address:&nbsp;<a href="mailto:changkat_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>changkat_ps@moe.edu.sg</u></a>
+<br>Email Address:&nbsp;<a href="mailto:changkat_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>changkat_ps@moe.edu.sg</u></a> 
 <br>Facebook: <a href="https://www.facebook.com/changkatps" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.facebook.com/changkatps</u></a>
 </p>
 <p>Location:</p>
