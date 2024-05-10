@@ -6,6 +6,9 @@ description: ""
 ---
 <h3><strong>Parents Support Group (PIE Club)</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/PIE/PIE Club Logo.png">
+</div>
 <h4><strong>About Us</strong></h4>
 <p>The Partners In Education (PIE) club is the Parents Support Group of Changkat
 Primary School. We are dedicated to support the school by volunteering
@@ -15,6 +18,9 @@ with honour, passion and pride; without fear, favour or prejudice.</p>
 <p><em>The PIE Club is managed by a core team that helps to oversee all PIE Club efforts, and is the main point of contact with the school staff.</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/PIE/PIE Club Org Chart.jpg">
+</div>
 <h4><strong>How do we volunteer?</strong></h4>
 <p>We partner and support the school by volunteering our time, talent and
 thoughts; typically in the following school programmes:</p>
