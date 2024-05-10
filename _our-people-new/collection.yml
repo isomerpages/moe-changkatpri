@@ -1,5 +1,5 @@
 collections:
-  our-people:
+  our-people-new:
     output: true
     order:
       - School Advisory Committee (SAC).md
