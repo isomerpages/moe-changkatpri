@@ -4,8 +4,7 @@ permalink: /vision-mission-values/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
+<h3>School Crest</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Site/School Crest.jpg">
 </div>
