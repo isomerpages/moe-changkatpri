@@ -39,4 +39,13 @@ links:
     url: /#
     sublinks: []
   - title: Contact Us
-    url: https://www.changkatpri.moe.edu.sg/contact-us/
+    url: /contact-us/
+    sublinks:
+      - title: Information
+        url: /school-information/
+      - title: Bookshop
+        url: /school-bookshop/
+      - title: Bus
+        url: /school-bus/
+      - title: Uniform
+        url: /school-uniform/
