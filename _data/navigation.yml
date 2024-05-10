@@ -35,12 +35,8 @@ links:
         url: /our-experiences/student-leadership/
       - title: Co-Curricular Activities (CCA)
         url: /our-experiences/cca/
-  - title: Parents & Students
-    url: /parents-and-students/
-    sublinks:
-      - title: Parents
-        url: /parents-and-students/Parents/Parentsnotification/
-      - title: Students
-        url: /parents-and-students/student/student-icon/
+  - title: Our Students
+    url: /#
+    sublinks: []
   - title: Contact Us
     url: https://www.changkatpri.moe.edu.sg/contact-us/
