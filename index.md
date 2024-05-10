@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Parents Notifications
           description: ""
-          url: https://www.changkatpri.moe.edu.sg/parents-and-students/Parents/Parentsnotification/
+          url: /parents-notification/
         - title: Useful Links for Parents
           description: ""
-          url: ""
+          url: /useful-links-for-parents/
         - title: CKPS Facebook
           description: ""
           url: https://www.facebook.com/changkatps
