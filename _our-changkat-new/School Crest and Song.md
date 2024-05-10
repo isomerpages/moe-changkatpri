@@ -4,6 +4,14 @@ permalink: /school-crest-and-song/
 variant: tiptap
 description: ""
 ---
+<h3>School Crest</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Site/School Crest.jpg">
+</div>
+<p>
+<br>
+</p>
 <h3>Song</h3>
 <p>We at Changkat Primary
 <br>Our voices raised in unity
