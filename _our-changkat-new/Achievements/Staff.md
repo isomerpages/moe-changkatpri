@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
-<h3>Achievements: Staff</h3>
+<h3>Staff</h3>
 <p></p>
