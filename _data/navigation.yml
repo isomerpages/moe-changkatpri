@@ -1,16 +1,18 @@
 logo: /images/Site/School Crest with Name.jpg
 links:
-  - title: About Us
-    url: /About-Us/
+  - title: Our Changkat
+    url: /principal-s-message/
     sublinks:
-      - title: School Crest, History, Song
-        url: /About-Us/
       - title: Principal's Message
-        url: /About-Us/principal-message/
+        url: /principal-s-message/
+      - title: History
+        url: /history/
+      - title: School Crest and Song
+        url: /school-crest-and-song/
       - title: Vision, Mission, Values
-        url: /About-Us/school-information/
-      - title: School Organisation
-        url: /About-Us/our-people/
+        url: /vision-mission-values/
+      - title: Achievements
+        url: /achievements-students/
       - title: School Information
         url: /About-Us/useful-information/
   - title: Our Experiences
