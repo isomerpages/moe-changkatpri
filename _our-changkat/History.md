@@ -23,15 +23,14 @@ Sports and Games, Aesthetics, and Information Communication Technology
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/School Frontage Photo.jpg">
 </div>
-<p></p>
 <p>With an enrollment of approximately 1000 students, Changkat Primary School
 proudly stands as a preferred primary school within the community. Our
 school offers a warm and conducive learning environment, coupled with a
 team of committed and dedicated staff. Together, we are set to advance
 towards greater accomplishments in our mission to nurture students to become
 'Learners with Passion, Citizens of Honour'.</p>
-<p>&nbsp;</p>
-<p>Principals of Changkat Primary School</p>
+<p><strong>Principals of Changkat Primary School</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>1965 – 1984&nbsp; &nbsp;&nbsp; Mr Yau Chung Mang</p>
@@ -57,11 +56,10 @@ towards greater accomplishments in our mission to nurture students to become
 </ul>
 <p>On 15 December 2017, our current principal, Mrs Cheng Huey Teng, joined
 Changkat Primary School as principal.</p>
-<p>&nbsp;</p>
 <p><strong>Key milestones</strong>
 </p>
-<p>Changkat celebrates it 50<sup>th</sup> Anniversary (2015)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/changkat-primary-celebrates-its-50th-anniversary</a>
+<p>Changkat celebrates it 50<sup>th</sup> Anniversary (2015)
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/changkat-primary-celebrates-its-50th-anniversary</a>
 </p>
 <p>
 <br>
