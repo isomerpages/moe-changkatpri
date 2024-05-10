@@ -2,6 +2,7 @@ collections:
   our-changkat:
     output: true
     order:
+      - "Achievements/Achievements: CKPS on News.md"
       - "Achievements/Achievements: Staff.md"
       - "Achievements/Achievements: Students.md"
       - Achievements/.keep
