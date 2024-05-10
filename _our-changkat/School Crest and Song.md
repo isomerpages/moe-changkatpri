@@ -11,7 +11,8 @@ description: ""
 <br>Let us sing it in one voice
 <br>One family in harmony
 <br>Soaring towards our destiny</p>
-<p>Learners with Passion Citizens of Honour
+<p>Learners with Passion
+<br>Citizens of Honour
 <br>Changkat as one
 <br>In harmony (x2)</p>
 <p>In work and play we give our best
