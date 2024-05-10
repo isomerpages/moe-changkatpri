@@ -1,4 +1,5 @@
 collections:
   contact-us-new:
     output: true
-    order: []
+    order:
+      - School Information.md
