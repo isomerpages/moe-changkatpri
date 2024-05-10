@@ -2,4 +2,5 @@ collections:
   contact-us-new:
     output: true
     order:
+      - School Bookshop.md
       - School Information.md
