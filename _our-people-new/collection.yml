@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Advisory Committee (SAC).md
+      - Staff/Form Teachers.md
       - Staff/.keep
       - "Staff/Key Personnel: Exco Team.md"
       - Parent Support Group (PIE).md
