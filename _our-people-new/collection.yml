@@ -2,7 +2,7 @@ collections:
   our-people-new:
     output: true
     order:
-      - Staff/Staffs.md
-      - Staff/.keep
       - School Advisory Committee (SAC).md
+      - Staff/.keep
+      - Staff/Staffs.md
       - Parent Support Group (PIE).md
