@@ -16,8 +16,8 @@ view the guide on how to Backup Student iCON data to your device (who don’t
 have a personal Gmail account)</p>
 <h4><strong>Instructions to login to Student ICON</strong></h4>
 <p>Click&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
-login page.&nbsp; URL:&nbsp;<a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank"><u>https://workspace.google.com/dashboard</u><br>Student</a> ICON
-login details has been given to students.</p>
+login page.&nbsp;</p>
+<p>Student ICON login details have been given to students.</p>
 <p>For the ICON email address, please take note the following:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,10 +49,10 @@ login details has been given to students.</p>
 </p>
 <p>For more instructions on Google Classroom, please click&nbsp;<a href="https://drive.google.com/file/d/1hqs0nkbrcFkAVpN0IULhCY6WuJKPl8Vt/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
-<p><strong>Password</strong>
+<p><strong>Password</strong> 
 <br>Student ICON is primarily used to log on to the computers in school. Please
 approach your form teacher if you need your account to be unlocked.</p>
-<p><strong>Password Requirements</strong>
+<p><strong>Password Requirements</strong> 
 <br>Do take note of the password policy below:</p>
 <p></p>
 <div class="isomer-image-wrapper">
