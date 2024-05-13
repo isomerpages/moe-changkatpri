@@ -1,4 +1,5 @@
 collections:
   parents-new:
     output: true
-    order: []
+    order:
+      - Meet the Parent.md
