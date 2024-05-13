@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Useful Links.md
+      - Student Icon.md
       - Library (OPAC).md
       - Microsoft Office 365 (ProPlus).md
-      - Student Icon.md
