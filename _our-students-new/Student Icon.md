@@ -5,15 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Student ICON</strong></h3>
-<h4><strong>Student ICON backup</strong> (New)</h4>
-<p>From Jun 2024, Student iCON will have a storage limit of 1 GB for each
-student.</p>
-<p>Click <a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-view the guide on how to Backup Student iCON data to your personal Gmail
-account</p>
-<p>Click <a href="https://drive.google.com/file/d/121mnowVv5lGzS951wpAiqbEu2bSlDhEF/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-view the guide on how to Backup Student iCON data to your device (who don’t
-have a personal Gmail account)</p>
 <h4><strong>Instructions to login to Student ICON</strong></h4>
 <p>Click&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
 login page.&nbsp;</p>
@@ -33,7 +24,7 @@ login page.&nbsp;</p>
 (e.g. Ang_Bee_Bee_1,&nbsp;Ang_Bee_Bee_2) to differentiate their email addresses.</p>
 </li>
 <li>
-<p>Take note of the correct domain is <a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">student</a><strong><a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">S</a></strong>
+<p>Take note of the correct domain is <a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">student</a><strong><a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">S</a></strong> 
 <a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">.edu.sg</a>not&nbsp; <s><a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">student.edu.sg</a></s>
 </p>
 </li>
@@ -59,4 +50,12 @@ approach your form teacher if you need your account to be unlocked.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/Student_iCON___Password_Requirements.png">
 </div>
-<p></p>
+<h4><strong>Student ICON backup</strong> (New)</h4>
+<p>From Jun 2024, Student iCON will have a storage limit of 1 GB for each
+student.</p>
+<p>Click <a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+view the guide on how to Backup Student iCON data to your personal Gmail
+account</p>
+<p>Click <a href="https://drive.google.com/file/d/121mnowVv5lGzS951wpAiqbEu2bSlDhEF/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+view the guide on how to Backup Student iCON data to your device (who don’t
+have a personal Gmail account)</p>
