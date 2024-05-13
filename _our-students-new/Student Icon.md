@@ -15,9 +15,9 @@ login page.&nbsp;</p>
 <p>Any space in the full name will be replaced with an underscore.</p>
 </li>
 <li>
-<p>Should the student’s full name have words such as “Bte”, “d/o”&nbsp;&nbsp;and
-“s/o”, they will not appear in the email address. (eg, Abdullah Bte Mohmand
-=&gt; <a href="mailto:abdullah_mohmand@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdullah_mohmand@students.edu.sg</a>)</p>
+<p>Should the student’s full name have words such as “Bte”, “d/o” and “s/o”,
+they will not appear in the email address. (eg, Abdullah Bte Mohmand =&gt;
+<a href="mailto:abdullah_mohmand@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdullah_mohmand@students.edu.sg</a>)</p>
 </li>
 <li>
 <p>For cases where students share the same full name, a numerical number
