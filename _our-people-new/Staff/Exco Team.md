@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Staff
 ---
-<h3><strong>Key Personnel: Exco Team</strong></h3>
+<h3><strong>Exco Team</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
