@@ -2,4 +2,5 @@ collections:
   our-students-new:
     output: true
     order:
+      - Library (OPAC).md
       - Useful Links.md
