@@ -130,4 +130,6 @@ ExcEL</p>
 phone call, Class Dojo or Whatsapp.</p>
 </li>
 </ul>
-<p></p>
+<p>^ More information and details will be given by the respective teachers-in-charge.
+Consent forms will also be disseminated through Parents Gateway (PG).
+<br>^^ Time and frequency may differ for different groups of student leaders.</p>
