@@ -4,7 +4,7 @@ permalink: /student-icon/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Student ICON</strong></h3>
+<h3><strong> Student ICON</strong></h3>
 <h4><strong>Instructions to login to Student ICON</strong></h4>
 <p>Click&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
 login page.&nbsp;</p>
@@ -24,8 +24,7 @@ login page.&nbsp;</p>
 (e.g. Ang_Bee_Bee_1,&nbsp;Ang_Bee_Bee_2) to differentiate their email addresses.</p>
 </li>
 <li>
-<p>Take note of the correct domain is <a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">student</a><strong><a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">S</a></strong> 
-<a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">.edu.sg</a>not&nbsp; <s><a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">student.edu.sg</a></s>
+<p>Take note of the correct domain is <a href="#" rel="noopener noreferrer nofollow" target="_blank">studentS.edu.sg</a> not&nbsp; <s><a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">student.edu.sg</a></s>
 </p>
 </li>
 </ul>
