@@ -2,5 +2,6 @@ collections:
   our-students-new:
     output: true
     order:
+      - Student Icon.md
       - Library (OPAC).md
       - Useful Links.md
