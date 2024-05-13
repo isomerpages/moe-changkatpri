@@ -2,7 +2,7 @@ collections:
   our-students-new:
     output: true
     order:
+      - Useful Links.md
+      - Library (OPAC).md
       - Microsoft Office 365 (ProPlus).md
       - Student Icon.md
-      - Library (OPAC).md
-      - Useful Links.md
