@@ -33,52 +33,52 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCAs</strong>
+<p><strong>CCAs</strong> 
 <br>2 - 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>RRP</strong>
+<p><strong>RRP</strong> 
 <br>2 - 3 pm
 <br>
-<br><strong>SDR</strong>
+<br><strong>SDR</strong> 
 <br>2 - 3 pm
 <br>
-<br><strong>FMA</strong>
+<br><strong>FMA</strong> 
 <br>2 - 3 pm
 <br>
-<br><strong>Enrichment</strong>
+<br><strong>Enrichment</strong> 
 <br>2 - 3 pm
 <br>
-<br><strong>TL MTSP (P3 &amp; P4)</strong>
+<br><strong>TL MTSP (P3 &amp; P4)</strong> 
 <br>2 - 3 pm
 <br>
-<br><strong>Maths &amp; Sci Consultation Clinic</strong>
+<br><strong>Maths &amp; Sci Consultation Clinic</strong> 
 <br>(for selected P6 students)
 <br>2 - 3 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SINDA TEACH Programme</strong>
+<p><strong>SINDA TEACH Programme</strong> 
 <br>(for selected P5 students)
 <br>2 - 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>RRP</strong>
+<p><strong>RRP</strong> 
 <br>2 - 3 pm
 <br>
-<br><strong>SDR</strong>
+<br><strong>SDR</strong> 
 <br>2 - 3 pm
 <br>
-<br><strong>P5 &amp; P6 HMT</strong>
+<br><strong>P5 &amp; P6 HMT</strong> 
 <br>2 - 3 pm
 <br>
-<br><strong>CCAs</strong>
+<br><strong>CCAs</strong> 
 <br>2 - 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SDR</strong>
+<p><strong>SDR</strong> 
 <br>2 - 3 pm
 <br>
-<br><strong>Student Leaders Training</strong>
+<br><strong>Student Leaders Training</strong> 
 <br>(for selected students)
 <br>2 - 4 pm^^</p>
 </td>
