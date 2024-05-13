@@ -24,7 +24,8 @@ login page.&nbsp;</p>
 (e.g. Ang_Bee_Bee_1,&nbsp;Ang_Bee_Bee_2) to differentiate their email addresses.</p>
 </li>
 <li>
-<p>Take note of the correct domain is <a href="#" rel="noopener noreferrer nofollow" target="_blank">studentS.edu.sg</a> not&nbsp; <s><a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">student.edu.sg</a></s>
+<p>Take note of the correct domain is <a href="#" rel="noopener noreferrer nofollow" target="_blank">student</a><strong><a href="#" rel="noopener noreferrer nofollow" target="_blank">S</a></strong>
+<a href="#" rel="noopener noreferrer nofollow" target="_blank">.edu.sg</a>not&nbsp; <s><a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">student.edu.sg</a></s>
 </p>
 </li>
 </ul>
@@ -32,9 +33,7 @@ login page.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/access.png">
 </div>
-<p>For more instructions on Student ICON Onboarding, please click&nbsp;
-<a href="https://drive.google.com/file/d/1MqNXVUTQREpPG2lOSDwkv7xJJyhbxxPN/view" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u>
-</a>
+<p>For more instructions on Student ICON Onboarding, please click <a href="https://drive.google.com/file/d/1MqNXVUTQREpPG2lOSDwkv7xJJyhbxxPN/view" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
 <p>For more instructions on Google Classroom, please click&nbsp;<a href="https://drive.google.com/file/d/1hqs0nkbrcFkAVpN0IULhCY6WuJKPl8Vt/view" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
