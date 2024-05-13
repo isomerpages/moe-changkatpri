@@ -4,7 +4,7 @@ permalink: /student-icon/
 variant: tiptap
 description: ""
 ---
-<h3><strong> Student ICON</strong></h3>
+<h3><strong>Student ICON</strong></h3>
 <h4><strong>Instructions to login to Student ICON</strong></h4>
 <p>Click&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
 login page.&nbsp;</p>
@@ -17,7 +17,7 @@ login page.&nbsp;</p>
 <li>
 <p>Should the student’s full name have words such as “Bte”, “d/o”&nbsp;&nbsp;and
 “s/o”, they will not appear in the email address. (eg, Abdullah Bte Mohmand
-=&gt;&nbsp;<a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank">abdullah_mohmand@students.edu.sg</a>)</p>
+=&gt; <a href="mailto:abdullah_mohmand@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdullah_mohmand@students.edu.sg</a>)</p>
 </li>
 <li>
 <p>For cases where students share the same full name, a numerical number
