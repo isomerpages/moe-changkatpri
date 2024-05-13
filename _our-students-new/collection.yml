@@ -2,6 +2,7 @@ collections:
   our-students-new:
     output: true
     order:
+      - After School Activities.md
       - Useful Links.md
       - Student Icon.md
       - Library (OPAC).md
