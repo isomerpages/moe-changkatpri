@@ -30,8 +30,6 @@ login page.&nbsp;</p>
 </li>
 </ul>
 <p>Here’s an example of the slip:</p>
-<h4><strong>Student ICON Onboard Guide</strong></h4>
-<p>Sample:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/access.png">
 </div>
