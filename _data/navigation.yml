@@ -41,8 +41,10 @@ links:
       - title: After-School Activities
         url: /after-school-activities/
   - title: Contact Us
-    url: /contact-us/
+    url: "#"
     sublinks:
+      - title: Contact
+        url: /contact-us/
       - title: Information
         url: /school-information/
       - title: Bookshop
