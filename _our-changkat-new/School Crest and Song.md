@@ -9,7 +9,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Site/School Crest.jpg">
 </div>
-<p>
+<p>We believe that knowledge shines. By this, we mean that those who have
+acquired knowledge develop a brightness of character. They will stand out
+in the community and be guiding beacons to others.
 <br>
 </p>
 <h3>Song</h3>
