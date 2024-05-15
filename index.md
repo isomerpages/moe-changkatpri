@@ -17,7 +17,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Site/Schoolwebsite_banner.png
+      background: /images/Site/Untitled_2.png
       key_highlights:
         - title: Parents Notifications
           description: ""
