@@ -2,5 +2,6 @@ collections:
   parents-new:
     output: true
     order:
+      - Parent's Notification.md
       - Useful Links for Parents.md
       - Meet the Parent.md
