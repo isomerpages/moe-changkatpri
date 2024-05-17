@@ -1,5 +1,5 @@
 collections:
-  parents-new:
+  parents:
     output: true
     order:
       - Parent's Notification.md
