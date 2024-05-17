@@ -2,6 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Hari Raya Celebration.md
       - P1 1st day of school.md
       - Lunar New Year Celebration.md
+      - Hari Raya Celebration.md
