@@ -35,5 +35,5 @@ sections:
       title: Events
       description: Find out what's going on!
       button: Click here
-      url: /our-news/events/
+      url: /events/
 ---
