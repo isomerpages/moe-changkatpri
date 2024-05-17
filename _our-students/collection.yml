@@ -1,5 +1,5 @@
 collections:
-  our-students-new:
+  our-students:
     output: true
     order:
       - Useful Links.md
