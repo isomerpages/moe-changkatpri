@@ -6,4 +6,4 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3>CKPS on News</h3>
-<p></p>
+<p>Scanning... Listening...</p>
