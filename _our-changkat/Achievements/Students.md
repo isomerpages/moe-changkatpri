@@ -6,6 +6,80 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3>Students Achievements</h3>
+<p></p>
+<h4>ASIA–PACIFIC MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS (APMOPS) 2024</h4>
+<p><strong>&nbsp;PLATINUM AWARD</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG ZIYUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6E</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>SILVER AWARD</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GUO HONGMING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6R</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>BRONZEAWARD</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PATANGIYA AARAV</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIN KAILE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOLAYEKAR AYAANSH ASHISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5I</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h4>Singapore Schools Cyber Wellness Challenge 2023</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -82,7 +156,8 @@ third_nav_title: Achievements
 </tr>
 </tbody>
 </table>
-<p>Primary One Individual Silver Medallist</p>
+<p><strong>Primary One Individual Silver Medallist</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
