@@ -98,6 +98,135 @@ third_nav_title: Achievements
 </tr>
 </tbody>
 </table>
+<p>MERIT AWARD</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG HAO XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PATANGIYA AARAV</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YANG YUTONG LUCY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAUSER NURAISHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TASNEEM BURHANUDDIN ALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MA XI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AKSHAY KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAI ZEXI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GRYGORII RUDENKO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KRISHANG KALWAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUO KAI KYLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD MUAZ BIN MOHAMAD HAFIZ&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG ZHI RONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KIYARA SHETTY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSOUZA DARREN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5R</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>National School Games for Swimming</h4>
 <p><strong>Junior 2 Division - 6<sup>th </sup>100m Breaststroke &amp; 6<sup>th </sup>50m Breaststroke + 50m Freestyle</strong>
 </p>
