@@ -6,6 +6,69 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3>Students Achievements</h3>
+<h4>National School Games Wushu</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Achieved a score of <strong>(8.09/10) </strong>in 3-Duan Nanquan</p>
+<p></p>
+<p>7<sup>th</sup> position in <strong>National Standing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seh Hwa Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Achieved a score of <strong>(8.17/10) </strong>in&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3-Duan Changquan
+<br>
+</p>
+<p>7th position in <strong>National Standing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ilyana Binte Mohammad Nazri</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1) Achieved a score of <strong>(8.31/10) </strong>in 4-Duan Sword</p>
+<p>• Top 20 in <strong>National Standing</strong>
+</p>
+<p></p>
+<p>2) Achieved a score of <strong>(8.01/10) </strong>in 3-Duan Changquan</p>
+<p>• Top 20 in <strong>National Standing</strong>
+</p>
+<p></p>
+<p>3) Achieved a score of <strong>(8.13/10) </strong>in 4-Duan Spear</p>
+<p>• Top 15 in <strong>National Standing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yan Chenxi</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4I</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2024 National School Games Track and Field</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -690,48 +753,6 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>2E</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
