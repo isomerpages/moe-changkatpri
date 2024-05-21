@@ -142,8 +142,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JUNIOR 2 BOYS</p>
-<p>25m sprint, 2<sup>nd</sup> place</p>
+<p>JUNIOR 2 BOYS 25m sprint, 2<sup>nd</sup> place</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TAN RUI HENG ELLIOT</p>
