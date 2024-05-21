@@ -6,6 +6,43 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3>Students Achievements</h3>
+<p>National School Games for Swimming</p>
+<p><strong>Junior 2 Division - 6<sup>th </sup>100m Breaststroke &amp; 6<sup>th  </sup>50m Breaststroke + 50m Freestyle</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marcus Gabriel Kho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5P</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong> Junior 1 Division - 8<sup>th </sup>50m Freestyle</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Gabriel Alexander Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3R</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>Innovation Programme (Tech Club)</h4>
 <p><strong>Certification of Distinction</strong>
