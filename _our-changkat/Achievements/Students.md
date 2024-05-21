@@ -526,7 +526,6 @@ third_nav_title: Achievements
 <tr>
 <td rowspan="1" colspan="1">
 <p>UDAYA KUMAR NIKASH</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6R</p>
