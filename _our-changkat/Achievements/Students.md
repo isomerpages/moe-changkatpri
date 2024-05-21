@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3>Students Achievements</h3>
+<p>National School Games Rope Skipping 2024</p>
 <p></p>
 <h4>RAFFLES MATHEMATICAL OLYMPIAD&nbsp;(RMO) 2024</h4>
 <p><strong>DISTINCTION AWARD OPEN CATEGORY</strong>
@@ -98,7 +99,8 @@ third_nav_title: Achievements
 </tr>
 </tbody>
 </table>
-<p>MERIT AWARD</p>
+<p><strong>MERIT AWARD</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -223,6 +225,30 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>5R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOLAYEKAR AYAANSH ASHISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5I&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DHRUV MAHES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHANDRA DIVIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5I</p>
 </td>
 </tr>
 </tbody>
