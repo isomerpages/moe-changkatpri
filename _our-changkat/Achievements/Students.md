@@ -315,22 +315,6 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WONG HAO XIANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PATANGIYA AARAV</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YANG YUTONG LUCY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,10 +331,10 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TASNEEM BURHANUDDIN ALI</p>
+<p>WONG HAO XIANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6D</p>
+<p>6E</p>
 </td>
 </tr>
 <tr>
@@ -363,18 +347,26 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AKSHAY KUMAR</p>
+<p>PATANGIYA AARAV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5D</p>
+<p>6D</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CAI ZEXI</p>
+<p>TASNEEM BURHANUDDIN ALI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5P</p>
+<p>6D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSOUZA DARREN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5R</p>
 </td>
 </tr>
 <tr>
@@ -395,14 +387,6 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LUO KAI KYLE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>MUHAMMAD MUAZ BIN MOHAMAD HAFIZ&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -411,10 +395,10 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ONG ZHI RONG</p>
+<p>CAI ZEXI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5D</p>
+<p>5P</p>
 </td>
 </tr>
 <tr>
@@ -427,18 +411,26 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DSOUZA DARREN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5R</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LOLAYEKAR AYAANSH ASHISH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5I&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHANDRA DIVIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AKSHAY KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5D</p>
 </td>
 </tr>
 <tr>
@@ -451,10 +443,18 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHANDRA DIVIT</p>
+<p>LUO KAI KYLE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5I</p>
+<p>5D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG ZHI RONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5D</p>
 </td>
 </tr>
 </tbody>
