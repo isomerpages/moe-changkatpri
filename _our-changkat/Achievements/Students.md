@@ -86,8 +86,7 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior 1 girls</p>
-<p>MULTISKILLS EVENT BRONZE ACHIEVEMENT PIN</p>
+<p>Junior 1 girls MULTISKILLS EVENT BRONZE ACHIEVEMENT PIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LU YASI</p>
