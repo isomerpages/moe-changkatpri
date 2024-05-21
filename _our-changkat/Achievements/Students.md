@@ -6,8 +6,52 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3>Students Achievements</h3>
-<p>National School Games for Swimming</p>
-<p><strong>Junior 2 Division - 6<sup>th </sup>100m Breaststroke &amp; 6<sup>th  </sup>50m Breaststroke + 50m Freestyle</strong>
+<p></p>
+<h4>RAFFLES MATHEMATICAL OLYMPIAD&nbsp;(RMO) 2024</h4>
+<p><strong>DISTINCTION AWARD OPEN CATEGORY</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG ZIYUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GUO HONGMING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUANG CHEN-HAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRAN DUC HUY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6E</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>National School Games for Swimming</h4>
+<p><strong>Junior 2 Division - 6<sup>th </sup>100m Breaststroke &amp; 6<sup>th </sup>50m Breaststroke + 50m Freestyle</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -25,7 +69,7 @@ third_nav_title: Achievements
 </tr>
 </tbody>
 </table>
-<p><strong> Junior 1 Division - 8<sup>th </sup>50m Freestyle</strong>
+<p><strong>Junior 1 Division - 8<sup>th </sup>50m Freestyle</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -43,7 +87,6 @@ third_nav_title: Achievements
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Innovation Programme (Tech Club)</h4>
 <p><strong>Certification of Distinction</strong>
 </p>
