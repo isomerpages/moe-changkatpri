@@ -225,26 +225,10 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WANG ZIYUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>GUO HONGMING</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6R</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHUANG CHEN-HAO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6D</p>
 </td>
 </tr>
 <tr>
@@ -257,18 +241,18 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RISHANKH DOSHI</p>
+<p>WANG ZIYUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5P</p>
+<p>6E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HAYLEY CHONG XIN EN</p>
+<p>CHUANG CHEN-HAO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5P</p>
+<p>6D</p>
 </td>
 </tr>
 <tr>
@@ -285,6 +269,22 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>5R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAYLEY CHONG XIN EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RISHANKH DOSHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5P</p>
 </td>
 </tr>
 <tr>
@@ -515,46 +515,6 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HARISH VIKRAM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>KRISH RAVIKUMAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6P</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NUR UMAIRAH SAKINAH PUTRI MUHAMMAD NASIR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TASNEEM BURHANUDDIN ALI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TAN YU XUAN VIVIAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>DAYAKAR GUHAN SENTHIL KUMAR</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -571,10 +531,50 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>KRISH RAVIKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>TEDDY TAN HONG HAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HARISH VIKRAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR UMAIRAH SAKINAH PUTRI MUHAMMAD NASIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YU XUAN VIVIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TASNEEM BURHANUDDIN ALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D</p>
 </td>
 </tr>
 </tbody>
@@ -659,10 +659,10 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ganu Vaidehi</p>
+<p>Kate Chan Yi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6E</p>
+<p>6R</p>
 </td>
 </tr>
 <tr>
@@ -675,10 +675,10 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kate Chan Yi Xuan</p>
+<p>Ganu Vaidehi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6R</p>
+<p>6E</p>
 </td>
 </tr>
 <tr>
