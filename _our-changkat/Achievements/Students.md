@@ -87,8 +87,7 @@ third_nav_title: Achievements
 <tr>
 <td rowspan="1" colspan="1">
 <p>Junior 1 girls</p>
-<p>MULTISKILLS EVENT</p>
-<p>BRONZE ACHIEVEMENT PIN</p>
+<p>MULTISKILLS EVENT BRONZE ACHIEVEMENT PIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LU YASI</p>
@@ -99,9 +98,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior 1 BOYS</p>
-<p>MULTISKILLS EVENT</p>
-<p>BRONZE ACHIEVEMENT PIN</p>
+<p>Junior 1 BOYS MULTISKILLS EVENT BRONZE ACHIEVEMENT PIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TAN JAYRO</p>
@@ -112,9 +109,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior 1 BOYS</p>
-<p>Medicine Ball Throw</p>
-<p>5<sup>th</sup> POSITION</p>
+<p>Junior 1 BOYS Medicine Ball Throw 5<sup>th</sup> POSITION</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AARYA NANDAKUMAR</p>
@@ -125,9 +120,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior 2 BOYS</p>
-<p>60M Run, 3<sup>RD</sup> POSITION</p>
-<p>SCISSORS JUMP, 8<sup>TH</sup> POSITION</p>
+<p>Junior 2 BOYS 60M Run, 3<sup>RD</sup> POSITION SCISSORS JUMP, 8<sup>TH</sup> POSITION</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TAN RUI YANG OLIVER</p>
@@ -138,9 +131,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior 2 BOYS</p>
-<p>SCISSORS JUMP</p>
-<p>8<sup>TH</sup> POSITION</p>
+<p>Junior 2 BOYS SCISSORS JUMP 8<sup>TH</sup> POSITION</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KRISHANG KALWAR</p>
@@ -163,8 +154,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SENIOR 1 BOYS</p>
-<p>80M SPRINT, 5<sup>th</sup> POSITION</p>
+<p>SENIOR 1 BOYS 80M SPRINT, 5<sup>th</sup> POSITION</p>
 <p>STANDING LONG JUMP, 7<sup>th</sup> position</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,9 +166,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SENIOR 1 BOYS</p>
-<p>STANDING LONG JUMP</p>
-<p>3<sup>RD</sup> POSITION</p>
+<p>SENIOR 1 BOYS STANDING LONG JUMP 3<sup>RD</sup> POSITION</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HADY IMAN FAHD</p>
@@ -189,9 +177,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SENIOR 1 GIRLS</p>
-<p>1000m RUN</p>
-<p>4<sup>th</sup> POSITION</p>
+<p>SENIOR 1 GIRLS 1000m RUN 4<sup>th</sup> POSITION</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>YFKE LEYUN CORMONT</p>
@@ -202,9 +188,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SENIOR 2 BOYS</p>
-<p>STANDING LONG JUMP,</p>
-<p>&nbsp;3<sup>RD</sup> POSITION</p>
+<p>SENIOR 2 BOYS STANDING LONG JUMP, &nbsp;3<sup>RD</sup> POSITION</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYDEN MATIN BIN MUHAMMAD AZLAN</p>
