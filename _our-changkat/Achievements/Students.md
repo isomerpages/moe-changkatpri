@@ -549,8 +549,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NUR UMAIRAH SAKINAH PUTRI</p>
-<p>MUHAMMAD NASIR</p>
+<p>NUR UMAIRAH SAKINAH PUTRI MUHAMMAD NASIR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6I</p>
