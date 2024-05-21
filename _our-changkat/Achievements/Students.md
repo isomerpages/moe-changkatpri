@@ -7,6 +7,91 @@ third_nav_title: Achievements
 ---
 <h3>Students Achievements</h3>
 <p></p>
+<h4>Innovation Programme (Tech Club)</h4>
+<p><strong>Certification of Distinction</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UDAYA KUMAR NIKASH</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HARISH VIKRAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KRISH RAVIKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR UMAIRAH SAKINAH PUTRI</p>
+<p>MUHAMMAD NASIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TASNEEM BURHANUDDIN ALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YU XUAN VIVIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DAYAKAR GUHAN SENTHIL KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELIJAH SONG MING RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEDDY TAN HONG HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6P</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>ASIA–PACIFIC MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS (APMOPS) 2024</h4>
 <p><strong>&nbsp;PLATINUM AWARD</strong>
 </p>
