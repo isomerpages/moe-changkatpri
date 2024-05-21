@@ -30,8 +30,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Achieved a score of <strong>(8.17/10) </strong>in&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-3-Duan Changquan
+<p>Achieved a score of <strong>(8.17/10) </strong>in 3-Duan Changquan
 <br>
 </p>
 <p>7th position in <strong>National Standing</strong>
