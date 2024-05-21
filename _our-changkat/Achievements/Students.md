@@ -48,6 +48,54 @@ third_nav_title: Achievements
 <p>6E</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RISHANKH DOSHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAYLEY CHONG XIN EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAUHAN MIHIR RAKESH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISABEL CHIN SHEAU ERN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIDIT SINGHAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5P</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MARATHE PRANJAL YOGESH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5I</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>National School Games for Swimming</h4>
