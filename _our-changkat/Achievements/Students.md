@@ -18,8 +18,12 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p>Achieved a score of <strong>(8.09/10) </strong>in 3-Duan Nanquan</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>7<sup>th</sup> position in <strong>National Standing</strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Seh Hwa Ling</p>
@@ -33,8 +37,12 @@ third_nav_title: Achievements
 <p>Achieved a score of <strong>(8.17/10) </strong>in 3-Duan Changquan
 <br>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>7th position in <strong>National Standing</strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ilyana Binte Mohammad Nazri</p>
