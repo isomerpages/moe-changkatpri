@@ -18,8 +18,10 @@ in 3-Duan Changquan.</p>
 <p>A student achieved Top 15 in National Standing with a score of (8.13/10)
 in 4-Duan Spear.</p>
 <h4>2024 National School Games: Track and Field</h4>
-<p>A student won BRONZE ACHIEVEMENT PIN in Junior 1 Girls MULTISKILLS EVENT.</p>
-<p>A student won BRONZE ACHIEVEMENT PIN in Junior 1 BOYS MULTISKILLS EVENT.</p>
+<p>A student achieved BRONZE ACHIEVEMENT PIN in Junior 1 Girls MULTISKILLS
+EVENT.</p>
+<p>A student achieved BRONZE ACHIEVEMENT PIN in Junior 1 BOYS MULTISKILLS
+EVENT.</p>
 <p>A student achieved 5<sup>th</sup> POSITION in Junior 1 BOYS Medicine Ball
 Throw.</p>
 <p>A student achieved 3<sup>RD</sup> POSITION in Junior 2 BOYS 60M Run, and
