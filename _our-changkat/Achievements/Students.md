@@ -8,29 +8,32 @@ third_nav_title: Achievements
 <h3>Students Achievements</h3>
 <h4>2024</h4>
 <h4>National School Games Wushu</h4>
-<p>A student achieved 7th position in National Standing with a score of (8.09/10)
-in 3-Duan Nanquan.</p>
 <p>A student achieved 7th position in National Standing with a score of (8.17/10)
 in 3-Duan Changquan.</p>
+<p>A student achieved 7th position in National Standing with a score of (8.09/10)
+in 3-Duan Nanquan.</p>
+<p>A student achieved Top 15 in National Standing with a score of (8.13/10)
+in 4-Duan Spear.</p>
 <p>A student achieved Top 20 in National Standing with a score of (8.31/10)
 in 4-Duan Sword.</p>
 <p>A student achieved Top 20 in National Standing with a score of (8.01/10)
 in 3-Duan Changquan.</p>
-<p>A student achieved Top 15 in National Standing with a score of (8.13/10)
-in 4-Duan Spear.</p>
+<p></p>
 <h4>National School Games: Track and Field</h4>
-<p>A student achieved BRONZE ACHIEVEMENT PIN in Junior 1 Girls MULTISKILLS
-EVENT.</p>
 <p>A student achieved BRONZE ACHIEVEMENT PIN in Junior 1 BOYS MULTISKILLS
+EVENT.</p>
+<p>A student achieved BRONZE ACHIEVEMENT PIN in Junior 1 GIRLS MULTISKILLS
 EVENT.</p>
 <p>A student achieved 5<sup>th</sup> POSITION in Junior 1 BOYS Medicine Ball
 Throw.</p>
+<p>A student achieved 7<sup>th</sup> position in STANDING LONG JUMP.</p>
+<p></p>
 <p>A student achieved 3<sup>RD</sup> POSITION in Junior 2 BOYS 60M Run, and
 8<sup>TH</sup> POSITION in SCISSORS JUMP.</p>
-<p>A student achieved 8<sup>TH</sup> POSITION in Junior 2 BOYS SCISSORS JUMP.</p>
 <p>A student achieved 2<sup>nd</sup> place in JUNIOR 2 BOYS 25m SPRINT.</p>
+<p>A student achieved 8<sup>TH</sup> POSITION in Junior 2 BOYS SCISSORS JUMP.</p>
+<p></p>
 <p>A student achieved 5<sup>th</sup> POSITION in SENIOR 1 BOYS 80M SPRINT.</p>
-<p>A student achieved 7<sup>th</sup> position in STANDING LONG JUMP.</p>
 <p>A student achieved 3<sup>RD</sup> POSITION in SENIOR 1 BOYS STANDING LONG
 JUMP.</p>
 <p>A student achieved 3<sup>RD</sup> POSITION in SENIOR 2 BOYS STANDING LONG
