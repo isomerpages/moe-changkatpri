@@ -35,7 +35,6 @@ JUMP.</p>
 <p>A student achieved 3<sup>RD</sup> POSITION in SENIOR 2 BOYS STANDING LONG
 JUMP.</p>
 <p>A student achieved 4<sup>th</sup> POSITION in SENIOR 1 GIRLS 1000m RUN.</p>
-<p></p>
 <h4>2024National School Games: Rope Skipping</h4>
 <p>A student achieved Champion for Speed &amp; Bronze Freestyle.</p>
 <h4>RAFFLES MATHEMATICAL OLYMPIAD&nbsp;(RMO) 2024</h4>
