@@ -18,7 +18,7 @@ in 4-Duan Sword.</p>
 in 3-Duan Changquan.</p>
 <p>A student achieved Top 15 in National Standing with a score of (8.13/10)
 in 4-Duan Spear.</p>
-<h4>2024 National School Games: Track and Field</h4>
+<h4>National School Games: Track and Field</h4>
 <p>A student achieved BRONZE ACHIEVEMENT PIN in Junior 1 Girls MULTISKILLS
 EVENT.</p>
 <p>A student achieved BRONZE ACHIEVEMENT PIN in Junior 1 BOYS MULTISKILLS
@@ -36,9 +36,9 @@ JUMP.</p>
 <p>A student achieved 3<sup>RD</sup> POSITION in SENIOR 2 BOYS STANDING LONG
 JUMP.</p>
 <p>A student achieved 4<sup>th</sup> POSITION in SENIOR 1 GIRLS 1000m RUN.</p>
-<h4>2024National School Games: Rope Skipping</h4>
+<h4>National School Games: Rope Skipping</h4>
 <p>A student achieved Champion for Speed &amp; Bronze Freestyle.</p>
-<h4>RAFFLES MATHEMATICAL OLYMPIAD&nbsp;(RMO) 2024</h4>
+<h4>RAFFLES MATHEMATICAL OLYMPIAD&nbsp;(RMO)</h4>
 <p>10 students achieved DISTINCTION AWARD OPEN CATEGORY.</p>
 <p>18 students achieved MERIT AWARD</p>
 <h4>National School Games: Swimming</h4>
@@ -47,7 +47,7 @@ Breaststroke + 50m Freestyle, Junior 2 Division.</p>
 <p>A student achieved 8th 50m Freestyle, Junior 1 Division.</p>
 <h4>Innovation Programme (Tech Club)</h4>
 <p>9 students achieved Certification of Distinction.</p>
-<h4>ASIA–PACIFIC MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS (APMOPS) 2024</h4>
+<h4>ASIA–PACIFIC MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS (APMOPS)</h4>
 <p>A student achieved PLATINUM AWARD.</p>
 <p>A student achieved SILVER AWARD.</p>
 <p>3 students achieved BRONZE AWARD.</p>
