@@ -7,7 +7,7 @@ third_nav_title: Achievements
 ---
 <h3>Students Achievements</h3>
 <h4>2024</h4>
-<h4>National School Games Wushu</h4>
+<h4>National School Games (NSG): Wushu</h4>
 <p>A student achieved 7th position in National Standing with a score of (8.17/10)
 in 3-Duan Changquan.</p>
 <p>A student achieved 7th position in National Standing with a score of (8.09/10)
