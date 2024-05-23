@@ -18,8 +18,10 @@ in 4-Duan Spear.</p>
 in 4-Duan Sword.</p>
 <p>A student achieved Top 20 in National Standing with a score of (8.01/10)
 in 3-Duan Changquan.</p>
-<p></p>
 <h4>National School Games: Track and Field</h4>
+<p>A student achieved 2<sup>nd</sup> place in JUNIOR 2 BOYS 25m SPRINT.</p>
+<p>A student achieved 3<sup>RD</sup> POSITION in Junior 2 BOYS 60M Run, and
+8<sup>TH</sup> POSITION in SCISSORS JUMP.</p>
 <p>A student achieved BRONZE ACHIEVEMENT PIN in Junior 1 BOYS MULTISKILLS
 EVENT.</p>
 <p>A student achieved BRONZE ACHIEVEMENT PIN in Junior 1 GIRLS MULTISKILLS
@@ -27,19 +29,15 @@ EVENT.</p>
 <p>A student achieved 5<sup>th</sup> POSITION in Junior 1 BOYS Medicine Ball
 Throw.</p>
 <p>A student achieved 7<sup>th</sup> position in STANDING LONG JUMP.</p>
-<p></p>
-<p>A student achieved 3<sup>RD</sup> POSITION in Junior 2 BOYS 60M Run, and
-8<sup>TH</sup> POSITION in SCISSORS JUMP.</p>
-<p>A student achieved 2<sup>nd</sup> place in JUNIOR 2 BOYS 25m SPRINT.</p>
 <p>A student achieved 8<sup>TH</sup> POSITION in Junior 2 BOYS SCISSORS JUMP.</p>
-<p></p>
-<p>A student achieved 5<sup>th</sup> POSITION in SENIOR 1 BOYS 80M SPRINT.</p>
-<p></p>
 <p>A student achieved 3<sup>RD</sup> POSITION in SENIOR 1 BOYS STANDING LONG
 JUMP.</p>
 <p>A student achieved 3<sup>RD</sup> POSITION in SENIOR 2 BOYS STANDING LONG
 JUMP.</p>
 <p>A student achieved 4<sup>th</sup> POSITION in SENIOR 1 GIRLS 1000m RUN.</p>
+<p>A student achieved 5<sup>th</sup> POSITION in SENIOR 1 BOYS 80M SPRINT.</p>
+<p></p>
+<p></p>
 <h4>National School Games: Rope Skipping</h4>
 <p>A student achieved Champion for Speed &amp; Bronze Freestyle.</p>
 <h4>RAFFLES MATHEMATICAL OLYMPIAD&nbsp;(RMO)</h4>
