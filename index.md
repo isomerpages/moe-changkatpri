@@ -19,7 +19,7 @@ sections:
   - hero:
       background: /images/Site/ezgif_com_apng_maker.apng
       key_highlights:
-        - title: Parents Notifications
+        - title: Parent Notifications
           description: ""
           url: /parents-notification/
         - title: Useful Links for Parents
