@@ -1,0 +1,11 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - School Advisory Committee (SAC).md
+      - Staff/.keep
+      - Staff/Exco Team.md
+      - Staff/Form Teachers.md
+      - Staff/Teachers and Allied Educators.md
+      - Staff/Admin Team.md
+      - Parent Support Group (PIE).md
