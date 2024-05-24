@@ -1,5 +1,5 @@
 collections:
-  parents-and-students-old:
+  old-parents-and-students:
     output: true
     order:
       - Parents & Students.md
