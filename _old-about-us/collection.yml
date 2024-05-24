@@ -1,5 +1,5 @@
 collections:
-  about-us-old:
+  old-about-us:
     output: true
     order:
       - School Crest, History, Song.md
