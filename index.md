@@ -21,7 +21,7 @@ sections:
       key_highlights:
         - title: Parent Notifications
           description: ""
-          url: /parents-notification/
+          url: /parent-notification/
         - title: Useful Links for Parents
           description: ""
           url: /useful-links-for-parents/
