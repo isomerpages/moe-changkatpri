@@ -6,22 +6,42 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3>Students Achievements</h3>
-<h4><u>Sports</u></h4>
-<p>National School Games (NSG): Wushu</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7th position in 3-Duan Changquan</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7th position in 3-Duan Nanquan</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 15 in 4-Duan Spear</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 20 in 4-Duan Sword</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 20 in 3-Duan Changquan</p>
-<p>National School Games: Track and Field</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3<sup>rd</sup>&nbsp; in Senior 1
-Boys Standing Long Jump</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5<sup>th</sup>&nbsp; in Senior 1
-Boys 80m Sprint</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3<sup>rd</sup>&nbsp; in Senior 2
-Boys Standing Long Jump</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4<sup>th</sup>&nbsp; in Senior 1
-Girls 1000m Run</p>
+<h4>Sports</h4>
+<p><strong>National School Games (NSG): Wushu</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>7th position in 3-Duan Changquan</p>
+</li>
+<li>
+<p>7th position in 3-Duan Nanquan</p>
+</li>
+<li>
+<p>Top 15 in 4-Duan Spear</p>
+</li>
+<li>
+<p>Top 20 in 4-Duan Sword</p>
+</li>
+<li>
+<p>Top 20 in 3-Duan Changquan</p>
+</li>
+</ul>
+<p><strong>National School Games: Track and Field</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3<sup>rd</sup>&nbsp; in Senior 1 Boys Standing Long Jump</p>
+</li>
+<li>
+<p>5<sup>th</sup>&nbsp; in Senior 1 Boys 80m Sprint</p>
+</li>
+<li>
+<p>3<sup>rd</sup>&nbsp; in Senior 2 Boys Standing Long Jump</p>
+</li>
+<li>
+<p>4<sup>th</sup>&nbsp; in Senior 1 Girls 1000m Run</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -66,7 +86,6 @@ Girls 1000m Run</p>
 <p>8<sup>th</sup> in Junior 1 Division 50m Freestyle</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <h4><u>Cognitive</u></h4>
 <p><strong>Raffles Mathematical Olympiad&nbsp;(RMO)</strong>
