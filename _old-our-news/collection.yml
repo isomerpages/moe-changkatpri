@@ -1,5 +1,5 @@
 collections:
-  our-news-old:
+  old-our-news:
     output: true
     order:
       - E newsletter.md
