@@ -17,7 +17,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Site/ezgif_com_apng_maker.apng
+      background: /images/Site/ezgif_com_crop.apng
       key_highlights:
         - title: Parent Notifications
           description: ""
