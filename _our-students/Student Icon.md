@@ -25,7 +25,7 @@ they will not appear in the email address. (eg, Abdullah Bte Mohmand =&gt;
 </li>
 <li>
 <p>Take note of the correct domain is <u>student</u><strong><u>S</u></strong><u>.</u>
-<a href="http://edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>edu.sg</u>
+<a href="http://edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>edu.sg </u>
 </a>not&nbsp;<s><a href="http://student.edu.sg" rel="noopener noreferrer nofollow" target="_blank">student.edu.sg.</a></s>
 </p>
 </li>
