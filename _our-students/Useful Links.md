@@ -11,7 +11,7 @@ description: ""
 </p>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
-<p><a href="https://workspace.google.com/dashboard/" rel="noopener noreferrer nofollow" target="_blank">Google Workspace</a>
+<p><a href="https://workspace.google.com/" rel="noopener noreferrer nofollow" target="_blank">Google Workspace</a>
 </p>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future</a>
 </p>
