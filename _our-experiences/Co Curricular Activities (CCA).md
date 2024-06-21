@@ -45,7 +45,7 @@ The school CCAs are designed to:
 | CCA | Teachers | Day and Time |
 |---|---|---|
 | **Basketball** | Mdm Josephine Teow (OIC)<br>[josephine_teow@schools.gov.sg](mailto:josephine_teow@schools.gov.sg)<br>Mr Hoo Chee Mun<br>Mrs Juliana<br>Mr Li Kun Peng<br>Mdm Nadjah<br>Mr Nurisham<br>Mdm Radziyah<br>Mrs Saraswathy Samuel<br>Mdm Sharifah Aminah| Mondays &amp; Thursdays  |
-| **P3 (Sem 1) Multi-sports**<br>  | Mr Mohammad Taufeek<br>[mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg)<br>Mr Ban Choon Kwee<br>Mdm Jovial Ng | Mondays &amp; Thursdays |
-| **Track &amp; Field (Semester 1: P4-6)<br>(Semester 2: P3-5)** | Mr Ng Boon Teng David (OIC)<br>[ng_boon_teng_david@schools.gov.sg](mailto:ng_boon_teng_david@schools.gov.sg)<br>Mdm Farhanah<br>Mr Khairul Nizam <br>Mr Nurul Hakim<br>Ms Tan Keng Tzu| Mondays &amp; Thursdays |
+| **Floorball**<br>  | Mr Mohammad Taufeek<br>[mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg)<br>Mdm Nuriani| Mondays &amp; Thursdays |
+| **Track &amp; Field** | Mr Ng Boon Teng David (OIC)<br>[ng_boon_teng_david@schools.gov.sg](mailto:ng_boon_teng_david@schools.gov.sg)<br>Mdm Farhanah<br>Mr Khairul Nizam <br>Mr Nurul Hakim<br>Ms Tan Keng Tzu| Mondays &amp; Thursdays |
 | **Wushu** | Mr Lim Choon Hong (OIC)<br>[lim_choon_hong_a@schools.gov.sg](mailto:lim_choon_hong_a@schools.gov.sg)<br>Mrs Geraldine Wong<br>Mdm Winnie Wong | Mondays &amp; Thursdays<br>  |
 |
