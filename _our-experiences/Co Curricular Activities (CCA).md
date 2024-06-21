@@ -28,8 +28,8 @@ The school CCAs are designed to:
 | CCA | Teachers | Day and Time |
 |---|---|---|
 | **Choir** | Ms Ha Siok Ting (OIC)<br>[ha_siok_ting@schools.gov.sg](mailto:ha_siok_ting@schools.gov.sg)<br>Ms Anithasri<br>Mrs Manoj Kamala  | Mondays <br>(Note: Extra trainings for selected members participating in performances) |
-| **Dance (Modern)** | Ms Rauhdah (OIC)<br>[rauhdah_abdul_latif@schools.gov.sg](mailto:rauhdah_abdul_latif@schools.gov.sg)<br>Mdm Kalai Selvi<br>Ms Gladys Soh Kang Hwee<br>Ms Yang Jingning | Mondays <br>(Note: Extra trainings for selected members participating in SYF)  |
-| **Guitar Ensemble** | Ms Nur Azura (OIC)<br>[nur_azura_rahim@schools.gov.sg](mailto:nur_azura_rahim@schools.gov.sg)<br>Ms Hazelina Gopinathan<br>Ms Nuriani <br>Mdm Tay Aifang, Faith | Thursdays<br> (Note: Extra trainings for selected members participating in SYF) |
+| **Dance (Modern)** | Ms Rauhdah (OIC)<br>[rauhdah_abdul_latif@schools.gov.sg](mailto:rauhdah_abdul_latif@schools.gov.sg)<br>Mdm Kalai Selvi<br>Ms Yang Jingning | Mondays <br>(Note: Extra trainings for selected members participating in SYF)  |
+| **Guitar Ensemble** | Ms Nur Azura (OIC)<br>[nur_azura_rahim@schools.gov.sg](mailto:nur_azura_rahim@schools.gov.sg)<br>Ms Hazelina Gopinathan<br>Mdm Tay Aifang, Faith | Thursdays<br> (Note: Extra trainings for selected members participating in SYF) |
 | **Art Club** | Ms Tia Amelia(OIC)<br>[tia_amelia_abdullah@schools.gov.sg](mailto:tia_amelia_abdullah@schools.gov.sg)<br>Mdm Aznani <br>Mdm Geeta Jayakumar<br>Ms Ong Wei Ning Eunise<br>Mrs Sim-Ng Li Leng <br>Mr Teo Hock Chye<br>Mdm Yan Zhuyun<br> | Mondays<br>  |
 |
 
