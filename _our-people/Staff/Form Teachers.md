@@ -168,7 +168,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rahayu</p>
+<p>Mdm Rahayu (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_rahayu_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rahayu_ali@moe.edu.sg</a>
@@ -273,10 +273,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gladys Soh Kang Hwee</p>
+<p>Ms Yang Jing Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_kang_hwee_gladys@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_kang_hwee_gladys@schools.gov.sg</a>
+<p><a href="mailto:Yang_Jingning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yang_Jingning@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -286,7 +286,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jesslyn Ng Shi Hui
-<br>(AYH)</p>
+<br>(AYH, P1 LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_shi_hui_jesslyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shi_hui_jesslyn@schools.gov.sg</a>
