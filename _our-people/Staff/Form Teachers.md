@@ -393,7 +393,7 @@ third_nav_title: Staff
 <p>Patriotism</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chiah Chwee Peng)</p>
+<p>Mdm Chiah Chwee Peng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chiah_chwee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiah_chwee_peng@moe.edu.sg</a>
@@ -406,7 +406,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hoo Chee Mun
-<br>(SH/KM)</p>
+<br>(SH/KM, P3 LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoo_chee_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoo_chee_mun@schools.gov.sg</a>
@@ -575,7 +575,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Aznani Binte Aladin
-<br>(AYH)</p>
+<br>(Art Coord, AYH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aznani_aladin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aznani_aladin@schools.gov.sg</a>
@@ -641,6 +641,18 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:celeste_loh_shi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">celeste_loh_shi_min@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kamala D/O Swamy (iExamms Coor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kamala_swamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamala_swamy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
