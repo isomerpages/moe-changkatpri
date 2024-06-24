@@ -67,10 +67,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kamala d/o Swamy</p>
+<p>Mdm Jiang Caiwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kamala_swamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamala_swamy@schools.gov.sg</a>
+<p><a href="mailto:jiang_caiwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_caiwei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
