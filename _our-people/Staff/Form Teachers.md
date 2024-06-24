@@ -757,7 +757,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jovial Ng</p>
+<p>Mdm Jovial Ng (UT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jovial_ng_hui_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jovial_ng_hui_yee@moe.edu.sg</a>
@@ -783,7 +783,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farah Khairiah Rifaei
-<br>(SH/NE &amp; Partnership, Social Studies)</p>
+<br>(SH/NE &amp; Partnership)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farah_khairiah_rifaei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farah_khairiah_rifaei@schools.gov.sg</a>
