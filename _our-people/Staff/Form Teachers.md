@@ -67,10 +67,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kamala d/o Swamy</p>
+<p>Mdm Jiang Caiwei (HOD Maths)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kamala_swamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamala_swamy@schools.gov.sg</a>
+<p><a href="mailto:jiang_caiwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_caiwei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rahayu</p>
+<p>Mdm Rahayu (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_rahayu_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rahayu_ali@moe.edu.sg</a>
@@ -273,10 +273,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gladys Soh Kang Hwee</p>
+<p>Ms Yang Jing Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_kang_hwee_gladys@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_kang_hwee_gladys@schools.gov.sg</a>
+<p><a href="mailto:Yang_Jingning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yang_Jingning@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -286,7 +286,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jesslyn Ng Shi Hui
-<br>(AYH)</p>
+<br>(AYH, P1 LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_shi_hui_jesslyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shi_hui_jesslyn@schools.gov.sg</a>
@@ -393,7 +393,7 @@ third_nav_title: Staff
 <p>Patriotism</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chiah Chwee Peng)</p>
+<p>Mdm Chiah Chwee Peng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chiah_chwee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiah_chwee_peng@moe.edu.sg</a>
@@ -406,7 +406,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hoo Chee Mun
-<br>(SH/KM)</p>
+<br>(SH/KM, P3 LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoo_chee_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoo_chee_mun@schools.gov.sg</a>
@@ -575,7 +575,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Aznani Binte Aladin
-<br>(AYH)</p>
+<br>(Art Coord, AYH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aznani_aladin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aznani_aladin@schools.gov.sg</a>
@@ -646,6 +646,18 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kamala D/O Swamy (iExamms Coor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kamala_swamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamala_swamy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -667,6 +679,18 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurisham_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurisham_ismail@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Mary Kim Eun Soon (BT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Kim_Eun_Soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kim_Eun_Soon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -733,7 +757,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jovial Ng</p>
+<p>Mdm Jovial Ng (UT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jovial_ng_hui_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jovial_ng_hui_yee@moe.edu.sg</a>
@@ -759,7 +783,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farah Khairiah Rifaei
-<br>(SH/NE &amp; Partnership, Social Studies)</p>
+<br>(SH/NE &amp; Partnership)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farah_khairiah_rifaei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farah_khairiah_rifaei@schools.gov.sg</a>
