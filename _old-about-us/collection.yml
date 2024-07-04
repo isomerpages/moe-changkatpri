@@ -2,7 +2,6 @@ collections:
   old-about-us:
     output: true
     order:
-      - Principal's Message.md
       - Vision, Mission, Values.md
       - School Organisation/.keep
       - School Organisation/School Advisory Committee (SAC).md
