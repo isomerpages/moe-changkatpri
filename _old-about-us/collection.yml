@@ -1,5 +1,4 @@
 collections:
   old-about-us:
     output: true
-    order:
-      - Recognitions.md
+    order: []
