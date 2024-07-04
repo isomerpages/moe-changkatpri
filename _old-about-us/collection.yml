@@ -2,11 +2,6 @@ collections:
   old-about-us:
     output: true
     order:
-      - School Organisation/.keep
-      - School Organisation/School Advisory Committee (SAC).md
-      - "School Organisation/Key Personnel: Exco Team.md"
-      - School Organisation/Teachers & Allied Educators.md
-      - School Organisation/Admin Team.md
       - School Information/.keep
       - School Information/School Information.md
       - School Information/School Bookshop.md
