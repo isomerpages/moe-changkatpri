@@ -2,7 +2,6 @@ collections:
   old-parents-and-students:
     output: true
     order:
-      - Parents & Students.md
       - Parents/.keep
       - Parents/Parents' Notification.md
       - Parents/Meet the Parents.md
