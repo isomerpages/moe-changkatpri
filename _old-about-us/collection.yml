@@ -2,10 +2,4 @@ collections:
   old-about-us:
     output: true
     order:
-      - School Information/.keep
-      - School Information/School Information.md
-      - School Information/School Bookshop.md
-      - School Information/School Bus.md
-      - School Information/School Uniform.md
-      - School Information/Canteen Stall.md
       - Recognitions.md
