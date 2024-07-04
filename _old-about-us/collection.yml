@@ -2,7 +2,6 @@ collections:
   old-about-us:
     output: true
     order:
-      - Vision, Mission, Values.md
       - School Organisation/.keep
       - School Organisation/School Advisory Committee (SAC).md
       - "School Organisation/Key Personnel: Exco Team.md"
