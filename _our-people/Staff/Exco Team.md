@@ -104,7 +104,7 @@ third_nav_title: Staff
 <p>Mdm Jiang Caiwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jiang_caiwei@schools.gov.sg</u></a>
+<p><a href="mailto:jiang_caiwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jiang_caiwei@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -116,7 +116,7 @@ third_nav_title: Staff
 <p>Mdm Zhang Fang Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhang_fangfang@schools.gov.sg</u></a>
+<p><a href="mailto:zhang_fangfang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhang_fangfang@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ third_nav_title: Staff
 <p>Mr Ban Choon Kwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ban_choon_kwee@schools.gov.sg</u></a>
+<p><a href="mailto:ban_choon_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ban_choon_kwee@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ third_nav_title: Staff
 <p>Mdm Stephanie Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
+<p><a href="mailto:chong_stephanie_jemima_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -164,7 +164,7 @@ third_nav_title: Staff
 <p>Mdm Haryati Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haryati_ariffin@schools.gov.sg</u></a>
+<p><a href="mailto:haryati_ariffin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haryati_ariffin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -176,7 +176,7 @@ third_nav_title: Staff
 <p>Ms Dhashayani Vallatharasu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dhashayani_vallatharasu@schools.gov.sg</u></a>
+<p><a href="mailto:dhashayani_vallatharasu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dhashayani_vallatharasu@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
