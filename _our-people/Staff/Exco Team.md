@@ -152,7 +152,7 @@ third_nav_title: Staff
 <p>Mdm Salmi Bte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salmi_rahmat@schools.gov.sg</u></a>
+<p><a href="mailto:salmi_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salmi_rahmat@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
