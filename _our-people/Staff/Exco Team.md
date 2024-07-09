@@ -44,7 +44,7 @@ third_nav_title: Staff
 <p>Mdm Siti Nazrah Bte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nazrah_abdul_rahman@schools.gov.sg</u></a>
+<p><a href="mailto:siti_nazrah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nazrah_abdul_rahman@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ third_nav_title: Staff
 <p>Mrs Tay-Lee Li Theng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_li_theng@schools.gov.sg</u></a>
+<p><a href="mailto:lee_li_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_li_theng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ third_nav_title: Staff
 <p>Miss Celeste Loh Shi Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>celeste_loh_shi_min@schools.gov.sg</u></a>
+<p><a href="mailto:celeste_loh_shi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>celeste_loh_shi_min@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ third_nav_title: Staff
 <p>Mdm Soh Chern Hui (Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_chern_hui@schools.gov.sg</u></a>
+<p><a href="mailto:soh_chern_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_chern_hui@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ third_nav_title: Staff
 <p>Mr Seow Tian Hou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seow_tian_hou@schools.gov.sg</u></a>
+<p><a href="mailto:seow_tian_hou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seow_tian_hou@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ third_nav_title: Staff
 <p>Mdm Jiang Caiwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jiang_caiwei@schools.gov.sg</u></a>
+<p><a href="mailto:jiang_caiwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jiang_caiwei@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -116,7 +116,7 @@ third_nav_title: Staff
 <p>Mdm Zhang Fang Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhang_fangfang@schools.gov.sg</u></a>
+<p><a href="mailto:zhang_fangfang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhang_fangfang@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ third_nav_title: Staff
 <p>Mr Ban Choon Kwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ban_choon_kwee@schools.gov.sg</u></a>
+<p><a href="mailto:ban_choon_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ban_choon_kwee@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ third_nav_title: Staff
 <p>Mdm Stephanie Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
+<p><a href="mailto:chong_stephanie_jemima_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -152,7 +152,7 @@ third_nav_title: Staff
 <p>Mdm Salmi Bte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salmi_rahmat@schools.gov.sg</u></a>
+<p><a href="mailto:salmi_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salmi_rahmat@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -164,7 +164,7 @@ third_nav_title: Staff
 <p>Mdm Haryati Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haryati_ariffin@schools.gov.sg</u></a>
+<p><a href="mailto:haryati_ariffin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haryati_ariffin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -176,7 +176,7 @@ third_nav_title: Staff
 <p>Ms Dhashayani Vallatharasu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dhashayani_vallatharasu@schools.gov.sg</u></a>
+<p><a href="mailto:dhashayani_vallatharasu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dhashayani_vallatharasu@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ third_nav_title: Staff
 <p>Mr Hoo Chee Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hoo_chee_mun@schools.gov.sg</u></a>
+<p><a href="mailto:hoo_chee_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hoo_chee_mun@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -200,7 +200,7 @@ third_nav_title: Staff
 <p>Mr K Parathi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>k_parathi@schools.gov.sg</u></a>
+<p><a href="mailto:k_parathi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>k_parathi@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -212,7 +212,7 @@ third_nav_title: Staff
 <p>Mdm Farah Khairiah Bte Rifaei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farah_khairiah_rifaei@schools.gov.sg</u></a>
+<p><a href="mailto:farah_khairiah_rifaei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farah_khairiah_rifaei@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -224,7 +224,7 @@ third_nav_title: Staff
 <p>Mr Muhammad Khairil Bin Kamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_khairil_kamal@schools.gov.sg</u></a>
+<p><a href="mailto:muhammad_khairil_kamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_khairil_kamal@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -236,7 +236,7 @@ third_nav_title: Staff
 <p>Mdm Farhanah Jumahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farhanah_jumahat@schools.gov.sg</u></a>
+<p><a href="mailto:farhanah_jumahat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farhanah_jumahat@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -248,7 +248,7 @@ third_nav_title: Staff
 <p>Ms Yong Yun Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yong_yun_yun@schools.gov.sg</u></a>
+<p><a href="mailto:yong_yun_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yong_yun_yun@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -260,7 +260,7 @@ third_nav_title: Staff
 <p>Mdm Yeo Lee Theng Deon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_lee_theng@schools.gov.sg</u></a>
+<p><a href="mailto:yeo_lee_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_lee_theng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -272,7 +272,7 @@ third_nav_title: Staff
 <p>Mdm Nur Iffah Bte Abdul Ghafar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_iffah_abdul_ghafar@schools.gov.sg</u></a>
+<p><a href="mailto:nur_iffah_abdul_ghafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_iffah_abdul_ghafar@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -284,7 +284,7 @@ third_nav_title: Staff
 <p>Mrs Suzanna Bambang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>suzanna_abdul_rahim@schools.gov.sg</u></a>
+<p><a href="mailto:suzanna_abdul_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>suzanna_abdul_rahim@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
