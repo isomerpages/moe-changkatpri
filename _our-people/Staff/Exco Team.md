@@ -44,7 +44,7 @@ third_nav_title: Staff
 <p>Mdm Siti Nazrah Bte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nazrah_abdul_rahman@schools.gov.sg</u></a>
+<p><a href="mailto:siti_nazrah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nazrah_abdul_rahman@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ third_nav_title: Staff
 <p>Mrs Tay-Lee Li Theng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_li_theng@schools.gov.sg</u></a>
+<p><a href="mailto:lee_li_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_li_theng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ third_nav_title: Staff
 <p>Miss Celeste Loh Shi Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>celeste_loh_shi_min@schools.gov.sg</u></a>
+<p><a href="mailto:celeste_loh_shi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>celeste_loh_shi_min@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ third_nav_title: Staff
 <p>Mdm Soh Chern Hui (Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_chern_hui@schools.gov.sg</u></a>
+<p><a href="mailto:soh_chern_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_chern_hui@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ third_nav_title: Staff
 <p>Mr Seow Tian Hou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seow_tian_hou@schools.gov.sg</u></a>
+<p><a href="mailto:seow_tian_hou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seow_tian_hou@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
