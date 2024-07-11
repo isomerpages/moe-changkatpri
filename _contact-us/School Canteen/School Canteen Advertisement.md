@@ -80,7 +80,7 @@ email OR to the School’s Admin Centre.</p>
 <p>Contact No: 6783 0923</p>
 </li>
 <li>
-<p>Email: <a href="mailto:changkat_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">changkat_ps@moe.edu.sg</a> 
+<p>Email: <a href="mailto:changkat_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">changkat_ps@moe.edu.sg</a>
 </p>
 </li>
 <li>
