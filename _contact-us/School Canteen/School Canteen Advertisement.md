@@ -138,7 +138,8 @@ Skills Qualification (WSQ) Food Safety Course Level 1.</p>
 Singapore Food Agency (SFA).</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
+<p></p>
 <p></p>
