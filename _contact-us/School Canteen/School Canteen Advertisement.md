@@ -72,12 +72,22 @@ etc</p>
 <li>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School’s Admin Centre.</p>
-<p>• Address: 11 Simei Street 3, Singapore 529896</p>
-<p>• Contact No: 6783 0923</p>
-<p>• Email: <a href="mailto:changkat_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">changkat_ps@moe.edu.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 11 Simei Street 3, Singapore 529896</p>
+</li>
+<li>
+<p>Contact No: 6783 0923</p>
+</li>
+<li>
+<p>Email: <a href="mailto:changkat_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">changkat_ps@moe.edu.sg</a> 
 </p>
-<p>• Contact Person: Mr Ho Han Keong</p>
+</li>
+<li>
+<p>Contact Person: Mr Ho Han Keong</p>
 <p></p>
+</li>
+</ul>
 </li>
 </ol>
 <p><strong>How to get there?</strong>
