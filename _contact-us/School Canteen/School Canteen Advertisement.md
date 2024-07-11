@@ -85,11 +85,12 @@ email OR to the School’s Admin Centre.</p>
 </li>
 <li>
 <p>Contact Person: Mr Ho Han Keong</p>
-<p></p>
 </li>
 </ul>
 </li>
 </ol>
+<p>How to get there?</p>
+<p></p>
 <p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -138,6 +139,7 @@ Skills Qualification (WSQ) Food Safety Course Level 1.</p>
 Singapore Food Agency (SFA).</p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
