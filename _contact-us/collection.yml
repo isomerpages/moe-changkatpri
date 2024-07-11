@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Canteen/.keep
-      - Contact Us.md
       - School Information.md
       - School Bookshop.md
       - School Bus.md
