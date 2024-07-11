@@ -89,7 +89,6 @@ email OR to the School’s Admin Centre.</p>
 </ul>
 </li>
 </ol>
-<p>How to get there?</p>
 <p></p>
 <p><strong>How to get there?</strong>
 </p>
@@ -99,6 +98,7 @@ email OR to the School’s Admin Centre.</p>
 </li>
 <li>
 <p>Bus number: Bus Service: 5, 9, 20, 38</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Interest applicants must meet the following criteria:</strong>
