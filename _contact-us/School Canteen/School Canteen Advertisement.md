@@ -113,7 +113,6 @@ Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools
 <p>Healthy and fit to operate the stall.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Applicants should preferably fulfil the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
