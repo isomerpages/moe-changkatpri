@@ -45,7 +45,7 @@ link)</p>
 <p>Click <a href="https://drive.google.com/file/d/1uLPhNXXhnJWm3tYGBanYwzUbO4SmA3rB/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 download <strong>MOE FAS Application Form (version OCT 2023)</strong> (External
 link)
-<br><strong>or visit the online form:</strong>  <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a>
+<br><strong>or visit the online form:</strong>  <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a>
 </p>
 </li>
 </ul>
