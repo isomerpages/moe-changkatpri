@@ -30,7 +30,7 @@ The school CCAs are designed to:
 | **Choir** | Ms Ha Siok Ting (OIC)<br>[ha_siok_ting@schools.gov.sg](mailto:ha_siok_ting@schools.gov.sg)<br>Ms Anithasri<br>Mrs Manoj Kamala  | Mondays <br>(Note: Extra trainings for selected members participating in performances) |
 | **Dance (Modern)** | Ms Rauhdah (OIC)<br>[rauhdah_abdul_latif@schools.gov.sg](mailto:rauhdah_abdul_latif@schools.gov.sg)<br>Mdm Kalai Selvi<br>Ms Yang Jingning | Mondays <br>(Note: Extra trainings for selected members participating in  performances)  |
 | **Guitar Ensemble** | Ms Nur Azura (OIC)<br>[nur_azura_rahim@schools.gov.sg](mailto:nur_azura_rahim@schools.gov.sg)<br>Ms Hazelina Gopinathan<br>Mdm Tay Aifang, Faith | Thursdays<br> (Note: Extra trainings for selected members participating in performances) |
-| **Art Club** | Ms Tia Amelia(OIC)<br>[tia_amelia_abdullah@schools.gov.sg](mailto:tia_amelia_abdullah@schools.gov.sg)<br>Mdm Aznani <br>Mdm Geeta Jayakumar<br>Ms Ong Wei Ning Eunise<br>Mrs Sim-Ng Li Leng <br>Mr Teo Hock Chye<br>Mdm Yan Zhuyun<br> | Mondays<br>  |
+| **Art Club** | Ms Tia Amelia(OIC)<br>[tia_amelia_abdullah@schools.gov.sg](mailto:tia_amelia_abdullah@schools.gov.sg)<br>Mdm Aznani <br>Mdm Geeta Jayakumar<br>Mrs Sim-Ng Li Leng <br>Mr Teo Hock Chye<br> | Mondays<br>  |
 |
 
 #### **Clubs and Societies**
@@ -46,6 +46,6 @@ The school CCAs are designed to:
 |---|---|---|
 | **Basketball** | Mdm Josephine Teow (OIC)<br>[josephine_teow@schools.gov.sg](mailto:josephine_teow@schools.gov.sg)<br>Mr Hoo Chee Mun<br>Mrs Juliana<br>Mr Li Kun Peng<br>Mdm Nadjah<br>Mr Nurisham<br>Mdm Radziyah<br>Mrs Saraswathy Samuel<br>Mdm Sharifah Aminah| Mondays &amp; Thursdays  |
 | **Floorball**<br>  | Mr Mohammad Taufeek<br>[mohamed_taufeek_ramlan@schools.gov.sg](mailto:mohamed_taufeek_ramlan@schools.gov.sg)<br>Mdm Nuriani| Mondays &amp; Thursdays |
-| **Track &amp; Field** | Mr Ng Boon Teng David (OIC)<br>[ng_boon_teng_david@schools.gov.sg](mailto:ng_boon_teng_david@schools.gov.sg)<br>Mdm Farhanah<br>Mr Khairul Nizam <br>Mr Nurul Hakim<br>Ms Tan Keng Tzu| Mondays &amp; Thursdays |
+| **Track &amp; Field** | Mr Ng Boon Teng David (OIC)<br>[ng_boon_teng_david@schools.gov.sg](mailto:ng_boon_teng_david@schools.gov.sg)<br>Mdm Farhanah<br>Mr Khairul Nizam <br>Ms Tan Keng Tzu| Mondays &amp; Thursdays |
 | **Wushu** | Mr Lim Choon Hong (OIC)<br>[lim_choon_hong_a@schools.gov.sg](mailto:lim_choon_hong_a@schools.gov.sg)<br>Mrs Geraldine Wong<br>Mdm Winnie Wong | Mondays &amp; Thursdays<br>  |
 |
