@@ -31,4 +31,6 @@ description: ""
 </p>
 <p><a href="/microsoft-office-365-proplus/" rel="noopener noreferrer nofollow" target="_blank">Microsoft Office 365 (ProPlus)</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1mMCa0I6AIbF7SmW8qmCGNUcMMUriJqam/view" rel="noopener noreferrer nofollow" target="_blank">Microsoft Teams Guide</a>
+</p>
 <p></p>
