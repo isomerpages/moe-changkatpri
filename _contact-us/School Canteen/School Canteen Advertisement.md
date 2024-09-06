@@ -29,7 +29,7 @@ third_nav_title: School Canteen
 <p>Vegetarian Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Jul 024</p>
+<p>30 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
