@@ -24,10 +24,7 @@ they will not appear in the email address. (eg, Abdullah Bte Mohmand =&gt;
 (e.g. Ang_Bee_Bee_1,&nbsp;Ang_Bee_Bee_2) to differentiate their email addresses.</p>
 </li>
 <li>
-<p>Take note of the correct domain is <u>student</u><strong><u>S</u></strong><u>.</u>
-<a href="http://edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>edu.sg </u>
-</a>not&nbsp;<s><a href="http://student.edu.sg" rel="noopener noreferrer nofollow" target="_blank">student.edu.sg.</a></s>
-</p>
+<p>Take note of the correct domain is student<strong>S</strong> .edu .sg not&nbsp;<s>student .edu .sg</s>.</p>
 </li>
 </ul>
 <p>Here’s an example of the slip:</p>
