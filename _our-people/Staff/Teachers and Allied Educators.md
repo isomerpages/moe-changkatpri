@@ -171,7 +171,7 @@ third_nav_title: Staff
 <p>Shu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_hui@schools.gov.sg</a> 
+<p><a href="mailto:shi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
