@@ -62,7 +62,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ho Han Keong Philip</p>
