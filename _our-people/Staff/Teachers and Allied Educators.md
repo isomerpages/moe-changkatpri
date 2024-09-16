@@ -6,51 +6,6 @@ description: ""
 third_nav_title: Staff
 ---
 <h3><strong>Teachers &amp; Allied Educators</strong></h3>
-<h4><strong>Lead Teacher</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher
-<br>(Education Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Steven Tan Boon Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_boon_seng_steven@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_seng_steven@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Senior Teacher</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -213,10 +168,20 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Shu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:shi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_hui@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Liew Poh Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Liew_Poh_Lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liew_Poh_Lian@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
