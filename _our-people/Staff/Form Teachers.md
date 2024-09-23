@@ -876,7 +876,8 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dhashayani Vallatharasu
-<br>(SH/Innovation [Internal])</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dhashayani_vallatharasu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dhashayani_vallatharasu@schools.gov.sg</a>
