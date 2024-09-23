@@ -685,11 +685,10 @@ third_nav_title: Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Mary Kim Eun Soon (BT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kim_Eun_Soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kim_Eun_Soon@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
