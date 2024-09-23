@@ -323,12 +323,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yan Zhuyun
-<br>(MRL Coord)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yan_zhuyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yan_zhuyun@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -687,11 +685,10 @@ third_nav_title: Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Mary Kim Eun Soon (BT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kim_Eun_Soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kim_Eun_Soon@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -754,14 +751,13 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jovial Ng (UT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jovial_ng_hui_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jovial_ng_hui_yee@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
