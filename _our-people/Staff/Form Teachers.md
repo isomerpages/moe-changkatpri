@@ -751,14 +751,13 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jovial Ng (UT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jovial_ng_hui_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jovial_ng_hui_yee@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
