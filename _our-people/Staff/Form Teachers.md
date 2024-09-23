@@ -67,7 +67,8 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jiang Caiwei (HOD Maths)</p>
+<p>Mdm Jiang Caiwei
+<br>(HOD Maths)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jiang_caiwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_caiwei@schools.gov.sg</a>
@@ -79,7 +80,8 @@ third_nav_title: Staff
 <p>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Li Mei Elaine (Mrs Heng)
+<p>Mdm Ong Li Mei Elaine
+<br>(Mrs Heng)
 <br>(SDR)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,7 +313,8 @@ third_nav_title: Staff
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Keng Tzu (Mrs Wong)</p>
+<p>Mdm Tan Keng Tzu
+<br>(Mrs Wong)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_keng_tzu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_keng_tzu@schools.gov.sg</a>
@@ -334,7 +337,8 @@ third_nav_title: Staff
 <p>Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Li Leng Clara (Mrs Sim)
+<p>Mdm Ng Li Leng Clara
+<br>(Mrs Sim)
 <br>(ECG Coord)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -659,7 +663,8 @@ third_nav_title: Staff
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Huaying Maybelline (Mrs Low)
+<p>Mdm Tan Huaying Maybelline
+<br>(Mrs Low)
 <br>(ST/SC)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -717,7 +722,8 @@ third_nav_title: Staff
 <p>Patriotism</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Chern Hui (Mrs Leong)
+<p>Mdm Soh Chern Hui
+<br>(Mrs Leong)
 <br>(HOD/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -793,7 +799,8 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Hwee Peng Christina (Mrs Chan)
+<p>Mdm Cheong Hwee Peng Christina
+<br>(Mrs Chan)
 <br>(Teacher Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
