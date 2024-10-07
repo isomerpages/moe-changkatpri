@@ -20,7 +20,6 @@ Instilling in our students the love for the visual and performing arts as well a
 | Mdm Aznani | Art Coordinator |
 | Miss Tia Amelia | Art Teacher |
 | Miss Nur Azura | Music Coordinator |
-| Miss Eunise Ong | Art Teacher (UT)|
 |
 
 | Aesthetics Framework | Subjects | Programmes/Activities/Events |

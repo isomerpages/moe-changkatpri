@@ -23,8 +23,6 @@ Every student to be able to demonstrate individually and with others the physica
 | Mr Khairul Nizam  | Assistant Year Head (P5) |
 | Mr Lim Choon Hong | Health Education Coordinator |
 | Mr Mdm Josephine Teow | PE Teacher |
-| Mr Ms Jovial Ng Hui Yee | UT/PE Teacher |
-| Mr Mr Nurul Hakim Bin Roslan | UT/PE Teacher |
 |
 
 #### **PE Department Programs for 2024:**
