@@ -44,7 +44,7 @@ approach your form teacher if you need your account to be unlocked.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/Student_iCON___Password_Requirements.png">
 </div>
-<h4><strong>Student ICON backup</strong> </h4>
+<h4><strong>Student ICON backup</strong></h4>
 <p>From Jun 2024, Student iCON will have a storage limit of 1 GB for each
 student.</p>
 <p>Click <a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
@@ -54,11 +54,11 @@ account</p>
 view the guide on how to Backup Student iCON data to your device (who don’t
 have a personal Gmail account)</p>
 <p></p>
-<h4><strong>Student iCON Google Takeout</strong> </h4>
+<h4><strong>Student iCON Google Takeout</strong></h4>
 <p>For Graduating Students and students from <strong>other levels </strong>proceeding
 to private or overseas educational institutions, etc.</p>
 <p>Students will be required to back up their Student iCON data by end of
-the current year. Eg. <strong>31 Dec 2024.</strong>
+the current year. E.g. <strong>31 Dec 2024.</strong>
 </p>
 <p>Student may refer to the guide <a href="https://drive.google.com/file/d/1Nmqph_OdTXIhiBvIg0rWK8hbE3HWnwDv/view" rel="noopener nofollow" target="_blank">here.</a>
 </p>
