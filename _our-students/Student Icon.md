@@ -62,6 +62,11 @@ the current year. E.g. <strong>31 Dec 2024.</strong>
 </p>
 <p>Student may refer to the guide <a href="https://drive.google.com/file/d/1Nmqph_OdTXIhiBvIg0rWK8hbE3HWnwDv/view" rel="noopener nofollow" target="_blank">here.</a>
 </p>
+<p>Students, please update your email addresses with the relevant educational
+institutions or organizations which you have provided with your Student
+iCON email addresses (ending with @<a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>) previously to your personal
+email address.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
