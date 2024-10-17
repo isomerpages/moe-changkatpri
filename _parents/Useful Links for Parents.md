@@ -86,37 +86,34 @@ the follow-up on Meet-the-Parents (MTP) Session 2024</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Click <a href="https://drive.google.com/file/d/12pVg0HwNSMI-jdqQNSTgtY9OGheF2OeR/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-see <strong>Parent Kit - Bonding Over the Holidays</strong>
-</p>
+see <strong>Parent Kit - Bonding Over the Holidays </strong>(External link)</p>
 </li>
 <li>
 <p>Click <a href="https://drive.google.com/file/d/1UCQQikoJdhFp9VWNeROXcfQ213a0FwQN/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-see <strong>Parent Kit - Transitioning Back To School</strong> website unavailable</p>
+see <strong>Parent Kit - Transitioning Back To School</strong> website unavailable
+(External link)</p>
 </li>
 <li>
 <p>Click <a href="https://drive.google.com/file/d/1ZMWznOY0m5Ar8m5oSz4NpYQrqCLKf-HR/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-see <strong>Parent Kit - My Independent Learner</strong>
-</p>
+see <strong>Parent Kit - My Independent Learner </strong>(External link)</p>
 </li>
 <li>
 <p>Click <a href="https://drive.google.com/file/d/1cnZDqsxNentp3YNJ8tPYPmjuDRabN1cX/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-see <strong>Parent Kit - Supporting your child during Full Home-Based Learning</strong>
-</p>
+see <strong>Parent Kit - Supporting your child during Full Home-Based Learning </strong>(External
+link)</p>
 </li>
 <li>
 <p>Click <a href="https://drive.google.com/file/d/18tS4tPtpYTzp9fPgIVgXQVppSOFDO7fF/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-download the article on <strong>Resilience Booster</strong>
-</p>
+download the article on <strong>Resilience Booster </strong>(External link)</p>
 </li>
 <li>
 <p>Click <a href="https://drive.google.com/file/d/1L37ZmTwsqySH_qNvY9GKZA9tE1Q5ure5/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-download the article on <strong>Supporting Your Child’s transition through Primary 1</strong>
-</p>
+download the article on <strong>Supporting Your Child’s transition through Primary 1 </strong>(External
+link)</p>
 </li>
 <li>
 <p>Click <a href="https://drive.google.com/drive/folders/1mddGVFroUXakO3qppZYGqqQ36gv_IShE" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-view the <strong>Home-Based Learning (HBL) Plan</strong>
-</p>
+view the <strong>Home-Based Learning (HBL) Plan </strong>(External link)</p>
 </li>
 </ul>
 <h3>Parents Gateway</h3>
