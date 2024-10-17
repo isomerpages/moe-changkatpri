@@ -45,8 +45,8 @@ link)</p>
 <p>Click <a href="https://drive.google.com/file/d/1xaup4219rk_4jqUC2mvHbEeuSzAJ9Crs/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 download <strong>MOE FAS Application Form (version SEP 2024)</strong> (External
 link)
-<br><strong>or visit the online form:</strong>  <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a>
-</p>
+<br><strong>or visit the online form:</strong>  <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas </u></a>(External
+link)</p>
 </li>
 </ul>
 <p></p>
@@ -69,8 +69,8 @@ link)</p>
 </li>
 <li>
 <p>Click <a href="https://drive.google.com/file/d/1NWEroPAiuhRUQb3lzdFSZWNdTsasXpkL/view" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-download the <strong>Bethesda Care Services Bursary form</strong>
-</p>
+download the <strong>Bethesda Care Services Bursary form </strong>(External
+link)</p>
 </li>
 <li>
 <p>Click <a href="https://drive.google.com/file/d/1i7yXNrN1sfoYQqXcCdGzzp3K0_R-_5fl/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
