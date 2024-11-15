@@ -10,7 +10,7 @@ description: ""
 </div>
 <p>Dear Prize Winners, Parents, Guardians,</p>
 <p>Please find the photos <a href="https://drive.google.com/drive/folders/1_nn45XN8hEpCgtYrmMF9qAlwbKr72oSc?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>Please take note that the access to photos will be taken off-line with
-effect from 31 Dec 2024 (Tue).</p>
-<p>Cheers</p>
+<p>Please take note that the access to the photos will be taken off-line
+with effect from 31 Dec 2024 (Tue).</p>
+<p></p>
 <p></p>
