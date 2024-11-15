@@ -29,7 +29,7 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/1L0fw4T8JOsrIM1Xzvk_-kCCmKvlliJV-/view?usp=sharing
   - infopic:
-      title: 59th Prize Giving & P6 Graduation Ceremony
+      title: 59th Prize Giving & P6 Graduation Ceremony Photos
       id: infopic
       button: Click here
       url: /59th-prize-giving-day-graduation-ceremony/
