@@ -34,7 +34,6 @@ sections:
       button: Click here
       url: /59th-prize-giving-day-graduation-ceremony/
       image: /images/Events/59th PG & P6 Grad/PGD.png
-      alt: Image alt text
   - infobar:
       title: Events
       description: Find out what's going on!
