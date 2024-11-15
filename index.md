@@ -33,4 +33,12 @@ sections:
       description: Find out what's going on!
       button: Click here
       url: /p1-1st-day-of-school/
+  - infopic:
+      title: 59th Prize Giving & P6 Graduation Ceremony
+      subtitle: Add an image and text
+      id: infopic
+      button: Click here
+      url: /59th-prize-giving-day-graduation-ceremony/
+      image: /images/Events/59th PG & P6 Grad/PGD.png
+      alt: Image alt text
 ---
