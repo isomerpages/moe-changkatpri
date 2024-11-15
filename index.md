@@ -28,6 +28,13 @@ sections:
         - title: The Changkat Experience
           description: ""
           url: https://drive.google.com/file/d/1L0fw4T8JOsrIM1Xzvk_-kCCmKvlliJV-/view?usp=sharing
+  - infopic:
+      title: 59th Prize Giving & P6 Graduation Ceremony
+      id: infopic
+      button: Click here
+      url: /59th-prize-giving-day-graduation-ceremony/
+      image: /images/Events/59th PG & P6 Grad/PGD.png
+      alt: 2024 Prize Giving...
   - infobar:
       title: Events
       description: Find out what's going on!
