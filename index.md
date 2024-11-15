@@ -28,17 +28,16 @@ sections:
         - title: The Changkat Experience
           description: ""
           url: https://drive.google.com/file/d/1L0fw4T8JOsrIM1Xzvk_-kCCmKvlliJV-/view?usp=sharing
-  - infobar:
-      title: Events
-      description: Find out what's going on!
-      button: Click here
-      url: /p1-1st-day-of-school/
   - infopic:
       title: 59th Prize Giving & P6 Graduation Ceremony
-      subtitle: Add an image and text
       id: infopic
       button: Click here
       url: /59th-prize-giving-day-graduation-ceremony/
       image: /images/Events/59th PG & P6 Grad/PGD.png
       alt: Image alt text
+  - infobar:
+      title: Events
+      description: Find out what's going on!
+      button: Click here
+      url: /p1-1st-day-of-school/
 ---
