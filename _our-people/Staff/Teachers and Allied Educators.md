@@ -121,7 +121,7 @@ third_nav_title: Staff
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers without Form Class</strong></h4>
+<h4><strong>Year Heads</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -163,24 +163,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_lee_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_lee_theng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Shu Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_hui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Liew Poh Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Liew_Poh_Lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liew_Poh_Lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -228,18 +210,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:surya_effendi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">surya_effendi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Dave Kang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kang_chun_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kang_chun_yong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
