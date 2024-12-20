@@ -65,10 +65,11 @@ third_nav_title: Staff
 <p>Head-of-Department (HOD) Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Celeste Loh Shi Min</p>
+<p>Mdm Farah Khairiah Rifaei
+<br>(SH/NE &amp; Partnership)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:celeste_loh_shi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>celeste_loh_shi_min@schools.gov.sg</u></a>
+<p><a href="mailto:farah_khairiah_rifaei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farah_khairiah_rifaei@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -208,10 +209,11 @@ third_nav_title: Staff
 <p>SH National Education (NE) &amp; Partnership, Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farah Khairiah Bte Rifaei</p>
+<p>Ms Jesslyn Ng Shi Hui
+<br>(AYH, P1 LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farah_khairiah_rifaei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farah_khairiah_rifaei@schools.gov.sg</u></a>
+<p><a href="mailto:ng_shi_hui_jesslyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_shi_hui_jesslyn@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
