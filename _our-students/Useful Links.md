@@ -19,8 +19,6 @@ description: ""
 </p>
 <p><a href="https://scratch.mit.edu/" rel="noopener noreferrer nofollow" target="_blank">Scratch</a>
 </p>
-<p><a href="https://changkatpri.heyhi.sg/" rel="noopener noreferrer nofollow" target="_blank">SmartJen</a>
-</p>
 <p><a href="https://www.ezhishi.net/CKPSebook2022/" rel="noopener noreferrer nofollow" target="_blank">eZhishi (chinese)</a>
 </p>
 <p><a href="/library-opac/" rel="noopener noreferrer nofollow" target="_blank">School Library (OPAC)</a>
