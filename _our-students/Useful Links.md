@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>Useful Links</h3>
 <p><a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">Student ICON</a> |
-<a href="/student-icon/" rel="noopener nofollow" target="_blank">Instructions on Student ICON</a>
+<a href="/student-icon/" rel="noopener nofollow" target="_blank">Instructions</a>
 </p>
 <p><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Student MIMS</a>
 </p>
