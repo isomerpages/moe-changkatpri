@@ -932,17 +932,16 @@ third_nav_title: Staff
 <p>Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Khairil Bin Kamal
-<br>(AYH)</p>
+<p>Mr Khairul Nizam Bin Abdul Aziz (AYH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_khairil_kamal@schools.gov.sg</a>
+<p><a href="mailto:Khairul_Nizam_Abdul_Aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khairul_Nizam_Abdul_Aziz@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farah Khairiah Rifaei
