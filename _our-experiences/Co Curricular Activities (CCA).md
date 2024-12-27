@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Co-Curricular Activities (CCA)</strong></h3>
-<p><strong> “Beyond Academic Excellence,<br>Skills and Values Shape Character”</strong>
+<p><strong>“Beyond Academic Excellence,<br>Skills and Values Shape Character”</strong>
 </p>
 <h4><strong>Vision</strong></h4>
 <p><strong><em>Pupils who are holistically developed through CCA</em></strong>
