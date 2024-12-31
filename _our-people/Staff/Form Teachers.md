@@ -194,7 +194,7 @@ third_nav_title: Staff
 </tr>
 </tbody>
 </table>
-<p><strong>imary Two</strong>
+<p><strong>Primary Two</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -235,11 +235,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nurisham Ismail
-<br>(CCE MTL Coord)</p>
+<p>Mdm Kelly Chan Poh geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurisham_ismail@schools.gov.sg</a>
+<p><a href="mailto:chan_poh_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_poh_geok@moe.edu.sg</a>
 </p>
 </td>
 </tr>
