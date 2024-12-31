@@ -174,27 +174,27 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liew Poh Lian</p>
+<p>Mdm Aznani Bte Aladin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Liew_Poh_Lian@schools.gov.sg</a>
+<p><a href="mailto:aznani_aladin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aznani_aladin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Primary Two</strong>
+<p><strong>imary Two</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
