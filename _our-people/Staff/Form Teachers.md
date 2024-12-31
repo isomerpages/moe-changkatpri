@@ -174,22 +174,22 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liew Poh Lian</p>
+<p>Mdm Aznani Bte Aladin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Liew_Poh_Lian@schools.gov.sg</a>
+<p><a href="mailto:aznani_aladin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aznani_aladin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -235,11 +235,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nurisham Ismail
-<br>(CCE MTL Coord)</p>
+<p>Mdm Kelly Chan Poh Geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurisham_ismail@schools.gov.sg</a>
+<p><a href="mailto:chan_poh_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_poh_geok@moe.edu.sg</a>
 </p>
 </td>
 </tr>
