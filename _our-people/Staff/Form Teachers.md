@@ -235,7 +235,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kelly Chan Poh geok</p>
+<p>Mdm Kelly Chan Poh Geok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_poh_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_poh_geok@moe.edu.sg</a>
