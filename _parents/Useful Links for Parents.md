@@ -16,7 +16,7 @@ visit the blog.</p>
 <li>
 <p>Click <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 submit <strong>MOE GPA Insurance claim</strong> (External link).
-<br>Download the GPA Insurance factsheet <a href="https://drive.google.com/file/d/1olB9ux_OBNsY6dw7ArinsXURpXy9XYED/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> (External
+<br>Download the GPA Insurance factsheet <a href="https://drive.google.com/file/d/15BmPwYLUb0FLrKBqdW8K3DaIIoS5-PMN/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> (External
 link)</p>
 </li>
 <li>
