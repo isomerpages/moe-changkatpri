@@ -259,10 +259,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kamala D/O Swamy (iExamms Coor)</p>
+<p>Miss Yang Jing Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kamala_swamy@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Yang_Jingning@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -285,10 +285,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yang Jing Ning</p>
+<p>Mdm Kamala D/O Swamy (iExamms Coor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Yang_Jingning@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kamala_swamy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
