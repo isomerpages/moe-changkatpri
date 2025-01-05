@@ -206,7 +206,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH National Education (NE) &amp; Partnership (Internel)</p>
+<p>SH National Education (NE) &amp; Partnership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jesslyn Ng Shi Hui
