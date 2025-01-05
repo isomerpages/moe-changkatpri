@@ -66,7 +66,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farah Khairiah Rifaei
-<br>(SH/NE &amp; Partnership)</p>
+<br>(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farah_khairiah_rifaei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farah_khairiah_rifaei@schools.gov.sg</u></a>
@@ -78,11 +78,10 @@ third_nav_title: Staff
 <p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Chern Hui (Mrs Leong)</p>
+<p>Vacant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_chern_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_chern_hui@schools.gov.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -135,7 +134,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD School Staff Developer (SSD)</p>
+<p>HOD School Staff Developer (SSD) / HOD EL (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Stephanie Chong</p>
@@ -171,13 +170,14 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Innovation</p>
+<p>SH 21st Century Competencies (21CC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vacant</p>
+<p>Mr Khairul Nizam Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Khairul_Nizam_Abdul_Aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khairul_Nizam_Abdul_Aziz@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH National Education (NE) &amp; Partnership, Social Studies</p>
+<p>SH National Education (NE) &amp; Partnership (Internel)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jesslyn Ng Shi Hui
@@ -222,10 +222,12 @@ third_nav_title: Staff
 <p>SH Student Well-being &amp; Leadership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Khairil Bin Kamal</p>
+<p>Mdm Cheong Hwee Peng Christina
+<br>(Mrs Chan)
+<br>(Teacher Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_khairil_kamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_khairil_kamal@schools.gov.sg</u></a>
+<p><a href="mailto:cheong_hwee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hwee_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
