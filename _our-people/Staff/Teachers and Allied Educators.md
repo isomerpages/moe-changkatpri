@@ -90,21 +90,23 @@ third_nav_title: Staff
 <p>SCI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maybelline Tan</p>
+<p>Mdm Siti Hajar Mohd Khan (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_huaying_maybelline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_huaying_maybelline@schools.gov.sg</a>
+<p><a href="mailto:siti_hajar_mohamed_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_hajar_mohamed_khan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN</p>
+<p>Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vacant</p>
+<p>Mdm Maybelline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tan_huaying_maybelline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_huaying_maybelline@schools.gov.sg</a>
+</p>
 <p>&nbsp;</p>
 </td>
 </tr>
