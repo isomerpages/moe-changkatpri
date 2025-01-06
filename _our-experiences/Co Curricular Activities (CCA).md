@@ -39,10 +39,19 @@ and will close after the submission deadline.</p>
 <p>or scan QR code
 <br>
 </p>
-<p><strong>For P4 and 5 students only,  l</strong>ink to the application
-form, <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyL9E</a>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="P3 CCA" src="/images/OurExperiences/CCA/p3_cca.png">
+</div>
+<p>
+<br>
+</p>
+<p><strong>For P4 and 5 students only, l</strong>ink to the application form,
+<a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyL9E</a>
 </p>
 <p>or the QR code</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="P4 CCA" src="/images/OurExperiences/CCA/p4_cca.png">
+</div>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
