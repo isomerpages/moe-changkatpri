@@ -34,25 +34,51 @@ areas that they have interest</p>
 </p>
 <p>Note: This application e-form will only be available for a limited period
 and will close after the submission deadline.</p>
-<p><strong>For P3 students only</strong>, link to the application form,
-<a href="https://forms.moe.edu.sg/forms/v886gm" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v886gm</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>For P3 students only</strong>
 </p>
-<p>or scan QR code
-<br>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>For P4 and 5 students only</strong>
 </p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Visit: <a href="https://forms.moe.edu.sg/forms/v886gm" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v886gm</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyL9E</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Or scan QR code</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="P3 CCA" src="/images/OurExperiences/CCA/p3_cca.png">
 </div>
-<p>
-<br>
-</p>
-<p><strong>For P4 and 5 students only, l</strong>ink to the application form,
-<a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyL9E</a>
-</p>
-<p>or the QR code</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Or scan QR code</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="P4 CCA" src="/images/OurExperiences/CCA/p4_cca.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
