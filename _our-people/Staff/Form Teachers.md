@@ -607,7 +607,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Anne Yeong Wai Cheong</p>
+<p>Mdm Anne Yeong Wai Cheng (Mrs Goh)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">yeong_wai_cheng_anne@schools.gov.sg</a>
