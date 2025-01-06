@@ -29,6 +29,20 @@ variant: tiptap
 areas that they have interest</p>
 </li>
 </ul>
+<p><strong>CCA Application e-Form 2025</strong>
+</p>
+<p>Note: This application e-form will only be available for a limited period
+and will close after the submission deadline.</p>
+<p><strong>For P3 students only</strong>, link to the application form,
+<a href="https://forms.moe.edu.sg/forms/v886gm" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v886gm</a>
+</p>
+<p>or scan QR code
+<br>
+</p>
+<p><strong>For P4 and 5 students only,  l</strong>ink to the application
+form, <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyL9E</a>
+</p>
+<p>or the QR code</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
