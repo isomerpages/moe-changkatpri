@@ -134,7 +134,7 @@ of <strong>climate change</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Create a <strong>Micro:bit prototype</strong> to solve problems related
-to wastage of energy and water.</p>
+to wastage of electricity and water.</p>
 </td>
 </tr>
 <tr>
