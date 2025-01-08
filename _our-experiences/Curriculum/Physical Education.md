@@ -101,10 +101,10 @@ living</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>PE Department Programs for 2024:</strong></h4>
+<h4><strong>PE Department Programs for 202:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Inter Class Games (P1 to P6)</p>
+<p>Tiered Version Inter Class Games (P1 to P6)</p>
 </li>
 <li>
 <p>Sports Carnival (P1 to P6)</p>
@@ -113,10 +113,13 @@ living</p>
 <p>P5 Annual School Camp</p>
 </li>
 <li>
-<p>Modular Curricular Activities (MCA) (P3 to P6)</p>
+<p>Learning for Life Programme: SOAR@CKPS (P3 to P6)</p>
 </li>
 <li>
 <p>Superfit Me (P4 to P6)</p>
+</li>
+<li>
+<p>Recess Unstructured Play (P1 to P6)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
