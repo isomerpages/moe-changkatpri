@@ -101,7 +101,7 @@ living</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>PE Department Programs for 202:</strong></h4>
+<h4><strong>PE Department Programs for 2025:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tiered Version Inter Class Games (P1 to P6)</p>
@@ -182,16 +182,56 @@ the Sports Carnival.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P1 to P6:</strong>
-<br>Introduction to various sports &amp; games
-<br>Identification, promotion &amp; enhancement of students’ interests &amp;
-strengths
-<br>Exposure to authentic game-like situations
-<br>Promotion of an active and healthy lifestyle
-<br>Differentiated Instructions in sports modules
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Introduction to various sports &amp; games</p>
+</li>
+<li>
+<p>Identification, promotion &amp; enhancement of students’ interests &amp;
+strengths</p>
+</li>
+<li>
+<p>Exposure to authentic game-like situations</p>
+</li>
+<li>
+<p>Promotion of an active and healthy lifestyle</p>
+</li>
+<li>
+<p>Differentiated Instructions in sports modules
 <br>
-<br>P4 Annual School Camp in Term 3
 <br>
 </p>
+</li>
+<li>
+<p>P1 and P2 Outdoor Education Learning Journeys</p>
+</li>
+<li>
+<p>P5 Annual School Camp in Term 3</p>
+</li>
+<li>
+<p>P3 Cultural Games</p>
+</li>
+<li>
+<p>P4 SwimSafer</p>
+</li>
+<li>
+<p>P4 Unstructured Play</p>
+</li>
+<li>
+<p>P5 Goal Ball</p>
+</li>
+<li>
+<p>P5 Paralympic Volleyball</p>
+</li>
+<li>
+<p>P6 Dragon Boating</p>
+</li>
+<li>
+<p>P6 Cycling</p>
+<p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -204,17 +244,40 @@ strengths
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P3 to P6:</strong>
-<br>Intra-Class Games throughout the year during PE lessons
-<br>Inter-Class Games
-<br>Sports Carnival in Term 4
-<br>NAPFA (P4 &amp; P6) in Term 1
-<br>
-<br><strong>P1 &amp; P2:</strong>
-<br>Intra-Class Games throughout the year during PE lessons
-<br>Inter-Class Games in Term 3
-<br>Sports Carnival in Term 3
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Intra-Class Games throughout the year during PE lessons</p>
+</li>
+<li>
+<p>Inter-Class Games (P4 and P5 in Term 1, P3 in Term 2, and P6 in Term 4)</p>
+</li>
+<li>
+<p>Sports Carnival in Term 4</p>
+</li>
+<li>
+<p>NAPFA (P4 &amp; P6) in Term 2</p>
+<p>
 <br>
 </p>
+</li>
+</ul>
+<p><strong>P1 &amp; P2:</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Intra-Class Games throughout the year during PE lessons</p>
+</li>
+<li>
+<p>Inter-Class Games in Term 3</p>
+</li>
+<li>
+<p>Sports Carnival in Term 4
+<br>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
