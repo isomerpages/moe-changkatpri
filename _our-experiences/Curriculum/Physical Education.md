@@ -123,13 +123,13 @@ living</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/OurExperiences/Curriculum/PE/pe1.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/OurExperiences/Curriculum/PE/pe1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/OurExperiences/Curriculum/PE/pe2.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/OurExperiences/Curriculum/PE/pe2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/OurExperiences/Curriculum/PE/pe3.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/OurExperiences/Curriculum/PE/pe3.jpg">
 </div>
 <p>
 <br>
