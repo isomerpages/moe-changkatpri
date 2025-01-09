@@ -61,14 +61,6 @@ living</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Nizam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (P5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lim Choon Hong</p>
 </td>
 <td rowspan="1" colspan="1">
