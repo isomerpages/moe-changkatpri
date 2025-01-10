@@ -767,7 +767,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Saraswathy Samuel</p>
+<p>Mrs Saraswathy Samuel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">saraswathy_subramaniam_a@schools.gov.sg</a>
