@@ -36,22 +36,22 @@ to tackle various components of the English Language.</p>
 <p>
 <br>
 </p>
-<p>Our writing packages, which begin with the Middle Primary (P3 &amp; P4)
-through to the Upper Primary (P5 &amp; P6), teach pupils to write using
-an array of skills to connect with the readers. Strategies are taught in
-equipping our pupils with the skills to plan&nbsp;their story, work on
-plot development and strengthen the use of language skills when creating
-a masterpiece. At the Lower Primary (P1 &amp; P2), the pupils learn to
-put magic into their writing through a simpler structure.&nbsp; &nbsp;</p>
+<p>Our writing packages, which begin in the Middle Primary (P3 &amp; P4)
+through to the Upper Primary (P5 &amp; P6), teach students to write using
+an array of skills to connect with their readers. Strategies are taught
+to equip our students with the skills to plan their story, work on plot
+development and strengthen the use of language skills when creating a masterpiece.
+At the Lower Primary (P1 &amp; P2), the students learn to put magic into
+their writing through a simpler structure.</p>
 <p>There are many reading strategies when it comes to interacting with a
-text. In CKPS, pupils are taught to be more deliberate readers; one who
-is able to connect with the text, the world and self. They do so through
-effective reading comprehension skills like annotation. Pupils learn to
-stop to ask questions as they read texts so as to glean a better understanding
-of what the author is putting across. This in turn aids pupils in answering
-comprehension questions better. In tackling the Oral Communication component,
-pupils use the EEC strategy in order to Express, Elaborate and Conclude
-a given stimulus presented in Stimulus-based Conversation component.</p>
+text. In CKPS, students are taught to be more deliberate readers – one
+who is able to connect with the text, the world and self. They do so through
+effective reading comprehension skills such as annotation. Students learn
+to stop to ask questions as they read texts so as to glean a better understanding
+of what the author is putting across. In oral communication, students use
+the EEC (Express, Elaborate and Conclude) strategy to communicate their
+ideas wholly and clearly.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/OurExperiences/Curriculum/Eng/eng3.jpg">
 </div>
