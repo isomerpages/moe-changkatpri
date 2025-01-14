@@ -13,3 +13,7 @@ description: ""
 <img style="width: 30%;" height="auto" width="100%" alt="School compound tour" src="/images/Events/2025 P1 1st day/IMG_5907.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="School compound tour" src="/images/Events/2025 P1 1st day/IMG_5885.jpg">
+</div>
+<p></p>
