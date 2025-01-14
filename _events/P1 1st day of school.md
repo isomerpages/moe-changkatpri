@@ -22,3 +22,8 @@ description: ""
 <img style="width: 50%;" height="auto" width="100%" alt="Canteen experience" src="/images/Events/2025 P1 1st day/IMG_5904.jpg">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Canteen experience" src="/images/Events/2025 P1 1st day/IMG_5905.jpg">
+</div>
+<p></p>
