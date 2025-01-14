@@ -73,8 +73,8 @@ themselves safe from sexuality-related risks.</p>
 </p>
 <p><strong>Primary 5</strong>
 </p>
-<p><strong>CCE(FTGP) theme:</strong> Growing Years <strong>Time period:</strong> Term
-2 Week 5</p>
+<p><strong>CCE(FTGP) theme:</strong> Growing Years</p>
+<p><strong>Time period:</strong> Term 1 Week 8 -10</p>
 <p><strong>Lesson title / duration:</strong> The Changes in Me (60 min)
 <br><strong>Lesson overview:</strong> This lesson focuses on helping students
 identify the emotions and stress caused by physical changes during puberty.
@@ -100,10 +100,11 @@ and the impact of such abuse on victims. They also learn how to take precautiona
 measures to be safe and how to seek help for themselves and their friends.
 <br>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
+<p></p>
 <p><strong>Primary 6</strong>
 </p>
-<p><strong>CCE(FTGP) theme:</strong> Growing Years <strong>Time period:</strong> Term
-1 Week 9</p>
+<p><strong>CCE(FTGP) theme:</strong> Growing Years</p>
+<p><strong>Time period:</strong> Term 2 Week 4-5</p>
 <p><strong>Lesson title / duration:</strong> Are We More than Friends? Lesson
 1 (60 min)
 <br><strong>Lesson overview:</strong> In this lesson, students will learn to
@@ -127,7 +128,9 @@ providers.</p>
 <p>9 - Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and can be found <a href="https://form.gov.sg/659364fa58ff0400123d7a9b" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed FormSG opt-out form is to be submitted by 14/02/2024</p>
+The completed FormSG opt-out form is to be submitted by 23/02/2025.</p>
 <p>10 - Parents can contact Mrs Suzanna Bambang, the Sexuality Education
 Coordinator, at suzanna_abdul_rahim@schools.gov.sg for discussion or to
 seek clarification about the school’s Sexuality Education programme.</p>
+<p></p>
+<p></p>
