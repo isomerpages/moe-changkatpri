@@ -71,7 +71,6 @@ third_nav_title: Achievements
 </table>
 <p></p>
 <h4>2023</h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -174,4 +173,5 @@ Mdm Nadjah Omar Alkhatib
 </tr>
 </tbody>
 </table>
-<p>2023</p>
+<p></p>
+<p></p>
