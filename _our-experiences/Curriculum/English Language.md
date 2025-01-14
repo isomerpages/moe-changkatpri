@@ -55,15 +55,20 @@ ideas wholly and clearly.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/OurExperiences/Curriculum/Eng/eng3.jpg">
 </div>
-<h5><strong>Differentiated Instruction, Formative Assessment &amp; Cooperative Learning</strong></h5>
-<p>Our teachers engage the pupils through the use DI, FA and CL to customise
-the pupils’ learning experience. Pupils are often grouped flexibly to suit
-the learning intentions of the lesson. CL structures such as Jigsaw, Numbered
-Heads Together, Rally Robin and Round Robin are commonplace in our classrooms
-as are FA tools such as white boarding, use of exit cards or use of thumbs
-up-down during lessons.</p>
+<p></p>
 <h5><strong>CKPS Whole School Reading Plan</strong></h5>
-<p>We work hand in hand with the National Library Board (NLB) and our Parent
+<p>As part of our efforts to promote a reading culture in the school, we
+work hand in hand with the National Library Board (NLB) and our Parent
 Support Group (PIE Club – Partners in Education Club) in ensuring that
-various groups of pupils are supported in our efforts to promote a Reading
-Culture in Changkat.</p>
+various groups of students are supported in developing a love for reading.</p>
+<p></p>
+<h5><strong>Differentiated Instruction, Formative Assessment &amp; Cooperative Learning</strong></h5>
+<p>Our teachers engage the students through the use differentiated instruction
+to customise the students’ learning experience. Students are often grouped
+flexibly to suit the learning intentions of the lesson. Cooperative learning
+structures such as Jigsaw, Numbered Heads Together, Rally Robin and Round
+Robin are commonplace in our classroom, as are formative assessment tools
+such as white boarding, exit cards and the use of thumbs up-down during
+lessons.</p>
+<h5></h5>
+<p></p>
