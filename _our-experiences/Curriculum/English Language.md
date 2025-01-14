@@ -10,7 +10,7 @@ variant: tiptap
 <p>Developing students to be empathetic communicators, discerning readers
 and creative inquirers</p>
 <h4><strong>Description of Programmes</strong></h4>
-<h5><strong>Stellar @ Changkat</strong></h5>
+<h5><strong>STELLAR @ Changkat</strong></h5>
 <p>A typical English language classroom at both the lower and middle primaries
 is filled with bursts of colours from classrooms displays, mostly handiworks
 of our enthusiastic language learners and of thoughtful chatter of the
