@@ -11,19 +11,19 @@ variant: tiptap
 and creative inquirers</p>
 <h4><strong>Description of Programmes</strong></h4>
 <h5><strong>STELLAR @ Changkat</strong></h5>
-<p>A typical English language classroom at both the lower and middle primaries
-is filled with bursts of colours from classrooms displays, mostly handiworks
-of our enthusiastic language learners and of thoughtful chatter of the
-pupils. The vibrancy in colours and of the pupils’ conversations is mainly
-due to the implementation of STELLAR.</p>
+<p>A typical English language classroom at both the Lower and Middle Primary
+is filled with bursts of colours from classrooms displays – mostly handiworks
+of our enthusiastic language learners – and of thoughtful chatter of the
+students . The vibrancy in colours and of the students’ conversations is
+mainly due to the implementation of STELLAR.</p>
 <p>STELLAR, which stands for Strategies for Teaching English Language Learning
-and Reading, aims to:
-<br>a) strengthen language and reading skills and
-<br>b) promote a positive attitude towards reading in the foundational years
+and Reading, aims to:</p>
+<p>a. strengthen language and reading skills; and</p>
+<p>b. promote a positive attitude towards reading in the foundational years
 through the use of well-established, learner-centred and developmentally
-appropriate pedagogical approaches using authentic children's literature.</p>
-<p>For more information on STELLAR visit:&nbsp;<a href="http://www.stellarliteracy.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.stellarliteracy.sg/</a>
-</p>
+appropriate pedagogical approaches using authentic children’s literature</p>
+<p></p>
+<p></p>
 <h5><strong>Writing, Reading &amp; Oral Communication</strong></h5>
 <p>We believe in equipping our language learners with a host of strategies
 to tackle various components of the English Language.</p>
