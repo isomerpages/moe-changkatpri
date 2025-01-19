@@ -173,7 +173,8 @@ third_nav_title: Staff
 <p>SH 21st Century Competencies (21CC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Nizam Abdul Aziz</p>
+<p>Mr Khairul Nizam Abdul Aziz
+<br>(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Khairul_Nizam_Abdul_Aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khairul_Nizam_Abdul_Aziz@schools.gov.sg</a>
