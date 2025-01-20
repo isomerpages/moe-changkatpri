@@ -56,7 +56,7 @@ and will close after the submission deadline.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyL9E</a>
+<p>Visit: <a href="https://forms.moe.edu.sg/forms/eDyL9E" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyL9E</a>
 </p>
 </td>
 </tr>
