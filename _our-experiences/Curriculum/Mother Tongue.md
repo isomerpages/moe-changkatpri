@@ -28,22 +28,22 @@ variant: tiptap
 <p><strong>This program is conducted in Semester 2 over two consecutive weeks.</strong>
 </p>
 <h4><strong>Primary 3 Language and Cultural Camp</strong></h4>
-<p><strong>The Mother Tongue Language Cultural Camp is a level-based program that aims to provide an immersive environment for students to learn and use their Mother Tongue Language and to appreciate one’s own mother tongue language culture through hands-on activities. This programme will provide students an opportunity to use their Mother Tongue in an authentic environment, reinforce the joy of learning language. </strong>
+<p><strong>The Mother Tongue Language Cultural Camp is a level-based program that aims to provide an immersive environment for students to learn and use their Mother Tongue Language and to appreciate one’s own mother tongue language culture through hands-on activities. This programme will provide students an opportunity to use their Mother Tongue in an authentic environment, reinforce the joy of learning language.</strong>
 </p>
 <h4><strong>Reading Programme</strong></h4>
 <p><strong>Reading is a fulfilling, and nourishing experience for students as their young minds capture and grasp information easily. That is why we strive to cultivate the habit of reading among our students. Students who are avid readers of Mother Tongue language books, usually acquire strong vocabulary in their MT and are able to write creatively. The school provides our students access to books of different genres. In the classroom, guided reading, role-play and many other activities are conducted to encourage students to read books in their Mother Tongue Languages. The school aims to inculcate in students the love in reading MT books.</strong>
 </p>
-<h4><strong>Conversational Chinese and Malay Programme (CCM) </strong></h4>
-<p><strong>The Conversational Chinese/Malay Programme (CCM) is introduced as an enrichment programme for non-Chinese/non-Malay students who are interested in learning a 3rd language and its culture. Learning Conversational Chinese/Malay would facilitate these students to communicate with their counterparts, to better understand and appreciate Chinese/Malay culture and values. It will also help students enhance their rapport with friends of the other race. Feedback from students shows that they enjoyed the class and hope to continue learning the third language when they graduate to a secondary school. This program is conducted in school for both Primary 3 and primary 4 students. </strong>
+<h4><strong>Conversational Chinese and Malay Programme (CCM)</strong></h4>
+<p><strong>The Conversational Chinese/Malay Programme (CCM) is introduced as an enrichment programme for non-Chinese/non-Malay students who are interested in learning a 3rd language and its culture. Learning Conversational Chinese/Malay would facilitate these students to communicate with their counterparts, to better understand and appreciate Chinese/Malay culture and values. It will also help students enhance their rapport with friends of the other race. Feedback from students shows that they enjoyed the class and hope to continue learning the third language when they graduate to a secondary school. This program is conducted in school for both Primary 3 and primary 4 students.</strong>
 </p>
 <h4><strong>Internationalisation Programme (For selected P5 and P6 students)</strong></h4>
-<p><strong>The Internationalisation Programme is to develop in students the 21st Century Competencies of global awareness and cross-cultural skills and sensitivities and to expose these students to Asia and the world and sensitize them to Singapore’s place in the world. We hope to help students cultivate skills and values such as self-reliance, independence, bonding with fellow schoolmates and foster team camaraderie through their participation in this programme. </strong>
+<p><strong>The Internationalisation Programme is to develop in students the 21st Century Competencies of global awareness and cross-cultural skills and sensitivities and to expose these students to Asia and the world and sensitize them to Singapore’s place in the world. We hope to help students cultivate skills and values such as self-reliance, independence, bonding with fellow schoolmates and foster team camaraderie through their participation in this programme.</strong>
 </p>
 <p><strong>This programme resumed since 2023, started with Virtual Internationalisation Program for 2 years with Schools from China and Malaysia, both teachers and students are benefit from the interaction collaboration with them</strong>
 </p>
 <p><strong>In 2025, school hosting students and teachers from Beijing Pei Xin Primary School as part of Internationalisation Programme. This programme provides an excellent platform for our students to interact with their peers from another culture and to learn from one another. It is a fruitful and enriching exchange that fosters meaningful connections and purposeful learning for all involved.</strong>
 </p>
-<p><strong>The school will welcome A Malaysia School to join us for more meaningful learning. </strong>
+<p><strong>The school will welcome A Malaysia School to join us for more meaningful learning.</strong>
 </p>
 <h4><strong>Publication</strong></h4>
 <p><strong>Click on the picture below to read more about the publication.</strong>
@@ -53,6 +53,5 @@ variant: tiptap
 </p>
 <p><strong><a href="https://www.ezhishi.net/CKPSebook2022/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.net/CKPSebook2022/</a></strong>
 </p>
-<p><strong> </strong>
-</p>
+<p></p>
 <p></p>
