@@ -26,7 +26,7 @@ and mission to support the development of potential in students.</p>
 <p>S/N</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Leadership Roles</p>
+<p>*Leadership Roles</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Area of Focus/Advocacy</p>
@@ -72,25 +72,14 @@ can thrive.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To promote a safe and inclusive environment and encourage others to look
-out for peers who need help or support.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Reading Ambassadors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To promote reading culture in school through sharing of book reviews and
-raising awareness on the benefits of reading</p>
+<p>To promote a love for reading and inspire others to explore and enjoy
+books, fostering a reading culture.</p>
 </td>
 </tr>
 <tr>
@@ -101,14 +90,17 @@ raising awareness on the benefits of reading</p>
 <p>VIA Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To lead in raising awareness of environmental issues</p>
+<p>To promote sustainability in school by raising awareness of environmental
+issues.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>ICT Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,19 +122,28 @@ raising awareness on the benefits of reading</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+<p>Peer Support Leaders (P3-P6 Student Leaders)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>To promote a safe and inclusive environment and encourage others to look
+out for peers who need help or support.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Student Leadership Development Plan</strong></h4>
-<p>Our Student Leaders’ Development Plan is referenced from “The Student
+<p>Our Student Leadership Development Plan is referenced from “The Student
 Leadership Challenge, The Five Practices of Exemplary Leadership- MICEE
 model” by Jim Kouzes and Barry Posner.</p>
+<p></p>
+<h5></h5>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/OurExperiences/StudentLeadership/sld.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OurExperiences/StudentLeadership/sl2.png">
 </div>
 <h5><strong>1. Model the Way (Accountability)</strong></h5>
 <p>Student Leaders are expected to lead by example and be good role models.
