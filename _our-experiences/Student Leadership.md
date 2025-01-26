@@ -146,20 +146,22 @@ model” by Jim Kouzes and Barry Posner.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OurExperiences/StudentLeadership/sl2.png">
 </div>
 <h5><strong>1. Model the Way (Accountability)</strong></h5>
-<p>Student Leaders are expected to lead by example and be good role models.
-They will exemplify our school values through their actions and influence
-others to act and follow in being a citizen of honour.</p>
+<p>Student leaders are expected to lead by example and serve as good role
+models. They will exemplify our school values through their actions and
+inspire others to act and follow in being a citizen of honour.</p>
 <h5><strong>2. Inspire a Shared Vision (Effective Collaboration)</strong></h5>
-<p>Equipped with effective communication skills, the Student Leaders share
+<p>Equipped with effective communication skills, the student leaders share
 their ideas with passion and rally others to strive towards a common vision.</p>
 <h5><strong>3. Challenge the Process (Courage)</strong></h5>
-<p>Student Leaders search for challenging opportunities to adapt, grow, and
-invent in their efforts to improve the school experience for all.</p>
+<p>Student leaders seek for challenging opportunities to adapt, grow, and
+innovate in their efforts to improve the school experience for all.</p>
 <h5><strong>4. Enable Others to Act (Respect)</strong></h5>
-<p>Student Leaders thrive as team players, fostering collaboration through
-building trust and facilitating relationships.</p>
+<p>Student leaders thrive as team players, fostering collaboration by building
+trust and facilitating relationships.</p>
 <h5><strong>5. Encourage the Heart (Humility)</strong></h5>
-<p>Student Leaders recognise and appreciate the contributions made by their
+<p>Student leaders recognise and appreciate the contributions made by their
 team members through affirmation, encouragement and showing moral support.
-They make the conscious effort to celebrate milestones to build a strong
+They make a conscious effort to celebrate milestones, building a strong
 sense of collective identity and community spirit.</p>
+<p></p>
+<p></p>
