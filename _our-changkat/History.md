@@ -59,7 +59,7 @@ Changkat Primary School as principal.</p>
 <p><strong>Key milestones</strong>
 </p>
 <p>Changkat celebrates it 50<sup>th</sup> Anniversary (2015)
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/changkat-primary-celebrates-its-50th-anniversary</a>
+<br><a href="https://www.straitstimes.com/singapore/changkat-primary-celebrates-its-50th-anniversary" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/changkat-primary-celebrates-its-50th-anniversary</a>
 </p>
 <p>
 <br>
