@@ -160,23 +160,51 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </table>
 <p></p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Form Teachers’ Briefing</p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1nCM1LpVvEtNB7SY0GfT7YA48CWJSYgcG/view" rel="noopener nofollow" target="_blank">P1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1oHDsbXMhwZxUXgId-86UbDRjmvw8dUVt/view" rel="noopener nofollow" target="_blank">P2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1wG1VH1xFCA0ToNOUtIEpxhE3oq7VBFmI/view" rel="noopener nofollow" target="_blank">P5</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1sS97GWJwws_0JsinuV3T29OOOrVunBX-/view" rel="noopener nofollow" target="_blank">P6</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -188,8 +216,6 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
