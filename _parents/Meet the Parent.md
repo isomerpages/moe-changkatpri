@@ -90,88 +90,8 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teachers’ Briefing</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1sS97GWJwws_0JsinuV3T29OOOrVunBX-/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1wG1VH1xFCA0ToNOUtIEpxhE3oq7VBFmI/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teachers' Slides</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teachers' Slides</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1oHDsbXMhwZxUXgId-86UbDRjmvw8dUVt/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1nCM1LpVvEtNB7SY0GfT7YA48CWJSYgcG/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Form Teachers’ Briefing</p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -182,6 +102,11 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<th rowspan="1" colspan="6">
+<p>Form Teachers’ Briefing</p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1nCM1LpVvEtNB7SY0GfT7YA48CWJSYgcG/view" rel="noopener nofollow" target="_blank">P1</a>
