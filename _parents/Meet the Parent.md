@@ -110,8 +110,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
-</p>
+<p>Form Teachers' Slides</p>
 </td>
 </tr>
 <tr>
@@ -119,8 +118,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
-</p>
+<p>Form Teachers' Slides</p>
 </td>
 </tr>
 <tr>
