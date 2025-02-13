@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Meet the Parents</h3>
-<h4>Follow-up on Meet-the-Parents (MTP) Session 2024</h4>
+<h4>Follow-up on Meet-the-Parents (MTP) Session 2025</h4>
 <p>In order for parents/guardians to better understand our school and level
 programmes and expectations, the school would like to urge all parents/guardians
 to set aside time this week to go through the information in the Meet-the-Parents
@@ -40,7 +40,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1bhyHKFx9i8TU-HVzzzMSyJOSxvO2o8oi/view" rel="noopener noreferrer nofollow" target="_blank">Upper YH's Brief</a>
+<p><a href="https://drive.google.com/file/d/1uYlv5jNEyoQF9NRiQawiMwbNotY6jxaj/view" rel="noopener noreferrer nofollow" target="_blank">Upper YH's Brief</a>
 </p>
 </td>
 </tr>
