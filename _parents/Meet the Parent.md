@@ -53,7 +53,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1hDsRTmcC4dRb-0hTXXx-S1SkEYpnaT-n/view" rel="noopener noreferrer nofollow" target="_blank">Middle YH’s Brief</a>
+<p><a href="https://drive.google.com/file/d/1-FWTSq4ozSUve4mEBOaxhOiKj8qeTAkY/view" rel="noopener noreferrer nofollow" target="_blank">Middle YH’s Brief</a>
 </p>
 </td>
 </tr>
