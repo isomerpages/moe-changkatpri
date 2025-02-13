@@ -66,7 +66,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1oN6UHiHeIYfx_gKxtxaPkSi4-j7L9qxb/view" rel="noopener noreferrer nofollow" target="_blank">Lower YH’s Brief</a>
+<p><a href="https://drive.google.com/file/d/1J-eaFpD_QJ7ix0shbXTHMD2vdPuF2WIM/view" rel="noopener noreferrer nofollow" target="_blank">Lower YH’s Brief</a>
 </p>
 </td>
 </tr>
