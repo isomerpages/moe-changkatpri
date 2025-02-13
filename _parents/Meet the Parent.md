@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Meet the Parents</h3>
-<h4>Follow-up on Meet-the-Parents (MTP) Session 2024</h4>
+<h4>Follow-up on Meet-the-Parents (MTP) Session 2025</h4>
 <p>In order for parents/guardians to better understand our school and level
 programmes and expectations, the school would like to urge all parents/guardians
 to set aside time this week to go through the information in the Meet-the-Parents
@@ -36,11 +36,11 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>Upper Primary (P5 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1LJIZmOj7pD-S2EEryJYRkmaeCmVt9zKR/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/16CMMdoG03XrBDq-Wv3zuMBeFkRV23YW0/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1bhyHKFx9i8TU-HVzzzMSyJOSxvO2o8oi/view" rel="noopener noreferrer nofollow" target="_blank">Upper YH's Brief</a>
+<p><a href="https://drive.google.com/file/d/1uYlv5jNEyoQF9NRiQawiMwbNotY6jxaj/view" rel="noopener noreferrer nofollow" target="_blank">Upper YH's Brief</a>
 </p>
 </td>
 </tr>
@@ -49,11 +49,11 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>Middle Primary (P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/14iH35BOVN_NkwnftdgarXMQjTh4JGoIC/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1TzTSci9x73PSkeAAddxAgwuTVS_eSOty/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1hDsRTmcC4dRb-0hTXXx-S1SkEYpnaT-n/view" rel="noopener noreferrer nofollow" target="_blank">Middle YH’s Brief</a>
+<p><a href="https://drive.google.com/file/d/1-FWTSq4ozSUve4mEBOaxhOiKj8qeTAkY/view" rel="noopener noreferrer nofollow" target="_blank">Middle YH’s Brief</a>
 </p>
 </td>
 </tr>
@@ -62,11 +62,11 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>Lower Primary (P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1hL1hFR90rZTYS2vQTizBY4hf7rqmiHm3/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1t7LLVzIhJK0_yJK-lue90prfVvA0aNDo/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1oN6UHiHeIYfx_gKxtxaPkSi4-j7L9qxb/view" rel="noopener noreferrer nofollow" target="_blank">Lower YH’s Brief</a>
+<p><a href="https://drive.google.com/file/d/1J-eaFpD_QJ7ix0shbXTHMD2vdPuF2WIM/view" rel="noopener noreferrer nofollow" target="_blank">Lower YH’s Brief</a>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1R_TJncrPqgTdSecEHJeLbnxioMBCJj5H/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
+<p><a href="https://drive.google.com/file/d/1sS97GWJwws_0JsinuV3T29OOOrVunBX-/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
 </p>
 </td>
 </tr>
@@ -101,7 +101,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1rX0Bh5hkCHLjM9VFWA0b29SOQWrjZArR/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
+<p><a href="https://drive.google.com/file/d/1wG1VH1xFCA0ToNOUtIEpxhE3oq7VBFmI/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
 </p>
 </td>
 </tr>
@@ -110,8 +110,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1bLNLCdECkT6wuFuxjc02KZUN4jSZO4gm/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
-</p>
+<p>Form Teachers' Slides</p>
 </td>
 </tr>
 <tr>
@@ -119,8 +118,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/17snXz0ULriZ2osuvE-Knk6S3pJbbfEli/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
-</p>
+<p>Form Teachers' Slides</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +126,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1LkCHjiYCLV3XMNc4UbKUOfzhXC_U57Lj/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
+<p><a href="https://drive.google.com/file/d/1oHDsbXMhwZxUXgId-86UbDRjmvw8dUVt/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
 </p>
 </td>
 </tr>
@@ -137,7 +135,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>P1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/14H0isgrcnjRkbrQR9WKJzkDs_b8D2tu4/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
+<p><a href="https://drive.google.com/file/d/1nCM1LpVvEtNB7SY0GfT7YA48CWJSYgcG/view" rel="noopener noreferrer nofollow" target="_blank">Form Teachers' Slides</a>
 </p>
 </td>
 </tr>
