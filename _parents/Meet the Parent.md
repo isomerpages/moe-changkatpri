@@ -25,10 +25,10 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Principal’s Address|</p>
+<p>Principal’s Address</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Year Head (YH)’s Address|</p>
+<p>Year Head (YH)’s Address</p>
 </th>
 </tr>
 <tr>
@@ -85,20 +85,23 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Upper Primary (P5 &amp; P6)</p>
+<p>Upper Primary
+<br>(P5 &amp; P6)</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Middle Primary (P3 &amp; P4)</strong>
+<p><strong>Middle Primary </strong>
+<br><strong>(P3 &amp; P4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lower Primary (P1 &amp; P2)</strong>
+<p><strong>Lower Primary </strong>
+<br><strong>(P1 &amp; P2)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Principal’s Address|</p>
+<p>Principal’s Address</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/16CMMdoG03XrBDq-Wv3zuMBeFkRV23YW0/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
@@ -115,7 +118,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Year Head (YH)’s Address|</p>
+<p>Year Head (YH)’s Address</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1uYlv5jNEyoQF9NRiQawiMwbNotY6jxaj/view" rel="noopener noreferrer nofollow" target="_blank">Upper YH's Brief</a>
