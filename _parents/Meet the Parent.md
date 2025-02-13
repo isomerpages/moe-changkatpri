@@ -36,7 +36,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>Upper Primary (P5 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1LJIZmOj7pD-S2EEryJYRkmaeCmVt9zKR/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/16CMMdoG03XrBDq-Wv3zuMBeFkRV23YW0/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,7 +49,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>Middle Primary (P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/14iH35BOVN_NkwnftdgarXMQjTh4JGoIC/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1TzTSci9x73PSkeAAddxAgwuTVS_eSOty/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p>Lower Primary (P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1hL1hFR90rZTYS2vQTizBY4hf7rqmiHm3/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1t7LLVzIhJK0_yJK-lue90prfVvA0aNDo/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
