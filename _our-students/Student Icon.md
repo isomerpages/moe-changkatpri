@@ -39,12 +39,13 @@ they will not appear in the email address. (eg, Abdullah Bte Mohmand =&gt;
 <br>Student ICON is primarily used to log on to the computers in school. Please
 approach your form teacher if you need your account to be unlocked.</p>
 <p><strong>Password Requirements</strong> 
-<br>With effect from 25 Feb 2025, 1pm. Do take note of the password policy
-below:</p>
+<br>With effect from <strong>25 Feb 2025</strong>, 1pm. Do take note of the
+password policy below:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/npp.png">
 </div>
+<p></p>
 <h4><strong>Student ICON backup</strong></h4>
 <p>From Jun 2024, Student iCON will have a storage limit of 1 GB for each
 student.</p>

@@ -1,0 +1,5 @@
+collections:
+  60anniversary:
+    output: true
+    order:
+      - 60th.md
