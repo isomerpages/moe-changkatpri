@@ -9,6 +9,19 @@ description: ""
 <p>Click&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
 login page.&nbsp;</p>
 <p>Student ICON login details have been given to students.</p>
+<p></p>
+<p>From <strong>7 Apr 2025</strong>, Student iCON will be adopting MIMS as
+an authentication system. With the onboarding of iCON to MIMS, students
+will be able to enjoy the convenience of logging into iCON with the same
+MIMS login ID and password.</p>
+<p>Students, you should have completed the set-up of MIMS challenge questions.</p>
+<p>By set-up of MIMS challenge questions, you will be enabled to perform
+self-service password.</p>
+<p>Click <a href="https://mims.moe.gov.sg/sspr" rel="noopener nofollow" target="_blank">here</a> for
+Student (Self-help) MIMS account password reset (if you have setup MIMS
+challenge questions).</p>
+<p></p>
+<p></p>
 <p>For the ICON email address, please take note the following:</p>
 <ul data-tight="true" class="tight">
 <li>
