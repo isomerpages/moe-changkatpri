@@ -23,12 +23,16 @@ self-service password.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/Posters_MIMS_SSPR_Guide_SetupCQ.png">
 </div>
+<p>Click <a href="https://drive.google.com/file/d/1XKD5Xd4wrEPaZMXQLM9ONOu8lYCm9yKr/view" rel="noopener nofollow" target="_blank">here</a> to
+view a larger version.</p>
 <p>
 <br><strong>How to perform a Self-service Password Reset Guide</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/Posters_MIMS_SSPR_Guide_ResetPW.png">
 </div>
+<p>Click <a href="https://drive.google.com/file/d/1NpXKpRevd_ZLYD2YPb1i_ta30fYcmCzw/view" rel="noopener nofollow" target="_blank">here</a> to
+view the larger version.</p>
 <p>Click <a href="https://mims.moe.gov.sg/sspr" rel="noopener nofollow" target="_blank">here</a> to
 visit Student (Self-help) MIMS account password reset portal.</p>
 <p></p>
