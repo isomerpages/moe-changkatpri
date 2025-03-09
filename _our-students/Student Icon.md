@@ -10,18 +10,30 @@ description: ""
 login page.&nbsp;</p>
 <p>Student ICON login details have been given to students.</p>
 <p></p>
-<p>From <strong>7 Apr 2025</strong>, Student iCON will be adopting MIMS as
-an authentication system. With the onboarding of iCON to MIMS, students
-will be able to enjoy the convenience of logging into iCON with the same
+<p>From <strong>7 Apr 2025</strong>, Student ICON will be adopting MIMS as
+an authentication system. With the onboarding of ICON to MIMS, students
+will be able to enjoy the convenience of logging into ICON with the same
 MIMS login ID and password.</p>
 <p>Students, you should have completed the set-up of MIMS challenge questions.</p>
 <p>By set-up of MIMS challenge questions, you will be enabled to perform
 self-service password.</p>
-<p>Click <a href="https://mims.moe.gov.sg/sspr" rel="noopener nofollow" target="_blank">here</a> for
-Student (Self-help) MIMS account password reset (if you have setup MIMS
-challenge questions).</p>
 <p></p>
+<p><strong>Set-up your MIMS Challenge Questions Guide</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/Posters_MIMS_SSPR_Guide_SetupCQ.png">
+</div>
+<p>
+<br><strong>How to perform a Self-service Password Reset Guide</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/Posters_MIMS_SSPR_Guide_ResetPW.png">
+</div>
+<p>Click <a href="https://mims.moe.gov.sg/sspr" rel="noopener nofollow" target="_blank">here</a> to
+visit Student (Self-help) MIMS account password reset portal.</p>
 <p></p>
+<p><strong>Student ICON</strong>
+</p>
 <p>For the ICON email address, please take note the following:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -37,7 +49,8 @@ they will not appear in the email address. (eg, Abdullah Bte Mohmand =&gt;
 (e.g. Ang_Bee_Bee_1,&nbsp;Ang_Bee_Bee_2) to differentiate their email addresses.</p>
 </li>
 <li>
-<p>Take note of the correct domain is student<strong>S</strong> .edu .sg not&nbsp;<s>student .edu .sg</s>.</p>
+<p>Take note of the correct domain is student<strong>S </strong>.edu .sg
+not&nbsp;<s>student</s> .edu .sg.</p>
 </li>
 </ul>
 <p>Here’s an example of the slip:</p>
@@ -54,7 +67,6 @@ approach your form teacher if you need your account to be unlocked.</p>
 <p><strong>Password Requirements</strong> 
 <br>With effect from <strong>25 Feb 2025</strong>, 1pm. Do take note of the
 password policy below:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student/ICON/npp.png">
 </div>
