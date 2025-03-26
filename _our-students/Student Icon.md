@@ -76,25 +76,25 @@ password policy below:</p>
 </div>
 <p></p>
 <h4><strong>Student ICON backup</strong></h4>
-<p>From Jun 2024, Student iCON will have a storage limit of 1 GB for each
+<p>From Jun 2024, Student ICON will have a storage limit of 1 GB for each
 student.</p>
 <p>Click <a href="https://drive.google.com/file/d/13GsYnQPJ5lxLZdbzKOYtA1X0bkDMGTRM/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-view the guide on how to Backup Student iCON data to your personal Gmail
+view the guide on how to Backup Student ICON data to your personal Gmail
 account</p>
 <p>Click <a href="https://drive.google.com/file/d/121mnowVv5lGzS951wpAiqbEu2bSlDhEF/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-view the guide on how to Backup Student iCON data to your device (who don’t
+view the guide on how to Backup Student ICON data to your device (who don’t
 have a personal Gmail account)</p>
 <p></p>
-<h4><strong>Student iCON Google Takeout</strong></h4>
+<h4><strong>Student </strong>I<strong>CON Google Takeout</strong></h4>
 <p>For Graduating Students and students from <strong>other levels </strong>proceeding
 to private or overseas educational institutions, etc.</p>
-<p>Students will be required to back up their Student iCON data by end of
+<p>Students will be required to back up their Student ICON data by end of
 the current year. E.g. <strong>31 Dec 2024.</strong>
 </p>
 <p>Student may refer to the guide <a href="https://drive.google.com/file/d/1Nmqph_OdTXIhiBvIg0rWK8hbE3HWnwDv/view" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p>Please update your email addresses with the relevant educational institutions
-or organizations which you have provided with your Student iCON email addresses
+or organizations which you have provided with your Student ICON email addresses
 (ending with @<a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>)
 previously to your personal email address.</p>
 <p></p>
