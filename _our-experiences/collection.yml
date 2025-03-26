@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Curriculum/Social Studies.md
       - Curriculum/.keep
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
@@ -11,6 +10,7 @@ collections:
       - Curriculum/Physical Education.md
       - Curriculum/Aesthetics.md
       - Curriculum/Character & Citizenship Education.md
+      - Curriculum/Social Studies.md
       - Curriculum/Infocomm & Technology (ICT).md
       - Curriculum/MOE Sexuality Education.md
       - Distinctive Programmes/Applied Learning Programme (ALP).md
