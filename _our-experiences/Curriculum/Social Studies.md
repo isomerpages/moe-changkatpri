@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum
 ---
-<p><strong>SOCIAL STUDIES</strong>
-</p>
+<h3><strong>SOCIAL STUDIES</strong></h3>
 <p>The Singapore Social Studies curriculum prepares students to be informed,
 concerned, and participative citizens.</p>
 <p>By exploring real-world issues through inquiry and authentic learning,
