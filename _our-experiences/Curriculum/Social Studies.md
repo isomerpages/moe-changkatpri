@@ -209,7 +209,7 @@ of the Indian subcontinent</p>
 <tr>
 <td rowspan="1" colspan="3">
 <p>A primary 6 Social Studies lesson on civilisations and legacies of Ancient
-Green and Rome</p>
+Greece and Rome</p>
 </td>
 </tr>
 <tr>
