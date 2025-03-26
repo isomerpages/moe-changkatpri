@@ -209,6 +209,27 @@ of the Indian subcontinent</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="3">
+<p>A primary 6 Social Studies lesson on civilisations</p>
+<p>and legacies of Ancient Green and Rome</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image019.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
