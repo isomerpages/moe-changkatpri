@@ -43,8 +43,7 @@ informed decisions, and act with empathy.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Museum-based learning at Asian Civilisations Museum:</p>
-<p>‘Asian Adventures’</p>
+<p>Museum-based learning at Asian Civilisations Museum: ‘Asian Adventures’</p>
 </td>
 </tr>
 <tr>
@@ -77,8 +76,8 @@ informed decisions, and act with empathy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Museum-based learning at Geylang Serai Heritage Gallery:</p>
-<p>‘Tales of the Emporium’</p>
+<p>Museum-based learning at Geylang Serai Heritage Gallery: ‘Tales of the
+Emporium’</p>
 <p></p>
 </td>
 </tr>
@@ -112,8 +111,8 @@ informed decisions, and act with empathy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Museum-based learning at Indian Heritage Centre:</p>
-<p>‘Sights and Sounds of Little India’</p>
+<p>Museum-based learning at Indian Heritage Centre: ‘Sights and Sounds of
+Little India’</p>
 </td>
 </tr>
 <tr>
@@ -210,9 +209,8 @@ of the Indian subcontinent</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>A primary 6 Social Studies lesson on civilisations</p>
-<p>and legacies of Ancient Green and Rome</p>
-<p></p>
+<p>A primary 6 Social Studies lesson on civilisations and legacies of Ancient
+Green and Rome</p>
 </td>
 </tr>
 <tr>
