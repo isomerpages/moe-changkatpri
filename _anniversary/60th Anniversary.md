@@ -68,7 +68,6 @@ groups.</p>
 <p><em>Then</em> - Solve questions involving memorising and reciting the multiplication
 tables using old school blue notebook with teacher using OHP, chalk and
 blackboard.</p>
-<p></p>
 <p><em>Now</em> - Solve questions involving the concept of equal sets and
 repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
 <p></p>
@@ -87,7 +86,6 @@ repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
 and engage in a teacher-centred lesson.</p>
 <p><em>Now</em> – Watch a video on a tablet in an EL lesson and participate
 in a quiz using Classpoint.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +100,6 @@ in a quiz using Classpoint.</p>
 <p><em>Then</em> – Participate in a 30 m race/hurdles/high jump.</p>
 <p><strong><em>Only for children aged 12 and below.</em></strong>
 </p>
-<p>&nbsp;</p>
 <p><em>Now</em> – Participate in skills-based activities such as football
 and floorball dribbling.</p>
 <p>&nbsp;</p>
@@ -117,11 +114,9 @@ and floorball dribbling.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> – Play Singapore traditional games.</p>
-<p>&nbsp;</p>
 <p>Now – Play modified Kampong Cricket.</p>
 <p><strong><em>Only for children aged 12 and below.</em></strong>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +144,6 @@ and floorball dribbling.</p>
 scares, ‘ghosts &amp; ghouls’ &amp; scary sound effects.</p>
 <p><strong><em>Only for those aged between 7 and 12 years old.</em></strong>
 </p>
-<p>&nbsp;</p>
 <p>Play games handmade by P6 students using recyclable materials.&nbsp;</p>
 <p>Purchase upcycled handicrafts from retail booths – proceeds will go to
 Food from the Heart <em>(a charitable organisation chosen by the P6 cohort).</em>
@@ -168,10 +162,9 @@ Food from the Heart <em>(a charitable organisation chosen by the P6 cohort).</em
 </td>
 <td rowspan="1" colspan="1">
 <p>Enjoy a big book story reading in the library.</p>
-<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p>Participate in various language game stations featuring Chinese Language,
 Malay Language and Tamil Language.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -201,14 +194,13 @@ Simei and Singapore.
 <p>a hydroponics kit upon completion of the trail</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong>Trail duration: </strong>Approximately 2 to 3 hours&nbsp;</p>
-<p>&nbsp;<strong>Targeted number of participants</strong>: 80 (first-come-first-served
+<p><strong>Targeted number of participants</strong>: 80 (first-come-first-served
 basis)&nbsp;</p>
 <p>
-<br><strong>Trail details </strong>&nbsp;</p>
-<p>Date / Day:  <strong>5 July 2025, Saturday</strong>&nbsp;
-<br>Time&nbsp;:  <strong>8.30 a.m. </strong>(Registration begins at 8.00 a.m.
+<br><strong>Trail details: </strong>&nbsp;</p>
+<p>Date / Day :  <strong>5 July 2025, Saturday</strong>&nbsp;
+<br>Time&nbsp; :  <strong>8.30 a.m. </strong>(Registration begins at 8.00 a.m.
 Trail will begin promptly at 8.30 a.m.)&nbsp;
 <br>Meeting venue:  <strong>Changkat Primary School foyer</strong>
 </p>
