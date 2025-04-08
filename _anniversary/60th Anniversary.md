@@ -200,9 +200,9 @@ basis)&nbsp;</p>
 <p>
 <br><strong>Trail details: </strong>&nbsp;</p>
 <p>Date / Day :  <strong>5 July 2025, Saturday</strong>&nbsp;
-<br>Time&nbsp; :  <strong>8.30 a.m. </strong>(Registration begins at 8.00 a.m.
-Trail will begin promptly at 8.30 a.m.)&nbsp;
-<br>Meeting venue:  <strong>Changkat Primary School foyer</strong>
+<br>Time :  <strong>8.30 a.m. </strong>(Registration begins at 8.00 a.m. Trail
+will begin promptly at 8.30 a.m.)&nbsp;
+<br>Meeting venue :  <strong>Changkat Primary School foyer</strong>
 </p>
 <p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
 </p>
@@ -219,7 +219,7 @@ Trail will begin promptly at 8.30 a.m.)&nbsp;
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Stations <br>(sequence may not be in order on the actual day of the trail)<br><br></strong>
+<p><strong>Stations <br>(sequence may not be in order on the actual day of the trail)<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,7 +281,6 @@ kit! Get hands-on and try growing your own herb.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>&nbsp;</p>
 <p><strong>At Simei Community</strong>
 </p>
 </td>
@@ -299,9 +298,7 @@ kit! Get hands-on and try growing your own herb.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learn about community gardens and sample a refreshing beverage made from
-blue pea flowers in the garden.
-<br>
-</p>
+blue pea flowers in the garden.</p>
 </td>
 </tr>
 <tr>
@@ -315,9 +312,7 @@ blue pea flowers in the garden.
 <td rowspan="1" colspan="1">
 <p>Learn how one of Simei's most popular landmarks, Eastpoint Mall, has conserved
 energy, implemented waste management through recycling efforts, and tackling
-food waste.
-<br>
-</p>
+food waste.</p>
 </td>
 </tr>
 <tr>
@@ -363,9 +358,7 @@ and why it is important to help Singapore conserve energy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learn how ITE College East uses wormery to manage food waste by turning
-it into valuable compost.
-<br>
-</p>
+it into valuable compost.</p>
 </td>
 </tr>
 <tr>
