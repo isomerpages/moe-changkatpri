@@ -128,7 +128,6 @@ and floorball dribbling.</p>
 <p>Social Enterprise Day (SED) – Haunted House (Then)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p></p>
 <p>Social Enterprise Day (SED) Games &amp; Retail (Now)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
