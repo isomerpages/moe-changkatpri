@@ -34,8 +34,7 @@ open to the public, with a maximum of 80 participants from various age
 groups.</p>
 <p></p>
 <p>&nbsp;</p>
-<p><strong>A.&nbsp;&nbsp;&nbsp;&nbsp; CHANGKAT EXPERIENCE (SPECIAL EDITION) – NOW, THEN &amp; BEYOND<br></strong>
-</p>
+<h4>A.&nbsp;&nbsp;&nbsp;&nbsp; CHANGKAT EXPERIENCE (SPECIAL EDITION) – NOW, THEN &amp; BEYOND<strong><br></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -175,8 +174,7 @@ age restrictions for certain activities.
 <br>
 <br>
 </p>
-<p><strong>B.&nbsp;&nbsp;&nbsp;&nbsp; SUSTAINATRAIL@CHANGKAT-SIMEI</strong>
-</p>
+<h4>B.&nbsp;&nbsp;&nbsp;&nbsp; SUSTAINATRAIL@CHANGKAT-SIMEI</h4>
 <p>Changkat Primary School will serve as the launch site of the trail on
 5 July 2025. Through showcasing Changkat Primary School’s and the community’s
 sustainability initiatives, the trail seeks to raise awareness and encourage
