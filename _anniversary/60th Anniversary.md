@@ -69,7 +69,6 @@ tables using old school blue notebook with teacher using OHP, chalk and
 blackboard.</p>
 <p><em>Now</em> - Solve questions involving the concept of equal sets and
 repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -101,7 +100,6 @@ in a quiz using Classpoint.</p>
 </p>
 <p><em>Now</em> – Participate in skills-based activities such as football
 and floorball dribbling.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +145,6 @@ scares, ‘ghosts &amp; ghouls’ &amp; scary sound effects.</p>
 <p>Purchase upcycled handicrafts from retail booths – proceeds will go to
 Food from the Heart <em>(a charitable organisation chosen by the P6 cohort).</em>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -217,13 +214,11 @@ will begin promptly at 8.30 a.m.)&nbsp;
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Stations <br>(sequence may not be in order on the actual day of the trail)<br></strong>
+<p><strong>Stations <br>(sequence may not be in order on the actual day of the trail)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>What to look out for!</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -244,9 +239,7 @@ will begin promptly at 8.30 a.m.)&nbsp;
 <td rowspan="1" colspan="1">
 <p>Learn how to conserve the environment while enhancing food sustainability:
 A showcase on how we can protect the environment and enhance food sustainability
-through vermicomposting.
-<br>
-</p>
+through vermicomposting.</p>
 </td>
 </tr>
 <tr>
@@ -259,9 +252,7 @@ through vermicomposting.
 </td>
 <td rowspan="1" colspan="1">
 <p>Learn about the future of food sustainability in Singapore:<strong> </strong>Advancing
-water conservation, energy efficiency, and sustainable crop production.
-<br>
-</p>
+water conservation, energy efficiency, and sustainable crop production.</p>
 </td>
 </tr>
 <tr>
