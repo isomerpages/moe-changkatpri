@@ -153,10 +153,12 @@ Food from the Heart <em>(a charitable organisation chosen by the P6 cohort).</em
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language Storytelling (Then)</p>
+<p></p>
 <p>Mother Tongue Language Cultural Exposure (Now)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Enjoy a big book story reading in the library.</p>
+<p></p>
 <p>Participate in various language game stations featuring Chinese Language,
 Malay Language and Tamil Language.</p>
 </td>
@@ -372,5 +374,6 @@ our school:&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/changkatps</a>&nbsp;
 <br>Instagram:<u> </u><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/changkat_ps</a>&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
 <p></p>
 <p></p>
