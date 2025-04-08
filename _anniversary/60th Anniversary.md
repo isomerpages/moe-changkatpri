@@ -137,7 +137,8 @@ and floorball dribbling.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Experience the chills and thrills of being in a haunted house with jump
-scares, ‘ghosts &amp; ghouls’ &amp; scary sound effects.
+scares, ‘ghosts &amp; ghouls’ &amp; scary sound effects.</p>
+<p>
 <br><strong><em>Only for those aged between 7 and 12 years old.</em></strong>
 </p>
 <p>Play games handmade by P6 students using recyclable materials.&nbsp;</p>
