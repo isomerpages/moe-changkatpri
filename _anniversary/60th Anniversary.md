@@ -127,9 +127,6 @@ and floorball dribbling.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Social Enterprise Day (SED) Games &amp; Retail (Now)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -138,13 +135,24 @@ and floorball dribbling.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Experience the chills and thrills of being in a haunted house with jump
-scares, ‘ghosts &amp; ghouls’ &amp; scary sound effects.</p>
-<p><strong><em>Only for those aged between 7 and 12 years old.</em></strong>
+scares, ‘ghosts &amp; ghouls’ &amp; scary sound effects.
+<br><strong><em>Only for those aged between 7 and 12 years old.</em></strong>
 </p>
 <p>Play games handmade by P6 students using recyclable materials.&nbsp;</p>
 <p>Purchase upcycled handicrafts from retail booths – proceeds will go to
 Food from the Heart <em>(a charitable organisation chosen by the P6 cohort).</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
