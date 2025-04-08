@@ -60,7 +60,8 @@ third_nav_title: Staff
 <p>Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Aifang Faith</p>
+<p>Mdm Tay Aifang Faith
+<br>(ECG Coord)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_aifang@schools.gov.sg</a>
@@ -730,7 +731,7 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Li Leng Clara
 <br>(Mrs Sim)
-<br>(ECG Coord)</p>
+<br>(VIA Coord)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_li_leng@schools.gov.sg</a>
