@@ -208,11 +208,10 @@ Simei and Singapore.
 basis)&nbsp;</p>
 <p>
 <br><strong>Trail details </strong>&nbsp;</p>
-<p>Date / Day      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-:  <strong>5 July 2025, Saturday</strong>&nbsp;
-<br>Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:  <strong>8.30 a.m. </strong>(Registration
-begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)&nbsp;
-<br>Meeting venue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :  <strong>Changkat Primary School foyer</strong>
+<p>Date / Day:  <strong>5 July 2025, Saturday</strong>&nbsp;
+<br>Time&nbsp;:  <strong>8.30 a.m. </strong>(Registration begins at 8.00 a.m.
+Trail will begin promptly at 8.30 a.m.)&nbsp;
+<br>Meeting venue:  <strong>Changkat Primary School foyer</strong>
 </p>
 <p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
 </p>
