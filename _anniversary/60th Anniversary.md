@@ -203,10 +203,9 @@ the trail</p>
 <p>
 <br><strong>Trail details </strong>&nbsp;</p>
 <p>Date / Day      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-:  5 July 2025, Saturday&nbsp;
-<br>Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-:  8.30 a.m. (Registration begins at 8.00 a.m. Trail will begin promptly
-at 8.30 a.m.)&nbsp;
+:  <strong>5 July 2025, Saturday</strong>&nbsp;
+<br>Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:  <strong>8.30 a.m. </strong>(Registration
+begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)&nbsp;
 <br>Meeting venue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :  Changkat
 Primary School foyer</p>
 <p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
@@ -291,7 +290,6 @@ kit! Get hands-on and try growing your own herb.</p>
 <p>&nbsp;</p>
 <p><strong>At Simei Community</strong>
 <br>
-<br>
 </p>
 </td>
 </tr>
@@ -310,7 +308,6 @@ kit! Get hands-on and try growing your own herb.</p>
 <p>Learn about community gardens and sample a refreshing beverage made from
 blue pea flowers in the garden.
 <br>
-<br>
 </p>
 </td>
 </tr>
@@ -326,7 +323,6 @@ blue pea flowers in the garden.
 <p>Learn how one of Simei's most popular landmarks, Eastpoint Mall, has conserved
 energy, implemented waste management through recycling efforts, and tackling
 food waste.
-<br>
 <br>
 </p>
 </td>
@@ -348,7 +344,6 @@ new and useful.</p>
 <td rowspan="1" colspan="3">
 <p>
 <br><strong>Educational Institutions in Simei</strong>
-<br>
 <br>
 </p>
 </td>
@@ -401,11 +396,12 @@ using household items.</p>
 </table>
 <p>&nbsp;</p>
 <p>You may keep in touch with us through our social media pages and website
-for more information about our</p>
-<p>60<sup>th</sup> anniversary celebration and our school:&nbsp;
+for more information about our 60<sup>th</sup> anniversary celebration and
+our school:&nbsp;
 <br>
 <br>Facebook:<a href="https://www.facebook.com/changkatps" rel="noopener noreferrer nofollow" target="_blank"> </a>
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/changkatps</a>&nbsp;
 <br>Instagram:<u> </u><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/changkat_ps</a>&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
 <p></p>
