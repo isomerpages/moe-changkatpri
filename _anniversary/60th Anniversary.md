@@ -330,8 +330,7 @@ new and useful.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>
-<br><strong>Educational Institutions in Simei</strong>
+<p><strong>Educational Institutions in Simei</strong>
 </p>
 </td>
 </tr>
