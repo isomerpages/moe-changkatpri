@@ -286,7 +286,7 @@ kit! Get hands-on and try growing your own herb.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4</strong>
+<p><strong>1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,7 +302,7 @@ blue pea flowers in the garden.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5</strong>
+<p><strong>2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -316,7 +316,7 @@ food waste.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6</strong>
+<p><strong>3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -335,7 +335,7 @@ new and useful.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4</strong>
+<p><strong>1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -348,7 +348,7 @@ and why it is important to help Singapore conserve energy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5</strong>
+<p><strong>2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -361,7 +361,7 @@ it into valuable compost.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6</strong>
+<p><strong>3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
