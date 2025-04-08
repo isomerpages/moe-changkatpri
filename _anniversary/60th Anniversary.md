@@ -153,12 +153,10 @@ Food from the Heart <em>(a charitable organisation chosen by the P6 cohort).</em
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language Storytelling (Then)</p>
-<p>&nbsp;</p>
 <p>Mother Tongue Language Cultural Exposure (Now)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Enjoy a big book story reading in the library.</p>
-<p>&nbsp;</p>
 <p>Participate in various language game stations featuring Chinese Language,
 Malay Language and Tamil Language.</p>
 </td>
