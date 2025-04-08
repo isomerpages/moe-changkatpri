@@ -252,7 +252,6 @@ begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)&nbsp;
 A showcase on how we can protect the environment and enhance food sustainability
 through vermicomposting.
 <br>
-<br>
 </p>
 </td>
 </tr>
@@ -267,7 +266,6 @@ through vermicomposting.
 <td rowspan="1" colspan="1">
 <p>Learn about the future of food sustainability in Singapore:<strong> </strong>Advancing
 water conservation, energy efficiency, and sustainable crop production.
-<br>
 <br>
 </p>
 </td>
@@ -372,7 +370,6 @@ and why it is important to help Singapore conserve energy.</p>
 <td rowspan="1" colspan="1">
 <p>Learn how ITE College East uses wormery to manage food waste by turning
 it into valuable compost.
-<br>
 <br>
 </p>
 </td>
