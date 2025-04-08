@@ -201,12 +201,13 @@ Simei and Singapore.
 </ol>
 <p><strong>Trail duration: </strong>Approximately 2 to 3 hours&nbsp;
 <br><strong>Targeted number of participants</strong>: 80 (first-come-first-served
-basis)&nbsp;
+basis)&nbsp;</p>
+<p>
 <br><strong>Trail details: </strong>&nbsp;
-<br>Date / Day :  <strong>5 July 2025, Saturday</strong>&nbsp;
-<br>Time :  <strong>8.30 a.m. </strong>
+<br>Date / Day:  <strong>5 July 2025, Saturday</strong>&nbsp;
+<br>Time:  <strong>8.30 a.m. </strong>
 <br>(Registration begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)&nbsp;
-<br>Meeting venue :  <strong>Changkat Primary School foyer</strong>
+<br>Meeting venue:  <strong>Changkat Primary School foyer</strong>
 </p>
 <p></p>
 <p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
