@@ -67,6 +67,7 @@ groups.</p>
 <p><em>Then</em> - Solve questions involving memorising and reciting the multiplication
 tables using old school blue notebook with teacher using OHP, chalk and
 blackboard.</p>
+<p></p>
 <p><em>Now</em> - Solve questions involving the concept of equal sets and
 repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
 </td>
@@ -76,12 +77,12 @@ repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information and Communication Technologies, ICT</p>
-<p>(Now and Then)</p>
+<p>Information and Communication Technologies, ICT (Now and Then)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> – Watch an EL CDIS video shown on a single movable television
 and engage in a teacher-centred lesson.</p>
+<p></p>
 <p><em>Now</em> – Watch a video on a tablet in an EL lesson and participate
 in a quiz using Classpoint.</p>
 </td>
@@ -98,6 +99,7 @@ in a quiz using Classpoint.</p>
 <p><em>Then</em> – Participate in a 30 m race/hurdles/high jump.</p>
 <p><strong><em>Only for children aged 12 and below.</em></strong>
 </p>
+<p></p>
 <p><em>Now</em> – Participate in skills-based activities such as football
 and floorball dribbling.</p>
 </td>
@@ -110,7 +112,9 @@ and floorball dribbling.</p>
 <p>Interclass Games (Then &amp; Now)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Then</em> – Play Singapore traditional games.</p>
+<p><em>Then</em> – Play Singapore traditional games.
+<br>
+</p>
 <p>Now – Play modified Kampong Cricket.</p>
 <p><strong><em>Only for children aged 12 and below.</em></strong>
 </p>
