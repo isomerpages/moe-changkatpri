@@ -201,8 +201,7 @@ Simei and Singapore.
 </ol>
 <p><strong>Trail duration: </strong>Approximately 2 to 3 hours&nbsp;
 <br><strong>Targeted number of participants</strong>: 80 (first-come-first-served
-basis)&nbsp;</p>
-<p>
+basis)&nbsp;
 <br><strong>Trail details: </strong>&nbsp;
 <br>Date / Day :  <strong>5 July 2025, Saturday</strong>&nbsp;
 <br>Time :  <strong>8.30 a.m. </strong>
