@@ -292,7 +292,6 @@ kit! Get hands-on and try growing your own herb.</p>
 <td rowspan="1" colspan="3">
 <p>&nbsp;</p>
 <p><strong>At Simei Community</strong>
-<br>
 </p>
 </td>
 </tr>
@@ -347,7 +346,6 @@ new and useful.</p>
 <td rowspan="1" colspan="3">
 <p>
 <br><strong>Educational Institutions in Simei</strong>
-<br>
 </p>
 </td>
 </tr>
