@@ -205,10 +205,11 @@ basis)&nbsp;</p>
 <p>
 <br><strong>Trail details: </strong>&nbsp;
 <br>Date / Day :  <strong>5 July 2025, Saturday</strong>&nbsp;
-<br>Time :  <strong>8.30 a.m. </strong>(Registration begins at 8.00 a.m. Trail
-will begin promptly at 8.30 a.m.)&nbsp;
+<br>Time :  <strong>8.30 a.m. </strong>
+<br>(Registration begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)&nbsp;
 <br>Meeting venue :  <strong>Changkat Primary School foyer</strong>
 </p>
+<p></p>
 <p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
 </p>
 <table style="minWidth: 75px">
