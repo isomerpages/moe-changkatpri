@@ -126,7 +126,6 @@ and floorball dribbling.</p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
-<p></p>
 <p>Social Enterprise Day (SED) Games &amp; Retail (Now)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
