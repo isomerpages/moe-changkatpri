@@ -68,10 +68,10 @@ groups.</p>
 <p><em>Then</em> - Solve questions involving memorising and reciting the multiplication
 tables using old school blue notebook with teacher using OHP, chalk and
 blackboard.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><em>Now</em> - Solve questions involving the concept of equal sets and
 repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,6 @@ repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> – Watch an EL CDIS video shown on a single movable television
 and engage in a teacher-centred lesson.</p>
-<p>&nbsp;</p>
 <p><em>Now</em> – Watch a video on a tablet in an EL lesson and participate
 in a quiz using Classpoint.</p>
 <p>&nbsp;</p>
