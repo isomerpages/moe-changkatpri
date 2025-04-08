@@ -377,7 +377,6 @@ using household items.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>You may keep in touch with us through our social media pages and website
 for more information about our 60<sup>th</sup> anniversary celebration and
 our school:&nbsp;
