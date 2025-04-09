@@ -206,10 +206,12 @@ basis)</p>
 <p></p>
 <h4><strong>Stations!</strong></h4>
 <p>What to look out for... (sequence may not be in order on the actual day
-of the trail)
-<br>
-<br><strong>Changkat Primary School</strong>
-</p>
+of the trail)</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Changkat Primary School</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -249,6 +251,14 @@ kit! Get hands-on and try growing your own herb.</div>
 </div>
 </div>
 </div>
+<p></p>
+</div>
+</details>
+</div>
+<p>
+<br>
+<br><strong>Changkat Primary School</strong>
+</p>
 <p></p>
 <p><strong>At Simei Community</strong>
 </p>
