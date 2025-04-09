@@ -155,38 +155,73 @@ and floorball dribbling.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language Storytelling (Then)</p>
 <p></p>
-<p>Mother Tongue Language Cultural Exposure (Now)</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Enjoy a big book story reading in the library.</p>
 <p></p>
-<p>Participate in various language game stations featuring Chinese Language,
-Malay Language and Tamil Language.</p>
+<p></p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mother Tongue Language Cultural Exposure (Now)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participate in various language game stations featuring Chinese Language,
+Malay Language and Tamil Language.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Live Performances</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be entertained by out talented young musicians, dancers &amp; singers
+from our in-house Changkat’s Got Talent.</p>
+<p></p>
+<p>Enjoy performances by our schools Choir, Dance Club, Guitar Ensemble &amp;
+Wushu Team.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Enterprise Day (SED) – Haunted House (Then)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Experience the chills and thrills of being in a haunted house with jump
+scares, ‘ghosts &amp; ghouls’ &amp; scary sound effects.</p>
+<p><strong>Only for those aged between 7 and 12 years old.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Social Enterprise Day (SED) Games &amp; Retail (Now)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Play games handmade by P6 students using recyclable materials.</p>
+<p>Purchase upcycled handicrafts from retail booths – proceeds will go to
+Food from the Heart (<em>a charitable organisation chosen by the P6 cohort</em>).</p>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
