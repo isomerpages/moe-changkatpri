@@ -85,65 +85,74 @@ Queue up outside the venues.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mathematics Classroom Experience (Now &amp; Then)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> - Solve questions involving memorising and reciting the multiplication
 tables using old school blue notebook with teacher using OHP, chalk and
 blackboard.</p>
-<p></p>
-<p><em>Now</em> - Solve questions involving the concept of equal sets and
-repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><em>Now</em> - Solve questions involving the concept of equal sets and
+repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Information and Communication Technologies, ICT (Now &amp; Then)</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> – Watch an EL CDIS video shown on a single movable television
 and engage in a teacher-centred lesson.</p>
-<p></p>
-<p><em>Now</em> – Watch a video on a tablet in an EL lesson and participate
-in a quiz using Classpoint.</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><em>Now</em> – Watch a video on a tablet in an EL lesson and participate
+in a quiz using Classpoint.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>3</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Sports Day (Then) and Sports Carnival (Now)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> – Participate in a 30 m race/hurdles/high jump.</p>
 <p><strong>Only for children aged 12 and below.</strong>
 </p>
-<p></p>
-<p><em>Now</em> – Participate in skills-based activities such as football
-and floorball dribbling.</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><em>Now</em> – Participate in skills-based activities such as football
+and floorball dribbling.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>4</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Interclass Games (Now &amp; Then)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> – Play Singapore traditional games.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><em>Now</em> – Play modified Kampong Cricket.</p>
 <p><strong>Only for children aged 12 and below.</strong>
 </p>
@@ -155,14 +164,9 @@ and floorball dribbling.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language Storytelling (Then)</p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Enjoy a big book story reading in the library.</p>
-<p></p>
-<p></p>
 <p></p>
 </td>
 </tr>
@@ -217,9 +221,7 @@ Food from the Heart (<em>a charitable organisation chosen by the P6 cohort</em>)
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
+<h3></h3>
 <h3><strong>B. SUSTAINATRAIL@CHANGKAT-SIMEI</strong></h3>
 <p>Changkat Primary School will serve as the launch site of the trail on
 5 July 2025. Through showcasing Changkat Primary School’s and the community’s
