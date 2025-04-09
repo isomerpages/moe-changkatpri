@@ -85,11 +85,6 @@ Queue up outside the venues.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
 </td>
