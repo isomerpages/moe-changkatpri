@@ -148,17 +148,6 @@ Food from the Heart <em>(a charitable organisation chosen by the P6 cohort).</em
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
