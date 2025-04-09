@@ -59,6 +59,7 @@ Pin them up on our blue wall to share your thoughts!</p>
 </details>
 </div>
 <p></p>
+<p></p>
 <p><strong>Changkat Experience Details:</strong>
 </p>
 <p>No registration is required. Free for all to attend, no registration required.
