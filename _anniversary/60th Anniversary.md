@@ -34,7 +34,7 @@ open to the public, with a maximum of 80 participants from various age
 groups.</p>
 <p></p>
 <p>&nbsp;</p>
-<h4>NOW, THEN &amp; BEYOND<br>CHANGKAT EXPERIENCE (SPECIAL EDITION)  <strong><br></strong></h4>
+<h4>NOW, THEN &amp; BEYOND<br>CHANGKAT EXPERIENCE (SPECIAL EDITION) <strong><br></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -176,44 +176,47 @@ Malay Language and Tamil Language.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>Most experiences are suitable for all age groups and do take note of the
-age restrictions for certain activities.
-<br>
-<br>
-</p>
+<p></p>
 <h4>B.&nbsp;&nbsp;&nbsp;&nbsp; SUSTAINATRAIL@CHANGKAT-SIMEI</h4>
 <p>Changkat Primary School will serve as the launch site of the trail on
 5 July 2025. Through showcasing Changkat Primary School’s and the community’s
 sustainability initiatives, the trail seeks to raise awareness and encourage
 individuals and groups to take meaningful actions toward building a greener
-Simei and Singapore.
-<br>
-<br>
-</p>
+Simei and Singapore.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Here's what you get</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Participants will receive a:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>complimentary guidebook to accompany their sustainability trail</p>
-</li>
-<li>
-<p>a hydroponics kit upon completion of the trail</p>
-</li>
-</ol>
-<p><strong>Trail duration: </strong>Approximately 2 to 3 hours&nbsp;
-<br><strong>Targeted number of participants</strong>: 80 (first-come-first-served
-basis)&nbsp;</p>
-<p>
-<br><strong>Trail details: </strong>&nbsp;
-<br>Date / Day:  <strong>5 July 2025, Saturday</strong>&nbsp;
-<br>Time:  <strong>8.30 a.m. </strong>
-<br>(Registration begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)&nbsp;
-<br>Meeting venue:  <strong>Changkat Primary School foyer</strong>
+<p>1. complimentary guidebook to accompany their sustainability trail</p>
+<p>2. a hydroponics kit upon completion of the trail</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Trail duration</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Approximately <strong>2 to 3 hours </strong> 
+<br>Targeted number of participants: <strong>80</strong> (first-come-first-served
+basis)</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Trail details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Date / Day:  <strong>5 July 2025, Saturday</strong> 
 </p>
+<p>Time:  <strong>8.30 a.m</strong>.</p>
+<p>(Registration begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)</p>
+<p>Meeting venue:  Changkat Primary School foyer</p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
 <p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
 </p>
 <p></p>
-<h4><strong> Stations!</strong></h4>
+<h4><strong>Stations!</strong></h4>
 <p><strong>What to look out for...<br>(sequence may not be in order on the actual day of the trail)</strong>
 <br>
 </p>
