@@ -233,7 +233,8 @@ individuals and groups to take meaningful actions toward building a greener
 Simei and Singapore.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Here's what you get</summary>
+<summary><strong>Here's what you get</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Participants will receive a:</p>
 <p>1. complimentary guidebook to accompany their sustainability trail</p>
@@ -241,7 +242,8 @@ Simei and Singapore.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Trail duration</summary>
+<summary><strong>Trail duration/Targeted number of participants </strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Approximately <strong>2 to 3 hours </strong>
 <br>Targeted number of participants: <strong>80</strong> (first-come-first-served
@@ -249,7 +251,8 @@ basis)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Trail details</summary>
+<summary><strong>Trail details</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date / Day:  <strong>5 July 2025, Saturday</strong>
 </p>
@@ -260,12 +263,6 @@ basis)</p>
 </details>
 </div>
 <p></p>
-<p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
-</p>
-<p></p>
-<h4><strong>Stations!</strong></h4>
-<p>What to look out for... (sequence may not be in order on the actual day
-of the trail)</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Changkat Primary School</strong>
