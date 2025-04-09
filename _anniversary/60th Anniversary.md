@@ -109,8 +109,7 @@ repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information and Communication Technologies, ICT</p>
-<p>(Now and Then)</p>
+<p>Information and Communication Technologies, ICT (Now and Then)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,7 +264,7 @@ basis)</p>
 <p>Click on the link [link to be updated once website content is up] or scan
 the QR code to register!</p>
 <p></p>
-<h4>Stations </h4>
+<h4>Stations</h4>
 <p>(sequence may not be in order on the actual day of the trail)</p>
 <p><strong>What to look out for!</strong>
 </p>
