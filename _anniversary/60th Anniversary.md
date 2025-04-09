@@ -263,8 +263,6 @@ the QR code to register!</p>
 <p></p>
 <h4>Stations</h4>
 <p>(sequence may not be in order on the actual day of the trail)</p>
-<p><strong>What to look out for!</strong>
-</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Changkat Primary School</strong>
