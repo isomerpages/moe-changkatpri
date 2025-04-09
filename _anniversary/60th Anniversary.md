@@ -40,7 +40,7 @@ are suitable for all age groups. Do take note of the age restrictions for
 certain activities</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Attendees of the Changkat Experience</summary>
+<summary>Attendees of the Changkat Experience will...</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>• Receive a ‘<strong>Report Card</strong>’ that contains the following
 (per family):</p>
@@ -51,7 +51,7 @@ participating in various experiences</p>
 <p>• Stand a chance to receive a <strong>60th Anniversary Handmade Memento</strong> from
 the Redemption Booth, should you complete a set number of ‘experience stamps’!
 Whilst stocks last!</p>
-<p>•	<strong>Pen down your hopes and wishes for the schoo</strong>l or the <strong>most memorable moments</strong> you’ve
+<p>• <strong>Pen down your hopes and wishes for the schoo</strong>l or the <strong>most memorable moments</strong> you’ve
 had with us (if you’ve been part of the Changkat Family in one way or another)!
 Pin them up on our blue wall to share your thoughts!</p>
 </div>
