@@ -34,8 +34,7 @@ open to the public, with a maximum of 80 participants from various age
 groups.</p>
 <p></p>
 <p>&nbsp;</p>
-<h4></h4>
-<h4>CHANGKAT EXPERIENCE (SPECIAL EDITION) – NOW, THEN &amp; BEYOND<strong><br></strong></h4>
+<h4>NOW, THEN &amp; BEYOND<br>CHANGKAT EXPERIENCE (SPECIAL EDITION)  <strong><br></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -214,8 +213,11 @@ basis)&nbsp;</p>
 <p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
 </p>
 <p></p>
-<p><strong> What to look out for... for each station!<br>(sequence may not be in order on the actual day of the trail)</strong>
+<h4><strong> Stations!</strong></h4>
+<p><strong>What to look out for...<br>(sequence may not be in order on the actual day of the trail)</strong>
 <br>
+</p>
+<p>
 <br><strong>Changkat Primary School</strong>
 </p>
 <div class="isomer-card-grid">
@@ -260,7 +262,6 @@ kit! Get hands-on and try growing your own herb.</div>
 <p></p>
 <p><strong>At Simei Community</strong>
 </p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -302,6 +303,47 @@ new and useful.</div>
 </div>
 <p></p>
 <p></p>
+<p><strong>Educational Institutions in Simei</strong>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore University of Technology and Design (SUTD)" src="/images/Anniversary photo/sutd_logo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Singapore University of Technology and Design (SUTD)</div>
+<div class="isomer-card-description">Solar Energy showcase: Learn from an SUTD Professor how solar energy works
+and why it is important to help Singapore conserve energy.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ITE College East" src="/images/Anniversary photo/ITE_College_East.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ITE College East</div>
+<div class="isomer-card-description">Learn how ITE College East uses wormery to manage food waste by turning
+it into valuable compost.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Changkat Changi Secondary School" src="/images/Anniversary photo/ccss.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Changkat Changi Secondary School</div>
+<div class="isomer-card-description">Learn how secondary students play their part in environmental sustainability
+and discover ways to propagate plants through processes like stem-cutting,
+using household items.</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
@@ -316,57 +358,7 @@ new and useful.</div>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>At Simei Community</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learn about community gardens and sample a refreshing beverage made from
-blue pea flowers in the garden.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eastpoint Mall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learn how one of Simei's most popular landmarks, Eastpoint Mall, has conserved
-energy, implemented waste management through recycling efforts, and tackling
-food waste.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Changi Simei Community Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learn how to creatively upcycle everyday household items into something
-new and useful.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Educational Institutions in Simei</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
