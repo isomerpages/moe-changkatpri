@@ -61,6 +61,8 @@ Pin them up on our blue wall to share your thoughts!</p>
 <p></p>
 <p><strong>Changkat Experience Details:</strong>
 </p>
+<p>No registration is required. Free for all to attend, no registration required.
+Queue up outside the venues.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -84,8 +86,7 @@ Pin them up on our blue wall to share your thoughts!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>No registration is required. Free for all to attend, no registration required.
-Queue up outside the venues.</p>
+<p></p>
 </td>
 </tr>
 <tr>
