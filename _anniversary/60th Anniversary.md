@@ -34,7 +34,8 @@ open to the public, with a maximum of 80 participants from various age
 groups.</p>
 <p></p>
 <p>&nbsp;</p>
-<h4>A.&nbsp;&nbsp;&nbsp;&nbsp; CHANGKAT EXPERIENCE (SPECIAL EDITION) – NOW, THEN &amp; BEYOND<strong><br></strong></h4>
+<hr>
+<h4>CHANGKAT EXPERIENCE (SPECIAL EDITION) – NOW, THEN &amp; BEYOND<strong><br></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
