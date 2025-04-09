@@ -35,7 +35,8 @@ groups.</p>
 <p></p>
 <p>&nbsp;</p>
 <h3><strong>A. NOW, THEN &amp; BEYOND</strong></h3>
-<h4><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION)</strong></h4>
+<p><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION)</strong>
+</p>
 <p>Most experiences are suitable for all age groups. Do take note of the
 age restrictions for certain activities</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
