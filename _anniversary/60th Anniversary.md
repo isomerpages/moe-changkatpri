@@ -35,20 +35,6 @@ groups.</p>
 <p></p>
 <p>&nbsp;</p>
 <h4></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
 <h4>CHANGKAT EXPERIENCE (SPECIAL EDITION) – NOW, THEN &amp; BEYOND<strong><br></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -227,6 +213,100 @@ basis)&nbsp;</p>
 <p></p>
 <p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
 </p>
+<p></p>
+<p><strong> What to look out for... for each station!<br>(sequence may not be in order on the actual day of the trail)</strong>
+<br>
+<br><strong>Changkat Primary School</strong>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wormery" src="/images/wormery.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Changkat Primary School Wormery</div>
+<div class="isomer-card-description">Learn how to conserve the environment while enhancing food sustainability:
+A showcase on how we can protect the environment and enhance food sustainability
+through vermicomposting.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="hydroponics and aquaponics" src="/images/hydroponics_and_aquaponics.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Hydroponics and Aquaponics</div>
+<div class="isomer-card-description">Learn about the future of food sustainability in Singapore: Advancing
+water conservation, energy efficiency, and sustainable crop production.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hydroponics kit" src="/images/hydroponics_kit.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Hydroponics kit</div>
+<div class="isomer-card-description">Experience hydroponic farming firsthand with your very own DIY hydroponics
+kit! Get hands-on and try growing your own herb.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p><strong>At Simei Community</strong>
+</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Farm@116" src="/images/Anniversary photo/Farm_116_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Farm@116</div>
+<div class="isomer-card-description">Learn about community gardens and sample a refreshing beverage made from
+blue pea flowers in the garden.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Eastpoint Mall" src="/images/Anniversary photo/eastpoint_mall.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Eastpoint Mall</div>
+<div class="isomer-card-description">Learn how one of Simei's most popular landmarks, Eastpoint Mall, has conserved
+energy, implemented waste management through recycling efforts, and tackling
+food waste.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Changi Simei Community Club" src="/images/Anniversary photo/changi_simei_community_club.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Changi Simei Community Club</div>
+<div class="isomer-card-description">Learn how to creatively upcycle everyday household items into something
+new and useful.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -234,66 +314,6 @@ basis)&nbsp;</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>No</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Stations <br>(sequence may not be in order on the actual day of the trail)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>What to look out for!</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Changkat Primary School</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wormery</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learn how to conserve the environment while enhancing food sustainability:
-A showcase on how we can protect the environment and enhance food sustainability
-through vermicomposting.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hydroponics and Aquaponics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learn about the future of food sustainability in Singapore:<strong> </strong>Advancing
-water conservation, energy efficiency, and sustainable crop production.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hydroponics kit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Experience hydroponic farming firsthand with your very own DIY hydroponics
-kit! Get hands-on and try growing your own herb.</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>At Simei Community</strong>
@@ -306,7 +326,7 @@ kit! Get hands-on and try growing your own herb.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Farm@116
+<p>
 <br>
 <br>
 </p>
