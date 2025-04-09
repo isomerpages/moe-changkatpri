@@ -70,11 +70,11 @@ Pin them up on our blue wall to share your thoughts!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>No </strong>
+<p><strong>No</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Experience – 	</strong>
+<p><strong>Experience –</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,17 +148,27 @@ and floorball dribbling.</p>
 <p>Interclass Games (Then &amp; Now)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>Then</em> – Play Singapore traditional games.</p>
+<p><em>Now</em> – Play modified Kampong Cricket.</p>
+<p><strong>Only for children aged 12 and below.</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Storytelling (Then)</p>
+<p></p>
+<p>Mother Tongue Language Cultural Exposure (Now)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Enjoy a big book story reading in the library.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p>Participate in various language game stations featuring Chinese Language,
+Malay Language and Tamil Language.</p>
 <p></p>
 </td>
 </tr>
