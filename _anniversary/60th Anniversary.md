@@ -35,7 +35,7 @@ groups.</p>
 <p></p>
 <p>&nbsp;</p>
 <h3><strong>A. NOW, THEN &amp; BEYOND</strong></h3>
-<h4><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION) </strong></h4>
+<h4><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION)</strong></h4>
 <p>Most experiences are suitable for all age groups. Do take note of the
 age restrictions for certain activities</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -224,7 +224,7 @@ Food from the Heart (<em>a charitable organisation chosen by the P6 cohort</em>)
 <p></p>
 <p></p>
 <p></p>
-<h4><strong>B. SUSTAINATRAIL@CHANGKAT-SIMEI</strong></h4>
+<h3><strong>B. SUSTAINATRAIL@CHANGKAT-SIMEI</strong></h3>
 <p>Changkat Primary School will serve as the launch site of the trail on
 5 July 2025. Through showcasing Changkat Primary School’s and the community’s
 sustainability initiatives, the trail seeks to raise awareness and encourage
@@ -265,7 +265,8 @@ basis)</p>
 <p>Click on the link [link to be updated once website content is up] or scan
 the QR code to register!</p>
 <p></p>
-<h4>Stations (sequence may not be in order on the actual day of the trail)</h4>
+<h4>Stations </h4>
+<p>(sequence may not be in order on the actual day of the trail)</p>
 <p><strong>What to look out for!</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -408,10 +409,11 @@ using household items.</div>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<h3>CONNECT WITH US</h3>
 <p>You may keep in touch with us through our social media pages and website
-for more information about our 60<sup>th</sup> anniversary celebration and
-our school:&nbsp;
-<br>
+for more information about our 60th anniversary celebration and our school:
 <br>Facebook:<a href="https://www.facebook.com/changkatps" rel="noopener noreferrer nofollow" target="_blank"> </a>
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/changkatps</a>&nbsp;
 <br>Instagram:<u> </u><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/changkat_ps</a>&nbsp;</p>
