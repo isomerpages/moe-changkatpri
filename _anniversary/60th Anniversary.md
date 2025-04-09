@@ -4,7 +4,7 @@ permalink: /60th/
 variant: tiptap
 description: 60th Anniversary
 ---
-<h4>OVERVIEW</h4>
+<h4><strong>OVERVIEW</strong></h4>
 <p>Changkat Primary School will be celebrating our 60th Anniversary on 5
 July 2025. This milestone event, themed “Changkat Experience (Special Edition)
 – Then, Now &amp; Beyond”, seeks to unite our cherished community of past
@@ -34,7 +34,9 @@ open to the public, with a maximum of 80 participants from various age
 groups.</p>
 <p></p>
 <p>&nbsp;</p>
-<h4>NOW, THEN &amp; BEYOND<br>CHANGKAT EXPERIENCE (SPECIAL EDITION) <strong><br></strong></h4>
+<h4><strong>A. NOW, THEN &amp; BEYOND</strong></h4>
+<p>CHANGKAT EXPERIENCE (SPECIAL EDITION) <strong><br></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -166,7 +168,7 @@ Malay Language and Tamil Language.</p>
 </table>
 <p>&nbsp;</p>
 <p></p>
-<h4>B.&nbsp;&nbsp;&nbsp;&nbsp; SUSTAINATRAIL@CHANGKAT-SIMEI</h4>
+<h4><strong>B. SUSTAINATRAIL@CHANGKAT-SIMEI</strong></h4>
 <p>Changkat Primary School will serve as the launch site of the trail on
 5 July 2025. Through showcasing Changkat Primary School’s and the community’s
 sustainability initiatives, the trail seeks to raise awareness and encourage
