@@ -58,6 +58,9 @@ Pin them up on our blue wall to share your thoughts!</p>
 </details>
 </div>
 <p></p>
+<p></p>
+<p><strong>Changkat Experience Details:</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -67,16 +70,22 @@ Pin them up on our blue wall to share your thoughts!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>No</strong>
+<p><strong>No </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Experience</strong>
+<p><strong>Experience – 	</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>What to look out for!</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>No registration is required. Free for all to attend, no registration required.
+Queue up outside the venues.</p>
 </td>
 </tr>
 <tr>
@@ -93,6 +102,7 @@ blackboard.</p>
 <p></p>
 <p><em>Now</em> - Solve questions involving the concept of equal sets and
 repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -100,7 +110,9 @@ repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information and Communication Technologies, ICT (Now and Then)</p>
+<p>Information and Communication Technologies, ICT</p>
+<p>(Now and Then)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> – Watch an EL CDIS video shown on a single movable television
@@ -108,6 +120,7 @@ and engage in a teacher-centred lesson.</p>
 <p></p>
 <p><em>Now</em> – Watch a video on a tablet in an EL lesson and participate
 in a quiz using Classpoint.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -116,15 +129,15 @@ in a quiz using Classpoint.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sports Day (Then) and Sports Carnival (Now)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> – Participate in a 30 m race/hurdles/high jump.</p>
-<p><strong><em>Only for children aged 12 and below.</em></strong>
+<p><strong>Only for children aged 12 and below.</strong>
 </p>
 <p></p>
 <p><em>Now</em> – Participate in skills-based activities such as football
 and floorball dribbling.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -135,59 +148,37 @@ and floorball dribbling.</p>
 <p>Interclass Games (Then &amp; Now)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Then</em> – Play Singapore traditional games.
-<br>
-</p>
-<p>Now – Play modified Kampong Cricket.</p>
-<p><strong><em>Only for children aged 12 and below.</em></strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Social Enterprise Day (SED) – Haunted House (Then)</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Social Enterprise Day (SED) Games &amp; Retail (Now)</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Experience the chills and thrills of being in a haunted house with jump
-scares, ‘ghosts &amp; ghouls’ &amp; scary sound effects.</p>
-<p>
-<br><strong><em>Only for those aged between 7 and 12 years old.</em></strong>
-</p>
-<p>Play games handmade by P6 students using recyclable materials.&nbsp;</p>
-<p>Purchase upcycled handicrafts from retail booths – proceeds will go to
-Food from the Heart <em>(a charitable organisation chosen by the P6 cohort).</em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language Storytelling (Then)</p>
 <p></p>
-<p>Mother Tongue Language Cultural Exposure (Now)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Enjoy a big book story reading in the library.</p>
 <p></p>
-<p>Participate in various language game stations featuring Chinese Language,
-Malay Language and Tamil Language.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h4><strong>B. SUSTAINATRAIL@CHANGKAT-SIMEI</strong></h4>
 <p>Changkat Primary School will serve as the launch site of the trail on
