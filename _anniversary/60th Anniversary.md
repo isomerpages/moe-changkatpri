@@ -35,8 +35,29 @@ groups.</p>
 <p></p>
 <p>&nbsp;</p>
 <h4><strong>A. NOW, THEN &amp; BEYOND</strong></h4>
-<p>CHANGKAT EXPERIENCE (SPECIAL EDITION) <strong><br></strong>
-</p>
+<p><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION) <br></strong>Most experiences
+are suitable for all age groups. Do take note of the age restrictions for
+certain activities</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Attendees of the Changkat Experience</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>• Receive a ‘<strong>Report Card</strong>’ that contains the following
+(per family):</p>
+<p>• a brief of each experience</p>
+<p>• an ‘experience stamp’ collection page – you will receive a stamp for
+participating in various experiences</p>
+<p>• a map detailing location of various experiences</p>
+<p>• Stand a chance to receive a <strong>60th Anniversary Handmade Memento</strong> from
+the Redemption Booth, should you complete a set number of ‘experience stamps’!
+Whilst stocks last!</p>
+<p>•	<strong>Pen down your hopes and wishes for the schoo</strong>l or the <strong>most memorable moments</strong> you’ve
+had with us (if you’ve been part of the Changkat Family in one way or another)!
+Pin them up on our blue wall to share your thoughts!</p>
+</div>
+</details>
+</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
