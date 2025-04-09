@@ -195,7 +195,7 @@ Simei and Singapore.</p>
 <details class="isomer-details">
 <summary>Trail duration</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Approximately <strong>2 to 3 hours </strong> 
+<p>Approximately <strong>2 to 3 hours </strong>
 <br>Targeted number of participants: <strong>80</strong> (first-come-first-served
 basis)</p>
 </div>
@@ -203,7 +203,7 @@ basis)</p>
 <details class="isomer-details">
 <summary>Trail details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date / Day:  <strong>5 July 2025, Saturday</strong> 
+<p>Date / Day:  <strong>5 July 2025, Saturday</strong>
 </p>
 <p>Time:  <strong>8.30 a.m</strong>.</p>
 <p>(Registration begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)</p>
@@ -212,22 +212,20 @@ basis)</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <p><strong>Click on the link <em>[link to be updated once website content is up</em>] to register!</strong>
 </p>
 <p></p>
 <h4><strong>Stations!</strong></h4>
-<p><strong>What to look out for...<br>(sequence may not be in order on the actual day of the trail)</strong>
+<p>What to look out for... (sequence may not be in order on the actual day
+of the trail)
 <br>
-</p>
-<p>
 <br><strong>Changkat Primary School</strong>
 </p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wormery" src="/images/wormery.png">
+<img style="width: 100%" height="auto" width="100%" alt="Wormery" src="/images/Anniversary photo/wormery.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -240,7 +238,7 @@ through vermicomposting.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="hydroponics and aquaponics" src="/images/hydroponics_and_aquaponics.png">
+<img style="width: 100%" height="auto" width="100%" alt="hydroponics and aquaponics" src="/images/Anniversary photo/hydroponics_and_aquaponics.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -252,7 +250,7 @@ water conservation, energy efficiency, and sustainable crop production.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hydroponics kit" src="/images/hydroponics_kit.png">
+<img style="width: 100%" height="auto" width="100%" alt="Hydroponics kit" src="/images/Anniversary photo/hydroponics_kit.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -348,65 +346,6 @@ using household items.</div>
 </div>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore University of Technology and Design (SUTD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Solar Energy showcase: Learn from an SUTD Professor how solar energy works
-and why it is important to help Singapore conserve energy.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ITE College East</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learn how ITE College East uses wormery to manage food waste by turning
-it into valuable compost.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Changkat Changi Secondary School</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learn how secondary students play their part in environmental sustainability
-and discover ways to propagate plants through processes like stem-cutting,
-using household items.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>You may keep in touch with us through our social media pages and website
 for more information about our 60<sup>th</sup> anniversary celebration and
 our school:&nbsp;
