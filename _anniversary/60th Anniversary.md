@@ -109,7 +109,7 @@ repeated addition on a tablet and using multilink-cubes as manipulatives.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information and Communication Technologies, ICT (Now and Then)</p>
+<p>Information and Communication Technologies, ICT (Now &amp; Then)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,7 +143,7 @@ and floorball dribbling.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Interclass Games (Then &amp; Now)</p>
+<p>Interclass Games (Now &amp; Then)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Then</em> – Play Singapore traditional games.</p>
