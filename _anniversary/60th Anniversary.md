@@ -4,7 +4,7 @@ permalink: /60th/
 variant: tiptap
 description: 60th Anniversary
 ---
-<h4><strong>OVERVIEW</strong></h4>
+<h3><strong>OVERVIEW</strong></h3>
 <p>Changkat Primary School will be celebrating our 60th Anniversary on 5
 July 2025. This milestone event, themed “Changkat Experience (Special Edition)
 – Then, Now &amp; Beyond”, seeks to unite our cherished community of past
@@ -34,10 +34,10 @@ open to the public, with a maximum of 80 participants from various age
 groups.</p>
 <p></p>
 <p>&nbsp;</p>
-<h4><strong>A. NOW, THEN &amp; BEYOND</strong></h4>
-<p><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION) <br></strong>Most experiences
-are suitable for all age groups. Do take note of the age restrictions for
-certain activities</p>
+<h3><strong>A. NOW, THEN &amp; BEYOND</strong></h3>
+<h4><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION) </strong></h4>
+<p>Most experiences are suitable for all age groups. Do take note of the
+age restrictions for certain activities</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Attendees of the Changkat Experience will...</summary>
@@ -57,7 +57,6 @@ Pin them up on our blue wall to share your thoughts!</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <p><strong>Changkat Experience Details:</strong>
 </p>
@@ -242,7 +241,7 @@ Simei and Singapore.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Trail duration/Targeted number of participants </strong>
+<summary><strong>Trail duration/Targeted number of participants</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Approximately <strong>2 to 3 hours </strong>
@@ -263,6 +262,12 @@ basis)</p>
 </details>
 </div>
 <p></p>
+<p>Click on the link [link to be updated once website content is up] or scan
+the QR code to register!</p>
+<p></p>
+<h4>Stations (sequence may not be in order on the actual day of the trail)</h4>
+<p><strong>What to look out for!</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Changkat Primary School</strong>
