@@ -207,7 +207,7 @@ basis)</p>
 <h4><strong>Stations!</strong></h4>
 <p>What to look out for... (sequence may not be in order on the actual day
 of the trail)</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Changkat Primary School</strong>
 </summary>
@@ -254,14 +254,10 @@ kit! Get hands-on and try growing your own herb.</div>
 <p></p>
 </div>
 </details>
-</div>
-<p>
-<br>
-<br><strong>Changkat Primary School</strong>
-</p>
-<p></p>
-<p><strong>At Simei Community</strong>
-</p>
+<details class="isomer-details">
+<summary><strong>At Simei Community</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -302,9 +298,12 @@ new and useful.</div>
 </div>
 </div>
 <p></p>
-<p></p>
-<p><strong>Educational Institutions in Simei</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Educational Institutions in Simei</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -345,6 +344,9 @@ using household items.</div>
 </div>
 </div>
 <p></p>
+</div>
+</details>
+</div>
 <p>You may keep in touch with us through our social media pages and website
 for more information about our 60<sup>th</sup> anniversary celebration and
 our school:&nbsp;
