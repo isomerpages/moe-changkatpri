@@ -30,11 +30,6 @@ sections:
           url: https://drive.google.com/file/d/1L0fw4T8JOsrIM1Xzvk_-kCCmKvlliJV-/view?usp=sharing
       button: 60th Anniversary
       url: /60th
-  - infobar:
-      title: Events
-      description: Find out what's going on!
-      button: Click here
-      url: /p1-1st-day-of-school/
   - infopic:
       title: 60th Anniversary
       subtitle: Add an image and text
@@ -45,4 +40,9 @@ sections:
       url: /60th
       image: /images/Anniversary photo/60thanni.jpg
       alt: Image alt text
+  - infobar:
+      title: Events
+      description: Find out what's going on!
+      button: Click here
+      url: /p1-1st-day-of-school/
 ---
