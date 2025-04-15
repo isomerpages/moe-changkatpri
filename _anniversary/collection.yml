@@ -2,5 +2,6 @@ collections:
   anniversary:
     output: true
     order:
+      - SUSTAINATRAIL CHANGKAT SIMEI.md
       - NOW, THEN & BEYOND.md
       - 60th Anniversary.md
