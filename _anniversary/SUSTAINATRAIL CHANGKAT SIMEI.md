@@ -42,8 +42,14 @@ basis)</p>
 </details>
 </div>
 <p></p>
-<p>Click on the link [link to be updated once website content is up] or scan
-the QR code to register!</p>
+<p></p>
+<p>Click on the link: <a href="https://go.gov.sg/sustainatrail" rel="noopener nofollow" target="_blank">https://go.gov.sg/sustainatrail</a> or
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/60than.png">
+</div>
+<p>scan the QR code to register!</p>
 <p></p>
 <h4>Stations</h4>
 <p>(sequence may not be in order on the actual day of the trail)</p>
