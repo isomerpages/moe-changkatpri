@@ -4,7 +4,7 @@ permalink: /60thver1/
 variant: tiptap
 description: ""
 ---
-<h3><strong>OVERVIEW</strong></h3>
+<h3><strong>OVERVIEW - 1st cut</strong></h3>
 <p>Changkat Primary School will be celebrating our 60th Anniversary on 5
 July 2025. This milestone event, themed “Changkat Experience (Special Edition)
 – Then, Now &amp; Beyond”, seeks to unite our cherished community of past
