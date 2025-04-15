@@ -35,4 +35,14 @@ sections:
       description: Find out what's going on!
       button: Click here
       url: /p1-1st-day-of-school/
+  - infopic:
+      title: 60th Anniversary
+      subtitle: Add an image and text
+      id: infopic
+      description: Changkat Primary School will be celebrating our 60th Anniversary on
+        5 July 2025.
+      button: Let's join in
+      url: /60th
+      image: /images/Anniversary photo/60thanni.jpg
+      alt: Image alt text
 ---
