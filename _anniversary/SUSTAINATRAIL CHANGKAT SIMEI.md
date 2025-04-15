@@ -104,92 +104,97 @@ kit! Get hands-on and try growing your own herb.</div>
 <summary><strong>At Simei Community</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Farm@116" src="/images/Anniversary photo/Farm_116_.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Farm@116</div>
-<div class="isomer-card-description">Learn about community gardens and sample a refreshing beverage made from
-blue pea flowers in the garden.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Eastpoint Mall" src="/images/Anniversary photo/eastpoint_mall.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Eastpoint Mall</div>
-<div class="isomer-card-description">Learn how one of Simei's most popular landmarks, Eastpoint Mall, has conserved
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Farm@116
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn about community gardens and sample a refreshing beverage made from
+blue pea flowers in the garden.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eastpoint Mall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how one of Simei's most popular landmarks, Eastpoint Mall, has conserved
 energy, implemented waste management through recycling efforts, and tackling
-food waste.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Changi Simei Community Club" src="/images/Anniversary photo/changi_simei_community_club.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Changi Simei Community Club</div>
-<div class="isomer-card-description">Learn how to creatively upcycle everyday household items into something
-new and useful.</div>
-</div>
-</div>
-</div>
-<p></p>
+food waste.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Changi Simei Community Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how to creatively upcycle everyday household items into something
+new and useful.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Educational Institutions in Simei</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore University of Technology and Design (SUTD)" src="/images/Anniversary photo/sutd_logo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Singapore University of Technology and Design (SUTD)</div>
-<div class="isomer-card-description">Solar Energy showcase: Learn from an SUTD Professor how solar energy works
-and why it is important to help Singapore conserve energy.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ITE College East" src="/images/Anniversary photo/ITE_College_East.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">ITE College East</div>
-<div class="isomer-card-description">Learn how ITE College East uses wormery to manage food waste by turning
-it into valuable compost.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Changkat Changi Secondary School" src="/images/Anniversary photo/ccss.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Changkat Changi Secondary School</div>
-<div class="isomer-card-description">Learn how secondary students play their part in environmental sustainability
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore University of Technology and Design (SUTD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Solar Energy showcase: Learn from an SUTD Professor how solar energy works
+and why it is important to help Singapore conserve energy.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ITE College East</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how ITE College East uses wormery to manage food waste by turning
+it into valuable compost.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Changkat Changi Secondary School</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how secondary students play their part in environmental sustainability
 and discover ways to propagate plants through processes like stem-cutting,
-using household items.</div>
-</div>
-</div>
-</div>
-<p></p>
+using household items.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
