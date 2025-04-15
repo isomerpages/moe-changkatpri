@@ -295,21 +295,145 @@ scan the QR code to register!</p>
 <summary><strong>Changkat Primary School</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wormery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how to conserve the environment while enhancing food sustainability:
+A showcase on how we can protect the environment and enhance food sustainability
+through vermicomposting.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hydroponics and Aquaponics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn about the future of food sustainability in Singapore:<strong> </strong>Advancing
+water conservation, energy efficiency, and sustainable crop production.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hydroponics kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Experience hydroponic farming firsthand with your very own DIY hydroponics
+kit! Get hands-on and try growing your own herb.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>At Simei Community</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Farm@116
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn about community gardens and sample a refreshing beverage made from
+blue pea flowers in the garden.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eastpoint Mall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how one of Simei's most popular landmarks, Eastpoint Mall, has conserved
+energy, implemented waste management through recycling efforts, and tackling
+food waste.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Changi Simei Community Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how to creatively upcycle everyday household items into something
+new and useful.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Educational Institutions in Simei</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore University of Technology and Design (SUTD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Solar Energy showcase: Learn from an SUTD Professor how solar energy works
+and why it is important to help Singapore conserve energy.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ITE College East</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how ITE College East uses wormery to manage food waste by turning
+it into valuable compost.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Changkat Changi Secondary School</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how secondary students play their part in environmental sustainability
+and discover ways to propagate plants through processes like stem-cutting,
+using household items.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
