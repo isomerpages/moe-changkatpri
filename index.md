@@ -36,6 +36,7 @@ sections:
       button: Pre-Register now!
       url: https://go.gov.sg/registerfor60th
       image: /images/Anniversary photo/60thannilogo.jpg
+      alt: 60th Anniversary
   - infobar:
       title: Events
       description: Find out what's going on!
