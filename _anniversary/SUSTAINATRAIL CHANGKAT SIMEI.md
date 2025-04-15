@@ -33,6 +33,43 @@ food waste.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Changi Simei Community Club" src="/images/Anniversary photo/changi_simei_community_club.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Changi Simei Community Club</div>
+<div class="isomer-card-description">Learn how to creatively upcycle everyday household items into something
+new and useful.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Farm@116" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Farm@116</div>
+<div class="isomer-card-description">Learn about community gardens and sample a refreshing beverage made from
+blue pea flowers in the garden.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Eastpoint Mall" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Eastpoint Mall</div>
+<div class="isomer-card-description">Learn how one of Simei's most popular landmarks, Eastpoint Mall, has conserved
+energy, implemented waste management through recycling efforts, and tackling
+food waste.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Changi Simei Community Club" src="https://placehold.co/600x400">
 </div>
 </div>
