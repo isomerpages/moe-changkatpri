@@ -58,46 +58,48 @@ basis)</p>
 <summary><strong>Changkat Primary School</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wormery" src="/images/Anniversary photo/wormery.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Changkat Primary School Wormery</div>
-<div class="isomer-card-description">Learn how to conserve the environment while enhancing food sustainability:
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wormery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn how to conserve the environment while enhancing food sustainability:
 A showcase on how we can protect the environment and enhance food sustainability
-through vermicomposting.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="hydroponics and aquaponics" src="/images/Anniversary photo/hydroponics_and_aquaponics.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Hydroponics and Aquaponics</div>
-<div class="isomer-card-description">Learn about the future of food sustainability in Singapore: Advancing
-water conservation, energy efficiency, and sustainable crop production.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hydroponics kit" src="/images/Anniversary photo/hydroponics_kit.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Hydroponics kit</div>
-<div class="isomer-card-description">Experience hydroponic farming firsthand with your very own DIY hydroponics
-kit! Get hands-on and try growing your own herb.</div>
-</div>
-</div>
-</div>
-<p></p>
+through vermicomposting.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hydroponics and Aquaponics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn about the future of food sustainability in Singapore:<strong> </strong>Advancing
+water conservation, energy efficiency, and sustainable crop production.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hydroponics kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Experience hydroponic farming firsthand with your very own DIY hydroponics
+kit! Get hands-on and try growing your own herb.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
