@@ -196,6 +196,25 @@ Wushu Team.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>To play the games or purchase items from the retail stores, you’ll need to purchase coupons sold on-site outside the hall (near the glass doors).</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>7</p>
 </td>
