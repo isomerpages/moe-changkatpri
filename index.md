@@ -28,6 +28,8 @@ sections:
         - title: The Changkat Experience
           description: ""
           url: https://drive.google.com/file/d/1L0fw4T8JOsrIM1Xzvk_-kCCmKvlliJV-/view?usp=sharing
+      button: 60th Anniversary
+      url: /60th
   - infobar:
       title: Events
       description: Find out what's going on!
