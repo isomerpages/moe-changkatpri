@@ -38,7 +38,7 @@ sections:
         5 July 2025.
       button: Let's join in
       url: /60th
-      image: /images/Anniversary photo/60thanni.jpg
+      image: /images/Anniversary photo/60thannilogo.jpg
       alt: Image alt text
   - infobar:
       title: Events
