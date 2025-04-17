@@ -908,7 +908,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Azura Rahim
-<br>(Music Coord)</p>
+<br>(AYH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_azura_rahim@schools.gov.sg</a>
@@ -933,7 +933,7 @@ third_nav_title: Staff
 <p>Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Nizam Bin Abdul Aziz (AYH)</p>
+<p>Mr Khairul Nizam Bin Abdul Aziz (SH 21st CC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Khairul_Nizam_Abdul_Aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khairul_Nizam_Abdul_Aziz@schools.gov.sg</a>
