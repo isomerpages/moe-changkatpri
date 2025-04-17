@@ -894,7 +894,8 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p>Mdm Soh Chern Hui
 <br>(Mrs Leong)
-<br>(HOD/EL)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">soh_chern_hui@schools.gov.sg</a>
