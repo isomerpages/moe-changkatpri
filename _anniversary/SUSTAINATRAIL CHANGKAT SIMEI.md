@@ -5,17 +5,26 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>B. SUSTAINATRAIL@CHANGKAT-SIMEI</strong></h3>
-<p>Changkat Primary School will serve as the launch site of the trail on
-5 July 2025. Through showcasing Changkat Primary School’s and the community’s
-sustainability initiatives, the trail seeks to raise awareness and encourage
-individuals and groups to take meaningful actions toward building a greener
+<p>🌿 Discover SustainaTrail@Changkat-Simei 🌿</p>
+<p>Join us on an inspiring journey towards a greener future with SustainaTrail@Changkat-Simei
+— a community sustainability trail that brings together the efforts of
+neighbourhood schools and organisations committed to eco-friendly living.</p>
+<p>Changkat Primary School will serve as the official launch site of the
+trail on 5 July 2025. Through showcasing both the school’s and the community’s
+sustainability initiatives, the trail aims to raise awareness and inspire
+individuals and groups to take meaningful action in building a greener
 Simei and Singapore.</p>
+<p>This walking trail offers engaging experiences and practical ideas that
+encourage participants of all ages to make sustainability a part of their
+daily lives.</p>
+<p>📍 Open to the public | 👥 Limited to 80 participants (first-come-first-served
+basis)</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Here's what you get</strong>
+<summary><strong>Participants will receive a:</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Participants will receive a:</p>
 <p>1. complimentary guidebook to accompany their sustainability trail</p>
 <p>2. a hydroponics kit upon completion of the trail</p>
 </div>
@@ -49,7 +58,7 @@ basis)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/60than.png">
 </div>
-<p>scan the QR code to register!</p>
+<p>scan the QR code (above) to register!</p>
 <p></p>
 <h4>Stations</h4>
 <p>(sequence may not be in order on the actual day of the trail)</p>
@@ -147,6 +156,7 @@ food waste.
 <td rowspan="1" colspan="1">
 <p>Learn how to creatively upcycle everyday household items into something
 new and useful.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -170,6 +180,7 @@ new and useful.</p>
 <td rowspan="1" colspan="1">
 <p>Solar Energy showcase: Learn from an SUTD Professor how solar energy works
 and why it is important to help Singapore conserve energy.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -177,11 +188,18 @@ and why it is important to help Singapore conserve energy.</p>
 <p>ITE College East</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learn how ITE College East uses wormery to manage food waste by turning
-it into valuable compost.
-<br>
-<br>
-</p>
+<p>Learn about the fascinating world of earthworms and discover their vital
+role in sustainability.</p>
+<p>• Get up close with live earthworms—feel their unique textures and learn
+about their incredible environmental benefits.</p>
+<p>• Learn how to set up a simple worm bin at home, showing how these tiny
+creatures can transform everyday kitchen scraps into nutrient-rich compost,
+supporting a greener lifestyle.</p>
+<p>Learn how to creatively recycle expired disposable masks by turning them
+into scented mask flowers!</p>
+<p>• Using common materials found at home or in the office, they will show
+how to breathe new life into old masks</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -192,7 +210,8 @@ it into valuable compost.
 <td rowspan="1" colspan="1">
 <p>Learn how secondary students play their part in environmental sustainability
 and discover ways to propagate plants through processes like stem-cutting,
-using household items.</p>
+using recycled household materials.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -200,5 +219,7 @@ using household items.</p>
 </div>
 </details>
 </div>
+<p></p>
+<p>👣 Walk the trail. Be inspired. Make a change.</p>
 <p></p>
 <p></p>
