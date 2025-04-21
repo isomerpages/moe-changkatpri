@@ -13,18 +13,18 @@ age restrictions for certain activities</p>
 <details class="isomer-details">
 <summary>Attendees of the Changkat Experience will...</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>• Receive a ‘<strong>Report Card</strong>’ that contains the following
-(per family):</p>
+<p>• Receive an experience booklet that contains the following (per family):</p>
 <p>• a brief of each experience</p>
 <p>• an ‘experience stamp’ collection page – you will receive a stamp for
 participating in various experiences</p>
 <p>• a map detailing location of various experiences</p>
-<p>• Stand a chance to receive a <strong>60th Anniversary Handmade Memento</strong> from
-the Redemption Booth, should you complete a set number of ‘experience stamps’!
+<p>• Stand a chance to receive a 60th Anniversary Handmade Memento from the
+Redemption Booth, should you complete a set number of ‘experience stamps’!
 Whilst stocks last!</p>
-<p>• <strong>Pen down your hopes and wishes for the schoo</strong>l or the <strong>most memorable moments</strong> you’ve
-had with us (if you’ve been part of the Changkat Family in one way or another)!
-Pin them up on our blue wall to share your thoughts!</p>
+<p>• Pen down your hopes and wishes for the school or the most memorable
+moments you’ve had with us (if you’ve been part of the Changkat Family
+in one way or another)! Pin them up on our blue wall to share your thoughts!</p>
+<p></p>
 </div>
 </details>
 </div>
