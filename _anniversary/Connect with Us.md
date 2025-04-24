@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h3><strong>📲 CONNECT WITH US</strong></h3>
+<h3><strong>📲 Connect with Us</strong></h3>
 <p><strong>Stay updated on our celebrations and school highlights!</strong>
 </p>
 <p>Facebook:<a href="https://www.facebook.com/changkatps" rel="noopener noreferrer nofollow" target="_blank"> </a>
