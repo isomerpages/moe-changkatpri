@@ -42,6 +42,17 @@ individuals to embrace sustainability in their daily lives. The trail is
 open to the public, with participation capped at 80 individuals across
 various age groups.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/boysp.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/girlp.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
