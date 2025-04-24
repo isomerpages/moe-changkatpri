@@ -34,9 +34,4 @@ sections:
       url: /60th
       image: /images/Anniversary photo/60thannilogo.jpg
       alt: 60th Anniversary
-  - infobar:
-      title: Events
-      description: Find out what's going on!
-      button: Click here
-      url: /p1-1st-day-of-school/
 ---
