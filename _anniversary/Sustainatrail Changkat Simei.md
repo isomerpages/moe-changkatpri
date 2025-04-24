@@ -53,12 +53,13 @@ basis)</p>
 <p></p>
 <p></p>
 <p>Click on the link: <a href="https://go.gov.sg/sustainatrail" rel="noopener nofollow" target="_blank">https://go.gov.sg/sustainatrail</a> or
+scan the QR code to register!
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/60than.png">
 </div>
-<p>scan the QR code (above) to register!</p>
+<p></p>
 <p></p>
 <h4>Stations</h4>
 <p>(sequence may not be in order on the actual day of the trail)</p>
@@ -103,7 +104,7 @@ water conservation, energy efficiency, and sustainable crop production.
 <p>Hydroponics kit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Experience hydroponic farming firsthand with your very own DIY hydroponics
+<p>Experience hydroponics farming firsthand with your very own DIY hydroponics
 kit! Get hands-on and try growing your own herb.</p>
 </td>
 </tr>
@@ -129,11 +130,9 @@ kit! Get hands-on and try growing your own herb.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learn about community gardens and sample a refreshing beverage made from
-blue pea flowers in the garden.
-<br>
-<br>
-</p>
+<p>Learn about community gardening and enjoy a farm-to-table experience,
+sampling a signature blue pea flower drink.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -142,9 +141,8 @@ blue pea flowers in the garden.
 </td>
 <td rowspan="1" colspan="1">
 <p>Learn how one of Simei's most popular landmarks, Eastpoint Mall, has conserved
-energy, implemented waste management through recycling efforts, and tackling
-food waste.
-<br>
+energy, implemented waste management through recycling efforts, and tackled
+food surplus.
 <br>
 </p>
 </td>
@@ -198,7 +196,7 @@ supporting a greener lifestyle.</p>
 <p>Learn how to creatively recycle expired disposable masks by turning them
 into scented mask flowers!</p>
 <p>• Using common materials found at home or in the office, they will show
-how to breathe new life into old masks</p>
+how to breathe new life into old masks.</p>
 <p></p>
 </td>
 </tr>
