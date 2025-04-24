@@ -4,7 +4,7 @@ permalink: /overview/
 variant: tiptap
 description: ""
 ---
-<h3><strong>OVERVIEW</strong></h3>
+<h3><strong>Overview</strong></h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
