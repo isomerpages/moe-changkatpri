@@ -4,7 +4,7 @@ permalink: /sustainatrail-changkat-simei/
 variant: tiptap
 description: ""
 ---
-<h3><strong>B. SUSTAINATRAIL@CHANGKAT-SIMEI</strong></h3>
+<h3><strong>B. SustainaTrail@Changkat-Simei</strong></h3>
 <p>🌿 Discover SustainaTrail@Changkat-Simei 🌿</p>
 <p>Join us on an inspiring journey towards a greener future with SustainaTrail@Changkat-Simei
 — a community sustainability trail that brings together the efforts of
