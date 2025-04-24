@@ -4,7 +4,7 @@ permalink: /thennowbeyond/
 variant: tiptap
 description: ""
 ---
-<h3><strong>A. NOW, THEN &amp; BEYOND</strong></h3>
+<h3><strong>A. Then, Now and Beyond</strong></h3>
 <p><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION)</strong>
 </p>
 <p>Most experiences are suitable for all age groups. Do take note of the
