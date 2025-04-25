@@ -7,7 +7,7 @@ description: 60th Anniversary
 <p></p>
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/60thannilogo.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/60thannilogo.jpg">
 </div>
 <h3>Changkat Primary School will be celebrating our <strong>60th Anniversary </strong>on <strong>5 July 2025</strong>.</h3>
 <h4>For the visitors &amp; alumni. Come join us!</h4>
