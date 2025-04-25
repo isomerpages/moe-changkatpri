@@ -13,3 +13,9 @@ description: 60th Anniversary
 <h4>For the visitors &amp; alumni. Come join us!</h4>
 <p><strong><a href="https://go.gov.sg/registerfor60th" class="py-4 link-button remove-after is-flex flex-start is-vh-centered" rel="noopener nofollow" target="_blank">Pre-Register now!</a></strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Anniversary photo/unikid_copy.jpg">
+</div>
+<p></p>
