@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>B. SustainaTrail@Changkat-Simei</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Chinese_Girl.jpg">
+</div>
 <p>🌿 Discover SustainaTrail@Changkat-Simei 🌿</p>
 <p>Join us on an inspiring journey towards a greener future with SustainaTrail@Changkat-Simei
 — a community sustainability trail that brings together the efforts of
@@ -219,5 +223,9 @@ using recycled household materials.</p>
 </div>
 <p></p>
 <p>👣 Walk the trail. Be inspired. Make a change.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Indian_Boy.jpg">
+</div>
 <p></p>
 <p></p>
