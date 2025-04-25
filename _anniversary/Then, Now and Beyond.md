@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>A. Then, Now and Beyond</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Malay_Boy.jpg">
+</div>
 <p><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION)</strong>
 </p>
 <p>Most experiences are suitable for all age groups. Do take note of the
@@ -212,4 +216,8 @@ Food from the Heart (<em>a charitable organisation chosen by the P6 cohort</em>)
 </tbody>
 </table>
 <h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Indian_Girl.jpg">
+</div>
+<p></p>
 <p></p>
