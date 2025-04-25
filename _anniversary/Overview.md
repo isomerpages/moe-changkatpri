@@ -6,14 +6,10 @@ description: ""
 ---
 <h3><strong>Overview</strong></h3>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/girlsu.png">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Others_Boy.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/boysu.png">
-</div>
 <p>Changkat Primary School will be celebrating our 60th Anniversary on 5
 July 2025. This milestone event, themed “Changkat Experience (Special Edition)
 – Then, Now &amp; Beyond”, seeks to unite our cherished community of past
@@ -42,12 +38,9 @@ individuals to embrace sustainability in their daily lives. The trail is
 open to the public, with participation capped at 80 individuals across
 various age groups.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/boysp.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/girlp.png">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Malay_Girl.jpg">
 </div>
 <p></p>
 <p></p>
