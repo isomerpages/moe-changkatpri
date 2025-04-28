@@ -30,4 +30,5 @@ description: ""
 </p>
 <p><a href="https://drive.google.com/file/d/1mMCa0I6AIbF7SmW8qmCGNUcMMUriJqam/view" rel="noopener noreferrer nofollow" target="_blank">Microsoft Teams Guide</a>
 </p>
-<p></p>
+<p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener nofollow" target="_blank">DigitalAccess@Home (IMDA)</a>
+</p>
