@@ -32,19 +32,35 @@ thoughts!</p>
 <p><strong>Changkat Experience Details:</strong>
 </p>
 <p>Free for all to attend, no registration required. Queue outside the venues.</p>
-<p>1. Mathematics Classroom Experience</p>
-<p>2. Information and Communication Technologies, ICT</p>
-<p>3. Sports Day and Sports Carnival (<strong>Some are only for children aged 12 and below</strong>)</p>
-<p>4. Interclass Games (<strong>Some are only for children aged 12 and below</strong>)</p>
-<p>5. English Language Storytelling</p>
-<p>6. Mother Tongue Language Cultural Exposure</p>
-<p>7. Live Performances
-<br>
-</p>
-<p>8. Social Enterprise Day (SED) – Haunted House <strong>(Only for those aged between 7 and 12 years old</strong>)
+<ol data-tight="true" class="tight">
+<li>
+<p>Mathematics Classroom Experience</p>
+</li>
+<li>
+<p>Information and Communication Technologies, ICT</p>
+</li>
+<li>
+<p>Sports Day and Sports Carnival (<strong>Some are only for children aged 12 and below</strong>)</p>
+</li>
+<li>
+<p>Interclass Games (<strong>Some are only for children aged 12 and below</strong>)</p>
+</li>
+<li>
+<p>English Language Storytelling</p>
+</li>
+<li>
+<p>Mother Tongue Language Cultural Exposure</p>
+</li>
+<li>
+<p>Live Performances</p>
+</li>
+<li>
+<p>Social Enterprise Day (SED) – Haunted House <strong>(Only for those aged between 7 and 12 years old</strong>)
 &amp; Games &amp; Retail.
 <br><strong>To play the games or purchase items from the retail stores, you’ll need to purchase coupons sold on site outside the hall (near the glass doors).</strong>
 </p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Indian_Girl.jpg">
 </div>
