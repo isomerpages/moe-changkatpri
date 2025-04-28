@@ -68,7 +68,6 @@ at 8.30 a.m.)</p>
 <p>Participants will receive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>1 complimentary guidebook to accompany their sustainability trail</p>
