@@ -4,7 +4,7 @@ permalink: /thennowbeyond/
 variant: tiptap
 description: ""
 ---
-<h3><strong>A. Then, Now and Beyond</strong></h3>
+<h3><strong>Then, Now and Beyond</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Malay_Boy.jpg">
@@ -17,17 +17,12 @@ age restrictions for certain activities</p>
 <details class="isomer-details">
 <summary>Attendees of the Changkat Experience will...</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>• Receive an experience booklet that contains the following (per family):</p>
-<p>• a brief of each experience</p>
-<p>• an ‘experience stamp’ collection page – you will receive a stamp for
-participating in various experiences</p>
-<p>• a map detailing location of various experiences</p>
-<p>• Stand a chance to receive a 60th Anniversary Handmade Memento from the
-Redemption Booth, should you complete a set number of ‘experience stamps’!
-Whilst stocks last!</p>
-<p>• Pen down your hopes and wishes for the school or the most memorable
-moments you’ve had with us (if you’ve been part of the Changkat Family
-in one way or another)! Pin them up on our blue wall to share your thoughts!</p>
+<p>· Receive an experience booklet.</p>
+<p>· Receive a special memento when you complete a set number of activities.
+While stocks last!</p>
+<p>· Pen down what you love about Changkat (if you’ve been part of the Changkat
+Family in one way or another)! Pin them up on our blue wall to share your
+thoughts!</p>
 <p></p>
 </div>
 </details>
@@ -36,8 +31,7 @@ in one way or another)! Pin them up on our blue wall to share your thoughts!</p>
 <p></p>
 <p><strong>Changkat Experience Details:</strong>
 </p>
-<p>No registration is required. Free for all to attend, no registration required.
-Queue up outside the venues.</p>
+<p>Free for all to attend, no registration required. Queue outside the venues.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
