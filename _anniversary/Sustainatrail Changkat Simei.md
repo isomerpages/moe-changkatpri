@@ -4,7 +4,7 @@ permalink: /sustainatrail-changkat-simei/
 variant: tiptap
 description: ""
 ---
-<h3><strong>B. SustainaTrail@Changkat-Simei</strong></h3>
+<h3><strong>SustainaTrail@Changkat-Simei</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Chinese_Girl.jpg">
@@ -23,38 +23,64 @@ encourage participants of all ages to make sustainability a part of their
 daily lives.</p>
 <p>📍 Open to the public | 👥 Limited to 80 participants (first-come-first-served
 basis)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date / Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 July 2025, Saturday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Participants will receive a:</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>1. complimentary guidebook to accompany their sustainability trail</p>
-<p>2. a hydroponics kit upon completion of the trail</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Trail duration/Targeted number of participants</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Approximately <strong>2 to 3 hours </strong>
-<br>Targeted number of participants: <strong>80</strong> (first-come-first-served
-basis)</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Trail details</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Date / Day:  <strong>5 July 2025, Saturday</strong>
-</p>
-<p>Time:  <strong>8.30 a.m</strong>.</p>
-<p>(Registration begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)</p>
-<p>Meeting venue:  Changkat Primary School foyer</p>
-</div>
-</details>
-</div>
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30 a.m. (Registration begins at 8.00 a.m. Trail will begin promptly
+at 8.30 a.m.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Meeting venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changkat Primary School foyer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trail duration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approximately 2 to 3 hours</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Participants will receive</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 complimentary guidebook to accompany their sustainability trail</p>
+</li>
+<li>
+<p>1 hydroponics kit upon completion of the trail</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>Click on the link: <a href="https://go.gov.sg/sustainatrail" rel="noopener nofollow" target="_blank">https://go.gov.sg/sustainatrail</a> or
 scan the QR code to register!
