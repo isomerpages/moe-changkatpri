@@ -2,7 +2,6 @@ collections:
   anniversary:
     output: true
     order:
-      - 60th Anniversary.md
       - 60th/.keep
       - 60th/Overview.md
       - 60th/Then, Now and Beyond.md
