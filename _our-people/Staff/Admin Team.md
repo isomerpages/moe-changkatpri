@@ -29,18 +29,6 @@ third_nav_title: Staff
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirrin Bano</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shirrin_bano_s_akhbar_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shirrin_bano_s_akhbar_ali@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Yvonne Lee</p>
 </td>
 <td rowspan="1" colspan="1">
