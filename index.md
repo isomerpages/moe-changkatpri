@@ -8,7 +8,7 @@ description: Changkat Primary School was initially named Changkat Changi Primary
   2002, the school was scheduled for upgrading under PRIME. The school thus
   shifted to No.7, Jalan Tiga Ratus and occupied the old school premises. In
   June 2004, Changkat Primary moved back to its present premises at Simei Street
-  3
+  3.
 image: /images/Site/changkat pri logo.jpg
 permalink: /
 notification: ""
@@ -25,12 +25,13 @@ sections:
         - title: CKPS Facebook
           description: ""
           url: https://www.facebook.com/changkatps
-        - title: The Changkat Experience
-          description: ""
-          url: https://drive.google.com/file/d/1L0fw4T8JOsrIM1Xzvk_-kCCmKvlliJV-/view?usp=sharing
-  - infobar:
-      title: Events
-      description: Find out what's going on!
-      button: Click here
-      url: /p1-1st-day-of-school/
+  - infopic:
+      title: 60th Anniversary
+      id: infopic
+      description: Changkat Primary School will be celebrating our 60th Anniversary on
+        5 July 2025.
+      button: Find out more
+      url: /60th
+      image: /images/Anniversary photo/60thannilogo.jpg
+      alt: 60th Anniversary
 ---
