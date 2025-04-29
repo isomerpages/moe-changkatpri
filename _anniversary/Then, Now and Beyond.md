@@ -14,12 +14,20 @@ description: ""
 <p>Most experiences are suitable for all age groups. Do take note of the
 age restrictions for certain activities</p>
 <p>Attendees of the Changkat Experience will:</p>
-<p>· Receive an experience booklet.</p>
-<p>· Receive a special memento when you complete a set number of activities.
+<ul data-tight="true" class="tight">
+<li>
+<p>Receive an experience booklet.</p>
+</li>
+<li>
+<p>Receive a special memento when you complete a set number of activities.
 While stocks last!</p>
-<p>· Pen down what you love about Changkat (if you’ve been part of the Changkat
+</li>
+<li>
+<p>Pen down what you love about Changkat (if you’ve been part of the Changkat
 Family in one way or another)! Pin them up on our blue wall to share your
 thoughts!</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Changkat Experience Details:</strong>
 </p>
