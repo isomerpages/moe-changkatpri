@@ -8,7 +8,7 @@ description: Changkat Primary School was initially named Changkat Changi Primary
   2002, the school was scheduled for upgrading under PRIME. The school thus
   shifted to No.7, Jalan Tiga Ratus and occupied the old school premises. In
   June 2004, Changkat Primary moved back to its present premises at Simei Street
-  3
+  3.
 image: /images/Site/changkat pri logo.jpg
 permalink: /
 notification: ""
