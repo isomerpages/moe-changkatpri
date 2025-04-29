@@ -13,7 +13,7 @@ third_nav_title: 60th
 <p><strong>CHANGKAT EXPERIENCE (SPECIAL EDITION)</strong>
 </p>
 <p>Most experiences are suitable for all age groups. Do take note of the
-age restrictions for certain activities</p>
+age restrictions for certain activities.</p>
 <p>Attendees of the Changkat Experience will:</p>
 <ul data-tight="true" class="tight">
 <li>
