@@ -44,8 +44,8 @@ basis)</p>
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.30 a.m. (Registration begins at 8.00 a.m. Trail will begin promptly
-at 8.30 a.m.)</p>
+<p>8.30 a.m.
+<br>(Registration begins at 8.00 a.m. Trail will begin promptly at 8.30 a.m.)</p>
 </td>
 </tr>
 <tr>
