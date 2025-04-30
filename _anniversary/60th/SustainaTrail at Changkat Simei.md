@@ -19,6 +19,15 @@ trail on 5 July 2025. Through showcasing both the school’s and the community�
 sustainability initiatives, the trail aims to raise awareness and inspire
 individuals and groups to take meaningful action in building a greener
 Simei and Singapore.</p>
+<p>Participants will embark on a walking trail that features various sustainability-themed
+stations and venues located around the Simei neighbourhood, including Farm@116
+and Changi Simei Community Club. These stops provide hands-on experiences
+and practical ideas to make sustainability part of everyday life.</p>
+<p>Adding to the excitement, schools in Simei will also set up interactive
+booths to share their eco-initiatives and encourage environmental stewardship
+across the community.</p>
+<p>Come explore, learn, and be inspired to take action — one green step at
+a time</p>
 <p>This walking trail offers engaging experiences and practical ideas that
 encourage participants of all ages to make sustainability a part of their
 daily lives.</p>
