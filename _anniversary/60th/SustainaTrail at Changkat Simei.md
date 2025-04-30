@@ -1,5 +1,5 @@
 ---
-title: Sustainatrail at Changkat Simei
+title: SustainaTrail at Changkat Simei
 permalink: /60th/sustainatrail-changkat-simei/
 variant: tiptap
 description: ""
