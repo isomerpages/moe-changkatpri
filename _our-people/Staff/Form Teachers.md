@@ -672,7 +672,7 @@ third_nav_title: Staff
 <br>(AYH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">anithasri_manokaran@schools.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">anithasri_manokaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
