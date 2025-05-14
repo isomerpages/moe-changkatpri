@@ -83,7 +83,7 @@ link)</p>
 <p></p>
 <h3>Meet the Parents</h3>
 <p>Click <a href="/meet-the-parent/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the follow-up on Meet-the-Parents (MTP) Session 2024</p>
+the follow-up on Meet-the-Parents (MTP) Session.</p>
 <h3>Parents’ Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
