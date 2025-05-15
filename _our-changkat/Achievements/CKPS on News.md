@@ -6,6 +6,11 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3>CKPS on News</h3>
+<p></p>
+<p>Feature in <strong>Go Green SG Movement Returns for 2025</strong> article
+in support of SG60 on Ministry of Sustainability and the Environment website.
+(<a href="https://www.mse.gov.sg/latest-news/go-green-sg-movement-returns-for-2025" rel="noopener noreferrer nofollow" target="_blank">Go Green SG Movement Returns for 2025 | Ministry of Sustainability and the Environment</a>).
+Date: 9 May 2025.</p>
 <p>Feature in Community-led Green Festival held at Simei MRT Station Viaduct
 on 18 May 2024 on Mewatch on Channel News Asia (CNA) News. Timeframe: 17:18
 (<a href="https://www.mewatch.sg/watch/May-2024-CNA-Singapore-Tonight-459419" rel="noopener noreferrer nofollow" target="_blank">https://www.mewatch.sg/watch/May-2024-CNA-Singapore-Tonight-459419</a>).
