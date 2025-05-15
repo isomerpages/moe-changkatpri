@@ -13,3 +13,8 @@ on 18 May 2024 on Mewatch on Channel News Asia (CNA) News. Timeframe: 17:18
 </p>
 <p>联合早报: <a href="https://www.zaobao.com.sg/news/singapore/story20240407-3205604?amp" rel="noopener noreferrer nofollow" target="_blank">学习培养蠕虫堆肥 尚育小学生助减少食物浪费</a> 发布
 / 2024年4月7日 8:09 PM.</p>
+<p></p>
+<p>Changkat Primary School was featured on <strong>Go Green SG Movement Returns for 2025 </strong>in
+support of SG60 on Ministry of Sustainability and the Environment website.
+(<a href="https://www.mse.gov.sg/latest-news/go-green-sg-movement-returns-for-2025" rel="noopener noreferrer nofollow" target="_blank">Go Green SG Movement Returns for 2025 | Ministry of Sustainability and the Environment</a>).
+Date: 9 May 2025.</p>
