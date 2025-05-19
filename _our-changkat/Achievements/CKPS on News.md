@@ -7,7 +7,7 @@ third_nav_title: Achievements
 ---
 <h3>CKPS on News</h3>
 <p></p>
-<p>Feature in The Straitstimes article on May 16, 2025. <strong>New campaign to urge S’pore home, business, building owners to set air-cons at 25 deg C</strong>.
+<p>Feature in The Straitstimes website article on May 16, 2025. <strong>New campaign to urge S’pore home, business, building owners to set air-cons at 25 deg C</strong>.
 (<a href="https://www.straitstimes.com/singapore/environment/go-25-movement-to-spur-sustainable-cooling-launched-in-tandem-with-go-green-sg-2025" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/environment/go-25-movement-to-spur-sustainable-cooling-launched-in-tandem-with-go-green-sg-2025</a>)</p>
 <p>Feature in <strong>Go Green SG Movement Returns for 2025</strong> article
 on 9 May 2025 on Ministry of Sustainability and the Environment website
