@@ -2,5 +2,6 @@ collections:
   classroom-experience:
     output: true
     order:
+      - Information and Communication Technologies, ICT.md
       - Mathematics Classroom Experience.md
       - Classroom Experience.md
