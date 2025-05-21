@@ -1,0 +1,13 @@
+collections:
+  classroom-experience:
+    output: true
+    order:
+      - Mathematics Classroom Experience.md
+      - Information and Communication Technologies, ICT.md
+      - Sports Day and Sports Carnival.md
+      - Interclass Games.md
+      - English Language Storytelling.md
+      - Mother Tongue Language Cultural Exposure.md
+      - Haunted House.md
+      - Changkat Goes Purple.md
+      - Circular Classroom.md
