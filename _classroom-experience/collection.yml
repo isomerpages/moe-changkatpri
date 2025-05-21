@@ -1,4 +1,5 @@
 collections:
   classroom-experience:
     output: true
-    order: []
+    order:
+      - Classroom Experience.md
