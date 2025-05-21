@@ -2,6 +2,7 @@ collections:
   classroom-experience:
     output: true
     order:
+      - Interclass Games.md
       - Sports Day and Sports Carnival.md
       - Information and Communication Technologies, ICT.md
       - Mathematics Classroom Experience.md
