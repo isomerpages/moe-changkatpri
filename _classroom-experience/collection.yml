@@ -2,5 +2,4 @@ collections:
   classroom-experience:
     output: true
     order:
-      - Changkat Goes Purple.md
       - Circular Classroom.md
