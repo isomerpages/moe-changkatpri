@@ -2,7 +2,6 @@ collections:
   classroom-experience:
     output: true
     order:
-      - Mother Tongue Language Cultural Exposure.md
       - Haunted House.md
       - Changkat Goes Purple.md
       - Circular Classroom.md
