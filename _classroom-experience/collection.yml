@@ -2,7 +2,6 @@ collections:
   classroom-experience:
     output: true
     order:
-      - Interclass Games.md
       - English Language Storytelling.md
       - Mother Tongue Language Cultural Exposure.md
       - Haunted House.md
