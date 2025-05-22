@@ -2,7 +2,6 @@ collections:
   classroom-experience:
     output: true
     order:
-      - Sports Day and Sports Carnival.md
       - Interclass Games.md
       - English Language Storytelling.md
       - Mother Tongue Language Cultural Exposure.md
