@@ -2,6 +2,5 @@ collections:
   classroom-experience:
     output: true
     order:
-      - Haunted House.md
       - Changkat Goes Purple.md
       - Circular Classroom.md
