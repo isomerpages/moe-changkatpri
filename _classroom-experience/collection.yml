@@ -2,7 +2,6 @@ collections:
   classroom-experience:
     output: true
     order:
-      - Information and Communication Technologies, ICT.md
       - Sports Day and Sports Carnival.md
       - Interclass Games.md
       - English Language Storytelling.md
