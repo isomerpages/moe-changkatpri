@@ -9,7 +9,7 @@ third_nav_title: 60th
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/SustainaTrail_Poster__002_.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Chinese_Girl.jpg">
 </div>
 <p>🌿 Discover SustainaTrail@Changkat-Simei 🌿</p>
 <p>Join us on an inspiring journey towards a greener future with SustainaTrail@Changkat-Simei
