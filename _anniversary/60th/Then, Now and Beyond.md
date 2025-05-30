@@ -59,9 +59,14 @@ thoughts!</p>
 <p>Social Enterprise Day (SED) – Haunted House <strong>(Only for those aged between 7 and 12 years old</strong>)
 &amp; Games &amp; Retail.
 <br><strong>→To play the games or purchase items from the retail stores, you’ll need to purchase coupons sold on site outside the hall (near the glass doors).</strong>
+<br>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BAIEESP6fkY?si=ERAbsZG0kPtUoFKZ"></iframe>
+</div>
 </li>
 </ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/Indian_Girl.jpg">
 </div>
