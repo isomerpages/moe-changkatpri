@@ -4,9 +4,6 @@ permalink: /english-language-storytelling/
 variant: tiptap
 description: ""
 ---
-<div class="iframe-wrapper">
-<iframe height="615" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iXcZSCy1SMk"></iframe>
-</div>
 <p></p>
 <p>Since the past, our teachers have brought stories to life using Big Books,
 gathering students around them for memorable shared reading experiences.
@@ -17,3 +14,10 @@ today.
 and join us as we recreate a lively, heartwarming lesson through a beloved
 book about team spirit — where every page sparks imagination, friendship,
 and fun.</p>
+<div class="iframe-wrapper">
+<iframe height="615" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iXcZSCy1SMk"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
