@@ -10,6 +10,7 @@ gathering students around them for memorable shared reading experiences.
 This timeless method has proven so successful in nurturing a love for reading,
 language, and learning that it remains widely practised in our classrooms
 today.
+<br>
 <br>Now, we invite you to relive the magic! Step into our storytelling corner
 and join us as we recreate a lively, heartwarming lesson through a beloved
 book about team spirit — where every page sparks imagination, friendship,
@@ -19,5 +20,6 @@ and fun.</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
+<p>
+<br>
+</p>
