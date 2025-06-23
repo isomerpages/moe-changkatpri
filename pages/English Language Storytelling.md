@@ -4,7 +4,6 @@ permalink: /english-language-storytelling/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <p>Since the past, our teachers have brought stories to life using Big Books,
 gathering students around them for memorable shared reading experiences.
 This timeless method has proven so successful in nurturing a love for reading,
