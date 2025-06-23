@@ -4,5 +4,15 @@ permalink: /echoes-from-50/
 variant: tiptap
 description: ""
 ---
-<h3>Echoes from 50</h3>
+<p>Memories then, moments now, dreams beyond!</p>
+<p>Come and journey through time at our booth. Start at Table 1 by viewing
+cherished students’ mementos from a decade ago. Move to Table 2 to pen
+your reflections on how these memories resonate with you today. Then, head
+to Table 3 and pen down what you envision the school to be like in 2035.
+Do watch the short photo story of “Then &amp; Now” school initiatives.</p>
+<p>Engage, reflect, and shape the tomorrow you want to see.</p>
 <p></p>
+<p></p>
+<p>
+<br>
+</p>
