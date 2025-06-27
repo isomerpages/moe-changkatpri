@@ -872,7 +872,8 @@ third_nav_title: Staff
 <p>&nbsp;Ms Selena Chew Wui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:chew_wui_ling_selena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_wui_ling_selena@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
