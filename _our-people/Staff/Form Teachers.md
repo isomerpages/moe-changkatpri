@@ -484,13 +484,25 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Li Ting Jaena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Teo_Li_Ting_Jaena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Li_Ting_Jaena@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hazelina Gopinathan</p>
+<p>Mdm Josephine Teow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hazelina_gopinathan@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">josephine_teow@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -499,10 +511,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Josephine Teow</p>
+<p>Mdm Radziyah Bte Mohd Zain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">josephine_teow@schools.gov.sg</a>
+<p><a href="mailto:radziyah_mohamed_zain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">radziyah_mohamed_zain@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -523,10 +535,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liew Poh Lian</p>
+<p>Mdm Lang JiaJing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Liew_Poh_Lian@schools.gov.sg</a>
+<p><a href="mailto:lang_jia_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lang_jia_jing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
