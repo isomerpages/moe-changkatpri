@@ -39,6 +39,20 @@ confidence – it’s a testament to the power of MTL education!</p>
 <p>Come and experience the magic of MTL – where language meets culture, and
 learning becomes an unforgettable adventure! Don’t forget to view the short
 video interview as our alumni reflects their past experience in our school.</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_WjzwulMSCw"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vqQjnTltPko"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RhDvizV_Tho"></iframe>
+</div>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
