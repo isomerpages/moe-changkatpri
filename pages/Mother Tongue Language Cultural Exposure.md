@@ -10,6 +10,18 @@ and multimodal strategies that turn language learning into an adventure.
 From gamification to role-playing, you’ll dive into experiences designed
 to engage and inspire every learning style. Ready to join the fun? Let’s
 play!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/CL_Unit.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/ML_Unit.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/TL_Unit.jpg">
+</div>
 <p>Today, you’ll embark on a journey through three captivating Language and
 Cultural Games. Challenge your knowledge of Chinese phrases in Snake and
 Ladder, explore fascinating insights into Malay culture through an exhilarating
