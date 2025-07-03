@@ -175,8 +175,3 @@ fill-in the&nbsp;<strong>Parent Volunteer Application Form</strong>&nbsp;(Extern
 link) or Fill up a form at the General Office and we will get in touch
 with you shortly.</p>
 <p></p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MRTFfLXuLvg"></iframe>
-</div>
-<p></p>
