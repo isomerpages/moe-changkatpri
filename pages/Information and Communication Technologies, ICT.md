@@ -14,6 +14,6 @@ quietest students to express themselves on platforms like Padlet and SLS.</p>
 <p>Come explore how far we’ve come and find out what’s next!</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v4WsL1mCbkA"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v4WsL1mCbkA"></iframe>
 </div>
 <p></p>
