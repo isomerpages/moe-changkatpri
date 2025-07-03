@@ -10,6 +10,18 @@ and multimodal strategies that turn language learning into an adventure.
 From gamification to role-playing, you’ll dive into experiences designed
 to engage and inspire every learning style. Ready to join the fun? Let’s
 play!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/CL_Unit.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/ML_Unit.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Anniversary photo/TL_Unit.jpg">
+</div>
 <p>Today, you’ll embark on a journey through three captivating Language and
 Cultural Games. Challenge your knowledge of Chinese phrases in Snake and
 Ladder, explore fascinating insights into Malay culture through an exhilarating
@@ -27,6 +39,22 @@ confidence – it’s a testament to the power of MTL education!</p>
 <p>Come and experience the magic of MTL – where language meets culture, and
 learning becomes an unforgettable adventure! Don’t forget to view the short
 video interview as our alumni reflects their past experience in our school.</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_WjzwulMSCw"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vqQjnTltPko"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RhDvizV_Tho"></iframe>
+</div>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>

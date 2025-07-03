@@ -9,6 +9,11 @@ gathering students around them for memorable shared reading experiences.
 This timeless method has proven so successful in nurturing a love for reading,
 language, and learning that it remains widely practised in our classrooms
 today.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Anniversary photo/English_Language_Storytelling_ckps_1999.png">
+</div>
+<p></p>
 <p>Now, we invite you to relive the magic! Step into our storytelling corner
 and join us as we recreate a lively, heartwarming lesson through a beloved
 book about team spirit — where every page sparks imagination, friendship,
