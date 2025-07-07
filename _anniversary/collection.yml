@@ -2,6 +2,7 @@ collections:
   anniversary:
     output: true
     order:
+      - Classroom experience/Interclass Games.md
       - Classroom experience/Information and Communication Technologies, ICT.md
       - Classroom experience/Haunted House.md
       - Classroom experience/English Language Storytelling.md
