@@ -33,9 +33,4 @@ sections:
       url: /60th
       image: /images/Anniversary photo/60thannilogo.jpg
       alt: 60th Anniversary
-  - infopic:
-      title: SustainaTrail@Changkat-Simei
-      id: infopic
-      image: /images/Anniversary photo/Sustainability_Trail_Poster_v2.png
-      alt: Image alt text
 ---
