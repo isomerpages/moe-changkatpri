@@ -28,8 +28,7 @@ sections:
   - infopic:
       title: 60th Anniversary
       id: infopic
-      description: Changkat Primary School will be celebrating our 60th Anniversary on
-        5 July 2025.
+      description: Changkat Primary School celebrated our 60th Anniversary on 5 July 2025.
       button: Find out more
       url: /60th
       image: /images/Anniversary photo/60thannilogo.jpg
