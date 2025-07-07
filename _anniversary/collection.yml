@@ -2,6 +2,7 @@ collections:
   anniversary:
     output: true
     order:
+      - Classroom experience/.keep
       - 60th/60th Anniversary.md
       - 60th/.keep
       - 60th/Overview.md
