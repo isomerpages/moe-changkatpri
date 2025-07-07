@@ -2,6 +2,12 @@ collections:
   anniversary:
     output: true
     order:
+      - 60th/.keep
+      - 60th/60th Anniversary.md
+      - 60th/Overview.md
+      - 60th/Then, Now and Beyond.md
+      - 60th/SustainaTrail at Changkat Simei.md
+      - Classroom experience/.keep
       - Classroom experience/Sports Day and Sports Carnival.md
       - Classroom experience/Mother Tongue Language Cultural Exposure.md
       - Classroom experience/Mathematics Classroom Experience.md
@@ -12,9 +18,3 @@ collections:
       - Classroom experience/Circular Classroom.md
       - Classroom experience/Changkat Goes Purple.md
       - Classroom experience/Echoes from 50.md
-      - Classroom experience/.keep
-      - 60th/60th Anniversary.md
-      - 60th/.keep
-      - 60th/Overview.md
-      - 60th/Then, Now and Beyond.md
-      - 60th/SustainaTrail at Changkat Simei.md
