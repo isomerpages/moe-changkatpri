@@ -36,8 +36,6 @@ sections:
   - infopic:
       title: SustainaTrail@Changkat-Simei
       id: infopic
-      button: Sign up here
-      url: https://go.gov.sg/sustainatrail
       image: /images/Anniversary photo/Sustainability_Trail_Poster_v2.png
       alt: Image alt text
 ---
