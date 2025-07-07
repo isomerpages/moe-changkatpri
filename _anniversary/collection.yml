@@ -2,6 +2,7 @@ collections:
   anniversary:
     output: true
     order:
+      - Classroom experience/Haunted House.md
       - Classroom experience/English Language Storytelling.md
       - Classroom experience/Circular Classroom.md
       - Classroom experience/Changkat Goes Purple.md
