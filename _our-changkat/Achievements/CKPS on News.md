@@ -7,6 +7,9 @@ third_nav_title: Achievements
 ---
 <h3>CKPS on News</h3>
 <p></p>
+<p></p>
+<p>8视界: <a href="https://www.8world.com/singapore/changkat-primary-school-celebrates-60-years-2838216" rel="noopener nofollow" target="_blank">欢庆建校60周年 尚育小学办活动不忘环保</a> 发布
+/ 2025年7月5日 1:53 PM.</p>
 <p>Feature in The Straitstimes website article on May 16, 2025. <strong>New campaign to urge S’pore home, business, building owners to set air-cons at 25 deg C</strong>.
 (<a href="https://www.straitstimes.com/singapore/environment/go-25-movement-to-spur-sustainable-cooling-launched-in-tandem-with-go-green-sg-2025" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/environment/go-25-movement-to-spur-sustainable-cooling-launched-in-tandem-with-go-green-sg-2025</a>)</p>
 <p>Feature in <strong>Go Green SG Movement Returns for 2025</strong> article
