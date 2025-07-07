@@ -3,6 +3,7 @@ title: Haunted House
 permalink: /haunted-house/
 variant: tiptap
 description: ""
+third_nav_title: Classroom experience
 ---
 <p>Step into our haunted maze filled with twists and turns! Constructed using
 tables and black trash bags, the maze blocks out all natural light to create

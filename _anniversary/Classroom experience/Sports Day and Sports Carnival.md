@@ -3,6 +3,7 @@ title: Sports Day and Sports Carnival
 permalink: /sports-day-and-sports-carnival/
 variant: tiptap
 description: ""
+third_nav_title: Classroom experience
 ---
 <p>🎉 Changkat @ 60: Celebrating the Kampong Spirit Through Play! 🏅🎈</p>
 <p>From thrilling Sports Day races to the joyfully inclusive Sports Carnival,

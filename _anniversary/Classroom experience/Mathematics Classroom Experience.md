@@ -3,6 +3,7 @@ title: Mathematics Classroom Experience
 permalink: /mathematics-classroom-experience/
 variant: tiptap
 description: ""
+third_nav_title: Classroom experience
 ---
 <h3>Mathematics Classroom Experience</h3>
 <p>Step into the evolution of math learning in our Then and Now Classroom!

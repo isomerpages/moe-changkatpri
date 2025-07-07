@@ -3,6 +3,7 @@ title: Echoes from 50
 permalink: /echoes-from-50/
 variant: tiptap
 description: ""
+third_nav_title: Classroom experience
 ---
 <p>Memories then, moments now, dreams beyond!</p>
 <p>Come and journey through time at our booth. Start at Table 1 by viewing

@@ -3,6 +3,7 @@ title: Circular Classroom
 permalink: /circular-classroom/
 variant: tiptap
 description: ""
+third_nav_title: Classroom experience
 ---
 <p>The Changkat Primary School PIE Club has a proud history of fostering
 strong partnerships between parents, teachers, and the community to support

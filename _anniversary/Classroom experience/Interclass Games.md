@@ -3,6 +3,7 @@ title: Interclass Games
 permalink: /interclass-games/
 variant: tiptap
 description: ""
+third_nav_title: Classroom experience
 ---
 <p>🎉 Changkat @ 60: Celebrating the Kampong Spirit Through Play! 🏃‍♂️🎯</p>
 <p>At Changkat Primary School, the Inter-Class Games (ICG) have always been

@@ -3,6 +3,7 @@ title: Changkat Goes Purple
 permalink: /changkat-goes-purple/
 variant: tiptap
 description: ""
+third_nav_title: Classroom experience
 ---
 <p>Changkat Goes Purple is our vibrant annual initiative, inspired by the
 spirit of Singapore’s Purple Parade. It’s our way of educating and empowering
