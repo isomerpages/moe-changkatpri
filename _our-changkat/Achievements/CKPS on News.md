@@ -7,7 +7,8 @@ third_nav_title: Achievements
 ---
 <h3>CKPS on News</h3>
 <p></p>
-<p></p>
+<p>Feature in The Straitstimes website article on July 7, 2025. <strong>Changkat Primary School turns 2,000 old uniforms into new creations for 60th anniversary</strong>.
+(<a href="https://www.straitstimes.com/singapore/parenting-education/changkat-primary-school-turns-2000-old-uniforms-into-new-creations-for-60th-anniversary" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/singapore/parenting-education/changkat-primary-school-turns-2000-old-uniforms-into-new-creations-for-60th-anniversary</a>)</p>
 <p>8视界: <a href="https://www.8world.com/singapore/changkat-primary-school-celebrates-60-years-2838216" rel="noopener nofollow" target="_blank">欢庆建校60周年 尚育小学办活动不忘环保</a> 发布
 / 2025年7月5日 1:53 PM.</p>
 <p>Feature in The Straitstimes website article on May 16, 2025. <strong>New campaign to urge S’pore home, business, building owners to set air-cons at 25 deg C</strong>.
