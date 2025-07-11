@@ -10,6 +10,7 @@ description: ""
 </p>
 <p><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Student MIMS</a>
 </p>
+<p><a href="https://mims.moe.gov.sg/sspr" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Student (Self-help) MIMS account password reset</u></a>&nbsp;</p>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 <p><a href="https://workspace.google.com/" rel="noopener noreferrer nofollow" target="_blank">Google Workspace</a>
