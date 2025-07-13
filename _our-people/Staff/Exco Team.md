@@ -113,10 +113,10 @@ third_nav_title: Staff
 <p>HOD Mother Tongue Languages (MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Fang Fang</p>
+<p>Mr Ng Chye Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_fangfang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhang_fangfang@schools.gov.sg</u></a>
+<p><a href="mailto:zhang_fangfang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_chye_huat@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
