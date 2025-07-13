@@ -804,7 +804,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Chye Huat
+<p>Mr Ng Chye Huat
 <br>(HOD MTL, CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
