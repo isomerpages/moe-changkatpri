@@ -65,12 +65,12 @@ download <strong>Interbank GIRO Application Form</strong> (External link)</p>
 fill-in the <strong>Edusave Standing Order Form</strong> (External link)</p>
 </li>
 <li>
-<p>Click <a href="https://drive.google.com/file/d/1h3_8YjpP9b_zQ2f0kGJ7xMam6YuC-gUN/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://drive.google.com/file/d/1Y6OCXLT1Lc4L8Qc-OabU5TuZlyqOcOGD/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 download the <strong>Application form for The Straits Times School Pocket Money Fund (STSPMF) for P1-P5 students</strong> (External
 link)</p>
 </li>
 <li>
-<p>Click <a href="https://drive.google.com/file/d/1NWEroPAiuhRUQb3lzdFSZWNdTsasXpkL/view" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+<p>Click <a href="https://drive.google.com/file/d/1yFO4YFC450PxXFzJylTWP3EqdsZqIxYg/" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 download the <strong>Bethesda Care Services Bursary form </strong>(External
 link)</p>
 </li>
