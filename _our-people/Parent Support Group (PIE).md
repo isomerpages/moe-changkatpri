@@ -10,20 +10,35 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/PIE/PIE Club Logo.png">
 </div>
 <h4><strong>About Us</strong></h4>
-<p>The Partners In Education (PIE) club is the Parents Support Group of Changkat
-Primary School. We are dedicated to support the school by volunteering
-our time, talent and thoughts. As depicted in our logo, we pledge to serve
-with honour, passion and pride; without fear, favour or prejudice.</p>
-<h4><strong>The Core Team</strong></h4>
-<p><em>The PIE Club is managed by a core team that helps to oversee all PIE Club efforts, and is the main point of contact with the school staff.</em>
-</p>
+<p>The Partners in Education (PIE) Club is the Parent Support Group of Changkat
+Primary School. We are committed to partnering with the school by contributing
+our time, talents, and passion to support the holistic development of our
+children.&nbsp;</p>
+<h4><strong>The EXCO Team</strong></h4>
+<p>The PIE Club is led by a dedicated Executive Committee (EXCO) that works
+closely with the school to strengthen parent–school partnerships, creating
+meaningful opportunities and experiences that enhance our children’s growth
+and development.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/PIE/PIE Club Org Chart.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/PIE.png">
 </div>
-<h4><strong>How do we volunteer?</strong></h4>
-<p>We partner and support the school by volunteering our time, talent and
-thoughts; typically in the following school programmes:</p>
+<h4>As EXCO members, they are:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>supporting school events and initiatives in collaboration with school
+staff.</p>
+</li>
+<li>
+<p>providing leadership to PIE Club members in planning and executing events/activities.</p>
+</li>
+<li>
+<p>facilitating communication including feedback and ideas between parents
+and the school constructively.</p>
+</li>
+</ul>
+<p><strong>PIE Club Led Activities</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,146 +47,125 @@ thoughts; typically in the following school programmes:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Our Time</strong>
-</p>
+<p>Reading Programmes</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English KidsREAD</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese Storytelling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Our Effort</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Our Thoughts</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 191.156px;" height="auto" width="100%" src="https://www.changkatpri.moe.edu.sg/images/Parent/PIE/volunteer1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Events/PIE/1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p>Parent volunteers bring stories to life through engaging storytelling
+sessions and provide reading support to nurture students’ love for books.
+Their support helps build confident, fluent readers and fosters a lifelong
+passion for reading.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recess Play Activities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weekly recess activities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Themed weeks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 129.656px;" height="auto" width="100%" src="https://www.changkatpri.moe.edu.sg/images/Parent/PIE/volunteer2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 177.562px;" height="auto" width="100%" src="https://www.changkatpri.moe.edu.sg/images/Parent/PIE/volunteer3.jpg">
-</div>
+<p>Parent volunteers organise engaging hands-on activities during recess
+to spark students’ creativity and encourage critical thinking. These interactive
+sessions provide fun, meaningful opportunities for children to explore,
+imagine, and problem-solve.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Recess Duty</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Stage Deco</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Constructive Dialogues</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Once a week (9.30 to 11.30am)
-<br>
-<br>A chance for our teachers to take a break before they begin lessons again</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Stage decorations for festive celebrations and different school events.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Through dialogues with school leaders, we give constructive feedback,
-and in return, we understand the rationale behind school policies and share
-important information with other parents.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 191.156px;" height="auto" width="100%" src="https://www.changkatpri.moe.edu.sg/images/Parent/PIE/volunteer4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 168.547px;" height="auto" width="100%" src="https://www.changkatpri.moe.edu.sg/images/Parent/PIE/volunteer5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 193.703px;" height="auto" width="100%" src="https://www.changkatpri.moe.edu.sg/images/Parent/PIE/volunteer6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Reading to Children</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Performers</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Event Helpers</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>- English KidsREAD
-<br>- Malay &amp; Tamil Reading Programme
-<br>- Chinese Storytelling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stage performance (in the form of dance, workout or skit) for school celebrations
-such as Total Defence Day, National Day, Children’s Day, etc</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ad-hoc events during school hours eg:
-<br>- Field trips
-<br>- Sports Day
-<br>- Activity booths at school’s National Education and cultural events</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>Parent-Child Bonding Activities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cook off Session</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dads/ Mums for Life</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent-Child Heritage
+Trail</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/3.jpg">
+</div>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/4.png">
+</div>
+<p>&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/6.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/7.jpg">
+</div>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Parent-Child bonding activities create meaningful opportunities for
+parents and children to spend quality time together through shared activities
+and experiences. These moments strengthen family bonds while fostering
+mutual understanding and joy.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PIE Club Bonding Sessions</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PV orientation and Chinese
+New Year Celebration&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appreciation Day</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/8.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/9.jpg">
+</div>
+<p>&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>Bonding sessions for parent volunteers bring everyone together through
+fun and interactive activities, fostering friendship and teamwork. These
+moments strengthen the volunteer community and build a spirit of shared
+purpose.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Join us!</strong></h4>
+<p></p>
+<p><strong>Join us!</strong>
+</p>
 <p>Play an active role in your child’s development in school. We need and
 value parents’ help and support and we invite all parents to partner us
 in our journey to help our children grow into Learners with Passion, Citizens
 of Honour.</p>
-<p>Read up on our Parent Volunteer (PV) Guidelines <a href="https://drive.google.com/file/d/1-Ixn2_SXpvXBAy5uZAQ1jSpJGMPaXlg6/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p>Click&nbsp;<a href="https://form.gov.sg/634f7b32d25d7f0012ff9f93" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;to
-fill-in the&nbsp;<strong>Parent Volunteer Application Form</strong>&nbsp;(External
-link) or Fill up a form at the General Office and we will get in touch
-with you shortly.</p>
+<p>Read up on our Parent Volunteer (PV) Guidelines <a href="https://drive.google.com/file/d/1-Ixn2_SXpvXBAy5uZAQ1jSpJGMPaXlg6/view" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click <a href="https://form.gov.sg/634f7b32d25d7f0012ff9f93" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+fill-in the Parent Volunteer Application Form (External link) and we will
+get in touch with you shortly.</p>
 <p></p>
