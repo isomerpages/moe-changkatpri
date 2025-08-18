@@ -166,7 +166,6 @@ mutual understanding and joy.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/9.jpg">
 </div>
 <p>&nbsp;</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
