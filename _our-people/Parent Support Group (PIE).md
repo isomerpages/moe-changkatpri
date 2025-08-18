@@ -6,9 +6,6 @@ description: ""
 ---
 <h3><strong>Parents Support Group (PIE Club)</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/PIE/PIE Club Logo.png">
-</div>
 <h4><strong>About Us</strong></h4>
 <p>The Partners in Education (PIE) Club is the Parent Support Group of Changkat
 Primary School. We are committed to partnering with the school by contributing
