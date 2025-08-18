@@ -20,9 +20,6 @@ closely with the school to strengthen parent–school partnerships, creating
 meaningful opportunities and experiences that enhance our children’s growth
 and development.&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/PIE.png">
-</div>
 <h4>As EXCO members, they are:</h4>
 <ul data-tight="true" class="tight">
 <li>
