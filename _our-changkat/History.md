@@ -58,8 +58,12 @@ towards greater accomplishments in our mission to nurture students to become
 Changkat Primary School as principal.</p>
 <p><strong>Key milestones</strong>
 </p>
-<p>Changkat celebrates it 50<sup>th</sup> Anniversary (2015)
+<p>Changkat celebrates its 50<sup>th</sup> Anniversary (2015)
 <br><a href="https://www.straitstimes.com/singapore/changkat-primary-celebrates-its-50th-anniversary" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/changkat-primary-celebrates-its-50th-anniversary</a>
+</p>
+<p></p>
+<p>Changkat celebrates its 60<sup>th</sup> Anniversary with upcycling (2025)</p>
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/changkat-primary-school-turns-2000-old-uniforms-into-new-creations-for-60th-anniversary" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/parenting-education/changkat-primary-school-turns-2000-old-uniforms-into-new-creations-for-60th-anniversary</a>
 </p>
 <p>
 <br>
