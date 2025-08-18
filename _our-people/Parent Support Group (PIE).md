@@ -74,7 +74,8 @@ passion for reading.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Recess Play Activities</p>
+<p><strong>Recess Play Activities</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Weekly recess activities</p>
@@ -99,7 +100,8 @@ imagine, and problem-solve.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent-Child Bonding Activities</p>
+<p><strong>Parent-Child Bonding Activities</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cook off Session</p>
@@ -176,14 +178,10 @@ mutual understanding and joy.</p>
 fun and interactive activities, fostering friendship and teamwork. These
 moments strengthen the volunteer community and build a spirit of shared
 purpose.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Join us!</strong>
 </p>
 <p>Play an active role in your child’s development in school. We need and
