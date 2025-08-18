@@ -132,12 +132,9 @@ imagine, and problem-solve.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/6.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/7.jpg">
 </div>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Parent-Child bonding activities create meaningful opportunities for
@@ -164,7 +161,6 @@ mutual understanding and joy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/8.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/PIE/9.jpg">
