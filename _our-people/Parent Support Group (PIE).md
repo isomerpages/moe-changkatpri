@@ -48,9 +48,16 @@ and the school constructively.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reading Programmes</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English KidsREAD</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese Storytelling</p>
+<p><strong>Reading Programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>English KidsREAD</p>
+</li>
+<li>
+<p>Chinese Storytelling</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -68,8 +75,14 @@ passion for reading.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Recess Play Activities</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weekly recess activities</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Themed weeks</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Weekly recess activities</p>
+</li>
+<li>
+<p>Themed weeks</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -87,10 +100,17 @@ imagine, and problem-solve.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Parent-Child Bonding Activities</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cook off Session</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dads/ Mums for Life</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent-Child Heritage
-Trail</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cook off Session</p>
+</li>
+<li>
+<p>Dads/ Mums for Life</p>
+</li>
+<li>
+<p>Parent-Child Heritage Trail</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,10 +146,16 @@ mutual understanding and joy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PIE Club Bonding Sessions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PV orientation and Chinese
-New Year Celebration&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appreciation Day</p>
+<p><strong>PIE Club Bonding Sessions</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PV orientation and Chinese New Year Celebration&nbsp;</p>
+</li>
+<li>
+<p>Appreciation Day</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
