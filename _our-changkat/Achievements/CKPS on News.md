@@ -7,6 +7,10 @@ third_nav_title: Achievements
 ---
 <h3>CKPS on News</h3>
 <p></p>
+<p></p>
+<p>Feature in <strong>Go Green SG 2025</strong> video published on 14 Aug 2025
+on Ministry of Sustainability and the Environment's YouTube channel in
+support of <strong>Go Green SG</strong>. (<a href="https://m.youtube.com/watch?v=iTGtbWa7n28" rel="noopener noreferrer nofollow" target="_blank">https://m.youtube.com/watch?v=iTGtbWa7n28</a>).</p>
 <p>Feature in The Straitstimes website article on July 7, 2025. <strong>Changkat Primary School turns 2,000 old uniforms into new creations for 60th anniversary</strong>.
 (<a href="https://www.straitstimes.com/singapore/parenting-education/changkat-primary-school-turns-2000-old-uniforms-into-new-creations-for-60th-anniversary" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/singapore/parenting-education/changkat-primary-school-turns-2000-old-uniforms-into-new-creations-for-60th-anniversary</a>)</p>
 <p>8视界: <a href="https://www.8world.com/singapore/changkat-primary-school-celebrates-60-years-2838216" rel="noopener nofollow" target="_blank">欢庆建校60周年 尚育小学办活动不忘环保</a> 发布
