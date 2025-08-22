@@ -307,7 +307,6 @@ and will close after the submission deadline.</p>
 </p>
 <p>Ms Jesslyn Ng</p>
 <p>Mr Khairul Nizam Abdul Aziz</p>
-<p>Shi Hui</p>
 <p>Mdm Shi Hui</p>
 <p></p>
 </td>
