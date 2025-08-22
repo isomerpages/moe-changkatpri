@@ -205,10 +205,12 @@ and will close after the submission deadline.</p>
 <p>Mr Md Faiz Md Siddiq (OIC)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_faiz_mohamed_siddiq@schools.gov.sg</a>
 </p>
-<p>Mdm Siti Hajar Mohamed Khan</p>
-<p>Mr Matthew Teo Hock Chye</p>
-<p>Mrs Soh Chern Hui (Mrs Leong)</p>
+<p></p>
 <p>Mdm Lim Lai Li</p>
+<p>Mr Matthew Teo Hock Chye</p>
+<p>Mdm Siti Hajar Mohamed Khan</p>
+<p>Mrs Soh Chern Hui (Mrs Leong)</p>
+<p></p>
 <p>Ms Dian Hazwani (ICT Trainer)</p>
 </td>
 <td rowspan="1" colspan="1">
