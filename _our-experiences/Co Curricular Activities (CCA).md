@@ -150,9 +150,10 @@ and will close after the submission deadline.</p>
 <p>Mdm Nur Azura Rahim (OIC)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_azura_rahim@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mdm Anne Yeong Wai Cheng</p>
+<p>Mr Nurisham Ismail</p>
 <p>Mdm Tay Aifang Faith</p>
-<p>Mr Nurisham Ismail
-<br>Mdm Anne Yeong Wai Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>
@@ -205,10 +206,12 @@ and will close after the submission deadline.</p>
 <p>Mr Md Faiz Md Siddiq (OIC)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_faiz_mohamed_siddiq@schools.gov.sg</a>
 </p>
-<p>Mdm Siti Hajar Mohamed Khan</p>
-<p>Mr Matthew Teo Hock Chye</p>
-<p>Mrs Soh Chern Hui (Mrs Leong)</p>
+<p></p>
 <p>Mdm Lim Lai Li</p>
+<p>Mr Matthew Teo Hock Chye</p>
+<p>Mdm Siti Hajar Mohamed Khan</p>
+<p>Mrs Soh Chern Hui (Mrs Leong)</p>
+<p></p>
 <p>Ms Dian Hazwani (ICT Trainer)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,16 +261,15 @@ and will close after the submission deadline.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Josephine Teow (OIC)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">josephine_teow@schools.gov.sg</a>
+<p>Mdm Josephine Teow (OIC) <a rel="noopener noreferrer nofollow" target="_blank">josephine_teow@schools.gov.sg</a>
 </p>
-<p>Mdm Sharifah Aminah Syed Omar Alsree</p>
-<p>Mr Li Kun Peng</p>
-<p>Mdm Juliana Jumaat</p>
-<p>Mr Hoo Chee Mun</p>
-<p>Mrs Saraswathy Samuel</p>
-<p>Ms Yong Yun Yun</p>
 <p>Mdm Farhanah Jumahat</p>
+<p>Mr Hoo Chee Mun</p>
+<p>Mdm Juliana Jumaat</p>
+<p>Mr Li Kun Peng</p>
+<p>Mrs Saraswathy Samuel</p>
+<p>Mdm Sharifah Aminah Syed Omar Alsree</p>
+<p>Ms Yong Yun Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays &amp;/or Thursdays</p>
@@ -303,8 +305,9 @@ and will close after the submission deadline.</p>
 <p>Mr Ng Boon Teng David (OIC)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_boon_teng_david@schools.gov.sg</a>
 </p>
+<p>Ms Jesslyn Ng</p>
 <p>Mr Khairul Nizam Abdul Aziz</p>
-<p>Ms Jesslyn Ng Shi Hui</p>
+<p>Shi Hui</p>
 <p>Mdm Shi Hui</p>
 <p></p>
 </td>
@@ -361,8 +364,9 @@ and will close after the submission deadline.</p>
 <p>Ms Faradillah (OIC)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">faradillah_jumahat@schools.gov.sg</a>
 </p>
-<p>Mr Tay Wei Qiang</p>
 <p>Mdm Tan Keng Tzu (Mrs Wong)</p>
+<p>Mr Tay Wei Qiang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>
