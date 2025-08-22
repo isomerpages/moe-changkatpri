@@ -151,7 +151,8 @@ and will close after the submission deadline.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_azura_rahim@schools.gov.sg</a>
 </p>
 <p>Mdm Tay Aifang Faith</p>
-<p>Mr Nurisham Ismail</p>
+<p>Mr Nurisham Ismail
+<br>Mdm Anne Yeong Wai Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>
@@ -168,7 +169,6 @@ and will close after the submission deadline.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">tia_amelia_abdullah@schools.gov.sg</a>
 </p>
 <p>Mdm Aznani</p>
-<p>Mdm Geeta Jayakumar</p>
 <p>Mdm Liew Poh Lian</p>
 <p>Mdm Teo Li Ting Jaena</p>
 </td>
@@ -266,7 +266,7 @@ and will close after the submission deadline.</p>
 <p>Mdm Juliana Jumaat</p>
 <p>Mr Hoo Chee Mun</p>
 <p>Mrs Saraswathy Samuel</p>
-<p>Mdm Radziyah</p>
+<p>Ms Yong Yun Yun</p>
 <p>Mdm Farhanah Jumahat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,7 +287,7 @@ and will close after the submission deadline.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_taufeek_ramlan@schools.gov.sg</a>
 </p>
 <p>Mdm Nuriani Mahat</p>
-<p>Ms Yong Yun Yun</p>
+<p>Mdm Radziyah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>
@@ -306,8 +306,7 @@ and will close after the submission deadline.</p>
 <p>Mr Khairul Nizam Abdul Aziz</p>
 <p>Ms Jesslyn Ng Shi Hui</p>
 <p>Mdm Shi Hui</p>
-<p>Mdm Anne Yeong Wai Cheng</p>
-<p>Miss Crystal Yip Xue Yi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays &amp;/or Thursdays</p>
@@ -362,7 +361,7 @@ and will close after the submission deadline.</p>
 <p>Ms Faradillah (OIC)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">faradillah_jumahat@schools.gov.sg</a>
 </p>
-<p>Ms Hazelina Gopinathan</p>
+<p>Mr Tay Wei Qiang</p>
 <p>Mdm Tan Keng Tzu (Mrs Wong)</p>
 </td>
 <td rowspan="1" colspan="1">
