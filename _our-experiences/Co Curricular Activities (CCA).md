@@ -258,16 +258,15 @@ and will close after the submission deadline.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Josephine Teow (OIC)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">josephine_teow@schools.gov.sg</a>
+<p>Mdm Josephine Teow (OIC) <a rel="noopener noreferrer nofollow" target="_blank">josephine_teow@schools.gov.sg</a>
 </p>
 <p>Mdm Sharifah Aminah Syed Omar Alsree</p>
+<p>Mr Hoo Chee Mun</p>
 <p>Mr Li Kun Peng</p>
 <p>Mdm Juliana Jumaat</p>
-<p>Mr Hoo Chee Mun</p>
 <p>Mrs Saraswathy Samuel</p>
-<p>Ms Yong Yun Yun</p>
 <p>Mdm Farhanah Jumahat</p>
+<p>Ms Yong Yun Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays &amp;/or Thursdays</p>
@@ -361,8 +360,9 @@ and will close after the submission deadline.</p>
 <p>Ms Faradillah (OIC)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">faradillah_jumahat@schools.gov.sg</a>
 </p>
-<p>Mr Tay Wei Qiang</p>
 <p>Mdm Tan Keng Tzu (Mrs Wong)</p>
+<p>Mr Tay Wei Qiang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>
