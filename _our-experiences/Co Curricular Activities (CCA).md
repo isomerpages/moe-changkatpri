@@ -150,9 +150,10 @@ and will close after the submission deadline.</p>
 <p>Mdm Nur Azura Rahim (OIC)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_azura_rahim@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mdm Anne Yeong Wai Cheng</p>
+<p>Mr Nurisham Ismail</p>
 <p>Mdm Tay Aifang Faith</p>
-<p>Mr Nurisham Ismail
-<br>Mdm Anne Yeong Wai Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>
