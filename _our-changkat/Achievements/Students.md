@@ -22,24 +22,19 @@ third_nav_title: Achievements
 <p>7th position in 3-Duan Changquan</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6th position in 4-Duan
-Spear</p>
+<p>6th position in 4-Duan Spear</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 students received
-Achievement Pin in 4-Duan Sword</p>
+<p>2 students received Achievement Pin in 4-Duan Sword</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Achievement Pin in 5-Duan
-Broadsword</p>
+<p>Achievement Pin in 5-Duan Broadsword</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Achievement Pin in 3-Duan
-Changquan</p>
+<p>Achievement Pin in 3-Duan Changquan</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Achievement Pin in 5-Duan
-Spear</p>
+<p>Achievement Pin in 5-Duan Spear</p>
 </li>
 </ul>
 </td>
@@ -48,7 +43,6 @@ Spear</p>
 <td rowspan="1" colspan="1">
 <p><strong>National School Games: Track and Field</strong>
 </p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>2nd&nbsp;in Junior 2 Boys Vertical Jumo</p>
@@ -56,9 +50,6 @@ Spear</p>
 <li>
 <p>6th in Junior 2 Boys 8x50m Relay</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>3 students received Bronze Achievement Pin in Junior 1 Boys Multi Skill
 Event</p>
@@ -70,22 +61,15 @@ Event</p>
 <p>4th in Junior 1 Boys 60m</p>
 </li>
 <li>
-<p>5th in Junior 1 Boys 8x50m Relay</p>
+<p>5th in Junior 1 Boys 8x50m Relay&nbsp;</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>6 students received Bronze Achievement Pin in Junior 1 Girls Multi Skill
 Event</p>
 </li>
 <li>
-<p>6th in Junior 1 Girls Medicine Ball Throw</p>
+<p>6th in Junior 1 Girls Medicine Ball Throw&nbsp;</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>2nd in Senior 1 Boys 80m</p>
 </li>
@@ -97,17 +81,11 @@ Event</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>National School Games: Basketball</strong>
-</p>
-<p>&nbsp;</p>
+<p>&nbsp;<strong>National School Games: Basketball</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3rd in Senior Boys Tiered Round</p>
+<p>3rd in Senior Boys Tiered Round&nbsp;</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>2nd in Senior Girls Tiered Round</p>
 </li>
@@ -120,13 +98,16 @@ Event</p>
 <h4><u>Cognitive</u></h4>
 <p><strong>Raffles Mathematical Olympiad&nbsp;(RMO)</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 student presented
-with Bronze Award</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 students<strong>&nbsp;</strong>presented
-with Participation Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 student presented with Bronze Award</p>
+</li>
+<li>
+<p>7 students<strong>&nbsp;</strong>presented with Participation Award</p>
+</li>
+</ul>
 <p><strong>Asia–Pacific Mathematical Olympiad for Primary Schools (APMOPS)</strong>
 </p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>1 student achieved Silver Award</p>
@@ -137,9 +118,10 @@ with Participation Award</p>
 <li>
 <p>12 students achieved Honourable Mentioned Award</p>
 </li>
+<li>
+<p>40 students<strong>&nbsp;</strong>presented with Participation Award</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;40 students<strong>&nbsp;</strong>presented with Participation
-Award</p>
 <p><strong>Bisikan Pena 2025: Impian (a national Malay Language competition organised by the Malay Language Council of NUS)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -147,30 +129,34 @@ Award</p>
 <p>Champion</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Malay Language Sahibba Competition 2025</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>&nbsp;Malay Language Sahibba Competition 2025&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>2nd position in East Zone</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
+<p><strong>&nbsp;76th National Schools Individual Chess Championship</strong>
 </p>
-<p><strong>76th National Schools Individual Chess Championship</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>6th placed in the East Zone</p>
+</li>
+<li>
+<p>7th place in East Zone</p>
+</li>
+<li>
+<p>2nd in the East Zone and went on to achieve 7th place at the National
+Level</p>
+</li>
+</ul>
+<p>&nbsp;<strong>ROK Cup Singapore, Motorsport Singapore National Karting Championship</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6th placed in the East
-Zone</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7th place in East Zone</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd in the East Zone
-and went on to achieve 7th place at the National Level</p>
-<p>&nbsp;</p>
-<p><strong>ROK Cup Singapore, Motorsport Singapore National Karting Championship</strong>
-</p>
-<p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Champion</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Champion</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <h4>2024</h4>
