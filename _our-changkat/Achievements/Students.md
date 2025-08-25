@@ -90,7 +90,6 @@ Event</p>
 <p>2nd in Senior Girls Tiered Round</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
