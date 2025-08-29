@@ -95,6 +95,10 @@ in 2026)</p>
 build resilience and camaraderie</p>
 </li>
 <li>
+<p><strong>P5: P5 3-day-2-night Cohort Camp</strong> to build resilience,
+iner-dependence skills and camaraderie</p>
+</li>
+<li>
 <p><strong>P6</strong>: Expedition Cycling</p>
 </li>
 </ul>
