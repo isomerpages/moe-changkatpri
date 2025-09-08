@@ -17,16 +17,14 @@ impacts their communities. With that belief, our school’s Applied Learning
 Programme (ALP), <strong>ECO@CKP</strong>, aims to nurture students as
 eco-stewards who care for the environment, advocate sustainable habits,
 and <strong>solve environmental challenges with their computational skills</strong>. &nbsp;</p>
-<p>&nbsp;</p>
-<p>Initiated in 2019, ECO@CKP integrates <strong>design thinking into environmental education</strong> where
+<p>&nbsp;Initiated in 2019, ECO@CKP integrates <strong>design thinking into environmental education</strong> where
 students develop practical solutions to environmental problems with technology
 and cultivate <strong>emerging</strong>  <strong>21<sup>st</sup> century skills</strong> such
 as critical thinking and adaptability in students. They learn to approach
 complex problems with creativity, empathy, and resilience, empowering them
 to become effective problem solvers in the pursuit of a more sustainable
 future.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Students will then apply these skills they learnt in the implementation
+<p>&nbsp;Students will then apply these skills they learnt in the implementation
 of their <strong>Project Work (PW),</strong> which is the <strong>end-product of the ALP</strong>.&nbsp;</p>
 <p>We believe in a spiral approach where students will revisit the same topics
 every year, with each encounter increasing in complexity and reinforcing
