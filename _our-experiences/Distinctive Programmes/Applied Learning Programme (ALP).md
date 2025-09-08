@@ -10,29 +10,31 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AoP6IrzAvic"></iframe>
 </div>
-<p>In 2019, we introduced our Applied Learning Programme (ALP). ALP has a&nbsp;<strong>E3 approach - Engage, Enrich and Empower</strong>&nbsp;-
-to cultivate a joy of learning in our students. With the theme&nbsp;<strong>ECO@CKP</strong>,
-it seeks to have our students be:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>E</strong>mpathetic towards our&nbsp;<strong>E</strong>arth and
-environment</p>
-</li>
-<li>
-<p>Skillful in&nbsp;<strong>C</strong>omputational thinking with development
-of&nbsp;<strong>C</strong>oding skills</p>
-</li>
-<li>
-<p><strong>O</strong>pportunity seekers (through Design Thinking)</p>
-</li>
-</ul>
-<p>Its emphasis is on hands-on learning and experiments, solving real-life
-problems related to our Earth and Environment in our everyday lives.</p>
+<p>In nurturing our students to become <strong>Learners with Passion, Citizens of Honour</strong>,
+we believe that when our students learn and acquire knowledge, it not only
+enriches their own lives but also influences those around them and positively
+impacts their communities. With that belief, our school’s Applied Learning
+Programme (ALP), <strong>ECO@CKP</strong>, aims to nurture students as
+eco-stewards who care for the environment, advocate sustainable habits,
+and <strong>solve environmental challenges with their computational skills</strong>. &nbsp;</p>
+<p>&nbsp;</p>
+<p>Initiated in 2019, ECO@CKP integrates <strong>design thinking into environmental education</strong> where
+students develop practical solutions to environmental problems with technology
+and cultivate <strong>emerging</strong>  <strong>21<sup>st</sup> century skills</strong> such
+as critical thinking and adaptability in students. They learn to approach
+complex problems with creativity, empathy, and resilience, empowering them
+to become effective problem solvers in the pursuit of a more sustainable
+future.&nbsp;</p>
+<p>&nbsp;</p>
 <p>Students will then apply these skills they learnt in the implementation
-of their&nbsp;<strong>Project Work (PW),</strong>&nbsp;which is the&nbsp;<strong>end-product of the ALP</strong>.</p>
+of their <strong>Project Work (PW),</strong> which is the <strong>end-product of the ALP</strong>.&nbsp;</p>
 <p>We believe in a spiral approach where students will revisit the same topics
 every year, with each encounter increasing in complexity and reinforcing
-previous learning.</p>
+previous learning.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Distinctive Programmes/ALP/ALP.png">
+</div>
 <h4><strong>Tier-1 programme (school-wide)</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
