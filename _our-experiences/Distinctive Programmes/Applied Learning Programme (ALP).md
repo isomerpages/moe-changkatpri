@@ -35,8 +35,7 @@ previous learning.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Distinctive Programmes/ALP/ALP.png">
 </div>
-<h4>&nbsp;</h4>
-<p><strong>Tier-1 programme (school-wide)</strong>&nbsp;</p>
+<h4>&nbsp;<strong>Tier-1 programme (school-wide)</strong>&nbsp;</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -165,8 +164,7 @@ solve problems faced during their wormery and edible gardening phase.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Tier-2 programme</strong>&nbsp;</p>
+<h4>&nbsp;<strong>Tier-2 programme</strong>&nbsp;</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
