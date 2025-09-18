@@ -30,6 +30,7 @@ of their <strong>Project Work (PW),</strong> which is the <strong>end-prod
 every year, with each encounter increasing in complexity and reinforcing
 previous learning.&nbsp;</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Distinctive Programmes/ALP/ALP.png">
 </div>
