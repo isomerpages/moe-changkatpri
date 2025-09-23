@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-<p><strong>Internationalisation Programmes in Changkat Primary</strong>&nbsp;</p>
+<h4><strong>Internationalisation Programmes  </strong></h4>
 <p>Internationalisation programmes in our school serve as an extension of
 learning, designed to strengthen our CKPS students’ 21st century competencies
 and broaden their horizons through authentic experiences. As part of our
