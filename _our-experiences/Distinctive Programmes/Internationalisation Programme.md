@@ -75,11 +75,20 @@ and exchanged cards and gifts before saying farewell. Through these interactions
 our Changkat students picked up global literacy skills and awareness on
 how to communicate and collaborate with their ASEAN peers.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/4.png">
+</div>
 <p>Enjoying a meal with their Thailand buddies, fostering cross-cultural
 conversations.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/5.png">
+</div>
 <p>Fostering bonds and picking up gameplay skills through lessons and games.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/6.png">
+</div>
 <p>It was a very meaningful and eye-opening session where CKPS students learnt
 from their peers from a different country.&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
