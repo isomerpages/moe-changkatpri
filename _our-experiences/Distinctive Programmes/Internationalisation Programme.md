@@ -158,7 +158,7 @@ help Singapore to remain relevant in a complex world. In addition, they
 can embrace openness and opportunities for international cooperation, while
 deepening their understanding of Singapore’s geopolitical realities and
 national interests. &nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>We had a fun assembly period where our own international students from
 Changkat were invited to the stage with their parents to share about the
 language, food and costumes of their home countries.&nbsp;&nbsp;</p>
