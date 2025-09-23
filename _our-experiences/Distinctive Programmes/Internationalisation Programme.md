@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-<h4><strong>Internationalisation Programmes  </strong></h4>
+<h3><strong>Internationalisation Programmes</strong></h3>
 <p>Internationalisation programmes in our school serve as an extension of
 learning, designed to strengthen our CKPS students’ 21st century competencies
 and broaden their horizons through authentic experiences. As part of our
