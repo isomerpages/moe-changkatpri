@@ -110,8 +110,7 @@ lasting memories of collaboration, learning, and friendship.&nbsp;</p>
 <p>Our visitors sat in our lessons to learn what a typical day is like. Our
 CKPS students had to guide them along, ensuring cross-cultural exchanges
 between both parties.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/8.png">
 </div>
@@ -128,8 +127,7 @@ different cultures and contexts.&nbsp;&nbsp;</p>
 was dedicated to help our students deepen their understanding of Singapore’s
 relations with neighbouring countries and beyond. Through the commemoration
 of IFD, we hope our students will be sensitised to Singapore’s geopolitical
-realities and to reflect on the importance of: &nbsp;
-<br> &nbsp;</p>
+realities and to reflect on the importance of: &nbsp;  &nbsp;</p>
 <ul>
 <li>
 <p>an active foreign policy to maintain Singapore’s international space; &nbsp;</p>
@@ -175,7 +173,6 @@ with their costumes and flags.&nbsp;&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/11.png">
 </div>
 <p>Student and parent sharing about Japan’s language, costumes and food.&nbsp;&nbsp;</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/12.png">
