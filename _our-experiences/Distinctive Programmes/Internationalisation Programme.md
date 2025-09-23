@@ -118,10 +118,10 @@ between both parties.&nbsp;&nbsp;</p>
 <p>CKPS students watching a dance performance by our visitors, learning about
 different cultures and contexts.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/9.png">
+</div>
 <p>A group photo together to commemorate memories shared and cherished.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>International Friendship Day 2025: ‘Singapore: Forging Friendships in a Complex World’</strong> &nbsp;</p>
@@ -170,14 +170,22 @@ Changkat were invited to the stage with their parents to share about the
 language, food and costumes of their home countries.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/10.png">
+</div>
 <p>&nbsp;</p>
 <p>Students and parents as well as visiting Thailand teachers on stage with
 their costumes and flags.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/11.png">
+</div>
 <p>Student and parent sharing about Japan’s language, costumes and food.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/12.png">
+</div>
 <p>Student and parent sharing about Myanmar’s language, costumes and food.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
