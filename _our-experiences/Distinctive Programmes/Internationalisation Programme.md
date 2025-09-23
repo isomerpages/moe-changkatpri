@@ -6,12 +6,12 @@ description: ""
 third_nav_title: Distinctive Programmes
 ---
 <h3><strong>Internationalisation Programmes</strong></h3>
-<p>Internationalisation programmes in our school serve as an extension of
+<p>Internationalisation programme in our school serves as an extension of
 learning, designed to strengthen our CKPS students’ 21st century competencies
 and broaden their horizons through authentic experiences. As part of our
 commitment to nurturing global citizens who are adept in interacting with
 others in any context and developing cross-cultural literacy, these programmes
-provide our students with meaningful opportunities to:&nbsp;</p>
+provide our students with meaningful opportunities to:</p>
 <ul>
 <li>
 <p>Enhance their socio-cultural and religious sensitivity and awareness&nbsp;</p>
@@ -35,23 +35,24 @@ as well as its relationships with other countries&nbsp;
 <p>Changkat Primary School has enjoyed a long-standing partnership with Beijing
 Peixin Primary School as part of our commitment to nurturing global awareness
 in our students—helping them to be sensitive to and appreciative of diverse
-cultures and backgrounds.&nbsp;</p>
+cultures and backgrounds.</p>
 <p>During the COVID-19 pandemic, our schools stayed connected through virtual
 exchanges. With the resumption of safe travel, we were delighted to host
 students from Beijing Peixin Primary School in Singapore for a meaningful
-four-day cultural exchange.&nbsp;</p>
-<p>&nbsp;Our Primary 5 and Primary 6 students served as buddies to the visiting
+four-day cultural exchange.</p>
+<p>Our Primary 5 and Primary 6 students served as buddies to the visiting
 students, extending a warm welcome and engaging in shared learning experiences
 both in the classroom and through various activities. The interactions
 between the PeiXin and Changkat students were meaningful, as they not only
 learned together but also built friendships, enhanced their social skills,
-and deepened their cultural awareness.&nbsp;</p>
+and deepened their cultural awareness. Our P5 students will be looking
+forward to visiting Beijing PeiXin Primary School in 2026</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/1.png">
 </div>
-<p>Throughout the four days, students enjoyed conversations that develop
-and heightened their socio-cultural awareness and sensitivity.&nbsp;&nbsp;</p>
+<p>Throughout the four days, students enjoyed conversations that developed
+and heightened their socio-cultural awareness and sensitivity. &nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/2.png">
