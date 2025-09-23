@@ -53,10 +53,16 @@ and deepened their cultural awareness.&nbsp;</p>
 <p>Throughout the four days, students enjoyed conversations that develop
 and heightened their socio-cultural awareness and sensitivity.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/2.png">
+</div>
 <p>Changkat students learnt to be gracious hosts and picked up many communication
 and collaborative skills in the process of getting to know their buddies
 better.&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/3.png">
+</div>
 <p>Students learning from a Chinese story-telling session by a Beijing PeiXin
 Primary student during recess in the library.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
