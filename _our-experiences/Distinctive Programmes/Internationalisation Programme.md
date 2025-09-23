@@ -104,11 +104,17 @@ and choral singing, which celebrated the beauty of cultural diversity.
 The day concluded with an exchange of gifts and heartfelt farewells, leaving
 lasting memories of collaboration, learning, and friendship.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/7.png">
+</div>
 <p>Our visitors sat in our lessons to learn what a typical day is like. Our
 CKPS students had to guide them along, ensuring cross-cultural exchanges
 between both parties.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/8.png">
+</div>
 <p>CKPS students watching a dance performance by our visitors, learning about
 different cultures and contexts.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
