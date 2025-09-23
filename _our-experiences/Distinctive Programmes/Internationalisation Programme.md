@@ -30,7 +30,7 @@ as well as its relationships with other countries&nbsp;
 <br>&nbsp;</p>
 </li>
 </ul>
-<p><strong>Key International Programmes and Activities&nbsp;</strong>&nbsp;</p>
+<h4><strong>Key International Programmes and Activities&nbsp;</strong>&nbsp;</h4>
 <p><strong>Overseas cultural programme with Beijing PeiXin Primary School</strong>&nbsp;</p>
 <p>Changkat Primary School has enjoyed a long-standing partnership with Beijing
 Peixin Primary School as part of our commitment to nurturing global awareness
