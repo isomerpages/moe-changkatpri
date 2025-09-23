@@ -124,7 +124,6 @@ different cultures and contexts.&nbsp;&nbsp;</p>
 <p>A group photo together to commemorate memories shared and cherished.&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;</p>
 <p><strong>International Friendship Day 2025: ‘Singapore: Forging Friendships in a Complex World’</strong> &nbsp;</p>
-<p>&nbsp;</p>
 <p>Our school commemorated <strong>International Friendship Day (IFD) on Thu 10 Apr</strong> which
 was dedicated to help our students deepen their understanding of Singapore’s
 relations with neighbouring countries and beyond. Through the commemoration
@@ -151,7 +150,6 @@ realities and to reflect on the importance of: &nbsp;
 <p>the spirit of friendship and collaboration amongst different people.&nbsp;</p>
 </li>
 </ul>
-<p> &nbsp;&nbsp;</p>
 <p>The theme for this year’s IFD, ‘<strong>Singapore: Forging Friendships in a Complex World</strong>’
 emphasises that international cooperation remains vital for us to address
 global issues collectively and seize new opportunities. By fostering an
