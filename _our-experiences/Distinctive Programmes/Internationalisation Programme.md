@@ -151,8 +151,7 @@ realities and to reflect on the importance of: &nbsp;
 <p>the spirit of friendship and collaboration amongst different people.&nbsp;</p>
 </li>
 </ul>
-<p> &nbsp;</p>
-<p>&nbsp;</p>
+<p> &nbsp;&nbsp;</p>
 <p>The theme for this year’s IFD, ‘<strong>Singapore: Forging Friendships in a Complex World</strong>’
 emphasises that international cooperation remains vital for us to address
 global issues collectively and seize new opportunities. By fostering an
@@ -171,9 +170,8 @@ language, food and costumes of their home countries.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/10.png">
 </div>
-<p>&nbsp;</p>
-<p>Students and parents as well as visiting Thailand teachers on stage with
-their costumes and flags.&nbsp;&nbsp;</p>
+<p>&nbsp;Students and parents as well as visiting Thailand teachers on stage
+with their costumes and flags.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/11.png">
