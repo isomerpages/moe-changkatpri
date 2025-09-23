@@ -68,13 +68,16 @@ better.&nbsp;&nbsp;&nbsp;</p>
 Primary student during recess in the library.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Overseas Cultural Exchange Programme with Prayaprasert School</strong>&nbsp;</p>
-<p>We hosted Prayaprasert School, Thailand as part of our efforts in understanding
-our ASEAN neighbours. Primary 4 Class Leaders welcomed their Thai friends
+<p>Prayaprasert School, Thailand, is another of our longstanding partner.
+Besides having student exchanges, we collaborate in developing our teachers
+too.</p>
+<p>As part of our efforts in providing our students with an understanding
+our ASEAN neighbours, Primary 4 Class Leaders welcomed their Thai friends
 by putting up a performance, bringing them for recess and partnering them
 during lessons. The buddies then had a wonderful lunch of local delights
 and exchanged cards and gifts before saying farewell. Through these interactions,
 our Changkat students picked up global literacy skills and awareness on
-how to communicate and collaborate with their ASEAN peers.&nbsp;&nbsp;</p>
+how to communicate and collaborate with their ASEAN peers.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/4.png">
@@ -94,16 +97,16 @@ conversations.&nbsp;&nbsp;</p>
 from their peers from a different country.&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Immersion Programme between Sekolah Putrajaya Presint 11(1) and Changkat Primary School</strong>&nbsp;</p>
-<p>The 2024 Immersion Programme between Sekolah Putrajaya Presint 11(1) and
-Changkat Primary School provided students with rich cross-cultural learning
-experiences. The day began with a warm welcome and pairing of buddies,
-followed by engaging classroom lessons, including an introduction to khat
-writing. Students bonded further during recess through ice-breaker activities
-and a school tour, fostering friendships across borders. The highlight
-of the programme was a vibrant cultural showcase, featuring Dikir Barat
-and choral singing, which celebrated the beauty of cultural diversity.
+<p>Our Immersion Programme between Sekolah Putrajaya Presint 11(1) and Changkat
+Primary School provided students with rich cross-cultural learning experiences.
+In our recent school exchange, the day began with a warm welcome and pairing
+of buddies, followed by engaging classroom lessons, including an introduction
+to khat writing. Students bonded further during recess through ice-breaker
+activities and a school tour, fostering friendships across borders. The
+highlight of the programme was a vibrant cultural showcase, featuring Dikir
+Barat and choral singing, which celebrated the beauty of cultural diversity.
 The day concluded with an exchange of gifts and heartfelt farewells, leaving
-lasting memories of collaboration, learning, and friendship.&nbsp;</p>
+lasting memories of collaboration, learning, and friendship. &nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/7.png">
@@ -124,11 +127,12 @@ different cultures and contexts.&nbsp;&nbsp;</p>
 <p>A group photo together to commemorate memories shared and cherished.&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;</p>
 <p><strong>International Friendship Day 2025: ‘Singapore: Forging Friendships in a Complex World’</strong> &nbsp;</p>
-<p>Our school commemorated <strong>International Friendship Day (IFD) on Thu 10 Apr</strong> which
-was dedicated to help our students deepen their understanding of Singapore’s
-relations with neighbouring countries and beyond. Through the commemoration
-of IFD, we hope our students will be sensitised to Singapore’s geopolitical
-realities and to reflect on the importance of: &nbsp;  &nbsp;</p>
+<p>Our school commemorated International Friendship Day (IFD) on Thu 10 Apr
+which was dedicated to help our students deepen their understanding of
+Singapore’s relations with neighbouring countries and beyond. Through the
+commemoration of IFD, we hope our students will be sensitised to Singapore’s
+geopolitical realities and to reflect on the importance of: </p>
+<p></p>
 <ul>
 <li>
 <p>an active foreign policy to maintain Singapore’s international space; &nbsp;</p>
@@ -159,7 +163,7 @@ help Singapore to remain relevant in a complex world. In addition, they
 can embrace openness and opportunities for international cooperation, while
 deepening their understanding of Singapore’s geopolitical realities and
 national interests. &nbsp;</p>
-<p></p>
+<p>&nbsp;</p>
 <p>We had a fun assembly period where our own international students from
 Changkat were invited to the stage with their parents to share about the
 language, food and costumes of their home countries.&nbsp;&nbsp;</p>
