@@ -131,7 +131,7 @@ different cultures and contexts.&nbsp;&nbsp;</p>
 which was dedicated to help our students deepen their understanding of
 Singapore’s relations with neighbouring countries and beyond. Through the
 commemoration of IFD, we hope our students will be sensitised to Singapore’s
-geopolitical realities and to reflect on the importance of: </p>
+geopolitical realities and to reflect on the importance of: &nbsp;</p>
 <p></p>
 <ul>
 <li>
@@ -162,11 +162,11 @@ students can then forge meaningful connections with our neighbours and
 help Singapore to remain relevant in a complex world. In addition, they
 can embrace openness and opportunities for international cooperation, while
 deepening their understanding of Singapore’s geopolitical realities and
-national interests. &nbsp;</p>
-<p>&nbsp;</p>
+national interests. &nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <p>We had a fun assembly period where our own international students from
 Changkat were invited to the stage with their parents to share about the
-language, food and costumes of their home countries.&nbsp;&nbsp;</p>
+language, food and costumes of their home countries.&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/10.png">
