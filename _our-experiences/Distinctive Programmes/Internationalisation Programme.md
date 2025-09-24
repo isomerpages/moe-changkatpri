@@ -11,7 +11,7 @@ learning, designed to strengthen our CKPS students’ 21st century competencies
 and broaden their horizons through authentic experiences. As part of our
 commitment to nurturing global citizens who are adept in interacting with
 others in any context and developing cross-cultural literacy, these programmes
-provide our students with meaningful opportunities to:</p>
+provide our students with meaningful opportunities to:&nbsp;</p>
 <ul>
 <li>
 <p>Enhance their socio-cultural and religious sensitivity and awareness&nbsp;</p>
@@ -35,18 +35,18 @@ as well as its relationships with other countries&nbsp;
 <p>Changkat Primary School has enjoyed a long-standing partnership with Beijing
 Peixin Primary School as part of our commitment to nurturing global awareness
 in our students—helping them to be sensitive to and appreciative of diverse
-cultures and backgrounds.</p>
+cultures and backgrounds.&nbsp;</p>
 <p>During the COVID-19 pandemic, our schools stayed connected through virtual
 exchanges. With the resumption of safe travel, we were delighted to host
 students from Beijing Peixin Primary School in Singapore for a meaningful
-four-day cultural exchange.</p>
+four-day cultural exchange.&nbsp;</p>
 <p>Our Primary 5 and Primary 6 students served as buddies to the visiting
 students, extending a warm welcome and engaging in shared learning experiences
 both in the classroom and through various activities. The interactions
 between the PeiXin and Changkat students were meaningful, as they not only
 learned together but also built friendships, enhanced their social skills,
 and deepened their cultural awareness. Our P5 students will be looking
-forward to visiting Beijing PeiXin Primary School in 2026</p>
+forward to visiting Beijing PeiXin Primary School in 2026.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/1.png">
@@ -68,16 +68,16 @@ better.&nbsp;&nbsp;&nbsp;</p>
 Primary student during recess in the library.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Overseas Cultural Exchange Programme with Prayaprasert School</strong>&nbsp;</p>
-<p>Prayaprasert School, Thailand, is another of our longstanding partner.
+<p>Prayaprasert School, Thailand, is another of our longstanding partners.
 Besides having student exchanges, we collaborate in developing our teachers
-too.</p>
+too. &nbsp;</p>
 <p>As part of our efforts in providing our students with an understanding
 our ASEAN neighbours, Primary 4 Class Leaders welcomed their Thai friends
 by putting up a performance, bringing them for recess and partnering them
 during lessons. The buddies then had a wonderful lunch of local delights
 and exchanged cards and gifts before saying farewell. Through these interactions,
 our Changkat students picked up global literacy skills and awareness on
-how to communicate and collaborate with their ASEAN peers.</p>
+how to communicate and collaborate with their ASEAN peers.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/4.png">
@@ -106,7 +106,7 @@ activities and a school tour, fostering friendships across borders. The
 highlight of the programme was a vibrant cultural showcase, featuring Dikir
 Barat and choral singing, which celebrated the beauty of cultural diversity.
 The day concluded with an exchange of gifts and heartfelt farewells, leaving
-lasting memories of collaboration, learning, and friendship. &nbsp;</p>
+lasting memories of collaboration, learning, and friendship.&nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/7.png">
@@ -131,7 +131,7 @@ different cultures and contexts.&nbsp;&nbsp;</p>
 which was dedicated to help our students deepen their understanding of
 Singapore’s relations with neighbouring countries and beyond. Through the
 commemoration of IFD, we hope our students will be sensitised to Singapore’s
-geopolitical realities and to reflect on the importance of: </p>
+geopolitical realities and to reflect on the importance of: &nbsp;</p>
 <p></p>
 <ul>
 <li>
@@ -162,11 +162,11 @@ students can then forge meaningful connections with our neighbours and
 help Singapore to remain relevant in a complex world. In addition, they
 can embrace openness and opportunities for international cooperation, while
 deepening their understanding of Singapore’s geopolitical realities and
-national interests. &nbsp;</p>
-<p>&nbsp;</p>
+national interests. &nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <p>We had a fun assembly period where our own international students from
 Changkat were invited to the stage with their parents to share about the
-language, food and costumes of their home countries.&nbsp;&nbsp;</p>
+language, food and costumes of their home countries.&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/10.png">
