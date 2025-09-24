@@ -68,16 +68,16 @@ better.&nbsp;&nbsp;&nbsp;</p>
 Primary student during recess in the library.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Overseas Cultural Exchange Programme with Prayaprasert School</strong>&nbsp;</p>
-<p>Prayaprasert School, Thailand, is another of our longstanding partner.
+<p>Prayaprasert School, Thailand, is another of our longstanding partners.
 Besides having student exchanges, we collaborate in developing our teachers
-too.</p>
+too. &nbsp;</p>
 <p>As part of our efforts in providing our students with an understanding
 our ASEAN neighbours, Primary 4 Class Leaders welcomed their Thai friends
 by putting up a performance, bringing them for recess and partnering them
 during lessons. The buddies then had a wonderful lunch of local delights
 and exchanged cards and gifts before saying farewell. Through these interactions,
 our Changkat students picked up global literacy skills and awareness on
-how to communicate and collaborate with their ASEAN peers.</p>
+how to communicate and collaborate with their ASEAN peers.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/4.png">
@@ -106,7 +106,7 @@ activities and a school tour, fostering friendships across borders. The
 highlight of the programme was a vibrant cultural showcase, featuring Dikir
 Barat and choral singing, which celebrated the beauty of cultural diversity.
 The day concluded with an exchange of gifts and heartfelt farewells, leaving
-lasting memories of collaboration, learning, and friendship. &nbsp;</p>
+lasting memories of collaboration, learning, and friendship.&nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/7.png">
