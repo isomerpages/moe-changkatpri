@@ -11,7 +11,7 @@ learning, designed to strengthen our CKPS students’ 21st century competencies
 and broaden their horizons through authentic experiences. As part of our
 commitment to nurturing global citizens who are adept in interacting with
 others in any context and developing cross-cultural literacy, these programmes
-provide our students with meaningful opportunities to:</p>
+provide our students with meaningful opportunities to:&nbsp;</p>
 <ul>
 <li>
 <p>Enhance their socio-cultural and religious sensitivity and awareness&nbsp;</p>
@@ -35,18 +35,18 @@ as well as its relationships with other countries&nbsp;
 <p>Changkat Primary School has enjoyed a long-standing partnership with Beijing
 Peixin Primary School as part of our commitment to nurturing global awareness
 in our students—helping them to be sensitive to and appreciative of diverse
-cultures and backgrounds.</p>
+cultures and backgrounds.&nbsp;</p>
 <p>During the COVID-19 pandemic, our schools stayed connected through virtual
 exchanges. With the resumption of safe travel, we were delighted to host
 students from Beijing Peixin Primary School in Singapore for a meaningful
-four-day cultural exchange.</p>
+four-day cultural exchange.&nbsp;</p>
 <p>Our Primary 5 and Primary 6 students served as buddies to the visiting
 students, extending a warm welcome and engaging in shared learning experiences
 both in the classroom and through various activities. The interactions
 between the PeiXin and Changkat students were meaningful, as they not only
 learned together but also built friendships, enhanced their social skills,
 and deepened their cultural awareness. Our P5 students will be looking
-forward to visiting Beijing PeiXin Primary School in 2026</p>
+forward to visiting Beijing PeiXin Primary School in 2026.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Internationalisation Programme/1.png">
