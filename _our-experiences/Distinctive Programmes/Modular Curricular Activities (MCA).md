@@ -22,6 +22,10 @@ that their time in Changkat is one that fosters a lifelong joy of learning.”</
 <div class="isomer-image-wrapper">
 <img style="width:49.5%" height="auto" width="100%" src="/images/OurExperiences/Distinctive%20Programmes/MCA/mca2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Distinctive Programmes/MCA/mca--3.jpg">
+</div>
 <p>
 <br>
 </p>
