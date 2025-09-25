@@ -6,13 +6,7 @@ third_nav_title: Distinctive Programmes
 variant: tiptap
 ---
 <h3><strong>Modular Curricular Activities (MCA)</strong></h3>
-<h4><strong>Modular Curricular Activities (MCA)</strong></h4>
-<p>MCA are curricular periods set aside for Primary 3 to 6 students to learn
-beyond the formal curriculum. They provide a platform for broad-based exposure
-to different disciplines that are not typically covered in the regular
-syllabus. We believe that expansive learning nurtures a love for learning
-by shifting the focus from studying solely to pass examinations, towards
-learning for self-improvement and the pursuit of knowledge.</p>
+<h4>MCA are curricular periods set aside for Primary 3 to 6 students to learn beyond the formal curriculum. They provide a platform for broad-based exposure to different disciplines that are not typically covered in the regular syllabus. We believe that expansive learning nurtures a love for learning by shifting the focus from studying solely to pass examinations, towards learning for self-improvement and the pursuit of knowledge.</h4>
 <p>MCA also provides opportunities to promote inter-disciplinary projects,
 where students can apply knowledge and skills from different subject areas
 in meaningful and authentic contexts.</p>
