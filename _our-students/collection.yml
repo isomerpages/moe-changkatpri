@@ -2,6 +2,7 @@ collections:
   our-students:
     output: true
     order:
+      - Student Icon Takeout.md
       - Useful Links.md
       - After School Activities.md
       - Student Icon.md
