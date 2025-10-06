@@ -2,9 +2,9 @@ collections:
   our-students:
     output: true
     order:
-      - Student Icon Google Takeout.md
       - Useful Links.md
       - After School Activities.md
       - Student Icon.md
+      - Student Icon Google Takeout.md
       - Library (OPAC).md
       - Microsoft Office 365 (ProPlus).md
