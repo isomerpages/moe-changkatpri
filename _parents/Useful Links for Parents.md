@@ -47,8 +47,9 @@ link)</p>
 <p>Click <a href="https://drive.google.com/file/d/1_SSGUf3DHWmQmikFfucJtKyOwQet5tve/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 download <strong>MOE FAS Application Form (version SEP 2025)</strong> (External
 link)
-<br><strong>or visit the online form:</strong>  <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas </u></a>(External
-link)</p>
+<br><strong>or visit the online form:</strong>  <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a> 
+<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
+</a>(External link)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
