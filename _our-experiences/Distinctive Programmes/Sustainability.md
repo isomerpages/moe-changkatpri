@@ -40,14 +40,6 @@ gardens).</p>
 NParks, ITE East, and the SECDC to co-create learning beyond walls.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Curriculum – Learning About Sustainability</strong>
@@ -84,7 +76,6 @@ students see sustainability in action — from energy-saving ideas to upcycled
 creations. In the <strong>wormery</strong>, they learn how even food scraps
 can be turned into valuable fertiliser. Our <strong>Butterfly Trail and Science Garden</strong> give
 them a chance to explore biodiversity right on campus.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Sustainability/sus3.png">
 </div>
@@ -98,7 +89,7 @@ canteen, our students practice small, daily actions that add up to big
 impact. At every level, they take part in activities like upcycling projects,
 recycling drives, and social enterprise days, learning that caring for
 the Earth is part of caring for each other.</p>
-<p><strong>&nbsp;Community – Extending Sustainability Beyond School</strong>
+<p><strong>Community – Extending Sustainability Beyond School</strong>
 </p>
 <p><strong>Sharing With the Community</strong>
 </p>
@@ -284,14 +275,12 @@ booth in the fund-raising VIA project, while promoting sustainable practices.&nb
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>Our Commitment</strong>
+<p><strong>Our Commitment</strong>
 </p>
 <p>By learning, practicing, and sharing sustainability, our students grow
 into eco-stewards who are passionate, responsible, and ready to make a
 difference. At Changkat Primary, we are growing a greener tomorrow — one
 child at a time.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Sustainability/sus4.png">
 </div>
