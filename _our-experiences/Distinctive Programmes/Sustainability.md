@@ -12,7 +12,6 @@ Eco Stewardship Programme, our <strong>GoGreen Plan</strong> nurtures students
 to become environmentally responsible citizens. Our framework connects <strong>Curriculum, Campus, Culture, and Community (4Cs)</strong> with
 three dimensions of learning: <strong>Learning About, Learning For, and Learning As sustainability.</strong>
 </p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -85,7 +84,7 @@ students see sustainability in action — from energy-saving ideas to upcycled
 creations. In the <strong>wormery</strong>, they learn how even food scraps
 can be turned into valuable fertiliser. Our <strong>Butterfly Trail and Science Garden</strong> give
 them a chance to explore biodiversity right on campus.</p>
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Sustainability/sus3.png">
 </div>
@@ -99,9 +98,7 @@ canteen, our students practice small, daily actions that add up to big
 impact. At every level, they take part in activities like upcycling projects,
 recycling drives, and social enterprise days, learning that caring for
 the Earth is part of caring for each other.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Community – Extending Sustainability Beyond School</strong>
+<p><strong>&nbsp;Community – Extending Sustainability Beyond School</strong>
 </p>
 <p><strong>Sharing With the Community</strong>
 </p>
@@ -287,9 +284,7 @@ booth in the fund-raising VIA project, while promoting sustainable practices.&nb
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Our Commitment</strong>
+<p>&nbsp;<strong>Our Commitment</strong>
 </p>
 <p>By learning, practicing, and sharing sustainability, our students grow
 into eco-stewards who are passionate, responsible, and ready to make a
