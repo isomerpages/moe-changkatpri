@@ -73,6 +73,9 @@ different types of farming:</p>
 work, helping students explore real-world environmental issues in creative
 ways.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Sustainability/sus2.png">
+</div>
 <p><strong>Campus – Learning As Sustainability</strong>
 </p>
 <p><strong>A Living Classroom</strong>
@@ -83,6 +86,9 @@ creations. In the <strong>wormery</strong>, they learn how even food scraps
 can be turned into valuable fertiliser. Our <strong>Butterfly Trail and Science Garden</strong> give
 them a chance to explore biodiversity right on campus.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Sustainability/sus3.png">
+</div>
 <p>&nbsp;</p>
 <p><strong>Campus – Learning As Sustainability</strong>
 </p>
