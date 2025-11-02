@@ -297,4 +297,7 @@ difference. At Changkat Primary, we are growing a greener tomorrow — one
 child at a time.</p>
 <p><strong>&nbsp;</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Sustainability/sus4.png">
+</div>
 <p></p>
