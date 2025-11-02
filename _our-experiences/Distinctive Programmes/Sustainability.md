@@ -12,6 +12,7 @@ Eco Stewardship Programme, our <strong>GoGreen Plan</strong> nurtures students
 to become environmentally responsible citizens. Our framework connects <strong>Curriculum, Campus, Culture, and Community (4Cs)</strong> with
 three dimensions of learning: <strong>Learning About, Learning For, and Learning As sustainability.</strong>
 </p>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -19,13 +20,13 @@ three dimensions of learning: <strong>Learning About, Learning For, and Learning
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Sustainability/sus1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Sustainability/sus0.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>And at the Heart: The Whole-School Ecosystem</strong>
 </p>
 <p>The tree is held upright by four strong winds—<strong>Curriculum, Culture, Campus, and Community</strong>:</p>
@@ -38,11 +39,18 @@ to solar—transforming spaces into learning zones (EcoHub, wormeries, vertical
 gardens).</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community: We’ve bridged with NEA, PUB,
 NParks, ITE East, and the SECDC to co-create learning beyond walls.</p>
-</th>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Curriculum – Learning About Sustainability</strong>
 </p>
 <p><strong>Learning Through Experience</strong>
