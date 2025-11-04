@@ -190,7 +190,7 @@ solve problems faced during their wormery and edible gardening phase.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- In-depth coding projects using various coding platforms such as Scratch,
-&nbsp;
+Micro:Bit, etc
 <br>- Participation in coding competitions&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
