@@ -11,6 +11,10 @@ and December).
 <br>Click <a href="https://go.gov.sg/p12026" rel="noopener nofollow" target="_blank">here</a> to
 visit the blog.</p>
 <p>For more information on MOE Primary 1 (P1) registration, do visit <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank"><u>MOE</u></a> website.</p>
+<p></p>
+<h3>CCA Briefing for P2 Parents</h3>
+<p>Click <a href="https://drive.google.com/file/d/1AT0lTn-fkdgSAeK6CfKD6naZCeVSsQkz/view" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+visit the document,</p>
 <h3>Forms</h3>
 <ul data-tight="true" class="tight">
 <li>
