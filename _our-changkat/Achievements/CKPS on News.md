@@ -8,6 +8,10 @@ third_nav_title: Achievements
 <h3>CKPS on News</h3>
 <p></p>
 <p></p>
+<p>Feature in Ministry of Trade and Industry (MTI), Singapore's Instagram
+on 7 Nov 2025. (<a href="https://www.instagram.com/reel/DQvcvmFk-qE/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DQvcvmFk-qE/)</a>
+</p>
+<p></p>
 <p>Feature in <strong>Go Green SG 2025</strong> video published on 14 Aug 2025
 on Ministry of Sustainability and the Environment's YouTube channel in
 support of <strong>Go Green SG</strong>. (<a href="https://m.youtube.com/watch?v=iTGtbWa7n28" rel="noopener noreferrer nofollow" target="_blank">https://m.youtube.com/watch?v=iTGtbWa7n28</a>).</p>
