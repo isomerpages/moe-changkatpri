@@ -27,7 +27,6 @@ sections:
           url: https://www.facebook.com/changkatps
   - infobar:
       title: Prize Giving Days Photos
-      subtitle: Add informational text
       id: infobar
       description: Primary 1 to 5 Prize Giving & P6 Prize Giving & Graduation  Photos
       button: Click here
