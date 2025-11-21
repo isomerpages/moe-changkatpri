@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Prize Giving Day Photo.md
       - P1 1st day of school.md
