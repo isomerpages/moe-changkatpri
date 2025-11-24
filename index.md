@@ -25,6 +25,12 @@ sections:
         - title: CKPS Facebook
           description: ""
           url: https://www.facebook.com/changkatps
+  - infobar:
+      title: Prize Giving Days Photos
+      id: infobar
+      description: Primary 1 to 5 Prize Giving & P6 Prize Giving & Graduation  Photos
+      button: Click here
+      url: /prize-giving-day-photo/
   - infopic:
       title: 60th Anniversary
       id: infopic
