@@ -231,7 +231,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH National Education (NE) &amp; VIA</p>
+<p>SH National Education (NE) &amp; Values In Action (VIA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Jia Ee Eve</p>
