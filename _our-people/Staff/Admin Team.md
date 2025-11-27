@@ -89,7 +89,7 @@ third_nav_title: Staff
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Teo Sock Hoon</p>
+<p>Miss Teo Sock Hoon Annie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_sock_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sock_hoon@schools.gov.sg</a>
