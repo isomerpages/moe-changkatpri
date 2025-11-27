@@ -227,7 +227,7 @@ third_nav_title: Staff
 <p>ICT Trainer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Dian</p>
+<p>Miss Dian Hazwani Saihen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dian_hazwani_saihen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dian_hazwani_saihen@moe.edu.sg</a>
