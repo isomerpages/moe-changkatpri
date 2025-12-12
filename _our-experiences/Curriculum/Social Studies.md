@@ -93,14 +93,29 @@ about the different costumes used for Chinese Opera.</p>
 <p></p>
 <p><strong>Primary 5: Learning Journey to <u>Indian Heritage Centre</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/10.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/11.png">
 </div>
+<p>Picture 9: Students learning about the different traditional musical instruments
+at the Indian Heritage Centre</p>
+<p>
+<br>
+<br><strong>Primary 6: Learning Journey to <u>Asian Civilisation Museum</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/12.jpg">
+</div>
+<p>Picture 10: Primary 6 students outside the Asian Civilisation Museum</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/13.jpg">
+</div>
+<p>Picture 11: Students learning about the significance of trade and how
+it has shaped cultures, economies, and connections across Asia.</p>
 <p></p>
 <p>Adapted from the 2020 Social Studies Teaching and Learning Syllabus Primary</p>
 <p></p>
