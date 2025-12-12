@@ -74,12 +74,33 @@ at the Geylang Serai Heritage Gallery.</p>
 <p>Picture 5: Primary 3 students walking through Geylang Serai Market as
 they discover cultural foods and immerse themselves in the vibrant sights
 and sounds of the area.</p>
-<h4></h4>
+<p></p>
+<p><strong>Primary 4: Learning Journey to <u>Kreta Ayer Heritage Gallery: Culture Archives</u></strong>
+</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/8.png">
+</div>
+<p>Picture 6: Primary 4 students learning about the unique architecture along
+Kreta Ayer</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/9.png">
+</div>
+<p>Picture 7: Primary 4 students in Kreta Ayer Heritage Gallery learning
+about the different costumes used for Chinese Opera.</p>
 <p></p>
+<p><strong>Primary 5: Learning Journey to <u>Indian Heritage Centre</u></strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/11.png">
+</div>
 <p></p>
 <p>Adapted from the 2020 Social Studies Teaching and Learning Syllabus Primary</p>
 <p></p>
