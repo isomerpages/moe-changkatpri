@@ -37,6 +37,19 @@ are based on scenarios to deepen their real-world learning. These projects
 allow students to apply their knowledge, skills, and values in authentic
 contexts, reinforcing meaningful connections to the subject.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/3.png">
+</div>
+<p>Picture 1: A group of Primary 6 students role-playing for a lesson on
+civilisations and legacies of Ancient Greece and Rome</p>
+<p></p>
+<p></p>
+<p>Picture 2: Our students learning about vertical farming and aquaponics
+firsthand, right here in our school compound.</p>
+<p></p>
+<p></p>
+<p></p>
 <p>Adapted from the 2020 Social Studies Teaching and Learning Syllabus Primary</p>
 <p></p>
 <p></p>
