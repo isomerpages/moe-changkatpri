@@ -51,6 +51,34 @@ civilisations and legacies of Ancient Greece and Rome</p>
 <p>Picture 2: Our students learning about vertical farming and aquaponics
 firsthand, right here in our school compound.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/5.jpg">
+</div>
+<p>Picture 3: A lesson conducted in school using our very own hydroponics
+system to teach students about sustainable plant growth.</p>
+<p>Learning includes <strong>field-based experiences / learning journeys</strong> to
+help students connect classroom learning with real-life contexts. This
+approach deepens understanding, sustains interest, and encourages inquiry.</p>
+<p></p>
+<h4><strong>Primary 3: Learning Journey to <u>Geylang Serai Heritage Gallery</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/6.jpg">
+</div>
+<p>Picture 4: Primary 3 students made a traditional Malay headgear, tanjak,
+at the Geylang Serai Heritage Gallery.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/7.jpg">
+</div>
+<p>Picture 5: Primary 3 students walking through Geylang Serai Market as
+they discover cultural foods and immerse themselves in the vibrant sights
+and sounds of the area.</p>
+<h4></h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p>Adapted from the 2020 Social Studies Teaching and Learning Syllabus Primary</p>
