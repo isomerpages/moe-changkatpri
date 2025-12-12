@@ -45,6 +45,9 @@ contexts, reinforcing meaningful connections to the subject.</p>
 civilisations and legacies of Ancient Greece and Rome</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/4.jpg">
+</div>
 <p>Picture 2: Our students learning about vertical farming and aquaponics
 firsthand, right here in our school compound.</p>
 <p></p>
