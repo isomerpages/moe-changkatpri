@@ -103,15 +103,12 @@ designed to explore and learn more about pi.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>&nbsp;</p>
 <p><strong>Super Mathematician Task Cards</strong>
 <br>The Super Mathematician Task Cards provide opportunities for students
 to apply Math in everyday life, promoting a joy of learning. Primary 1
 to Primary 4 students receive task sheets during the June Holidays to complete
 a series of challenges with their family members. Students who earn 10
 stars will be awarded a <strong>Super Mathematician Badge</strong>.</p>
-<p>&nbsp;</p>
 <p><strong>Lower Primary Shopping Experience</strong>
 <br>In this mock-up shopping experience, Primary 1 and Primary 2 students
 are encouraged to explore and ask questions naturally through authentic,
