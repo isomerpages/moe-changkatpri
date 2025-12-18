@@ -160,6 +160,7 @@ their interests and widening their perspectives on future pathways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/3a.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Experiential learning at Kidzania</strong>
@@ -172,11 +173,11 @@ guide future choices.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/4.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ECG Secondary School Cluster Fair</strong> 
@@ -206,6 +207,9 @@ insights to guide their next steps after primary school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/5.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -215,6 +219,9 @@ insights to guide their next steps after primary school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/6.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -226,6 +233,9 @@ insights to guide their next steps after primary school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/7.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -235,6 +245,9 @@ insights to guide their next steps after primary school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/8.png">
+</div>
 </td>
 </tr>
 </tbody>
@@ -258,16 +271,28 @@ find out more about our Student Leadership programme:
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/9.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/9a.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/9b.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/9c.png">
+</div>
 </td>
 </tr>
 </tbody>
