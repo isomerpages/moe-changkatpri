@@ -283,7 +283,6 @@ find out more about our Student Leadership programme:
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/9b.png">
 </div>
@@ -312,15 +311,27 @@ find out more about our Student Leadership programme:
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10a.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10b.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10c.png">
+</div>
 </td>
 </tr>
 </tbody>
