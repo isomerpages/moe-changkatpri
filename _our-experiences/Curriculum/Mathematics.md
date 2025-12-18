@@ -62,8 +62,7 @@ on topics already covered in class.</p>
 </li>
 </ul>
 <p><strong>Heuristics in Mathematics</strong>
-</p>
-<p>Equipping pupils with skills and heuristics for mathematical problem-solving
+<br>Equipping pupils with skills and heuristics for mathematical problem-solving
 is fundamental to their learning of Mathematics. To support this, the Mathematics
 Department has developed a Heuristic Package for Primary 1 to Primary 6.
 This package systematically guides pupils in mastering different problem-solving
