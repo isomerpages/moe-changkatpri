@@ -18,8 +18,7 @@ mathematically.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Maths/1.png">
 </div>
-<p>&nbsp;</p>
-<p>At Changkat Primary, our teaching focuses on <strong>deep understanding, problem solving, and confidence in mathematics</strong>.</p>
+<p>&nbsp;At Changkat Primary, our teaching focuses on <strong>deep understanding, problem solving, and confidence in mathematics</strong>.</p>
 <p><strong>Key Features:</strong>
 </p>
 <ul data-tight="true" class="tight">
