@@ -94,8 +94,6 @@ subject lessons and learning opportunities beyond school.</p>
 </tr>
 </tbody>
 </table>
-<p><a rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -121,8 +119,8 @@ aesthetic, intellectual, moral and social domains.</p>
 <p>&nbsp;</p>
 <p>Some examples of SDEs are:</p>
 <p><strong>- Cohort Learning Journeys (LJs);</strong>
-</p>
-<p><strong>- Education and Career Guidance (ECG) Experiences – Junior Career Awareness Programme<br></strong>
+<br><strong>- Education and Career Guidance (ECG) Experiences </strong>
+<br><strong>– Junior Career Awareness Programme<br></strong>
 <br>Examples of our school’s Junior Career Awareness Programme:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -157,6 +155,10 @@ their interests and widening their perspectives on future pathways.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/3a.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
