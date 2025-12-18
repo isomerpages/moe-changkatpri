@@ -38,6 +38,18 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ratna Elangovan (Principal Designate)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ratna_Kumari_R_RAMACHANDRA@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ratna_Kumari_R_RAMACHANDRA@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>VICE-PRINCIPAL (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
