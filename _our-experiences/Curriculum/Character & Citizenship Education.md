@@ -92,36 +92,28 @@ learning experiences beyond the classroom, teachable moments during other
 subject lessons and learning opportunities beyond school.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>a)&nbsp;&nbsp;&nbsp; CCE Lessons</strong>
+<p>a)	<strong>CCE Lessons </strong>
 </p>
 <p>These lessons, which include CCE Form Teacher Guidance Period (FTGP) and
 CCE Mother Tongue Languages (MTL) provide time for teachers to engage and
 build relationships with their students through discussions and effective
 classroom strategies.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>b)&nbsp;&nbsp;&nbsp; Key Student Development Experiences</strong>
-</p>
+<p>b) Key Student Development Experiences</p>
 <p>Student development experiences (SDEs) are programmes and activities that
 contribute towards the holistic development of our students in the physical,
 aesthetic, intellectual, moral and social domains.</p>
-<p>&nbsp;</p>
 <p>Some examples of SDEs are:</p>
-<p><strong>- Cohort Learning Journeys (LJs);</strong>
-<br><strong>- Education and Career Guidance (ECG) Experiences </strong>
-<br><strong>– Junior Career Awareness Programme<br></strong>
-<br>Examples of our school’s Junior Career Awareness Programme:</p>
+<p>- <strong>Cohort Learning Journeys (LJs);</strong>
+</p>
+<p>- Education and Career Guidance (ECG) Experiences – Junior Career Awareness
+Programme</p>
+<p>Examples of our school’s Junior Career Awareness Programme:</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -130,24 +122,23 @@ aesthetic, intellectual, moral and social domains.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/2.png">
 </div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/2a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/2a.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>ECG on the Move Exhibits</strong>
 <br>Our P6 students explored different industries and careers, discovering
 their interests and widening their perspectives on future pathways.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -156,7 +147,7 @@ their interests and widening their perspectives on future pathways.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/3a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/3a.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,17 +157,14 @@ exciting learning journey to KidZania! Through engaging role-play, they
 explored different careers, learnt about real-world responsibilities, and
 strengthened skills like teamwork and communication. The experience helped
 them reflect on their interests and appreciate how their strengths can
-guide future choices.</p>
+guide future choices</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/4.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,14 +175,9 @@ insights to guide their next steps after primary school.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>&nbsp;</p>
 <p><strong>- National Education (NE) Commemorative Days;</strong>
 </p>
-<p>Examples of our school’s commemoration and celebration of NE events:
-<br>
-<br>
-</p>
+<p>Examples of our school’s commemoration and celebration of NE events:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -253,14 +236,9 @@ insights to guide their next steps after primary school.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>- Student Leadership Development (SLD) Programmes;</strong> 
 <br>&nbsp;&nbsp; click <a href="https://www.changkatpri.moe.edu.sg/our-experiences/student-leadership/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more about our Student Leadership programme:
-<br>
-<br>
-</p>
+find out more about our Student Leadership programme:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -295,70 +273,34 @@ find out more about our Student Leadership programme:
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<tr>
+<td rowspan="1" colspan="4">
 <p>- <strong>Values in Action (VIA), including Everyday Responsibilities</strong>
 </p>
-<p>&nbsp;</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10a.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10b.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10c.png">
-</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p>For each of these programmes and activities, specific CCE learning outcomes
 are articulated, and planned activities are incorporated with the intention
 of realising the identified learning outcomes. These activities are based
 on experiential learning pedagogy, including dialogue, discussion and reflection,
 and intentional application of values, social-emotional, and civic competencies.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCE is reinforced through school-based programmes too, designed for our
-students’ needs, and through subjects like Social Studies, Science, Arts,
-Languages and PE that help students explore values and real-world issues.
-Students also learn during daily interactions and teachable moments, where
-they practise respect, care and responsibility. Personal reflection and
-authentic learning experiences further shape their character and guide
-their growth.</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
