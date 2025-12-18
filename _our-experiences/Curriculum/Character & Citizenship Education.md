@@ -304,13 +304,10 @@ are articulated, and planned activities are incorporated with the intention
 of realising the identified learning outcomes. These activities are based
 on experiential learning pedagogy, including dialogue, discussion and reflection,
 and intentional application of values, social-emotional, and civic competencies.</p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>CCE is reinforced through school-based programmes too, designed for our
 students’ needs, and through subjects like Social Studies, Science, Arts,
 Languages and PE that help students explore values and real-world issues.
