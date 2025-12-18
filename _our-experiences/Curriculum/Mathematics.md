@@ -137,7 +137,6 @@ pupils’ mathematical reasoning skills and deepen their conceptual understandin
 through an inquiry-based approach. Pupils collaborate with peers and engage
 in mathematical thinking using specially designed resources such as puzzles,
 games, and explorations tailored for the programme.</p>
-<p>&nbsp;</p>
 <p><strong>External Competitions</strong>
 <br>Pupils also have opportunities to participate in various external Mathematics
 competitions organized by other schools, such as:</p>
