@@ -106,6 +106,14 @@ role-play, decision-making, and interaction, helping students connect mathematic
 concepts (like money, arithmetic, and budgeting) with real-life experiences.
 It nurtures inquiry, collaboration, and critical thinking — key 21st-century
 skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Maths/m1__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Maths/m1__6_.jpg">
+</div>
 <p>&nbsp;</p>
 <p><strong>E2K Mathematics Programme</strong>
 </p>
