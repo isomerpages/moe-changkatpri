@@ -15,7 +15,6 @@ a lifelong interest and love for Mathematics.
 pupils to discover the meaning in learning Mathematics by engaging pupils
 in activities which develop their ability to reason logically and to communicate
 mathematically.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Maths/1.png">
 </div>
@@ -41,11 +40,10 @@ and revisited progressively for long-term understanding.</p>
 clearly, building confidence and clarity.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>With Singapore Math, our students develop solid foundations, critical
 thinking skills, and a love for learning mathematics.</p>
 <h4><strong>Key Programmes</strong></h4>
-<p><strong>&nbsp;Weekend Revision Programme (WRP)</strong>
+<p><strong>Weekend Revision Programme (WRP)</strong>
 </p>
 <p>The Weekend Revision Programme (WRP) is designed to provide students with
 additional reinforcement and practice for previously taught topics and
