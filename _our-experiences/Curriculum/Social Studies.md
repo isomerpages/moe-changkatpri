@@ -6,237 +6,117 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h3><strong>SOCIAL STUDIES</strong></h3>
-<p>The Singapore Social Studies curriculum prepares students to be informed,
-concerned, and participative citizens.</p>
-<p>By exploring real-world issues through inquiry and authentic learning,
-students develop critical thinking skills, appreciate diverse perspectives,
-and understand Singapore’s interconnectedness with the world. Social Studies
-also nurtures values that inspire empathy, social responsibility, and active
-contribution to society.</p>
-<p><strong>Inquiry-Based Learning in Social Studies</strong>
+<p><strong>Mission</strong>
 </p>
-<p>Each primary level is guided by an inquiry focus question, with supporting
-guiding questions that deepen understanding, encourage inquiry, and inspire
-social action.</p>
-<p>Students’ learning is further enriched through Cohort Learning Journeys
-to locations such as the Asian Civilisations Museum, Indian Heritage Centre,
-Kreta Ayer Heritage Gallery and Geylang Serai Heritage Gallery. These Learning
-Journeys provide students with real-world experiences, helping them explore
-concepts through hands-on, multi-sensory activities. This approach deepens
-understanding, sustains interest, and encourages inquiry.</p>
-<p>Students are also engaged in engaging and interactive lessons and projects
-that are based on scenarios to deepen their real-world learning. These
-projects allow students to apply their knowledge, skills, and values in
-authentic contexts, reinforcing meaningful connections to the subject.</p>
-<p>Beyond acquiring knowledge, the curriculum emphasises skills and values
-essential for citizenship, shaping individuals who think critically, make
-informed decisions, and act with empathy.</p>
+<p>At the heart of the Singapore Social Studies Curriculum (refer to Figure
+1) is the preparation of our students to be effective citizens by helping
+them to better understand the interconnectedness of Singapore and the world
+they live in, and appreciate the complexities of the human experience.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/1.png">
+</div>
+<p>The aim of Social Studies is to help pupils grow in <strong>knowledge</strong>, <strong>skills</strong> and <strong>values</strong> by
+examining issues that matter to our society and the world.</p>
+<p><strong>Pedagogical Approach &amp; Assessment</strong>
+</p>
+<p>The syllabus emphasises <strong>inquiry-based learning</strong> — students
+explore guiding questions, examine multiple perspectives, and engage in
+authentic tasks. Assessment includes <strong>performance tasks</strong> (group
+work and individual reflection), as well as regular evaluation of understanding
+for Primary 3 to 6.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/2.png">
+</div>
+<p>Figure 4.1 from the syllabus shows the framework of the Humanities Inquiry
+Approach.</p>
+<p></p>
+<p>Students are also engaged in <strong>interactive lessons and projects</strong> that
+are based on scenarios to deepen their real-world learning. These projects
+allow students to apply their knowledge, skills, and values in authentic
+contexts, reinforcing meaningful connections to the subject.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/3.png">
+</div>
+<p>Picture 1: A group of Primary 6 students role-playing for a lesson on
+civilisations and legacies of Ancient Greece and Rome</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/4.jpg">
+</div>
+<p>Picture 2: Our students learning about vertical farming and aquaponics
+firsthand, right here in our school compound.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/5.jpg">
+</div>
+<p>Picture 3: A lesson conducted in school using our very own hydroponics
+system to teach students about sustainable plant growth.</p>
+<p>Learning includes <strong>field-based experiences / learning journeys</strong> to
+help students connect classroom learning with real-life contexts. This
+approach deepens understanding, sustains interest, and encourages inquiry.</p>
+<p></p>
+<h4><strong>Primary 3: Learning Journey to <u>Geylang Serai Heritage Gallery</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/6.jpg">
+</div>
+<p>Picture 4: Primary 3 students made a traditional Malay headgear, tanjak,
+at the Geylang Serai Heritage Gallery.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/7.jpg">
+</div>
+<p>Picture 5: Primary 3 students walking through Geylang Serai Market as
+they discover cultural foods and immerse themselves in the vibrant sights
+and sounds of the area.</p>
+<p></p>
+<p><strong>Primary 4: Learning Journey to <u>Kreta Ayer Heritage Gallery: Culture Archives</u></strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/8.png">
+</div>
+<p>Picture 6: Primary 4 students learning about the unique architecture along
+Kreta Ayer</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/9.png">
+</div>
+<p>Picture 7: Primary 4 students in Kreta Ayer Heritage Gallery learning
+about the different costumes used for Chinese Opera.</p>
+<p></p>
+<p><strong>Primary 5: Learning Journey to <u>Indian Heritage Centre</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/10.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/11.png">
+</div>
+<p>Picture 9: Students learning about the different traditional musical instruments
+at the Indian Heritage Centre</p>
+<p>
+<br>
+<br><strong>Primary 6: Learning Journey to <u>Asian Civilisation Museum</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/12.jpg">
+</div>
+<p>Picture 10: Primary 6 students outside the Asian Civilisation Museum</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/13.jpg">
+</div>
+<p>Picture 11: Students learning about the significance of trade and how
+it has shaped cultures, economies, and connections across Asia.</p>
+<p></p>
 <p>Adapted from the 2020 Social Studies Teaching and Learning Syllabus Primary</p>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Museum-based learning at Asian Civilisations Museum: ‘Asian Adventures’</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image001.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image003.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Museum-based learning at Geylang Serai Heritage Gallery: ‘Tales of the
-Emporium’</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image005.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image007.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Museum-based learning at Indian Heritage Centre: ‘Sights and Sounds of
-Little India’</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image009.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image011.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Museum-based learning Kreta Ayer Heritage Gallery: ‘Culture Archives’</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image013.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image015.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>A primary 6 Social Studies lesson on the legacies of the civilisations
-of the Indian subcontinent</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image017.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>A primary 6 Social Studies lesson on civilisations and legacies of Ancient
-Greece and Rome</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Social Studies/image019.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>

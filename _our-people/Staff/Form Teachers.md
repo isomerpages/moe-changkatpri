@@ -6,9 +6,173 @@ description: ""
 third_nav_title: Staff
 ---
 <h3><strong>Form Teachers</strong></h3>
-<p><strong>2025</strong>
+<p><strong>2026</strong>
 </p>
 <p><strong>Primary One</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Patriotism</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Li Mei Elaine
+<br>(Mrs Heng)
+<br>(SDR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">elaine_ong_li_mei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Ms Selena Chew Wui Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">chew_wui_ling_selena@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haryati Ariffin
+<br>(SH/AES)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">haryati_ariffin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Mei Ee Geraldine (Mrs Hu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">geraldine_wong_mei_ee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ha Siok Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ha_siok_ting@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kamala D/O Swamy (iExamms Coor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">kamala_swamy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Keng Tzu
+<br>(Mrs Wong)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_keng_tzu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Md Taufeek Ramlan
+<br>(ST/PE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_taufeek_ramlan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jiang Caiwei
+<br>(HOD Maths)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">jiang_caiwei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Yuan Ho Celestine (Mrs Lim)
+<br>(ST/LP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_yuan_ho_celestine@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Primary Two</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -73,10 +237,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Arina Santoso</p>
+<p>Mdm Josephine Teow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_arina_santoso@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">josephine_teow@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -124,10 +288,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lai Li</p>
+<p>Miss Yang Jing Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_lai_li@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Yang_Jingning@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -136,11 +300,11 @@ third_nav_title: Staff
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Keng Tzu
-<br>(Mrs Wong)</p>
+<p>Mr Ban Choon Kwee
+<br>(HOD PE CCA &amp; AES)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_keng_tzu@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ban_choon_kwee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -149,11 +313,11 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ban Choon Kwee
-<br>(HOD PE CCA &amp; AES)</p>
+<p>Mdm Sharifah Aminah Syed Omar Alsree
+<br>(ML Coord)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ban_choon_kwee@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sharifah_aminah_syed_omar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -178,24 +342,25 @@ third_nav_title: Staff
 <p>Mdm Aznani Bte Aladin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aznani_aladin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aznani_aladin@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">aznani_aladin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Primary Two</strong>
+<p>&nbsp;</p>
+<p><strong>Primary Three</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -223,11 +388,10 @@ third_nav_title: Staff
 <p>Patriotism</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Md Taufeek Ramlan
-<br>(ST/PE)</p>
+<p>Mdm Lang JiaJing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_taufeek_ramlan@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lang_jia_jing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -236,10 +400,11 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kelly Chan Poh Geok</p>
+<p>Mdm Juliana Jumaat
+<br>(ST/MATHS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_poh_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_poh_geok@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">juliana_jumaat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -248,10 +413,11 @@ third_nav_title: Staff
 <p>Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ha Siok Ting</p>
+<p>Mdm Farhanah Jumahat
+<br>(LH/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ha_siok_ting@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">farhanah_jumahat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -260,10 +426,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yang Jing Ning</p>
+<p>Mdm Lim Lai Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Yang_Jingning@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_lai_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -272,12 +438,10 @@ third_nav_title: Staff
 <p>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Li Mei Elaine
-<br>(Mrs Heng)
-<br>(SDR)</p>
+<p>Ms Tia Amelia Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">elaine_ong_li_mei@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tia_amelia_abdullah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -286,10 +450,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kamala D/O Swamy (iExamms Coor)</p>
+<p>Mdm Nur Arina Santoso</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kamala_swamy@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_arina_santoso@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -298,11 +462,11 @@ third_nav_title: Staff
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Li Kun Peng
-<br>(CL Coord)</p>
+<p>Mdm Chong Stephanie Jemima Tan
+<br>(HOD EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">li_kun_peng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chong_stephanie_jemima_tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -311,11 +475,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jiang Caiwei
-<br>(HOD Maths)</p>
+<p>Ms Gao Qijie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">jiang_caiwei@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Gao_Qijie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -324,10 +487,12 @@ third_nav_title: Staff
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Mei Ee Geraldine (Mrs Hu)</p>
+<p>Mdm Tan Huaying Maybelline
+<br>(Mrs Low)
+<br>(ST/Ed Support)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">geraldine_wong_mei_ee@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_huaying_maybelline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -336,36 +501,11 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Yuan Ho Celestine (Mrs Lim)
-<br>(ST/LP)</p>
+<p>Ms Yong Yun Yun
+<br>(LH/Maths)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_yuan_ho_celestine@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Rahayu (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_rahayu_ali@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Haryati Ariffin
-<br>(SH/CCA &amp; AES)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">haryati_ariffin@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yong_yun_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -382,7 +522,8 @@ third_nav_title: Staff
 </tr>
 </tbody>
 </table>
-<p><strong>Primary Three</strong>
+<p>&nbsp;</p>
+<p><strong>Primary Four</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -423,30 +564,29 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nurisham Ismail
-<br>(CCE MTL Coord)</p>
+<p>Ms Faradillah Bte Jumahat
+<br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurisham_ismail@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chong Stephanie Jemima Tan
-<br>(SSD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chong_stephanie_jemima_tan@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">faradillah_jumahat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sandy Lim Sio Yen (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_sio_yen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew Teo Hock Chye
@@ -459,13 +599,26 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Joycelyn Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tay_aijing_joycelyn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadjah Omar Alkhatib</p>
+<p>Mdm Soh Chern Hui
+<br>(Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nadjah_omar_alkhatib@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">soh_chern_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -474,23 +627,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Iffah Abdul Ghafar
-<br>(Middle Level Year Head)</p>
+<p>Mdm Harlina Hassan Basri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_iffah_abdul_ghafar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Teo Li Ting Jaena</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Teo_Li_Ting_Jaena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Li_Ting_Jaena@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Harlina_Bt_Hassan_Basri@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -499,10 +639,10 @@ third_nav_title: Staff
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Josephine Teow</p>
+<p>Mdm Radziyah Bte Mohd Zain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">josephine_teow@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">radziyah_mohamed_zain@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -511,10 +651,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Radziyah Bte Mohd Zain</p>
+<p>Mr Tay Wei Qiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:radziyah_mohamed_zain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">radziyah_mohamed_zain@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Tay_Wei_Qiang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -535,10 +675,11 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lang JiaJing</p>
+<p>Mr Nurisham Ismail
+<br>(CCE MTL Coord)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lang_jia_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lang_jia_jing@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nurisham_ismail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -555,7 +696,8 @@ third_nav_title: Staff
 </tr>
 </tbody>
 </table>
-<p><strong>Primary Four</strong>
+<p>&nbsp;</p>
+<p><strong>Primary Five</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -583,11 +725,11 @@ third_nav_title: Staff
 <p>Patriotism</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hoo Chee Mun
-<br>(SH/KM, P3 LSM)</p>
+<p>Mr Seow Tian Hou
+<br>(HOD ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hoo_chee_mun@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">seow_tian_hou@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -596,16 +738,40 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sandy Lim Sio Yen (FAJT)</p>
+<p>Ms Joey Khou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_sio_yen@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Joey_Khou_Ziyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Md Faiz Md Siddiq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_faiz_mohamed_siddiq@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sun Haowan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Sun_Haowan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Aisyah Mustapha</p>
@@ -620,34 +786,11 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeong Wai Cheng Anne (Mrs Goh)</p>
+<p>Mr Li Kun Peng
+<br>(CL Coord)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yeong_wai_cheng_anne@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Choon Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_choon_hong_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Salmi Bte Rahmat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">salmi_rahmat@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">li_kun_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -656,10 +799,10 @@ third_nav_title: Staff
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tia Amelia Abdullah</p>
+<p>Mr Khairul Nizam Bin Abdul Aziz (SH CCA &amp; Student Leadership (Intenal))</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tia_amelia_abdullah@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Khairul_Nizam_Abdul_Aziz@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -668,11 +811,21 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Md Faiz Md Siddiq</p>
+<p>Ms Eve Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_faiz_mohamed_siddiq@schools.gov.sg</a>
-</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -693,10 +846,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Omairah Bte Omar (FAJT)</p>
+<p>Miss Siti Nur Syakirin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_omairah_omar@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Siti_Nur_Syakirin_Puteri@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -713,7 +866,9 @@ third_nav_title: Staff
 </tr>
 </tbody>
 </table>
-<p><strong>Primary Five</strong>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Primary Six</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -805,30 +960,16 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Chye Huat
-<br>(HOD MTL, CCE)</p>
+<br>(HOD MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chye_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chye_huat@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_chye_huat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Huaying Maybelline
-<br>(Mrs Low)
-<br>(ST/Ed Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_huaying_maybelline@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Boon Teng David
@@ -841,133 +982,32 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Empathy</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Faradillah Bte Jumahat
-<br>(SH/Innovation) (Internal)</p>
+<p>Mdm Salmi Bte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:faradillah_jumahat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faradillah_jumahat@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">salmi_rahmat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hoo Chee Mun
+<br>(SH/KM, P3 LSM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hoo_chee_mun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Crystal Yip Xue Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Yip_Xue_Yi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Ms Selena Chew Wui Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:chew_wui_ling_selena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_wui_ling_selena@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Primary Six</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teachers</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Patriotism</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Soh Chern Hui
-<br>(Mrs Leong)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_chern_hui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Azura Rahim
-<br>(AYH)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_azura_rahim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Farhanah Jumahat
-<br>(LH/EL [Internal])</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">farhanah_jumahat@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Khairul Nizam Bin Abdul Aziz (SH 21st CC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Khairul_Nizam_Abdul_Aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khairul_Nizam_Abdul_Aziz@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farah Khairiah Rifaei
@@ -980,58 +1020,6 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sharifah Aminah Syed Omar Alsree
-<br>(ML Coord)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sharifah_aminah_syed_omar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Seow Tian Hou
-<br>(HOD ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seow_tian_hou@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yong Yun Yun
-<br>(LH/Maths)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yong_yun_yun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Juliana Jumaat
-<br>(ST/MATHS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">juliana_jumaat@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1043,5 +1031,4 @@ third_nav_title: Staff
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>

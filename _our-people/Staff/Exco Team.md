@@ -78,10 +78,11 @@ third_nav_title: Staff
 <p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vacant</p>
+<p>Mdm Stephanie Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chong_stephanie_jemima_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -134,13 +135,13 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD School Staff Developer (SSD) / HOD EL (Covering)</p>
+<p>HOD School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Stephanie Chong</p>
+<p>Mdm Harlina Hassan Basri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_stephanie_jemima_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
+<p><a href="mailto:Harlina_Bt_Hassan_Basri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Harlina_Bt_Hassan_Basri@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -158,7 +159,19 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (SH) CCA / Aesthetics</p>
+<p>HOD Student Well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tay Aijing Joycelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_aijing_joycelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_aijing_joycelyn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (SH) Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Haryati Ariffin</p>
@@ -171,6 +184,17 @@ third_nav_title: Staff
 <tr>
 <td rowspan="1" colspan="1">
 <p>SH 21st Century Competencies (21CC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vacant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH CCA &amp; Student Leadership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khairul Nizam Abdul Aziz
@@ -207,15 +231,13 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH National Education (NE) &amp; Partnership (Internal)</p>
+<p>SH National Education (NE) &amp; Values In Action (VIA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jesslyn Ng Shi Hui
-<br>(AYH, P1 LSM)</p>
+<p>Tan Jia Ee Eve</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_shi_hui_jesslyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_shi_hui_jesslyn@schools.gov.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
