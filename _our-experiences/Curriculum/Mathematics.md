@@ -131,8 +131,6 @@ skills.</p>
 </div>
 <p>&nbsp;</p>
 <p><strong>E2K Mathematics Programme</strong>
-</p>
-<p>
 <br>The E2K Mathematics Programme is an enrichment initiative for selected
 Primary 4 and Primary 5 pupils, conducted by our teachers. It aims to develop
 pupils’ mathematical reasoning skills and deepen their conceptual understanding
