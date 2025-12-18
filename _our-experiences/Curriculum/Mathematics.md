@@ -64,15 +64,14 @@ on topics already covered in class.</p>
 <p>Primary 5 and Primary 6: Paper 1 and Paper 2 practice.</p>
 </li>
 </ul>
-<p>&nbsp;<strong>Heuristics in Mathematics</strong>
+<p><strong>Heuristics in Mathematics</strong>
 </p>
-<p>&nbsp;Equipping pupils with skills and heuristics for mathematical problem-solving
+<p>Equipping pupils with skills and heuristics for mathematical problem-solving
 is fundamental to their learning of Mathematics. To support this, the Mathematics
 Department has developed a Heuristic Package for Primary 1 to Primary 6.
 This package systematically guides pupils in mastering different problem-solving
 heuristics and the use of model drawing, enabling them to approach mathematical
 problems confidently and effectively.</p>
-<p>&nbsp;</p>
 <p><strong>LSM and ICAN</strong>
 <br>This programme equips pupils with foundational numeracy and literacy skills,
 boosting their confidence in mathematical problem-solving.</p>
