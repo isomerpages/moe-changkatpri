@@ -94,7 +94,7 @@ subject lessons and learning opportunities beyond school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>a)	<strong>CCE Lessons </strong>
+<p>a) <strong>CCE Lessons</strong>
 </p>
 <p>These lessons, which include CCE Form Teacher Guidance Period (FTGP) and
 CCE Mother Tongue Languages (MTL) provide time for teachers to engage and
@@ -282,15 +282,27 @@ find out more about our Student Leadership programme:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10a.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10b.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/10c.png">
+</div>
 </td>
 </tr>
 </tbody>
@@ -301,6 +313,12 @@ are articulated, and planned activities are incorporated with the intention
 of realising the identified learning outcomes. These activities are based
 on experiential learning pedagogy, including dialogue, discussion and reflection,
 and intentional application of values, social-emotional, and civic competencies.</p>
-<p></p>
+<p>CCE is reinforced through school-based programmes too, designed for our
+students’ needs, and through subjects like Social Studies, Science, Arts,
+Languages and PE that help students explore values and real-world issues.
+Students also learn during daily interactions and teachable moments, where
+they practise respect, care and responsibility. Personal reflection and
+authentic learning experiences further shape their character and guide
+their growth.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
