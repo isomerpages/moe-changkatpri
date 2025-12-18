@@ -130,29 +130,27 @@ aesthetic, intellectual, moral and social domains.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/2.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/2a.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <p><strong>ECG on the Move Exhibits</strong>
 <br>Our P6 students explored different industries and careers, discovering
 their interests and widening their perspectives on future pathways.</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>&nbsp;</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/3.png">
 </div>
@@ -160,7 +158,6 @@ their interests and widening their perspectives on future pathways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/3a.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Experiential learning at Kidzania</strong>
@@ -173,11 +170,14 @@ guide future choices.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/CCE/4.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ECG Secondary School Cluster Fair</strong> 
@@ -187,6 +187,7 @@ insights to guide their next steps after primary school.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>&nbsp;</p>
 <p><strong>- National Education (NE) Commemorative Days;</strong>
 </p>
