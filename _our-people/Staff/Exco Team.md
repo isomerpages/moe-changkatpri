@@ -195,17 +195,6 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH 21st Century Competencies (21CC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vacant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH CCA &amp; Student Leadership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,21 +243,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Well-being &amp; Leadership (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Cheong Hwee Peng Christina
-<br>(Mrs Chan)
-<br>(Teacher Counsellor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_hwee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hwee_peng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head (LH) English (Internal)</p>
+<p>Level Head (LH) English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farhanah Jumahat</p>
