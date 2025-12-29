@@ -602,7 +602,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joycelyn Tay</p>
+<p>Mdm Joycelyn Tay (HOD Student Well-Being)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_aijing_joycelyn@schools.gov.sg</a>
@@ -627,7 +627,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Harlina Hassan Basri</p>
+<p>Mdm Harlina Hassan Basri (HOD School Staff Developer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Harlina_Bt_Hassan_Basri@schools.gov.sg</a>
@@ -675,8 +675,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nurisham Ismail
-<br>(CCE MTL Coord)</p>
+<p>Mr Nurisham Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nurisham_ismail@schools.gov.sg</a>
@@ -811,7 +810,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eve Tan</p>
+<p>Ms Eve Tan (SH NE &amp; VIA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -897,8 +896,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Li Leng Clara
-<br>(Mrs Sim)
-<br>(VIA Coord)</p>
+<br>(Mrs Sim)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_li_leng@schools.gov.sg</a>
