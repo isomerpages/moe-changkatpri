@@ -63,7 +63,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Haryati Ariffin
-<br>(SH/AES)</p>
+<br>(SH Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">haryati_ariffin@schools.gov.sg</a>
@@ -99,7 +99,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kamala D/O Swamy (iExamms Coor)</p>
+<p>Mdm Kamala D/O Swamy (iExams Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">kamala_swamy@schools.gov.sg</a>
@@ -125,7 +125,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Md Taufeek Ramlan
-<br>(ST/PE)</p>
+<br>(ST Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_taufeek_ramlan@schools.gov.sg</a>
@@ -151,7 +151,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ang Yuan Ho Celestine (Mrs Lim)
-<br>(ST/LP)</p>
+<br>(ST LP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_yuan_ho_celestine@schools.gov.sg</a>
@@ -225,7 +225,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Aifang Faith
-<br>(ECG Coord)</p>
+<br>(Education &amp; Career Guidance Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_aifang@schools.gov.sg</a>
@@ -314,7 +314,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sharifah Aminah Syed Omar Alsree
-<br>(ML Coord)</p>
+<br>(Malay Language Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sharifah_aminah_syed_omar@schools.gov.sg</a>
@@ -401,7 +401,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Juliana Jumaat
-<br>(ST/MATHS)</p>
+<br>(ST MATHS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">juliana_jumaat@schools.gov.sg</a>
@@ -414,7 +414,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farhanah Jumahat
-<br>(LH/EL)</p>
+<br>(LH English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">farhanah_jumahat@schools.gov.sg</a>
@@ -463,7 +463,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chong Stephanie Jemima Tan
-<br>(HOD EL)</p>
+<br>(HOD English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chong_stephanie_jemima_tan@schools.gov.sg</a>
@@ -489,7 +489,7 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Huaying Maybelline
 <br>(Mrs Low)
-<br>(ST/Ed Support)</p>
+<br>(ST Education Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_huaying_maybelline@schools.gov.sg</a>
@@ -502,7 +502,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yong Yun Yun
-<br>(LH/Maths)</p>
+<br>(LH Maths)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">yong_yun_yun@schools.gov.sg</a>
@@ -552,7 +552,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rajeswary Thillaikumar
-<br>(ST/EL)</p>
+<br>(ST English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rajeswary_thillaikumar@schools.gov.sg</a>
@@ -590,7 +590,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew Teo Hock Chye
-<br>(ST/CL)</p>
+<br>(ST Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">teo_hock_chye@schools.gov.sg</a>
@@ -798,7 +798,7 @@ third_nav_title: Staff
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Nizam Bin Abdul Aziz (SH CCA &amp; Student Leadership (Intenal))</p>
+<p>Mr Khairul Nizam Bin Abdul Aziz (SH CCA &amp; Student Leadership (Internal))</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Khairul_Nizam_Abdul_Aziz@schools.gov.sg</a>
@@ -909,7 +909,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr K Parathi
-<br>(SH/ML&amp;TL)</p>
+<br>(SH ML&amp;TL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">k_parathi@schools.gov.sg</a>
@@ -996,7 +996,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hoo Chee Mun
-<br>(SH/KM, P3 LSM)</p>
+<br>(SH KM, P3 LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">hoo_chee_mun@schools.gov.sg</a>
