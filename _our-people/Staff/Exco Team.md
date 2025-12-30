@@ -191,7 +191,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (SH) </strong>
+<p><strong>Subject Head (SH)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -260,7 +260,16 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (LH) English</p>
+<p><strong>Level Head (LH) </strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farhanah Jumahat</p>
@@ -272,7 +281,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Mathematics</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yong Yun Yun</p>
@@ -284,7 +293,16 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (YH) Lower Primary</p>
+<p><strong>Year Head (YH) </strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yeo Lee Theng Deon</p>
@@ -296,7 +314,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH Middle Primary</p>
+<p>Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Iffah Bte Abdul Ghafar</p>
@@ -308,7 +326,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH Upper Primary</p>
+<p>Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Suzanna Bambang</p>
