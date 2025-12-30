@@ -314,7 +314,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sharifah Aminah Syed Omar Alsree
-<br>(ML Coord)</p>
+<br>(Malay Language Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sharifah_aminah_syed_omar@schools.gov.sg</a>
@@ -463,7 +463,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chong Stephanie Jemima Tan
-<br>(HOD EL)</p>
+<br>(HOD English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chong_stephanie_jemima_tan@schools.gov.sg</a>
@@ -489,7 +489,7 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Huaying Maybelline
 <br>(Mrs Low)
-<br>(ST/Ed Support)</p>
+<br>(ST Education Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_huaying_maybelline@schools.gov.sg</a>
@@ -552,7 +552,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rajeswary Thillaikumar
-<br>(ST/EL)</p>
+<br>(ST English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rajeswary_thillaikumar@schools.gov.sg</a>
@@ -590,7 +590,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew Teo Hock Chye
-<br>(ST CL)</p>
+<br>(ST Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">teo_hock_chye@schools.gov.sg</a>
