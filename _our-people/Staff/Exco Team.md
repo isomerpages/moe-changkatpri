@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Staff
 ---
-<h3><strong>Exco Team</strong></h3>
+<h3><strong>EXCO Team</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -26,7 +26,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PRINCIPAL</p>
+<p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cheng Huey Teng</p>
@@ -50,7 +50,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VICE-PRINCIPAL (EO)</p>
+<p>Vice-principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nazrah Bte Abdul Rahman</p>
@@ -62,7 +62,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VICE-PRINCIPAL (EO)</p>
+<p>Vice-principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tay-Lee Li Theng</p>
@@ -74,7 +74,15 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head-of-Department (HOD) Character &amp; Citizenship Education (CCE)</p>
+<p><strong>Head-of-Department </strong>(HOD)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farah Khairiah Rifaei
@@ -87,7 +95,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD English</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Stephanie Chong</p>
@@ -99,7 +107,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Information &amp; Communication Technology (ICT)</p>
+<p>Information &amp; Communication Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seow Tian Hou</p>
@@ -111,7 +119,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jiang Caiwei</p>
@@ -123,7 +131,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages (MTL)</p>
+<p>Mother Tongue Languages (MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Chye Huat</p>
@@ -135,7 +143,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education (PE), Co-Curricular Activities (CCA) &amp; Aesthetics</p>
+<p>Physical Education (PE), Co-Curricular Activities (CCA) &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ban Choon Kwee</p>
@@ -147,7 +155,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD School Staff Developer (SSD)</p>
+<p>School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Harlina Hassan Basri</p>
@@ -159,7 +167,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Salmi Bte Rahmat</p>
@@ -171,7 +179,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Well-being</p>
+<p>Student Well-being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tay Aijing Joycelyn</p>
@@ -183,7 +191,16 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (SH) Aesthetics</p>
+<p><strong>Subject Head (SH) </strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Haryati Ariffin</p>
@@ -195,7 +212,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCA &amp; Student Leadership (Internal)</p>
+<p>CCA &amp; Student Leadership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khairul Nizam Abdul Aziz
@@ -208,7 +225,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Knowledge Management (KM)</p>
+<p>Knowledge Management (KM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hoo Chee Mun</p>
@@ -220,7 +237,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language (ML) &amp; Tamil Language (TL)</p>
+<p>Malay Language (ML) &amp; Tamil Language (TL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr K Parathi</p>
@@ -232,7 +249,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH National Education (NE) &amp; Values In Action (VIA)</p>
+<p>National Education (NE) &amp; Values In Action (VIA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Jia Ee Eve</p>
