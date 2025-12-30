@@ -252,15 +252,16 @@ third_nav_title: Staff
 <p>National Education (NE) &amp; Values In Action (VIA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Jia Ee Eve</p>
+<p>Ms Tan Jia Ee Eve</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_jia_ee_eve@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_ee_eve@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head (LH) </strong>
+<p><strong>Level Head (LH)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -293,7 +294,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (YH) </strong>
+<p><strong>Year Head (YH)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
