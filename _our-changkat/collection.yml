@@ -2,6 +2,7 @@ collections:
   our-changkat:
     output: true
     order:
+      - Prinicpal.md
       - Principal's Message.md
       - History.md
       - School Crest and Song.md
