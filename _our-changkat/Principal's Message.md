@@ -55,27 +55,7 @@ evolving to meet the needs of today’s learners.</p>
 <p>We look forward to partnering you closely in your child’s educational
 journey at CKPS. Together, we prepare our students- &nbsp;‘<strong>To Learn, To Live, To Serve’.</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Changkat/Principal's Message/psigoff.png">
-</div>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
+<p>Your Partner in Education,</p>
+<p>Mrs Ratna Elangovan</p>
 <p></p>
