@@ -5,15 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h3>Principal's Message</h3>
-<h4>Principal’s Message for 2026</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Changkat/Principal's Message/pnvp.jpg">
 </div>
-<p>At Changkat Primary School (CKPS), we are guided by our steadfast commitment
-&nbsp;to be the school of choice in our community by providing every CKPian
-with a quality, holistic education that develops both passionate learners
-and grounded in values.</p>
+<p>At Changkat Primary School (CKPS), we are guided by our steadfast commitment&nbsp;to
+be the school of choice in our community by providing every CKPian with
+a quality, holistic education that develops both passionate learners and
+grounded in values.</p>
 <p>Anchored by our school vision, <strong><em>Learners with Passion, Citizens of Honour</em></strong>,
 we focus on purposeful and meaningful learning experiences that nurture
 curiosity, resilience and &nbsp;a love for learning , Our curriculum and
@@ -39,7 +37,7 @@ mutual respect, and empathy among students.</p>
 by our <strong>PRIDE values – Patriotism, Resilience, Integrity, Discipline, and Empathy</strong>.
 These values are intentionally and consistently lived out through both
 work and play, within and beyond the classroom. Through these authentic
-learning &nbsp;experiences, we prepare our students to contribute positively
+learning experiences, we prepare our students to contribute positively
 to their communities and to lead with confidence, compassion, and purpose.</p>
 <p>Behind every child at CKPS, there is a group of dedicated teachers who
 play a critical role in your child’s development. Our teachers are also
