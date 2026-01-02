@@ -29,19 +29,7 @@ third_nav_title: Staff
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheng Huey Teng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_huey_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheng_huey_teng@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ratna Elangovan (Principal Designate)</p>
+<p>Mrs Ratna Elangovan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ratna_Kumari_R_RAMACHANDRA@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ratna_Kumari_R_RAMACHANDRA@schools.gov.sg</a>
