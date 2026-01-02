@@ -58,7 +58,7 @@ towards greater accomplishments in our mission to nurture students to become
 <p>2017 - 2025 Mrs Cheng Huey Teng</p>
 </li>
 </ul>
-<p>On 15 December 2017, our current principal, Mrs Cheng Huey Teng, joined
+<p>On 15 December 2025, our current principal, Mrs Ratna Elangovan, joined
 Changkat Primary School as principal.</p>
 <p><strong>Key milestones</strong>
 </p>
