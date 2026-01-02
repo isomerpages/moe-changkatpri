@@ -29,11 +29,11 @@ download the <strong>Leave of Absence Application Form</strong> (External
 link)</p>
 </li>
 <li>
-<p>Click <a href="https://form.gov.sg/676ad3505e9be3921c9bf3ca" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://go.gov.sg/2026cycletosch" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 fill-in the <strong>Reply Form - Cycling To School</strong> (External link)</p>
 </li>
 <li>
-<p>Click <a href="https://form.gov.sg/676ad64da980a6fd0fbbb2e6" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://go.gov.sg/2026hpsmartwatchform" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 fill-in the <strong>Acknowledgement Form - Handphone Policy</strong> (External
 link)</p>
 </li>
