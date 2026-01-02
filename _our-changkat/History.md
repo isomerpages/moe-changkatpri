@@ -52,7 +52,7 @@ towards greater accomplishments in our mission to nurture students to become
 <p>2004 - 2010 Mrs Wee-Kwan Liam</p>
 </li>
 <li>
-<p>2010 - 2017 Mrs Maty Tang</p>
+<p>2010 - 2017 Mrs May Tang</p>
 </li>
 <li>
 <p>2017 - 2025 Mrs Cheng Huey Teng</p>
