@@ -31,7 +31,6 @@ towards greater accomplishments in our mission to nurture students to become
 'Learners with Passion, Citizens of Honour'.</p>
 <p><strong>Principals of Changkat Primary School</strong>
 </p>
-<h4>Principals of Changkat Primary School</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>1965 - 1984 Mr Yau Chung Mang</p>
