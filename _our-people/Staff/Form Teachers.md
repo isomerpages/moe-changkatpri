@@ -263,10 +263,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shi Hui</p>
+<p>Mr Li Kun Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Shi_hui@schools.gov.sg</a>
+<p><a href="mailto:li_kun_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_kun_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -313,11 +313,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Aminah Syed Omar Alsree
-<br>(Malay Language Coordinator)</p>
+<p>Mdm Shu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sharifah_aminah_syed_omar@schools.gov.sg</a>
+<p><a href="mailto:Shi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shi_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -351,10 +350,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mdm Siti Rahyu (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>siti_rahayu_ali@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -821,7 +820,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mr Mohd Syafiq Saniff (Untrained)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
