@@ -473,11 +473,10 @@ third_nav_title: Staff
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chong Stephanie Jemima Tan
-<br>(HOD English Language)</p>
+<p>Mdm Harlina Hassan Basri (HOD School Staff Developer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chong_stephanie_jemima_tan@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>Harlina_Bt_Hassan_Basri@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -486,10 +485,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gao Qijie</p>
+<p>Mdm Nur Arina Santoso</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Gao_Qijie@schools.gov.sg</a>
+<p><a href="mailto:nur_arina_santoso@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_arina_santoso@schools.gov.sg</a>
 </p>
 </td>
 </tr>
