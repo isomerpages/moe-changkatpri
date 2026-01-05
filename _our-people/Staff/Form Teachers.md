@@ -637,11 +637,11 @@ third_nav_title: Staff
 <p>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Chern Hui
-<br>(Mrs Leong)</p>
+<p>Mdm Chong Stephanie Jemima Tan</p>
+<p>(HOD English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_chern_hui@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -650,10 +650,11 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Harlina Hassan Basri (HOD School Staff Developer)</p>
+<p>Mdm Soh Chern Hui</p>
+<p>(Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Harlina_Bt_Hassan_Basri@schools.gov.sg</a>
+<p><a href="mailto:soh_chern_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_chern_hui@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -808,11 +809,11 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Li Kun Peng
-<br>(CL Coord)</p>
+<p>Mdm Sharifah Aminah Syed Omar Alsree</p>
+<p>(Malay Language Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">li_kun_peng@schools.gov.sg</a>
+<p><a href="mailto:sharifah_aminah_syed_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_aminah_syed_omar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
