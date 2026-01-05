@@ -942,6 +942,18 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur AZURA RAHIM (Music Coordinator)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_azura_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azura_rahim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
