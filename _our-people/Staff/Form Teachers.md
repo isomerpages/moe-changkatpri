@@ -458,6 +458,18 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gao Qijie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Gao_Qijie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gao_Qijie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
