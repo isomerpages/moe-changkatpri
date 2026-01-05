@@ -263,10 +263,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shi Hui</p>
+<p>Mr Li Kun Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Shi_hui@schools.gov.sg</a>
+<p><a href="mailto:li_kun_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_kun_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -313,11 +313,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Aminah Syed Omar Alsree
-<br>(Malay Language Coordinator)</p>
+<p>Mdm Shu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sharifah_aminah_syed_omar@schools.gov.sg</a>
+<p><a href="mailto:Shi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shi_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -351,10 +350,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mdm Siti Rahyu (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>siti_rahayu_ali@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -459,14 +458,25 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gao Qijie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Gao_Qijie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gao_Qijie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chong Stephanie Jemima Tan
-<br>(HOD English Language)</p>
+<p>Mdm Harlina Hassan Basri (HOD School Staff Developer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chong_stephanie_jemima_tan@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>Harlina_Bt_Hassan_Basri@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -475,10 +485,10 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gao Qijie</p>
+<p>Mdm Nur Arina Santoso</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Gao_Qijie@schools.gov.sg</a>
+<p><a href="mailto:nur_arina_santoso@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_arina_santoso@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -611,14 +621,27 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Mdm Yeong WAI CHENG ANNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeong_wai_cheng_anne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_wai_cheng_anne@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Chern Hui
-<br>(Mrs Leong)</p>
+<p>Mdm Chong Stephanie Jemima Tan</p>
+<p>(HOD English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_chern_hui@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -627,10 +650,11 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Harlina Hassan Basri (HOD School Staff Developer)</p>
+<p>Mdm Soh Chern Hui</p>
+<p>(Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Harlina_Bt_Hassan_Basri@schools.gov.sg</a>
+<p><a href="mailto:soh_chern_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_chern_hui@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -785,11 +809,11 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Li Kun Peng
-<br>(CL Coord)</p>
+<p>Mdm Sharifah Aminah Syed Omar Alsree</p>
+<p>(Malay Language Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">li_kun_peng@schools.gov.sg</a>
+<p><a href="mailto:sharifah_aminah_syed_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_aminah_syed_omar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -821,7 +845,7 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mr Mohd Syafiq Saniff (Untrained)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -913,6 +937,18 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">k_parathi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur AZURA RAHIM (Music Coordinator)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_azura_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azura_rahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
