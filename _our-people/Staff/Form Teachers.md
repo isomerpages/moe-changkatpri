@@ -621,6 +621,19 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Mdm Yeong WAI CHENG ANNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeong_wai_cheng_anne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_wai_cheng_anne@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
