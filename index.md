@@ -25,18 +25,4 @@ sections:
         - title: CKPS Facebook
           description: ""
           url: https://www.facebook.com/changkatps
-  - infobar:
-      title: Prize Giving Days Photos
-      id: infobar
-      description: Primary 1 to 5 Prize Giving & P6 Prize Giving & Graduation  Photos
-      button: Click here
-      url: /prize-giving-day-photo/
-  - infopic:
-      title: 60th Anniversary
-      id: infopic
-      description: Changkat Primary School celebrated our 60th Anniversary on 5 July 2025.
-      button: Find out more
-      url: /60th/overview/
-      image: /images/Anniversary photo/60thannilogo.jpg
-      alt: 60th Anniversary
 ---
