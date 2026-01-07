@@ -87,10 +87,10 @@ third_nav_title: Staff
 <p>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ha Siok Ting</p>
+<p>Mdm Siti Rahyu (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ha_siok_ting@schools.gov.sg</a>
+<p><a href="mailto:siti_rahayu_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ha_siok_ting@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -345,17 +345,6 @@ third_nav_title: Staff
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Siti Rahyu (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_rahayu_ali@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
@@ -441,18 +430,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tia_amelia_abdullah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Arina Santoso</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_arina_santoso@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -616,19 +593,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_aijing_joycelyn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>Mdm Yeong WAI CHENG ANNE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeong_wai_cheng_anne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_wai_cheng_anne@schools.gov.sg</a>
 </p>
 </td>
 </tr>
