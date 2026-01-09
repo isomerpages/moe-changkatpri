@@ -77,9 +77,9 @@ providers and then apply for hawker licence from the Singapore Food Agency
 <p></p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
-<p>Application form (as attached) must be completed and submitted soonest
-to our school’s General Office <strong>by 30 June 2026</strong> with the
-following documents:</p>
+<p>Application form (<a href="https://drive.google.com/file/d/1wz94FqkD6jZJWHkerafPDyySnZ3vlCd9/view" rel="noopener nofollow" target="_blank">download</a>)
+must be completed and submitted soonest to our school’s General Office <strong>by 30 June 2026</strong> with
+the following documents:</p>
 <p>(i)&nbsp;&nbsp; Proposed menu and pricing</p>
 <p>(ii)&nbsp; Photocopy of the applicant’s NRIC (front and back)</p>
 <p>(iii) Photocopy of relevant certificates such as Basic Food Hygiene, etc.</p>
