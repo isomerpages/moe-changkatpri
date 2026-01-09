@@ -3,41 +3,110 @@ title: Aesthetics
 permalink: /our-experiences/curriculum/aesthetics/
 description: ""
 third_nav_title: Curriculum
-variant: markdown
+variant: tiptap
 ---
-### **Aesthetics**
-#### **Vision**
-Students who are passionate and appreciative of the Arts
-
-#### **Mission**
-Instilling in our students the love for the visual and performing arts as well as providing diverse opportunities for self-expression
-
-#### **Aesthetics Team @ Changkat**
-
-|  |  |
-|:---:|:---:|
-| Mdm Haryati | SH Aesthetics &amp; CCA |
-| Mdm Aznani | Art Coordinator |
-| Miss Tia Amelia | Art Teacher |
-| Miss Nur Azura | Music Coordinator |
-|
-
-| Aesthetics Framework | Subjects | Programmes/Activities/Events |
-|:---:|:---:|:---:|
-| **Educate**<br>Skills Acquisition<br>Interest Building<br>Character Building | <br>Art<br> | - Drawing<br>- Craftwork<br>- Art Discussion<br>- ICT in Art<br>- MCA e.g. Printmaking, Batik, Metal Tooling |
-|  | <br><br>Music | - Unison Singing &amp; Part Singing<br>- Community Singing<br>- Instrumental<br>- Movement<br>- ICT in Music<br>- MCA e.g. Dance, Cajon, STOMP |
-| **Experience**<br>Sustain Interest &amp; Motivation Through A Variety of Activities &amp; Experiences | Art | - P4 MBL<br>- Art Around the School<br>- Learning Journeys<br>- Art and Music Fiesta |
-|  | <br><br>Music | - Theatre Experience<br>- Watch Me!<br>- Changkat’s Sing Singapore<br>- Assembly Performances<br>- Art and Music Fiesta |
-| **Excel**<br>Promote Recreational &amp; Competitive Pursuits<br>Being The Best They Can | Art | - External Competition / Exhibition<br>- SYF Exhibition |
-|  | Music | - Changkat’s Got Talent!<br>- External Competition / Performances<br>- SYF AP<br><br> |
-|
-
-#### **ART@Changkat**
-The teaching of Art in Changkat Primary is guided by the 3E framework of ‘Educate, Experience &amp; Excel’. At the level of “Educate and Experience”, students are introduced to different art forms through a holistic and interdisciplinary approach. They explore and experiment different materials and processes, themes and meanings to foster creative thinking. Since Art is the quality of being human, learning is made relevant through contextualising of visual art. While developing perceptual sensitivity to their world, there will be opportunity for growth and understanding of the self and of others. Armed with the ability to create new knowledge, students can appreciate the processes and thinking that are involved in art making. At the level of “Excel”, students are strongly encouraged to participate in various external art competitions such as Singapore Youth Festival (SYF) Art Exhibition.
-
-<img src="/images/OurExperiences/Curriculum/Aesthetics/aesthetics1.png" style="width:85%">
-
-#### **MUSIC@Changkat**
-The teaching of Music in Changkat Primary is guided by the 3E framework of ‘**Educate, Experience &amp; Excel**’. At the level of “Educate and Experience”, the focus is on cultivating and developing students’ skills and knowledge by providing them with direct experiences in the components of ‘Listening’ and ‘Music-Making’. Within these two components, a variety of content, skills and values are covered. In addition students create and improvise rhythmic and melodic phrases as well as sound effects. They are guided to notate their compositions in conventional and non-conventional forms for performances. 21st century competencies will be taught through the infusion of ICT into Music lessons with the use of computer software and iPad applications in Music creation for selected levels. At the level of “Excel”, students are actively encouraged to participate in various internal and external music competitions and performances such as ‘Watch Me’ and ‘Changkat’s Got Talent’ as well as show their patriotism to their class by actively participating in music activities during school events and celebrations.
-
-<img src="/images/OurExperiences/Curriculum/Aesthetics/aesthetics2.png" style="width:85%">
+<h3><strong>AESTHETICS</strong></h3>
+<p><strong>Vision</strong>
+</p>
+<p><em>Students who are passionate and appreciative of the Arts.</em>
+</p>
+<p><strong>&nbsp;Mission</strong>
+</p>
+<p><em>Instilling in our students the love for the visual and performing arts as well as providing diverse opportunities for self-expression.</em>
+</p>
+<p>&nbsp;<strong>ART</strong>
+</p>
+<p>Objectives:</p>
+<ul>
+<li>
+<p>Develop <strong>visual inquiry skills</strong> to observe and <strong>explore</strong> their
+surroundings meaningfully.</p>
+</li>
+<li>
+<p>Nurture <strong>curiosity, imagination, and enjoyment</strong> in art-making
+and art discussions.</p>
+</li>
+<li>
+<p>Build <strong>confidence</strong> in working both independently and <strong>collaboratively</strong> to
+focus ideas and create artworks.</p>
+</li>
+<li>
+<p>Foster awareness of and respect for the <strong>histories and cultures of key artworks</strong> and
+artists in <strong>Singapore and globally.</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>MUSIC</strong>
+</p>
+<p>Objectives:</p>
+<ul>
+<li>
+<p>Acquire and apply <strong>musical skills</strong>, <strong>knowledge</strong> and <strong>understanding</strong> through <em>Listening, Creating and Performing.</em>
+</p>
+</li>
+<li>
+<p>Develop abilities for <strong>creative expression </strong>and <strong>communication.</strong>
+</p>
+</li>
+<li>
+<p>Develop an <strong>understanding and appreciation</strong> of music in <strong>local and global cultures.</strong>
+</p>
+</li>
+<li>
+<p>Cultivate a <strong>life-long enjoyment</strong> and <strong>involvement</strong> in
+music.</p>
+</li>
+</ul>
+<p><strong>Aesthetics Key Programmes</strong>
+</p>
+<p><strong>1. Museum-Based Learning (MBL)<br></strong> Primary 4 students
+visit the National Gallery Singapore to explore and appreciate local artworks.
+Through this authentic learning experience, students learn about Singapore’s
+heritage, understand how artists tell stories through art, and practise
+proper museum etiquette.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/1.png">
+</div>
+<p><strong>2. Art and Music Fiesta<br></strong> The Art and Music Fiesta allows
+students to experience the Aesthetics through fun and interactive activities.
+Integrated with the Sports Carnival, it offers a vibrant platform for students
+to enjoy creative expression alongside physical activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/2.png">
+</div>
+<p><strong>3. Art and Music Assembly<br></strong> Art and Music Assembly exposes
+students to different art forms and performances in an enjoyable setting.
+These assemblies nurture students’ appreciation of the Arts and inspire
+creativity and self-expression.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/3.png">
+</div>
+<p><strong>4. Art Exhibitions<br></strong> Art Exhibitions showcase students’
+artworks and celebrate their creativity. Displaying their art fosters pride,
+ownership, and greater appreciation of the Arts within the school community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/41.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/42.png">
+</div>
+<p><strong>5. Watch Me!<br></strong>Watch Me! provides students with opportunities
+to showcase their talents through performances. The programme builds confidence,
+encourages self-expression, and develops presentation skills in a supportive
+environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/5.png">
+</div>
+<p><strong>&nbsp;6. P6 Music Modular Co-Curricular Activity (MCA)<br></strong>The
+P6 Music MCA offers enriching music experiences beyond the classroom. It
+supports students’ holistic development by nurturing character, social-emotional
+skills, and a love for music.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/6.png">
+</div>
+<p></p>
+<p>
+<br>
+</p>
