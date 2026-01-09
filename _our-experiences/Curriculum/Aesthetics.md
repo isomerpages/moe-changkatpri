@@ -66,7 +66,7 @@ Through this authentic learning experience, students learn about Singapore’s
 heritage, understand how artists tell stories through art, and practise
 proper museum etiquette.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/ast.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/1.png">
 </div>
 <p><strong>2. Art and Music Fiesta<br></strong> The Art and Music Fiesta allows
 students to experience the Aesthetics through fun and interactive activities.
