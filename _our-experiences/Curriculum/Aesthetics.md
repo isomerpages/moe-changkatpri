@@ -58,7 +58,6 @@ artists in <strong>Singapore and globally.</strong>
 music.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Aesthetics Key Programmes</strong>
 </p>
 <p><strong>1. Museum-Based Learning (MBL)<br></strong> Primary 4 students
@@ -66,7 +65,6 @@ visit the National Gallery Singapore to explore and appreciate local artworks.
 Through this authentic learning experience, students learn about Singapore’s
 heritage, understand how artists tell stories through art, and practise
 proper museum etiquette.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/ast.png">
 </div>
@@ -74,57 +72,40 @@ proper museum etiquette.</p>
 students to experience the Aesthetics through fun and interactive activities.
 Integrated with the Sports Carnival, it offers a vibrant platform for students
 to enjoy creative expression alongside physical activities.</p>
-<p>
-<br>
-</p>
-<p>&nbsp;&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/2.png">
+</div>
 <p><strong>3. Art and Music Assembly<br></strong> Art and Music Assembly exposes
 students to different art forms and performances in an enjoyable setting.
 These assemblies nurture students’ appreciation of the Arts and inspire
 creativity and self-expression.</p>
-<p>
-<br>
-</p>
-<p></p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/3.png">
+</div>
 <p><strong>4. Art Exhibitions<br></strong> Art Exhibitions showcase students’
 artworks and celebrate their creativity. Displaying their art fosters pride,
 ownership, and greater appreciation of the Arts within the school community.</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/41.png">
+</div>
 <p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/42.png">
+</div>
 <p><strong>5. Watch Me!<br></strong>Watch Me! provides students with opportunities
 to showcase their talents through performances. The programme builds confidence,
 encourages self-expression, and develops presentation skills in a supportive
 environment.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p></p>
-<p>
-<br><strong>6. P6 Music Modular Co-Curricular Activity (MCA)<br></strong>The
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/5.png">
+</div>
+<p><strong>&nbsp;6. P6 Music Modular Co-Curricular Activity (MCA)<br></strong>The
 P6 Music MCA offers enriching music experiences beyond the classroom. It
 supports students’ holistic development by nurturing character, social-emotional
 skills, and a love for music.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurExperiences/Curriculum/Aesthetics/6.png">
+</div>
 <p></p>
 <p>
 <br>
