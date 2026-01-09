@@ -80,9 +80,8 @@ the following documents:&nbsp;</p>
 <p>(i)&nbsp;&nbsp; Proposed menu and pricing</p>
 <p>(ii)&nbsp; Photocopy of the applicant’s NRIC (front and back)</p>
 <p>(iii) Photocopy of relevant certificates such as Basic Food Hygiene, etc.</p>
-<p>&nbsp;</p>
-<p>Only shortlisted candidates will be notified for an interview and food
-sampling at our school.</p>
+<p>&nbsp;Only shortlisted candidates will be notified for an interview and
+food sampling at our school.</p>
 <p>&nbsp;</p>
 <p>For enquiries, please contact the following school personnel @ 6783 0923
 for clarifications:</p>
@@ -94,7 +93,7 @@ for clarifications:</p>
 <p>Administration Manager, Ms Yvonne Lee</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
