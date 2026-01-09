@@ -82,9 +82,8 @@ the following documents:&nbsp;</p>
 <p>(iii) Photocopy of relevant certificates such as Basic Food Hygiene, etc.</p>
 <p>&nbsp;Only shortlisted candidates will be notified for an interview and
 food sampling at our school.</p>
-<p>&nbsp;</p>
-<p>For enquiries, please contact the following school personnel @ 6783 0923
-for clarifications:</p>
+<p>&nbsp;For enquiries, please contact the following school personnel @ 6783
+0923 for clarifications:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Operations Managers, Mr Jasri or Mr Philip Ho</p>
