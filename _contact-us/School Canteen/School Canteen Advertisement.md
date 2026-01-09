@@ -40,6 +40,9 @@ third_nav_title: School Canteen
 </tr>
 </tbody>
 </table>
+<p>We would like to invite applicants to operate the abovementioned stalls
+in our school.</p>
+<p>If you know of any interested applicants, please refer them to our school.</p>
 <p><strong><u>Requirements</u></strong>
 </p>
 <p>Interested applicants must satisfy the following requirements:</p>
@@ -74,16 +77,17 @@ providers and then apply for hawker licence from the Singapore Food Agency
 <p></p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
-<p>Application form (<a href="https://drive.google.com/file/d/1wz94FqkD6jZJWHkerafPDyySnZ3vlCd9/view" rel="noopener nofollow" target="_blank">download</a>)
-must be completed and submitted soonest to our school’s General Office <strong>by 30 June 2026</strong> with
-the following documents:&nbsp;</p>
+<p>Application form (as attached) must be completed and submitted soonest
+to our school’s General Office <strong>by 30 June 2026</strong> with the
+following documents:</p>
 <p>(i)&nbsp;&nbsp; Proposed menu and pricing</p>
 <p>(ii)&nbsp; Photocopy of the applicant’s NRIC (front and back)</p>
 <p>(iii) Photocopy of relevant certificates such as Basic Food Hygiene, etc.</p>
-<p>&nbsp;Only shortlisted candidates will be notified for an interview and
-food sampling at our school.</p>
-<p>&nbsp;For enquiries, please contact the following school personnel @ 6783
-0923 for clarifications:</p>
+<p></p>
+<p>Only shortlisted candidates will be notified for an interview and food
+sampling at our school.&nbsp;</p>
+<p>For enquiries, please contact the following school personnel @ 6783 0923
+for clarifications:-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Operations Managers, Mr Jasri or Mr Philip Ho</p>
@@ -92,7 +96,6 @@ food sampling at our school.</p>
 <p>Administration Manager, Ms Yvonne Lee</p>
 </li>
 </ul>
-<p></p>
 <p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
