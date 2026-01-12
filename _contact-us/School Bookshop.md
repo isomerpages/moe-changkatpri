@@ -7,7 +7,7 @@ description: ""
 <h3>School Bookshop</h3>
 <p>Appointed school bookshop vendor: <strong>D Y Education Service Trading</strong> (w.e.f.
 1 Jan 2024).</p>
-<p>Operating hours</p>
+<h4>Operating hours:</h4>
 <p>Mondays - Fridays</p>
 <ul data-tight="true" class="tight">
 <li>
