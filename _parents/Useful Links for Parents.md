@@ -8,8 +8,8 @@ description: ""
 <h3>Primary ONE Blog</h3>
 <p>Primary ONE (P1) Blog gets updated periodically annually (between October
 and December).
-<br>Click <a href="https://go.gov.sg/p12026" rel="noopener nofollow" target="_blank">here</a> to
-visit the blog.</p>
+<br>
+</p>
 <p>For more information on MOE Primary 1 (P1) registration, do visit <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank"><u>MOE</u></a> website.</p>
 <p></p>
 <h3>CCA Briefing for P2 Parents</h3>
