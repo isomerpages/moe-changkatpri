@@ -38,7 +38,7 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Li Mei Elaine
 <br>(Mrs Heng)
-<br>(SDR)</p>
+<br>(SDR, P2 LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">elaine_ong_li_mei@schools.gov.sg</a>
@@ -50,7 +50,8 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Selena Chew Wui Ling</p>
+<p>&nbsp;Ms Selena Chew Wui Ling
+<br>(HE Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">chew_wui_ling_selena@moe.edu.sg</a>
@@ -112,7 +113,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Keng Tzu
-<br>(Mrs Wong)</p>
+<br>(Mrs Wong) (LSM P1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_keng_tzu@schools.gov.sg</a>
@@ -151,7 +152,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ang Yuan Ho Celestine (Mrs Lim)
-<br>(ST LP)</p>
+<br>(ST LP, LSP RRP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_yuan_ho_celestine@schools.gov.sg</a>
@@ -276,7 +277,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jesslyn Ng Shi Hui
-<br>(AYH, P1 LSM)</p>
+<br>(Partnership Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_shi_hui_jesslyn@schools.gov.sg</a>
@@ -326,7 +327,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Loy Hin Jong
-<br>(LSP, SDR, LSM)</p>
+<br>(LSP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">loy_hin_jong@schools.gov.sg</a>
@@ -338,7 +339,8 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aznani Bte Aladin</p>
+<p>Mdm Aznani Bte Aladin
+<br>(AYH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">aznani_aladin@schools.gov.sg</a>
