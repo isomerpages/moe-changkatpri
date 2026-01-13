@@ -428,7 +428,8 @@ third_nav_title: Staff
 <p>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tia Amelia Abdullah</p>
+<p>Ms Tia Amelia Abdullah
+<br>(Art Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tia_amelia_abdullah@schools.gov.sg</a>
@@ -496,17 +497,6 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">yong_yun_yun@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
