@@ -531,7 +531,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rajeswary Thillaikumar
-<br>(ST English Language)</p>
+<br>(ST English Language, RRP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rajeswary_thillaikumar@schools.gov.sg</a>
@@ -594,7 +594,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chong Stephanie Jemima Tan</p>
-<p>(HOD English Language)</p>
+<p>(HOD English Language) (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
@@ -607,7 +607,8 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Soh Chern Hui</p>
-<p>(Mrs Leong)</p>
+<p>(Mrs Leong)
+<br>(MRL Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_chern_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_chern_hui@schools.gov.sg</u></a>
@@ -619,7 +620,7 @@ third_nav_title: Staff
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Radziyah Bte Mohd Zain</p>
+<p>Mdm Radziyah Bte Mohd Zain (LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">radziyah_mohamed_zain@schools.gov.sg</a>
@@ -643,7 +644,8 @@ third_nav_title: Staff
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Hajar Mohamed Khan</p>
+<p>Mdm Siti Hajar Mohamed Khan
+<br>(ST Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">siti_hajar_mohamed_khan@schools.gov.sg</a>
@@ -660,17 +662,6 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nurisham_ismail@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -778,7 +769,7 @@ third_nav_title: Staff
 <p>Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Nizam Bin Abdul Aziz (SH CCA &amp; Student Leadership (Internal))</p>
+<p>Mr Khairul Nizam Bin Abdul Aziz (SH CCA &amp; Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Khairul_Nizam_Abdul_Aziz@schools.gov.sg</a>
@@ -889,7 +880,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr K Parathi
-<br>(SH ML&amp;TL)</p>
+<br>(SH ML &amp; TL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">k_parathi@schools.gov.sg</a>
@@ -901,7 +892,8 @@ third_nav_title: Staff
 <p>Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Karen Koo Sze Yong</p>
+<p>Mdm Karen Koo Sze Yong
+<br>(Social Studies Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">koo_sze_yong@schools.gov.sg</a>
@@ -913,7 +905,8 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Saraswathy Samuel</p>
+<p>Mrs Saraswathy Samuel
+<br>(LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">saraswathy_subramaniam_a@schools.gov.sg</a>
@@ -963,7 +956,8 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Salmi Bte Rahmat</p>
+<p>Mdm Salmi Bte Rahmat
+<br>(HOD Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">salmi_rahmat@schools.gov.sg</a>
@@ -976,7 +970,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hoo Chee Mun
-<br>(SH KM, P3 LSM)</p>
+<br>(SH KM, LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">hoo_chee_mun@schools.gov.sg</a>
