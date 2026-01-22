@@ -31,7 +31,7 @@ third_nav_title: School Canteen
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Stall</p>
+<p>Chinese Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday, 30 June 2026</p>
