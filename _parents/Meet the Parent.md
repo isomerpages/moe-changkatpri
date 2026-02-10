@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Meet the Parents</h3>
-<h4>Follow-up on Meet-the-Parents (MTP) Session 2025</h4>
+<h4>Follow-up on Meet-the-Parents (MTP) Session 2026</h4>
 <p>In order for parents/guardians to better understand our school and level
 programmes and expectations, the school would like to urge all parents/guardians
 to set aside time this week to go through the information in the Meet-the-Parents
@@ -13,18 +13,14 @@ to set aside time this week to go through the information in the Meet-the-Parent
 content. Should you have any queries, please feel free to contact your
 child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Upper Primary
 <br>(P5 &amp; P6)</p>
@@ -41,43 +37,20 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Principal’s Address</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/16CMMdoG03XrBDq-Wv3zuMBeFkRV23YW0/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1K-JcFocaebJnFbyHmPBrZ2saA7iXRnpb/view" rel="noopener noreferrer nofollow" target="_blank">Upper Primary Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1TzTSci9x73PSkeAAddxAgwuTVS_eSOty/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1vgP3nGRRelhePvOxZTPvy-sLFPHKVwwY/view" rel="noopener noreferrer nofollow" target="_blank">Middle Primary Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1t7LLVzIhJK0_yJK-lue90prfVvA0aNDo/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1XMKSedAcILfsRGb2RFBAZOckCiBJD4Di/view" rel="noopener noreferrer nofollow" target="_blank">Lower Primary Brief</a>
 </p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Year Head (YH)’s Address</p>
-</th>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1uYlv5jNEyoQF9NRiQawiMwbNotY6jxaj/view" rel="noopener noreferrer nofollow" target="_blank">Upper YH's Brief</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1-FWTSq4ozSUve4mEBOaxhOiKj8qeTAkY/view" rel="noopener noreferrer nofollow" target="_blank">Middle YH’s Brief</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1J-eaFpD_QJ7ix0shbXTHMD2vdPuF2WIM/view" rel="noopener noreferrer nofollow" target="_blank">Lower YH’s Brief</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -90,7 +63,6 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -109,27 +81,27 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1nCM1LpVvEtNB7SY0GfT7YA48CWJSYgcG/view" rel="noopener nofollow" target="_blank">P1</a>
+<p><a href="https://drive.google.com/file/d/1If8vAFL7w_jjKj4aGDaETDJKRnFVIZpf/view" rel="noopener nofollow" target="_blank">P1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1oHDsbXMhwZxUXgId-86UbDRjmvw8dUVt/view" rel="noopener nofollow" target="_blank">P2</a>
+<p><a href="https://drive.google.com/file/d/1OORz0WjTtnyD8wdD6VRuUovyAWDzHxJN/view" rel="noopener nofollow" target="_blank">P2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1TpdueF0HYc5ukJy211cB-u6auOYVtxSU/view" rel="noopener nofollow" target="_blank">P3</a>
+<p><a href="https://drive.google.com/file/d/1J8jWTDDGHjjUPpP-bOaavVBfaND6LtGt/view" rel="noopener nofollow" target="_blank">P3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1mSY4eB1eX18Wd2Zm246KM251seqmDVW4/view" rel="noopener nofollow" target="_blank">P4</a>
+<p><a href="https://drive.google.com/file/d/1cdJSSrzz_r2GFLr3KZ5zV-JNbDAZh9yt/view" rel="noopener nofollow" target="_blank">P4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1wG1VH1xFCA0ToNOUtIEpxhE3oq7VBFmI/view" rel="noopener nofollow" target="_blank">P5</a>
+<p><a href="https://drive.google.com/file/d/1wIsZYJH9TwARlg2ue2OVoGpmKbS6Mj5e/view" rel="noopener nofollow" target="_blank">P5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1sS97GWJwws_0JsinuV3T29OOOrVunBX-/view" rel="noopener nofollow" target="_blank">P6</a>
+<p><a href="https://drive.google.com/file/d/1uDnF3w1LtH6MQfBTBIlFqEkskp2nEIpk/view" rel="noopener nofollow" target="_blank">P6</a>
 </p>
 </td>
 </tr>
