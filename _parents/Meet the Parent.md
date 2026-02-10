@@ -91,7 +91,6 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
