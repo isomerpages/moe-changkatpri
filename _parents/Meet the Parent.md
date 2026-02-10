@@ -13,18 +13,14 @@ to set aside time this week to go through the information in the Meet-the-Parent
 content. Should you have any queries, please feel free to contact your
 child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Upper Primary
 <br>(P5 &amp; P6)</p>
@@ -41,43 +37,20 @@ child/ward’s Form Teachers and clarify any doubts with the teachers.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Principal’s Address</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1KcfYsJK8wrDTdhDy5ux7GNaqsfrE0gIh/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1K-JcFocaebJnFbyHmPBrZ2saA7iXRnpb/view" rel="noopener noreferrer nofollow" target="_blank">Upper Primary Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1E_ST7254wnNoehI2tBuO1vcd7FvAmB-R/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1vgP3nGRRelhePvOxZTPvy-sLFPHKVwwY/view" rel="noopener noreferrer nofollow" target="_blank">Middle Primary Brief</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1bTNeiTL2_oDnLjq9quoQMtXDsR3wlF5S/view" rel="noopener noreferrer nofollow" target="_blank">Principal's Brief</a>
+<p><a href="https://drive.google.com/file/d/1XMKSedAcILfsRGb2RFBAZOckCiBJD4Di/view" rel="noopener noreferrer nofollow" target="_blank">Lower Primary Brief</a>
 </p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Year Head (YH)’s Address</p>
-</th>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1K-JcFocaebJnFbyHmPBrZ2saA7iXRnpb/view" rel="noopener noreferrer nofollow" target="_blank">Upper YH's Brief</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1vgP3nGRRelhePvOxZTPvy-sLFPHKVwwY/view" rel="noopener noreferrer nofollow" target="_blank">Middle YH’s Brief</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1XMKSedAcILfsRGb2RFBAZOckCiBJD4Di/view" rel="noopener noreferrer nofollow" target="_blank">Lower YH’s Brief</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
