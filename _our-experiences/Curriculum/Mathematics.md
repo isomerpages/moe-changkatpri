@@ -141,18 +141,5 @@ competitions organized by other schools, such as:</p>
 <p>SMOPS organized by Hwa Chong</p>
 </li>
 </ul>
-<h5>Useful Links</h5>
-<p><a href="https://www.seab.gov.sg/docs/default-source/documents/guidelines_calculators.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/docs/default-source/documents/guidelines_calculators.pdf</a>
-<br><a href="https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf</a>
-<br><a href="https://www.moe.gov.sg/primary/curriculum/learning-support" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/curriculum/learning-support</a>
-<br><a href="http://sg.ixl.com/math/" rel="noopener noreferrer nofollow" target="_blank">http://sg.ixl.com/math/</a>
-<br><a href="http://www.math-play.com/index.html" rel="noopener noreferrer nofollow" target="_blank">http://www.math-play.com/index.html</a>
-<br><a href="http://coolmath-games.com/" rel="noopener noreferrer nofollow" target="_blank">http://coolmath-games.com/</a>
-<br><a href="http://www.mathplayground.com/games.html" rel="noopener noreferrer nofollow" target="_blank">http://www.mathplayground.com/games.html</a>
-<br><a href="http://www.sheppardsoftware.com/math.htm" rel="noopener noreferrer nofollow" target="_blank">http://www.sheppardsoftware.com/math.htm</a>
-<br><a href="http://www.games.com/math-games" rel="noopener noreferrer nofollow" target="_blank">http://www.games.com/math-games</a>
-<br><a href="http://www.youtube.com/watch?v=fmaVqkR0ZXg" rel="noopener noreferrer nofollow" target="_blank">http://www.youtube.com/watch?v=fmaVqkR0ZXg</a>
-<br><a href="http://www.youtube.com/watch?v=Rpkjb4Tx844" rel="noopener noreferrer nofollow" target="_blank">http://www.youtube.com/watch?v=Rpkjb4Tx844</a>
-<br><a href="http://www.youtube.com/watch?v=e0dJWfQHF8Y" rel="noopener noreferrer nofollow" target="_blank">http://www.youtube.com/watch?v=e0dJWfQHF8Y</a>
-<br><a href="http://www.youtube.com/watch?v=DnFrOetuUKg" rel="noopener noreferrer nofollow" target="_blank">http://www.youtube.com/watch?v=DnFrOetuUKg</a>
-</p>
+<h5>Useful Links<br><a href="https://www.moe.gov.sg/primary/curriculum/learning-support" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/curriculum/learning-support</a><br><a href="http://sg.ixl.com/math/" rel="noopener noreferrer nofollow" target="_blank">http://sg.ixl.com/math/</a><br><a href="http://www.math-play.com/index.html" rel="noopener noreferrer nofollow" target="_blank">http://www.math-play.com/index.html</a><br><a href="http://coolmath-games.com/" rel="noopener noreferrer nofollow" target="_blank">http://coolmath-games.com/</a><br><a href="http://www.mathplayground.com/games.html" rel="noopener noreferrer nofollow" target="_blank">http://www.mathplayground.com/games.html</a><br><a href="http://www.sheppardsoftware.com/math.htm" rel="noopener noreferrer nofollow" target="_blank">http://www.sheppardsoftware.com/math.htm</a><br><a href="http://www.games.com/math-games" rel="noopener noreferrer nofollow" target="_blank">http://www.games.com/math-games</a><br><a href="http://www.youtube.com/watch?v=fmaVqkR0ZXg" rel="noopener noreferrer nofollow" target="_blank">http://www.youtube.com/watch?v=fmaVqkR0ZXg</a><br><a href="http://www.youtube.com/watch?v=Rpkjb4Tx844" rel="noopener noreferrer nofollow" target="_blank">http://www.youtube.com/watch?v=Rpkjb4Tx844</a><br><a href="http://www.youtube.com/watch?v=e0dJWfQHF8Y" rel="noopener noreferrer nofollow" target="_blank">http://www.youtube.com/watch?v=e0dJWfQHF8Y</a><br><a href="http://www.youtube.com/watch?v=DnFrOetuUKg" rel="noopener noreferrer nofollow" target="_blank">http://www.youtube.com/watch?v=DnFrOetuUKg</a></h5>
+<p></p>
