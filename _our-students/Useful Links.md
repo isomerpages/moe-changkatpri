@@ -21,7 +21,7 @@ description: ""
 </p>
 <p><a href="https://scratch.mit.edu/" rel="noopener noreferrer nofollow" target="_blank">Scratch</a>
 </p>
-<p><a href="https://www.ezhishi.net/CKPSebook2022/" rel="noopener noreferrer nofollow" target="_blank">eZhishi (chinese)</a>
+<p><a href="https://www.ezhishi.com/CKPSebook2024-2025/" rel="noopener noreferrer nofollow" target="_blank">eZhishi (chinese)</a>
 </p>
 <p><a href="/library-opac/" rel="noopener noreferrer nofollow" target="_blank">School Library (OPAC)</a>
 </p>
