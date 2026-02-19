@@ -57,6 +57,9 @@ variant: tiptap
 </p>
 <p><strong><a href="https://www.ezhishi.net/CKPSebook2023/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.net/CKPSebook2023/</a></strong>
 </p>
-<p></p>
+<p><strong>Year 2024 - 2025</strong>
+</p>
+<p><strong><a href="https://www.ezhishi.com/CKPSebook2024-2025/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.com/CKPSebook2024-2025/</a></strong>
+</p>
 <p></p>
 <p></p>
