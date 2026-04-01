@@ -37,6 +37,16 @@ third_nav_title: School Canteen
 <p>Tuesday, 30 June 2026</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Rice Stall </strong>
+<br><strong>(</strong>from 29 June 2026 onwards<strong>)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday, 30 June 2026</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>We would like to invite applicants to operate the abovementioned stalls
