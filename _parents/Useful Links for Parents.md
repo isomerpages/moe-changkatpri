@@ -11,6 +11,8 @@ and December).
 <br>
 </p>
 <p>For more information on MOE Primary 1 (P1) registration, do visit <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank"><u>MOE</u></a> website.</p>
+<h3>DSA Information</h3>
+<p>DSA slides for parents 2026</p>
 <h3>Meet the Parent</h3>
 <p>Click <a href="https://www.changkatpri.moe.edu.sg/meet-the-parent/" rel="noopener nofollow" target="_blank">here</a> to
 view the slides.</p>
