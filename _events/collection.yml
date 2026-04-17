@@ -1,5 +1,4 @@
 collections:
   events:
     output: true
-    order:
-      - P1 1st day of school.md
+    order: []
