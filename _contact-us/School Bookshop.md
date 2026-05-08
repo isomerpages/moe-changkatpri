@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3>School Bookshop</h3>
-<p>Current Bookshop Supplier: <strong>D Y Education Trading Service contract will end on <u>31 May 2026</u></strong>.</p>
+<blockquote>
+<h3><strong><em>Notice</em></strong><br><br><strong>D Y Education Trading Service last day of service: <u>29 May 2026 (</u>Friday<u>)</u></strong>.</h3>
+</blockquote>
 <p></p>
 <p>Appointed school bookshop vendor: <strong>D Y Education Service Trading</strong> (w.e.f.
 1 Jan 2024).</p>
