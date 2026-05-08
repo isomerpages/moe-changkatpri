@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>School Bookshop</h3>
 <blockquote>
-<h3><strong><em>Notice</em></strong><br><strong>D Y Education Trading Service last day of service: <u>29 May 2026 (</u>Friday<u>)</u></strong>.</h3>
+<h3><strong><em>Notice</em></strong><br><strong>D Y Education Trading Service contract ends: <u>31 May 2026</u></strong>.</h3>
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
@@ -19,7 +19,7 @@ more details.</p>
 (<strong><em><u>w.e.f. 1 Jun 2026</u></em></strong>).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Visit their website (<a href="https://www.blmarketing.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.com.sg/</a> )
+<p>Visit their website (<a href="https://www.blmarketing.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.com.sg/</a>)
 for more details.</p>
 </li>
 </ul>
