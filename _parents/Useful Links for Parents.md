@@ -69,7 +69,7 @@ link)</p>
 download <strong>Interbank GIRO Application Form</strong> (External link)</p>
 </li>
 <li>
-<p>Click <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 fill-in the <strong>Edusave Standing Order Form</strong> (External link)</p>
 </li>
 <li>
