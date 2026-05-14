@@ -6,6 +6,78 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3>Staff Achievements</h3>
+<h4>2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award (Silver)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Juliana Jumaat
+<br>Mr Khairul Nizam Bin Abdul Aziz
+<br>Mr Muhammad Roskhairi Bin Roskhaider
+<br>Mr Ng Boon Teng David
+<br>Mdm Ng Tay Aifang
+<br>Mrs Elaine Heng
+<br>Mr Seow Tian Hou
+<br>Mdm Stephanie Jemima Chong
+<br>Ms Surya Binte Effendi
+<br>Mdm Tan Lay Guat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Anithasri D/O Manokaran&nbsp;&nbsp;
+<br>Mr Mohamed Taufeek Bin Ramlan
+<br>Mdm Nur Arina Binte Santoso
+<br>Mdm Sharifah Aminah Binte Syed Omar Alsree
+<br>Mrs Maybelline Low
+<br>Mr Tham Chee Wore William
+<br>Ms Zainah Binte Mat Shah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Associate of AST Award “Innovator” category “Enhancing Inclusivity and
+Learning Progression through DI in Inter-Class Games” (6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ban Choon Kwee
+<br>Ms Josephine Teow
+<br>Mr Khairul Nizam Bin Abdul Aziz
+<br>Mr Lim Choon Hong
+<br>Mr Ng Boon Teng David</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Awards - Commendation Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hoo Chee Mun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Awards - Long Service Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Clara Sim
+<br>Mrs Elaine Heng
+<br>Mdm Siti Nazrah Bte Abdul Rahman</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
