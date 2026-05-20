@@ -28,11 +28,12 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Payment of PSLE Examination Fees via Candidates Portal (CP)
           date: 20 May 2026
-          announcement: ""
+          announcement: Permanent Residents and International students who are currently
+            paying school fees via GIRO would have their PSLE examination fees
+            deducted on 19 May 2026.
           link_text: Click here for more information
           link_url: https://changkatpri.moe.edu.sg/announcements/
 ---
