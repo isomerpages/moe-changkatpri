@@ -31,9 +31,10 @@ sections:
       announcement_items:
         - title: Payment of PSLE Examination Fees via Candidates Portal (CP)
           date: 20 May 2026
-          announcement: Permanent Residents and International students who are currently
-            paying school fees via GIRO would have their PSLE examination fees
-            deducted on 19 May 2026.
+          announcement: School will no longer be collecting cash payments for PSLE
+            examination fees. Cash-paying candidates or whose GIRO deductions
+            for PSLE exam fees were unsuccessful, are to make payment through
+            Candidates Portal (CP)
           link_text: Click here for more information
           link_url: https://changkatpri.moe.edu.sg/announcements/
 ---
