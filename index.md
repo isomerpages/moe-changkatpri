@@ -25,4 +25,14 @@ sections:
         - title: CKPS Facebook
           description: ""
           url: https://www.facebook.com/changkatps
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Payment of PSLE Examination Fees via Candidates Portal (CP)
+          date: 20 May 2026
+          announcement: ""
+          link_text: Click here for more information
+          link_url: https://changkatpri.moe.edu.sg/announcements/
 ---
