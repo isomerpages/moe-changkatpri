@@ -5,16 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3>School Bookshop</h3>
-<blockquote>
-<h3><strong><em>Notice</em></strong><br><strong>D Y Education Trading Service contract ends: <u>31 May 2026</u></strong>.</h3>
-</blockquote>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit their website (<a href="https://dyeducation.net/" rel="noopener noreferrer nofollow" target="_blank"><u>https://dyeducation.net/</u></a>) for
-more details.</p>
-</li>
-</ul>
-<p></p>
 <p>Appointed school bookshop vendor: <strong>BL Marketing Pte. Ltd</strong>.
 (<strong><em><u>w.e.f. 1 Jun 2026</u></em></strong>).</p>
 <ul data-tight="true" class="tight">
