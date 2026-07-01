@@ -12,6 +12,10 @@ description: ""
 <p>Visit their website (<a href="https://www.blmarketing.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.com.sg/</a>)
 for more details.</p>
 </li>
+<li>
+<p>Contact and email address below available at <a href="https://www.blmarketing.com.sg/contactUsPage" rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.com.sg/contactUsPage</a>
+</p>
+</li>
 </ul>
 <h4>Operating hours:</h4>
 <p>Mondays - Fridays</p>
