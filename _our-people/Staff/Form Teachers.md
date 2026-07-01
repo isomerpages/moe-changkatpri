@@ -829,7 +829,8 @@ third_nav_title: Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Siti Nur Syakirin</p>
+<p>Miss Siti Nur Syakirin
+<br>(Untrained Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Siti_Nur_Syakirin_Puteri@schools.gov.sg</a>
