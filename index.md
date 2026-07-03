@@ -25,16 +25,4 @@ sections:
         - title: CKPS Facebook
           description: ""
           url: https://www.facebook.com/changkatps
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Payment of PSLE Examination Fees via Candidates Portal (CP)
-          date: 20 May 2026
-          announcement: School will no longer be collecting cash payments for PSLE
-            examination fees. Cash-paying candidates or whose GIRO deductions
-            for PSLE exam fees were unsuccessful, are to make payment through
-            Candidates Portal (CP)
-          link_text: Click here for more information
-          link_url: https://changkatpri.moe.edu.sg/announcements/
 ---
