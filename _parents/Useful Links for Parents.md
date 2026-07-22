@@ -78,11 +78,6 @@ download the <strong>Application form for The Straits Times School Pocket Money 
 link)</p>
 </li>
 <li>
-<p>Click <a href="https://drive.google.com/file/d/1yFO4YFC450PxXFzJylTWP3EqdsZqIxYg/" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-download the <strong>Bethesda Care Services Bursary form </strong>(External
-link)</p>
-</li>
-<li>
 <p>Click <a href="https://drive.google.com/file/d/1i7yXNrN1sfoYQqXcCdGzzp3K0_R-_5fl/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 download <strong>Request for School Bus Services 2024 Form</strong> (External
 link)</p>
