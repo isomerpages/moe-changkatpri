@@ -86,11 +86,10 @@ third_nav_title: Staff
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Stephanie Chong</p>
+<p>Vacant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_stephanie_jemima_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_stephanie_jemima_tan@schools.gov.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
