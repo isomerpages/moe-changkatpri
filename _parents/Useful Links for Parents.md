@@ -73,7 +73,7 @@ download <strong>Interbank GIRO Application Form</strong> (External link)</p>
 fill-in the <strong>Edusave Standing Order Form</strong> (External link)</p>
 </li>
 <li>
-<p>Click <a href="https://drive.google.com/file/d/1Y6OCXLT1Lc4L8Qc-OabU5TuZlyqOcOGD/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://drive.google.com/file/d/16A9OIjbIfoDrN6QNl1Uh8QISUUIcFwcq/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 download the <strong>Application form for The Straits Times School Pocket Money Fund (STSPMF) for P1-P5 students</strong> (External
 link)</p>
 </li>
