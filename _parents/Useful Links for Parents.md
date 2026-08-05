@@ -69,8 +69,9 @@ link)</p>
 download <strong>Interbank GIRO Application Form</strong> (External link)</p>
 </li>
 <li>
-<p>Click <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-fill-in the <strong>Edusave Standing Order Form</strong> (External link)</p>
+<p>Click <a href="https://studentfinance.moe.gov.sg/isfs-login?returnUrl=%2Fhome" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+for the access to student finance services for Edusave &amp; Post-Secondary
+Education Accounts (PSEA) (External link)</p>
 </li>
 <li>
 <p>Click <a href="https://drive.google.com/file/d/16A9OIjbIfoDrN6QNl1Uh8QISUUIcFwcq/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
