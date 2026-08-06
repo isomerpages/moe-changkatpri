@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Useful Links for Parents</h3>
-<h3>Primary ONE Blog</h3>
-<p>Primary ONE (P1) Blog gets updated periodically annually (between October
-and December).
-<br>
-</p>
+<h3>Primary ONE </h3>
 <p>For more information on MOE Primary 1 (P1) registration, do visit <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank"><u>MOE</u></a> website.</p>
 <h3>DSA Information</h3>
 <p>DSA <a href="https://drive.google.com/file/d/17kfN1vaw6ujhDUN5uzO4a0MhWCslkItS/" rel="noopener nofollow" target="_blank">slides</a> for
