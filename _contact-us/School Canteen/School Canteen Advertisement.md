@@ -71,24 +71,41 @@ General Office.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·Photocopy of the NRIC (front and back)</p>
-<p>·List of proposed menu and pricing for all items</p>
-<p>·Photocopy of relevant certificates such as Food Safety Course Level 1,
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
 etc</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·ACRA’s Business Information&nbsp;</p>
-<p>·List of proposed food/drinks items and selling prices for all items</p>
-<p>·Photocopy of relevant certificates such as SFA licence for the existing
+<ul data-tight="true" class="tight">
+<li>
+<p>ACRA’s Business Information&nbsp;</p>
+</li>
+<li>
+<p>List of proposed food/drinks items and selling prices for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as SFA licence for the existing
 business, etc</p>
-<p>·Food Safety Course Level 1 for employees (To be submitted prior to the
+</li>
+<li>
+<p>Food Safety Course Level 1 for employees (To be submitted prior to the
 date of work commencement at the Stall)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed Application Form and documents via email OR to the
