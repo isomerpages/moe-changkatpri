@@ -74,15 +74,13 @@ certificates such as Food Safety Course Level 1, etc</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACRA’s Business Information</p>
+<p>·ACRA’s Business Information</p>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed food/drinks
-items and selling prices for all items</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
-certificates such as SFA licence for the existing business, etc</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Food Safety Course Level
-1 for employees (To be submitted prior to the date of work commencement
-at the Stall)</p>
+<p>·List of proposed food/drinks items and selling prices for all items</p>
+<p>·Photocopy of relevant certificates such as SFA licence for the existing
+business, etc</p>
+<p>·Food Safety Course Level 1 for employees (To be submitted prior to the
+date of work commencement at the Stall)</p>
 </td>
 </tr>
 </tbody>
@@ -175,21 +173,17 @@ environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide good
-service and quality food/drinks at reasonable prices. Prices will be determined
-in consultation with the school.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide cooked
-food/drinks that meets the health / nutritional standards set by the Health
-Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)”
-guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to maintain high
-standard of food safety and personal hygiene. This includes complying with
-relevant authorities’ requirements and guidelines.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Employee(s) operating
-the stall is healthy and fit.</p>
+<p>·&nbsp; Able to provide good service and quality food/drinks at reasonable
+prices. Prices will be determined in consultation with the school.</p>
+<p>·Able to provide cooked food/drinks that meets the health / nutritional
+standards set by the Health Promotion Board (HPB) under the “Healthy Meals
+in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+<p>·&nbsp;Able to maintain high standard of food safety and personal hygiene.
+This includes complying with relevant authorities’ requirements and guidelines.</p>
+<p>·&nbsp;Employee(s) operating the stall is healthy and fit.</p>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably possess catering
-experience or experience operating in a school environment.</p>
+<p>· Preferably possess catering experience or experience operating in a
+school environment.</p>
 </td>
 </tr>
 </tbody>
