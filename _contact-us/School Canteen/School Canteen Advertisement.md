@@ -40,10 +40,16 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.google.com/document/d/1ZVM9ntjY_GQDj4zZRP1L2M5MDpbKiTCu/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/document/d/1ZVM9ntjY_GQDj4zZRP1L2M5MDpbKiTCu/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.google.com/document/d/1o8Wd5HGsCT4pHRWxq1jyCFNe54IuaKRa/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for Business</a>
+</li>
+<li>
+<p><a href="https://docs.google.com/document/d/1o8Wd5HGsCT4pHRWxq1jyCFNe54IuaKRa/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for Business</a>
 </p>
+</li>
+</ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
