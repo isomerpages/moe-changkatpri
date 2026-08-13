@@ -40,10 +40,16 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.google.com/document/d/1ZVM9ntjY_GQDj4zZRP1L2M5MDpbKiTCu/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/document/d/1ZVM9ntjY_GQDj4zZRP1L2M5MDpbKiTCu/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.google.com/document/d/1o8Wd5HGsCT4pHRWxq1jyCFNe54IuaKRa/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for Business</a>
+</li>
+<li>
+<p><a href="https://docs.google.com/document/d/1o8Wd5HGsCT4pHRWxq1jyCFNe54IuaKRa/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for Business</a>
 </p>
+</li>
+</ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
@@ -65,29 +71,41 @@ General Office.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC
-(front and back)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu
-and pricing for all items</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
-certificates such as Food Safety Course Level 1, etc</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
+etc</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACRA’s Business Information</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed food/drinks
-items and selling prices for all items</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
-certificates such as SFA licence for the existing business, etc</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Food Safety Course Level
-1 for employees (To be submitted prior to the date of work commencement
-at the Stall)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ACRA’s Business Information&nbsp;</p>
+</li>
+<li>
+<p>List of proposed food/drinks items and selling prices for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as SFA licence for the existing
+business, etc</p>
+</li>
+<li>
+<p>Food Safety Course Level 1 for employees (To be submitted prior to the
+date of work commencement at the Stall)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed Application Form and documents via email OR to the
@@ -175,21 +193,28 @@ environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide good
-service and quality food/drinks at reasonable prices. Prices will be determined
-in consultation with the school.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide cooked
-food/drinks that meets the health / nutritional standards set by the Health
-Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)”
-guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to maintain high
-standard of food safety and personal hygiene. This includes complying with
-relevant authorities’ requirements and guidelines.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Employee(s) operating
-the stall is healthy and fit.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably possess catering
-experience or experience operating in a school environment.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Able to provide good service and quality food/drinks at reasonable prices.
+Prices will be determined in consultation with the school.</p>
+</li>
+<li>
+<p>Able to provide cooked food/drinks that meets the health / nutritional
+standards set by the Health Promotion Board (HPB) under the “Healthy Meals
+in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+</li>
+<li>
+<p>Able to maintain high standard of food safety and personal hygiene. This
+includes complying with relevant authorities’ requirements and guidelines.</p>
+</li>
+<li>
+<p>Employee(s) operating the stall is healthy and fit.</p>
+</li>
+<li>
+<p>Preferably possess catering experience or experience operating in a school
+environment.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -211,11 +236,6 @@ Singapore Food Agency (SFA) to operate the stall.</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 <p></p>
 <p></p>
 <p></p>
