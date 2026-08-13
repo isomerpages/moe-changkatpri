@@ -23,88 +23,196 @@ third_nav_title: School Canteen
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vegetarian Food Stall</p>
+<p>Non-Halal Indian Vegetarian stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 30 June 2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese Rice Stall </strong>
-<br><strong>(</strong>from 29 June 2026 onwards<strong>)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday, 30 June 2026</p>
+<p>30 Sept 2026</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>We would like to invite applicants to operate the abovementioned stalls
-in our school.</p>
-<p>If you know of any interested applicants, please refer them to our school.</p>
-<p><strong><u>Requirements</u></strong>
+<p><strong>Application Procedure</strong>
 </p>
-<p>Interested applicants must satisfy the following requirements:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Must be a Singapore Citizen or Singapore Permanent Resident.</p>
-</li>
-<li>
-<p>Must comply with the Healthy Eating in Schools Programme Guidelines set
-by the Health Promotion Board. (<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).</p>
-</li>
-<li>
-<p>Able to provide good service and quality food at reasonable prices.</p>
-</li>
-<li>
-<p>Able to observe a high standard of food and personal hygiene.</p>
-</li>
-<li>
-<p>Preferably have some experience in running a school canteen stall.</p>
-</li>
-<li>
-<p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
-</li>
-<li>
-<p>Successful applicant and stall assistant must complete the Basic Food
-Hygiene Course conducted by SkillsFuture Singapore’s accredited training
-providers and then apply for hawker licence from the Singapore Food Agency
-(SFA)</p>
+<p>Download and complete the Application Form (click on the link below).
+You may also request for a hardcopy of the Application Form from the School’s
+General Office.</p>
 </li>
 </ol>
-<p></p>
-<p><strong><u>Application Procedure</u></strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.google.com/document/d/1ZVM9ntjY_GQDj4zZRP1L2M5MDpbKiTCu/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
 </p>
-<p>Application form (<a href="https://drive.google.com/file/d/1wz94FqkD6jZJWHkerafPDyySnZ3vlCd9/view" rel="noopener nofollow" target="_blank">download</a>)
-must be completed and submitted soonest to our school’s General Office <strong>by 30 June 2026</strong> with
-the following documents:</p>
-<p>(i)&nbsp;&nbsp; Proposed menu and pricing</p>
-<p>(ii)&nbsp; Photocopy of the applicant’s NRIC (front and back)</p>
-<p>(iii) Photocopy of relevant certificates such as Basic Food Hygiene, etc.</p>
-<p></p>
-<p>Only shortlisted candidates will be notified for an interview and food
-sampling at our school.&nbsp;</p>
-<p>For enquiries, please contact the following school personnel @ 6783 0923
-for clarifications:-</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.google.com/document/d/1o8Wd5HGsCT4pHRWxq1jyCFNe54IuaKRa/edit?usp=sharing&amp;ouid=113660106308286496024&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Application Form for Business</a>
+</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Attached the following documents together with the Application Form:</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For Individuals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Business</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC
+(front and back)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu
+and pricing for all items</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
+certificates such as Food Safety Course Level 1, etc</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACRA’s Business Information</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed food/drinks
+items and selling prices for all items</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
+certificates such as SFA licence for the existing business, etc</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Food Safety Course Level
+1 for employees (To be submitted prior to the date of work commencement
+at the Stall)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Submit the completed Application Form and documents via email OR to the
+School’s General Office by the closing date.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Operations Managers, Mr Jasri or Mr Philip Ho</p>
+<p>Address: 11 Simei St.3 S(529896)</p>
 </li>
 <li>
-<p>Administration Manager, Ms Yvonne Lee</p>
+<p>Contact No: 67830923</p>
+</li>
+<li>
+<p>Email: <a href="mailto:changkat_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">changkat_ps@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Contact Person: Mr Jasri</p>
 </li>
 </ul>
+</li>
+</ol>
 <p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Simei MRT (EW3 line) - 15 minutes walking distance</p>
+<p>Nearest MRT: Simei</p>
 </li>
 <li>
-<p>Bus number: Bus Service: 5, 9, 20, 38</p>
+<p>Bus number: 5, 9, 20, 38</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Interested applicants must meet the following criteria:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For Individuals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Business</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder.</p>
+</li>
+<li>
+<p>Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or
+LTVP-Plus holder with Letter of Consent to work.</p>
+</li>
+<li>
+<p>Able to provide good service and quality food/drinks at reasonable prices.
+Prices will be determined in consultation with the school.</p>
+</li>
+<li>
+<p>Able to provide cooked food/drinks&nbsp; that meets the health / nutritional
+standards set by the Health Promotion Board (HPB) under the “Healthy Meals
+in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+</li>
+<li>
+<p>Able to maintain high standard of food safety and personal hygiene. This
+includes complying with relevant authorities’ requirements and guidelines.</p>
+</li>
+<li>
+<p>Healthy and fit to operate the stall.</p>
+</li>
+<li>
+<p>Must be in personal attendance at the stall.</p>
+</li>
+<li>
+<p>Preferably possess catering experience or experience operating in a school
+environment.</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide good
+service and quality food/drinks at reasonable prices. Prices will be determined
+in consultation with the school.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide cooked
+food/drinks that meets the health / nutritional standards set by the Health
+Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)”
+guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to maintain high
+standard of food safety and personal hygiene. This includes complying with
+relevant authorities’ requirements and guidelines.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Employee(s) operating
+the stall is healthy and fit.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably possess catering
+experience or experience operating in a school environment.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Note to successful applicants:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful applicant and stall assistant(s)/ employee(s) operating the
+stall must attend and pass the Food Safety Course Level 1 conducted by
+SkillsFuture Singapore approved training providers.</p>
+</li>
+<li>
+<p>Successful applicant is required to apply for a food stall license from
+Singapore Food Agency (SFA) to operate the stall.</p>
+</li>
+</ul>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p></p>
 </li>
 </ul>
