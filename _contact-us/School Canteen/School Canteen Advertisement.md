@@ -65,17 +65,14 @@ General Office.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC
-(front and back)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu
-and pricing for all items</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
-certificates such as Food Safety Course Level 1, etc</p>
+<p>·Photocopy of the NRIC (front and back)</p>
+<p>·List of proposed menu and pricing for all items</p>
+<p>·Photocopy of relevant certificates such as Food Safety Course Level 1,
+etc</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·ACRA’s Business Information</p>
-<p>&nbsp;</p>
+<p>·ACRA’s Business Information&nbsp;</p>
 <p>·List of proposed food/drinks items and selling prices for all items</p>
 <p>·Photocopy of relevant certificates such as SFA licence for the existing
 business, etc</p>
@@ -173,8 +170,8 @@ environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp; Able to provide good service and quality food/drinks at reasonable
-prices. Prices will be determined in consultation with the school.</p>
+<p>· Able to provide good service and quality food/drinks at reasonable prices.
+Prices will be determined in consultation with the school.</p>
 <p>·Able to provide cooked food/drinks that meets the health / nutritional
 standards set by the Health Promotion Board (HPB) under the “Healthy Meals
 in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
