@@ -176,17 +176,28 @@ environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· Able to provide good service and quality food/drinks at reasonable prices.
+<ul data-tight="true" class="tight">
+<li>
+<p>Able to provide good service and quality food/drinks at reasonable prices.
 Prices will be determined in consultation with the school.</p>
-<p>·Able to provide cooked food/drinks that meets the health / nutritional
+</li>
+<li>
+<p>Able to provide cooked food/drinks that meets the health / nutritional
 standards set by the Health Promotion Board (HPB) under the “Healthy Meals
 in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
-<p>·&nbsp;Able to maintain high standard of food safety and personal hygiene.
-This includes complying with relevant authorities’ requirements and guidelines.</p>
-<p>·&nbsp;Employee(s) operating the stall is healthy and fit.</p>
-<p>&nbsp;</p>
-<p>· Preferably possess catering experience or experience operating in a
-school environment.</p>
+</li>
+<li>
+<p>Able to maintain high standard of food safety and personal hygiene. This
+includes complying with relevant authorities’ requirements and guidelines.</p>
+</li>
+<li>
+<p>Employee(s) operating the stall is healthy and fit.</p>
+</li>
+<li>
+<p>Preferably possess catering experience or experience operating in a school
+environment.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -208,11 +219,6 @@ Singapore Food Agency (SFA) to operate the stall.</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 <p></p>
 <p></p>
 <p></p>
